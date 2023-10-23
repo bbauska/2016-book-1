@@ -1,4 +1,4 @@
-![](./media/image1.jpg){width="8.5in" height="10.996666666666666in"}
+![](./images/image1.jpg){width="8.5in" height="10.996666666666666in"}
 
 Web Developer\'s Reference Guide
 
@@ -322,8 +322,8 @@ collection of free technical articles, sign up for a range of free
 newsletters and receive exclusive discounts and offers on Packt books
 and eBooks.
 
-> ![](./media/image3.png){width="0.38666666666666666in"
-> height="0.17in"}![](./media/image4.png){width="0.38666666666666666in"
+> ![](./images/image3.png){width="0.38666666666666666in"
+> height="0.17in"}![](./images/image4.png){width="0.38666666666666666in"
 > height="0.23in"}
 
 [**https://www2.packtpub.com/books/subscription/packtlib**](https://www2.packtpub.com/books/subscription/packtlib)
@@ -7878,7 +7878,7 @@ functions we just mentioned (**ease**, **ease-in**, **ease-out**,
 
 Here\'s what a Bézier curve looks like:
 
-> ![](./media/image7.jpg){width="3.2946522309711286in"
+> ![](./images/image7.jpg){width="3.2946522309711286in"
 > height="3.3693153980752406in"}
 
 ###### Parameters
@@ -7989,7 +7989,7 @@ Here\'s an image taken from Stephen Greig\'s article in *Smashing
 Magazine*, *Understanding CSS Timing Functions*, that explains **start**
 and **end** from the **steps()** function:
 
-> ![](./media/image9.jpg){width="3.667361111111111in"
+> ![](./images/image9.jpg){width="3.667361111111111in"
 > height="3.6527777777777777in"}
 
 Also, there are two predefined values for the **steps()** function:
@@ -9372,7 +9372,7 @@ properties.
 
 Using either a circle or an ellipse, we can create rounded corners:
 
-![](./media/image11.jpg){width="5.5in" height="1.8729166666666666in"}
+![](./images/image11.jpg){width="5.5in" height="1.8729166666666666in"}
 
 There are two values: a *length* value and a *percentage* value.
 
@@ -10090,7 +10090,7 @@ concepts, but also because it may result in less markup and CSS.
 Before we dive into the Flexbox properties, the following diagram will
 help us understand the terminology and orientations:
 
-![](./media/image13.jpg){width="5.5in" height="3.0284722222222222in"}
+![](./images/image13.jpg){width="5.5in" height="3.0284722222222222in"}
 
 Let\'s dive into Flexbox properties.
 
@@ -13040,7 +13040,7 @@ The **list-style-type** property supports many values, but we\'ll list
 
 Here\'s a screenshot with all values except the **none** value:
 
-> ![](./media/image15.png){width="2.563888888888889in"
+> ![](./images/image15.png){width="2.563888888888889in"
 > height="2.5972222222222223in"}
 
 **CSS**:
@@ -13404,7 +13404,7 @@ parent element to consider the floated elements and thus the parent
 container\'s height is now determined by the tallest floating child
 element. Let\'s take a look at the following image:
 
-> ![](./media/image17.jpg){width="3.8673611111111112in"
+> ![](./images/image17.jpg){width="3.8673611111111112in"
 > height="4.277083333333334in"}
 
 Here is a demo in CodePen: **http://tiny.cc/clearing-floats** The
@@ -14117,7 +14117,7 @@ For example, picture part of triangle over part of a circle, where the
 triangle is on top and the circle below; the different types of
 *composite* make different shapes of masks:
 
-> ![](./media/image19.jpg){width="4.84in" height="3.681333114610674in"}
+> ![](./images/image19.jpg){width="4.84in" height="3.681333114610674in"}
 
 -   **intersect**: The shape of the mask is where the triangle and the
     circle overlap, or *intersect*. The rest of the shape is discarded.
@@ -23799,7 +23799,7 @@ use the properties of other objects. For example, if you have a
 **Person** object, then you can use the **\_proto\_** attribute for that
 object to create another **Student** object:
 
-> ![](./media/image21.jpg){width="1.009653324584427in"
+> ![](./images/image21.jpg){width="1.009653324584427in"
 > height="1.397153324584427in"}
 
 ### Prototype chaining
@@ -25122,7 +25122,7 @@ It should be noted that some of the features might not be under
 compliance with their exact specifications. While working in Chrome,
 don\'t forget to enable the Experimental JavaScript flags.
 
-> ![](./media/image22.jpg){width="3.574004811898513in"
+> ![](./images/image22.jpg){width="3.574004811898513in"
 > height="6.28120406824147in"}
 >
 > Reference: Use ECMAScript 6 Today
@@ -25219,7 +25219,7 @@ ensure safe execution and loading of untrusted code, content, ads, and
 widgets from a different domain. It provides a sandbox environment and
 limited DOM elements for interaction:
 
-![](./media/image24.jpg){width="4.881048775153106in"
+![](./images/image24.jpg){width="4.881048775153106in"
 height="2.8159897200349957in"}
 
 **Caja**
@@ -25262,7 +25262,7 @@ browser. A virtual machine quarantines the untrusted code, which
 prevents it from interacting with the elements outside the virtual
 machine. Let\'s take a look at the following block diagram:
 
-> ![](./media/image26.jpg){width="5.398747812773403in"
+> ![](./images/image26.jpg){width="5.398747812773403in"
 > height="1.8539424759405074in"}
 
 ### JavaScript extensions
@@ -31824,7 +31824,7 @@ using built-in CSS styles:
 
 The preceding code will create the following images:
 
-> ![](./media/image28.jpg){width="4.875in"
+> ![](./images/image28.jpg){width="4.875in"
 > height="1.6663024934383202in"}
 
 ### Icons (Glyphicons)
@@ -31835,7 +31835,7 @@ icon, search would have a magnifying glass icon, and so on. Some
 Glyphico[ns](http://bootstrapdocs.com/v3.0.3/docs/components/#glyphicons)
 are shown in the following diagram:
 
-![](./media/image30.jpg){width="5.5in" height="4.470138888888889in"}
+![](./images/image30.jpg){width="5.5in" height="4.470138888888889in"}
 
 More than 250 Glyphicons in font format are present in the **Glyphicon
 Halflings** set. Here is how to add Glyphicons in Bootstrap:
@@ -32672,7 +32672,7 @@ A Typehead is just another form of textbox that provides text
 predictions as the user types into the text box and may look something
 like this if programmed to type ahead the states of the US:
 
-> ![](./media/image32.jpg){width="2.683186789151356in"
+> ![](./images/image32.jpg){width="2.683186789151356in"
 > height="1.3495636482939632in"}
 
 **How to create typehead**
@@ -32753,14 +32753,14 @@ WordPress is out there, and a lot of big websites and companies are
 using it. Twitter\'s website itself is made with Bootstrap. Take a look
 at some famous websites built with the Bootstrap framework:
 
-> ![](./media/image34.jpg){width="4.796351706036745in"
+> ![](./images/image34.jpg){width="4.796351706036745in"
 > height="2.333339895013123in"}
 >
 > • [**http://www.hublot.com/en/**](http://www.hublot.com/en/)
 >
-> ![](./media/image36.jpg){width="5.0in" height="2.0819444444444444in"}
+> ![](./images/image36.jpg){width="5.0in" height="2.0819444444444444in"}
 >
-> ![](./media/image38.jpg){width="4.7483891076115485in"
+> ![](./images/image38.jpg){width="4.7483891076115485in"
 > height="2.331861329833771in"}
 
 ## Bootstrap resources
@@ -34715,7 +34715,7 @@ traverse them starting from the root.
 
 Let\'s take a look at the following image:
 
-> ![](./media/image40.png){width="3.625in" height="1.71875in"}
+> ![](./images/image40.png){width="3.625in" height="1.71875in"}
 
 Let\'s take a look at the following description:
 
