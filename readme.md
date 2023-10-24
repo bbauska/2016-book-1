@@ -8,7 +8,7 @@ frameworks such as jQuery,
 
 ### Bootstrap, AngularJS, and Node.js
 
-# **Joshua Johanan Talha Khan Ricardo Zea**
+#### **Joshua Johanan Talha Khan Ricardo Zea**
 
 BIRMINGHAM - MUMBAI
 
@@ -45,7 +45,7 @@ Birmingham B3 2PB, UK.
 
 ISBN 978-1-78355-213-9 [**www.packtpub.com**](http://www.packtpub.com/)
 
-# Credits
+### Credits
 
 +-----------------------------------------+----------------------------+
 | **Authors**                             | **Technical Editor**       |
@@ -88,7 +88,7 @@ ISBN 978-1-78355-213-9 [**www.packtpub.com**](http://www.packtpub.com/)
 
 > Samantha Gonsalves
 
-# About the Authors
+### About the Authors
 
 **Joshua Johanan** is a web developer who currently lives in South Bend,
 Indiana. He has been a web developer for five years. He has built sites
@@ -195,7 +195,7 @@ experience in visual and graphic design.
 > And to you, the readers, for giving me the chance to help you be
 > better web professionals.
 
-# About the Reviewers
+### About the Reviewers
 
 **Chetankumar Akarte** is the CEO of Renuka Technologies Private
 Limited, Nagpur, located in central India. He is an engineer
@@ -308,9 +308,9 @@ makes several talks on the frontend. You can find him on Twitter at
 > my family and friends. I&apos;d also like to thank Packt Publishing for
 > the opportunity to assist in the review of this book.
 
-# www.PacktPub.com
+## www.PacktPub.com
 
-## eBooks, discount offers, and more
+### eBooks, discount offers, and more
 
 Did you know that Packt offers eBook versions of every book published,
 with PDF and ePub files available? You can upgrade to the eBook version
@@ -3145,7 +3145,7 @@ track each click:
 
 **&lt;a download=&quot;report.pdf&quot; href=&quot;assests/report.pdf&quot;
 media=&quot;min-width: 1024px&quot; ping=&quot;track/click&quot; rel=&quot;alternate&quot;
-target=&quot;\_blank&quot; type=&quot; application/pdf&quot;\>&lt;/a\> abbr**
+target=&quot;&lowbar;blank&quot; type=&quot; application/pdf&quot;\>&lt;/a\> abbr**
 
 The **abbr** element is the abbreviation element:
 
@@ -4171,7 +4171,7 @@ The attributes that are used in the **form** element are as follows:
 -   **novalidate**: This tells the browser not to validate the form.
 
 -   **target**: This states where the response will be displayed. This
-    can be: **\_self**, **\_blank**, **\_parent**, or **\_top**.
+    can be: **&lowbar;self**, **&lowbar;blank**, **&lowbar;parent**, or **&lowbar;top**.
 
 **Description**
 
@@ -5201,7 +5201,7 @@ Here is an example:
 
 > **&lt;blockquote cite=**
 
-**&quot;http://en.wikiquote.org/wiki/The_Good,\_the_Bad_and_the_Ugly&quot;\>
+**&quot;http://en.wikiquote.org/wiki/The_Good,&lowbar;the_Bad_and_the_Ugly&quot;\>
 After a meal there&apos;s nothing like a good cigar. &lt;/blockquote\> cols**
 
 The **cols** attribute gives the number of columns:
@@ -8451,9 +8451,11 @@ and **inherit**.
 
 **CSS**:
 
+```
 > **.element {**
 >
 > **background-origin: border-box; }**
+```
 
 Here is a demo in CodePen:
 [**http://tiny.cc/background-origin**](http://tiny.cc/background-origin)
@@ -8490,6 +8492,7 @@ The default value is **0 0**; which is exactly the same as **left top**.
 
 **CSS**:
 
+```
 > **/&ast;Default values&ast;/**
 >
 > **.element {**
@@ -8519,6 +8522,7 @@ The default value is **0 0**; which is exactly the same as **left top**.
 > **.element {**
 >
 > **background-position: 15px 130px; }**
+```
 
 Here is a demo in CodePen:
 [**http://tiny.cc/background-position**](http://tiny.cc/background-position)
@@ -8561,6 +8565,7 @@ There are four values: **repeat**, **repeat-x**, **repeat-y**, and
 
 **CSS**:
 
+```
 > **/&ast;Default value&ast;/**
 >
 > **.repeat { background-repeat: repeat; }**
@@ -8576,6 +8581,7 @@ There are four values: **repeat**, **repeat-x**, **repeat-y**, and
 > **/&ast;No repeat&ast;/**
 >
 > **.no-repeat { background-repeat: no-repeat; }**
+```
 
 Here is a demo in CodePen:
 [**http://tiny.cc/background-repeat**](http://tiny.cc/background-repeat)
@@ -8633,6 +8639,7 @@ background shorthand property is the best way to handle this situation.
 
 **CSS**:
 
+```
 > **.contain {**
 >
 > **background-size: contain;**
@@ -8655,6 +8662,7 @@ background shorthand property is the best way to handle this situation.
 >
 > **url(../images/image-1.jpg), url(../images/image-2.jpg);
 > background-size: 150px 100px, cover; }**
+```
 
 Here is a demo in CodePen:
 [**http://tiny.cc/background-size**](http://tiny.cc/background-size)
@@ -8682,6 +8690,7 @@ However, at the end, it&apos;s all a matter of personal style.
 
 **CSS**:
 
+```
 > **/&ast;BG color&ast;/**
 >
 > **.element { background: red; }**
@@ -8715,6 +8724,7 @@ However, at the end, it&apos;s all a matter of personal style.
 >
 > **.element { background: url(../images/bg.png) 50% 50% / contain red
 > no-repeat content-box fixed; }**
+```
 
 ## Box model
 
@@ -8783,6 +8793,7 @@ You can find more information on MDN at
 
 **CSS**:
 
+```
 > **/&ast;max-content&ast;/**
 >
 > **.element { width: max-content;**
@@ -8798,6 +8809,7 @@ You can find more information on MDN at
 > **/&ast;fit-content&ast;/**
 >
 > **.element { width: fit-content; }**
+```
 
 Here is a demo in CodePen:
 [**http://tiny.cc/width**](http://tiny.cc/width)
@@ -8834,6 +8846,7 @@ height. You can find more information on MDN a[t
 
 **CSS**:
 
+```
 > **/&ast;Length value&ast;/**
 >
 > **.element { height: 200px;**
@@ -8849,6 +8862,7 @@ height. You can find more information on MDN a[t
 > **/&ast;Inherit value&ast;/**
 >
 > **.element { height: inherit; }**
+```
 
 ### padding
 
@@ -8886,6 +8900,7 @@ Negative values are not allowed.
 
 **CSS**:
 
+```
 > **/&ast;Shorthand, ONE value: all four sides have the same padding&ast;/**
 >
 > **.element { padding: 10px; }**
@@ -8906,6 +8921,7 @@ Negative values are not allowed.
 >
 > **.element { padding-top: 10px; padding-right: 15px; padding-bottom:
 > 20px; padding-left: 25px; }**
+```
 
 ### margin
 
@@ -8939,6 +8955,7 @@ Negative values are allowed.
 
 **CSS**:
 
+```
 > **/&ast;Shorthand, ONE value: all four sides have the same padding&ast;/**
 >
 > **.element { margin: 10px; }**
@@ -8959,6 +8976,7 @@ Negative values are allowed.
 >
 > **.element { margin-top: 10px; margin-right: 15px; margin-bottom:
 > 20px; margin-left: 25px; }**
+```
 
 **Collapsing margins**
 
@@ -9029,6 +9047,7 @@ accomplishes exactly the same accomplishment as the bottom rule with the
 
 **CSS**:
 
+```
 > **/&ast;Shorthand&ast;/**
 >
 > **.element-shorthand { border: 10px solid green;**
@@ -9049,6 +9068,7 @@ accomplishes exactly the same accomplishment as the bottom rule with the
 > border-bottom-color: green; border-left-color: green;**
 >
 > **}**
+```
 
 ### box-sizing
 
@@ -9074,6 +9094,7 @@ but only to the margin.
 
 **CSS**:
 
+```
 > **/&ast;Padding, border and margin are added to the element&apos;s
 > dimensions&ast;/**
 >
@@ -9093,6 +9114,7 @@ but only to the margin.
 > **/&ast;Always start your CSS with this rule&ast;/**
 >
 > **&ast;, &ast;:before, &ast;:after { box-sizing: border-box; }**
+```
 
 Here is a demo in CodePen: **http://tiny.cc/box-sizing**
 
@@ -9101,7 +9123,9 @@ Here is a demo in CodePen: **http://tiny.cc/box-sizing**
 The **max-height** CSS property defines the maximum height of an
 element, and it looks like this:
 
+```
 > **max-height: 150px;**
+```
 
 **Description**
 
@@ -9124,6 +9148,7 @@ You can find more information on MDN at
 
 **CSS**:
 
+```
 > **/&ast;Length value&ast;/**
 >
 > **.element { height: 75px;**
@@ -9135,13 +9160,16 @@ You can find more information on MDN at
 > **/&ast;Percentage value&ast;/**
 >
 > **.element { max-height: 65%; }**
+```
 
 ### max-width
 
 The **max-width** CSS property defines the maximum width of an element,
 and it looks like this:
 
+```
 > **max-width: 75px;**
+```
 
 **Description**
 
@@ -9164,6 +9192,7 @@ You can find more information on MDN at
 
 **CSS**:
 
+```
 > **/&ast;Length value&ast;/**
 >
 > **.element { width: 150px;**
@@ -9175,13 +9204,16 @@ You can find more information on MDN at
 > **/&ast;Percentage value&ast;/**
 >
 > **.element { max-width: 65%; }**
+```
 
 ### min-height
 
 The **min-height** CSS property defines the minimum height of an
 element, and it looks like this:
 
+```
 > **min-height: 300px;**
+```
 
 **Description**
 
@@ -9203,6 +9235,7 @@ You can find more information on MDN at
 [**http://tiny.cc/mdn-min-height**](http://tiny.cc/mdn-min-height)
 **CSS**:
 
+```
 > **/&ast;Length value&ast;/**
 >
 > **.element { height: 75px; max-height: 150px;**
@@ -9215,6 +9248,7 @@ You can find more information on MDN at
 > **/&ast;Percentage value&ast;/**
 >
 > **.element { min-height: 65%; }**
+```
 
 ### min-width
 
@@ -9246,6 +9280,7 @@ You can find more information on MDN at
 
 **CSS**:
 
+```
 > **/&ast;Length value&ast;/**
 >
 > **.element { width: 150px; max-width: 75px; /&ast;This property overrides
@@ -9256,6 +9291,7 @@ You can find more information on MDN at
 > **/&ast;Percentage value&ast;/**
 >
 > **.element { min-width: 65%; }**
+```
 
 ### object-fit
 
@@ -9320,7 +9356,9 @@ replaced element.
 
 **CSS**:
 
+```
 > **img { width: 15em; height: 25em; object-fit: contain; }**
+```
 
 Here is a demo in CodePen:
 [**http://tiny.cc/object-fit-position**](http://tiny.cc/object-fit-position)
@@ -9346,8 +9384,10 @@ allowed.
 
 **CSS**:
 
+```
 > **img { width: 15em; height: 25em; object-fit: contain;
 > object-position: right bottom; }**
+```
 
 Here is a demo in CodePen: **http://tiny.cc/object-fit-position**
 
@@ -9362,7 +9402,9 @@ I admit that the term &quot;rounded corners&quot; is far less obscure than
 The **border-radius** CSS property allows us to make rounded corners on
 almost any HTML element, and it looks like this:
 
+```
 > **border-radius: 20px;**
+```
 
 **Description**
 
@@ -9394,6 +9436,7 @@ can also use a slash symbol, &quot;**/**&quot;, to separate groups of values.
 
 **CSS**:
 
+```
 > **/&ast;Longhand&ast;/**
 >
 > **.element {**
@@ -9442,6 +9485,7 @@ can also use a slash symbol, &quot;**/**&quot;, to separate groups of values.
 > **/&ast;Half Pill: top-left - top-right - bottom-right - bottom-left&ast;/**
 >
 > **.element-8 { height: 100px; border-radius: 100px 0 0 100px; }**
+```
 
 Here is a demo in CodePen: **http://tiny.cc/css-border-radius**
 
@@ -9450,11 +9494,15 @@ Here is a demo in CodePen: **http://tiny.cc/css-border-radius**
 CSS unit is a type of data with which we can define measurements, and it
 looks like this:
 
+```
 > **max-height: 150px;**
+```
 
 Alternatively, it could also look like this:
 
+```
 > **transform: rotate(45deg);**
+```
 
 There is no space between the number and the unit.
 
@@ -9487,7 +9535,9 @@ than if we are using Verdana, even if the value is the same.
 
 **CSS**:
 
+```
 > **.element { padding: 2ex; }**
+```
 
 #### ch
 
@@ -9498,7 +9548,9 @@ than if we are using Verdana, even if the value is the same.
 
 **CSS**:
 
+```
 > **.element { padding: 2ch; }**
+```
 
 #### em
 
@@ -9516,7 +9568,9 @@ or more levels deep).
 
 **CSS**:
 
+```
 > **.element {**
+```
 
 **font: 1.5em Arial, Helvetica, san-serif; } rem**
 
@@ -9536,6 +9590,7 @@ in our responsive projects.
 
 **CSS**:
 
+```
 > **html {**
 >
 > **font-size: 62.5%;**
@@ -9543,6 +9598,7 @@ in our responsive projects.
 > **} h1 {**
 >
 > **/&ast;It&apos;s the same as 22px&ast;/ font-size: 2.2rem; }**
+```
 
 #### The % sign
 
@@ -9556,9 +9612,11 @@ hand in hand.
 
 **CSS**:
 
+```
 > **.element { margin: 0 1%;**
 >
 > **}**
+```
 
 ### Viewport-relative length units
 
@@ -9585,7 +9643,9 @@ and the browser window is **500px**, the font size is then **5px**.
 
 **CSS**:
 
+```
 > **.element { font-size: 1vh; }**
+```
 
 #### vw
 
@@ -9598,7 +9658,9 @@ and the browser window is **1400px**, the font size is then **14px**.
 
 **CSS**:
 
+```
 > **.element { font-size: 1vw; }**
+```
 
 #### vmin
 
@@ -9612,7 +9674,9 @@ and the browser&apos;s viewport is 600 × 800, the font size is then **6px**.
 
 **CSS**:
 
+```
 > **.element { font-size: 1vmin; }**
+```
 
 #### vmax
 
@@ -9626,7 +9690,9 @@ and the browser&apos;s viewport is 600 × 800, the font size is then **8px**.
 
 **CSS**:
 
+```
 > **.element { font-size: 1vmax; }**
+```
 
 ### Absolute length units
 
@@ -9669,6 +9735,7 @@ The **px** suffix stands for *pixel*.
 All the following values represent units that resemble **16px** font
 size, but in different length units.
 
+```
 > **/&ast;Centimeter&ast;/**
 >
 > **.element { font-size: .43cm; }**
@@ -9692,6 +9759,7 @@ size, but in different length units.
 > **/&ast;Pixel&ast;/**
 >
 > **.element { font-size: 16px; }**
+```
 
 ### Angle data types
 
@@ -9725,6 +9793,7 @@ define it as **.25turn**, because it&apos;s ¼th of the complete turn.
 All the following values represent units that resemble a 90-degree turn
 of an element but in different angle data types:
 
+```
 > **/&ast;Degrees&ast;/**
 >
 > **.element { transform: rotate(90deg); }**
@@ -9740,6 +9809,7 @@ of an element but in different angle data types:
 > **/&ast;Turn&ast;/**
 >
 > **.element { transform: rotate(.25turn); }**
+```
 
 ### Resolution units
 
@@ -9772,6 +9842,7 @@ due to the 1:96 fixed ratio of CSS pixels.
 
 **CSS**:
 
+```
 > **/&ast;&ast;@2x pixel ratio&ast;&ast;/**
 >
 > **/&ast;Dots per inch&ast;/**
@@ -9785,6 +9856,7 @@ due to the 1:96 fixed ratio of CSS pixels.
 > **/&ast;Dots per pixel&ast;/**
 >
 > **&commat;media (min-resolution: 2dppx) { &period;.. }**
+```
 
 ### Duration units
 
@@ -9811,6 +9883,7 @@ The **s** suffix stands for *seconds*. **1s** = 1000 milliseconds.
 
 **CSS**:
 
+```
 > **/&ast;Milliseconds&ast;/**
 >
 > **.element { animation-duration: 3ms; }**
@@ -9822,6 +9895,7 @@ The **s** suffix stands for *seconds*. **1s** = 1000 milliseconds.
 > **.element { animation-duration: 3s; }**
 >
 > **.element { transition: 3000ms; }**
+```
 
 ### Column
 
@@ -9840,7 +9914,9 @@ Let&apos;s dive in.
 The **column-count** CSS property defines the number of columns of an
 element, and it looks like this:
 
+```
 > **column-count:3;**
+```
 
 #### Description
 
@@ -9853,6 +9929,7 @@ we declare **columnwidth** for this to work.
 
 **CSS**:
 
+```
 > **/&ast;Let the browser decide&ast;/**
 >
 > **.element { column-count: auto; column-width: 200px;**
@@ -9862,6 +9939,7 @@ we declare **columnwidth** for this to work.
 > **/&ast;Specific number of columns&ast;/**
 >
 > **.element { column-count: 3; }**
+```
 
 #### column-fill
 
@@ -9888,6 +9966,7 @@ There are two keywords: **auto** and **balance**.
 
 **CSS**:
 
+```
 > **/&ast;Balance&ast;/**
 >
 > **.element { column-fill: balance; column-count: 4; height: 400px;**
@@ -9897,6 +9976,7 @@ There are two keywords: **auto** and **balance**.
 > **/&ast;Auto&ast;/**
 >
 > **.element { column-fill: auto; column-count: 4; }**
+```
 
 **column-gap**
 
@@ -9916,6 +9996,7 @@ There are two values: the **auto** keyword and a *length* value.
 
 **CSS**:
 
+```
 > **/&ast;Auto = 1em&ast;/**
 >
 > **.element { column-gap: auto; column-count: 4;**
@@ -9927,6 +10008,7 @@ There are two values: the **auto** keyword and a *length* value.
 > **.element { column-gap: 50px; column-count: 4;**
 >
 > **}**
+```
 
 **column-rule**
 
@@ -9956,6 +10038,7 @@ properties:
 
 **CSS**:
 
+```
 > **/&ast;Length, solid line and RGBa&ast;/**
 >
 > **.element { column-gap: auto; column-count: 4; column-rule: 2px solid
@@ -9968,6 +10051,7 @@ properties:
 > **.element { column-gap: 50px; column-count: 4;**
 >
 > **column-rule: thick dotted black; }**
+```
 
 **column-rule-color**
 
@@ -9979,9 +10063,11 @@ also supports alpha channel, so **RGBa** and **HSLa** are allowed.
 
 **CSS**:
 
+```
 > **.element {**
 >
 > **column-rule-color: red; }**
+```
 
 **column-rule-style**
 
@@ -9993,9 +10079,11 @@ It can be any of the **border-style** values, for example, **dotted**,
 
 **CSS**:
 
+```
 > **.element {**
 >
 > **column-rule-style: dotted; }**
+```
 
 **column-rule-width**
 
@@ -10007,9 +10095,11 @@ keywords: **thin**, **medium**, or **thick**.
 
 **CSS**:
 
+```
 > **.element {**
 >
 > **column-rule-width: 5px; }**
+```
 
 **column-span**
 
@@ -10022,7 +10112,9 @@ There are two values, **none** and **all**, which are self-explanatory.
 
 **CSS**:
 
+```
 > **.element { column-span: all; }**
+```
 
 Here is a demo in CodePen:
 [**http://tiny.cc/column-span**](http://tiny.cc/column-span)
@@ -10042,6 +10134,7 @@ columns.
 
 **CSS**:
 
+```
 > **/&ast;em value&ast;/**
 >
 > **.element { column-width: 10em;**
@@ -10053,6 +10146,7 @@ columns.
 > **.element {**
 >
 > **column-width: 200px; }**
+```
 
 **columns**
 
@@ -10065,11 +10159,13 @@ order of the values doesn&apos;t matter, but it&apos;s a good measure to declare
 
 **CSS**:
 
+```
 > **/&ast;column-width and then column-count&ast;/**
 >
 > **.element { columns: 300px 2;**
 >
 > **}**
+```
 
 ## Flexible box (flexbox)
 
@@ -10100,7 +10196,9 @@ Let&apos;s dive into Flexbox properties.
 This property defines how much a flex item should grow relative to other
 flex items via a flex grow factor, and it looks like this:
 
+```
 > **flex\--grow: 2;**
+```
 
 **Description**
 
@@ -10114,6 +10212,7 @@ talk about in a minute.
 
 **CSS**:
 
+```
 > **/&ast;First flex item will take 1 unit of the available space&ast;/**
 >
 > **.element-1 { flex-grow: 1; }**
@@ -10127,13 +10226,16 @@ talk about in a minute.
 >
 > **/&ast;Fourth flex item will take 1 unit of the available space&ast;/
 > .element-4 { flex-grow: 1; }**
+```
 
 ### flex-shrink
 
 This property defines how much a flex item should shrink relative to
 other flex items via a flex shrink factor, and it looks like this:
 
+```
 > **flex-shrink: 1;**
+```
 
 **Description**
 
@@ -10166,7 +10268,9 @@ we can make them fit the size of the flex container.
 This property defines the initial width of a flex item, and it looks
 like this:
 
+```
 > **flex-basis: 200px;**
+```
 
 **Description**
 
@@ -10179,6 +10283,7 @@ of it. Negative values are invalid.
 
 **CSS**:
 
+```
 > **/&ast;Both elements will be 50% wide&ast;/**
 >
 > **/&ast;Both elements will be 50% wide&ast;/**
@@ -10205,6 +10310,7 @@ of it. Negative values are invalid.
 > there&apos;s enough space&ast;/**
 >
 > **.a { flex-grow: 1; flex-basis: 200px; } /&ast;Second element:**
+```
 
 -   **WILL NOT grow**
 
@@ -13154,7 +13260,7 @@ We can reference multiple counter resets in the same declaration.
 We need to give the reset counter a name. This value is required. It can
 be any name but it needs to adhere to the following conditions:
 
--   It can start with a letter, an underscore &quot;**\_**&quot;, or a hyphen
+-   It can start with a letter, an underscore &quot;**&lowbar;**&quot;, or a hyphen
     &quot;**-**&quot;
 
 -   It can start with a hyphen &quot;**-**&quot; character but cannot have two
@@ -13210,7 +13316,7 @@ values: A *name* and a *number*. **name**
 
 It can be any name but it needs to adhere to the following conditions:
 
--   It can start with a letter, an underscore &quot;**\_**&quot;, or a hyphen
+-   It can start with a letter, an underscore &quot;**&lowbar;**&quot;, or a hyphen
     &quot;**-**&quot;
 
 -   It can start with a hyphen &quot;**-**&quot; character but not have two
@@ -23695,7 +23801,7 @@ class from an object that is passed as an object. Here is an example:
 >
 > **// public property this.color = &apos;&apos;;**
 >
-> **// private constructor var \_\_construct = function(that) {
+> **// private constructor var &lowbar;&lowbar;construct = function(that) {
 > console.log(&quot;I have a Cat!&quot;); that.color = &apos;brown&apos;; }(this)**
 >
 > **// getter**
@@ -23797,7 +23903,7 @@ languages, objects and classes inherit from each other to use each
 other&apos;s properties and functions. However, in JavaScript, you have an
 object-based inheritance, which is called a prototype, in which objects
 use the properties of other objects. For example, if you have a
-**Person** object, then you can use the **\_proto\_** attribute for that
+**Person** object, then you can use the **&lowbar;proto&lowbar;** attribute for that
 object to create another **Student** object:
 
 > ![](./images/image21.jpg){width="1.009653324584427in"
@@ -25359,7 +25465,7 @@ of property name is done.
 ### Iterator
 
 The object for the next method is returned. The object that is returned
-has **\_ iterator\_** property. The iterator is used for **iteratable**
+has **&lowbar; iterator&lowbar;** property. The iterator is used for **iteratable**
 objects.
 
 ### Generators
@@ -25388,7 +25494,7 @@ scope. We can define a variable anywhere in our script. When we declare
 a variable in JavaScript, we can assign a value to it at the time of
 declaration or later. Here is an example:
 
-> **\_xyz123; // variable declared without assigning a value to it
+> **&lowbar;xyz123; // variable declared without assigning a value to it
 > varabc = &quot;Star&quot;; //variable declared while assigning a value to it**
 
 In JavaScript, a variable is defined by a dollar sign the same as in
@@ -25862,9 +25968,9 @@ follows:
 >
 > **person.logName();varobject = {**
 >
-> **// \_\_prototype\_\_**
+> **// &lowbar;&lowbar;prototype&lowbar;&lowbar;**
 >
-> **\_\_prototype\_\_: theProtoTypeObj,**
+> **&lowbar;&lowbar;prototype&lowbar;&lowbar;: theProtoTypeObj,**
 >
 > **// Shorthand for &apos;handler: handler&apos; handler, // Methods toString()
 > {**
@@ -25877,7 +25983,7 @@ follows:
 >
 > **// Dynamic property names**
 >
-> **&lbrack; &apos;property\_&apos; + (() =\> 20)() &rbrack;: 20**
+> **&lbrack; &apos;property&lowbar;&apos; + (() =\> 20)() &rbrack;: 20**
 >
 > **};**
 
@@ -28414,35 +28520,35 @@ This section is not a true module, like the previous section on process.
 This section will focus on any of the functions or modules that allow us
 to read, write, or find files and directories.
 
-#### \_\_filename
+#### &lowbar;&lowbar;filename
 
 This returns a string of the current filename:
 
-**\_\_filename**
+**&lowbar;&lowbar;filename**
 
 ##### Description
 
-The **\_\_filename** command returns the current filename. This can be
+The **&lowbar;&lowbar;filename** command returns the current filename. This can be
 different, depending on which file is being executed. A module that is
 being executed will return its filename instead of the main entry point.
 
 Here is an example of logging the current filename to the console:
 
-**console.log(\_\_filename);**
+**console.log(&lowbar;&lowbar;filename);**
 
-**\_\_dirname**
+**&lowbar;&lowbar;dirname**
 
 This is a string of the current directory:
 
-**\_\_dirname**
+**&lowbar;&lowbar;dirname**
 
 ##### Description
 
-Much like **\_\_filename**, this will return the currently executing
-file&apos;s directory. The **\_\_dirname** command is used many times when a
+Much like **&lowbar;&lowbar;filename**, this will return the currently executing
+file&apos;s directory. The **&lowbar;&lowbar;dirname** command is used many times when a
 relative path needs to be created.
 
-> Both the **\_\_filename** and **\_\_dirname** variables are available
+> Both the **&lowbar;&lowbar;filename** and **&lowbar;&lowbar;dirname** variables are available
 > in any file being executed by Node.js. They are determined per file,
 > so they are correct for each file that gets executed.
 
@@ -28450,7 +28556,7 @@ This example assumes Express has been loaded as express:
 
 > **//express is loaded**
 >
-> **app.use(express.static(\_\_dirname + &apos;/static&apos;));**
+> **app.use(express.static(&lowbar;&lowbar;dirname + &apos;/static&apos;));**
 
 #### The file module
 
@@ -28514,7 +28620,7 @@ of a path.
 Here is an example that loads a file named **test.txt** in the same
 directory as the code file and logs the **fs.Stats** object:
 
-> **fs.stat(\_\_dirname + &apos;\\test.txt&apos;, function(err, stats){
+> **fs.stat(&lowbar;&lowbar;dirname + &apos;\\test.txt&apos;, function(err, stats){
 > console.log(stats); });**
 
 **open**
@@ -28564,7 +28670,7 @@ read or written using **fs.read** or **fs.write**.
 
 This is an example of opening the file **test.txt**:
 
-> **fs.open(\_\_dirname + &apos;\\file.txt&apos;, &apos;r&apos;, function(err, fd){**
+> **fs.open(&lowbar;&lowbar;dirname + &apos;\\file.txt&apos;, &apos;r&apos;, function(err, fd){**
 >
 > **//fd is available to be read from });**
 
@@ -28583,8 +28689,8 @@ In the example, we used **fs.stat** to get the file size.
 
 Here is a full example of opening a file and reading from it:
 
-> **fs.stat(\_\_dirname + &apos;/test.txt&apos;, function(error, stats) {
-> fs.open(\_\_dirname + &apos;/test.txt&apos;, &apos;r&apos;, function(err, fd){ var
+> **fs.stat(&lowbar;&lowbar;dirname + &apos;/test.txt&apos;, function(error, stats) {
+> fs.open(&lowbar;&lowbar;dirname + &apos;/test.txt&apos;, &apos;r&apos;, function(err, fd){ var
 > buffer = new Buffer(stats.size);**
 >
 > **fs.read(fd, buffer, 0, stats.size, null, function(err, bytesRead,
@@ -28618,7 +28724,7 @@ in the callback.
 
 Here is an example that demonstrates how much easier it is to load a
 file with **readFile**. The example is also using the **optional
-options** parameter: **var filename = \_\_dirname + &apos;/test.txt&apos;;**
+options** parameter: **var filename = &lowbar;&lowbar;dirname + &apos;/test.txt&apos;;**
 
 > **fs.readFile(filename, {flag: &apos;r&apos;, encoding: &apos;utf8&apos;},
 > function(err, data){**
@@ -28667,8 +28773,8 @@ position in the file.
 Just like read, write can be complex. Here is a full example of reading
 from one file and writing to another:
 
-> **var fs = require(&apos;fs&apos;); var filename = \_\_dirname +
-> &apos;/test.txt&apos;; var writeFile = \_\_dirname + &apos;/test2.txt&apos;;**
+> **var fs = require(&apos;fs&apos;); var filename = &lowbar;&lowbar;dirname +
+> &apos;/test.txt&apos;; var writeFile = &lowbar;&lowbar;dirname + &apos;/test2.txt&apos;;**
 >
 > **fs.stat(filename, function(error, stats) { fs.open(filename, &apos;r&apos;,
 > function(err, fd) { var buffer = new Buffer(stats.size);**
@@ -28720,7 +28826,7 @@ write an entire file.
 
 Here is an example of **writeFile**:
 
-> **var filename = \_\_dirname + &apos;/write.txt&apos;;**
+> **var filename = &lowbar;&lowbar;dirname + &apos;/write.txt&apos;;**
 >
 > **var buffer = new Buffer(&apos;Write this to a file.&apos;, &apos;utf8&apos;);
 > fs.writeFile(filename, buffer, {encoding: &apos;utf8&apos;, flag: &apos;w&apos;},
@@ -28747,7 +28853,7 @@ of the file. This is effectively appending the file:
 
 Here is an example of **appendFile**:
 
-> **var filename = \_\_dirname + &apos;/write.txt&apos;;**
+> **var filename = &lowbar;&lowbar;dirname + &apos;/write.txt&apos;;**
 >
 > **var buffer = new Buffer(&apos;Append this to a file.&apos;, &apos;utf8&apos;);
 > fs.appendFile(filename, buffer, {encoding: &apos;utf8&apos;, flag: &apos;w&apos;},
@@ -28864,7 +28970,7 @@ This returns a string of the directory name:
 This example will return the directory that the current file is in. If
 the file was in the directory **/home/users/jjohanan/node**, then the
 example will return **/home/users/jjohanan/node**:
-**console.log(path.dirname(\_\_filename));**
+**console.log(path.dirname(&lowbar;&lowbar;filename));**
 
 **basename**
 
@@ -29228,7 +29334,7 @@ function can be hex, binary, or BASE64.
 Here is a full example of reading data from a file and then calculating
 the MD5 hash of the file.
 
-> **var f = file.readFileSync(\_\_dirname + &apos;/test.txt&apos;);**
+> **var f = file.readFileSync(&lowbar;&lowbar;dirname + &apos;/test.txt&apos;);**
 >
 > **var md5 = crypto.createHash(&apos;md5&apos;);**
 >
@@ -36791,7 +36897,7 @@ directives to change the DOM.
 
 When using directives, Angular must parse the DOM and figure out what
 directives apply to it. This is done by normalizing all the elements and
-tags. Normalization will remove any &quot;;&quot; &quot;,&quot; &quot; -&quot;, or&quot; \_&quot;. It
+tags. Normalization will remove any &quot;;&quot; &quot;,&quot; &quot; -&quot;, or&quot; &lowbar;&quot;. It
 will also remove **x-** and **data-** from the beginning of any
 attributes. For example, when looking for **ngModel**, all of the
 following will match:
@@ -38083,7 +38189,7 @@ module&apos;s services.
 
 Inject can load dependencies if they are wrapped with underscores. For
 example, inject would load **\$compile** if it is used as
-**\_\$compile\_**. This is done because in a test, we will need to
+**&lowbar;\$compile&lowbar;**. This is done because in a test, we will need to
 create a reference to the **\$compile** service, and most likely, we
 would want to use **\$compile** as the variable name. The underscores
 allow you to inject it and use the **\$compile** variable.
@@ -38201,11 +38307,11 @@ loop at least once to bind any values:
 > **describe(&apos;simpleDirective&apos;, function () { var \$compile,
 > \$rootScope; beforeEach(module(&apos;firstModule&apos;));**
 >
-> **beforeEach(inject(function (\_\$compile\_, \_\$rootScope\_) {**
+> **beforeEach(inject(function (&lowbar;\$compile&lowbar;, &lowbar;\$rootScope&lowbar;) {**
 >
-> **\$compile = \_\$compile\_;**
+> **\$compile = &lowbar;\$compile&lowbar;;**
 >
-> **\$rootScope = \_\$rootScope\_;**
+> **\$rootScope = &lowbar;\$rootScope&lowbar;;**
 >
 > **}));**
 >
@@ -38246,9 +38352,9 @@ open requests:
 >
 > **beforeEach(module(&apos;firstModule&apos;));**
 >
-> **beforeEach(inject(function (\_\$httpBackend\_, firstFactory) {**
+> **beforeEach(inject(function (&lowbar;\$httpBackend&lowbar;, firstFactory) {**
 >
-> **\$httpBackend = \_\$httpBackend\_;**
+> **\$httpBackend = &lowbar;\$httpBackend&lowbar;;**
 >
 > **handler = \$httpBackend.expect(&apos;GET&apos;, &apos;/test&apos;)**
 >
@@ -38271,121 +38377,71 @@ open requests:
 **3-Dimensional** about 278 backface-visibility CSS property 280
 perspective CSS property 278 perspective-origin CSS property 279
 
+```
 **::before and ::after 112**
-
 **::first-letter 113**
-
 **::first-line 113, 114**
-
 **::selection 114**
-
 **:active 100**
-
 **:apply, scope**
-
 > about 724, 725 parameters 724
-
 **:checked 107**
-
 **:default 107, 108**
-
 **:digest, scope 723**
-
 **:disabled 108**
-
 **:empty 108, 109**
-
 **:enabled 108**
-
 **:first-child 102**
-
 **:first-of-type 102**
-
 **:focus 101**
-
 **:hover 101**
-
 **:httpBackend, ngMock**
-
 > about 762, 763 parameters 762
-
 **:http documentation** URL 731
-
 **\$http, services**
-
 > about 730, 731 parameters 730, 731
-
 **\$injector, dependency injection**
-
 > about 719, 720 methods 720
+```
 
-# Index
+### Index
 
+```
 **:in-range 109**
-
 **:invalid 110**
-
 **:lang() 111**
-
 **:last-child 103**
-
 **:last-of-type 103**
-
 **:link 99**
-
 **:not or negation 110**
-
 **:nth-child() 104**
-
 **:nth-last-child 104, 105**
-
 **:nth-last-of-type 105**
-
 **:nth-of-type 105**
-
 **:only-child 106**
-
 **:only-of-type 106**
-
 **:optional 111**
-
 **:out-of-range 109**
-
 **\$q service 734**
-
 **:required 111**
-
 **\$routeParams, routing (ngRoute) 717**
-
 **\$routeProvider, routing (ngRoute)** about 715, 716 parameters 716
-
 **:route, routing (ngRoute)** about 716, 717 events 716 properties 716
-
 **\$scope, controllers 721, 722**
-
 **:valid 110**
-
 **:visited 100**
-
 **\$watch, scope** about 723 parameters 723, 724
-
 **&commat;charset at-rule 315**
-
 **.click() method 659**
-
 **.concat() method 490**
-
 **.dblclick() method 660**
-
-**\_\_dirname command 564**
-
+**&lowbar;&lowbar;dirname command 564**
 **&commat;document at-rule 316**
-
-**\_\_filename command 564**
-
+**&lowbar;&lowbar;filename command 564**
 **&commat;font-face at-rule** about 317 Embedded Open Type (EOT) 318
 font-family 318 font-stretch 319 font-variant 319 font-weight 319 Google
 Fonts 319
+```
 
 > OpenType Font (OTF) 318 Scalable Vector Graphic (SVG) 318 src 318
 >
@@ -39182,7 +39238,7 @@ URL 495 **fieldset element** about 45 attributes 45
 
 Read Eval Print Loop (REPL) 574 **file functions**
 
-> \_\_dirname coammand 564 \_\_filename command 564 about 564 appendFile
+> &lowbar;&lowbar;dirname coammand 564 &lowbar;&lowbar;filename command 564 about 564 appendFile
 > 570 close 568 file module 565 open 566 read 567 readFile 568 stat
 > object 565 write 569 writeFile 570
 
