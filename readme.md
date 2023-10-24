@@ -1,17 +1,18 @@
-![](./images/image1.jpg){width="8.5in" height="10.996666666666666in"}
+<!-- readme.md of 2016-book-1 -->
+![](./images/image1.jpg)
 
-Web Developer\'s Reference Guide
+# Web Developer&apos;s Reference Guide
 
-A one-stop guide to the essentials of web development including popular
+#### A one-stop guide to the essentials of web development including popular
 frameworks such as jQuery,
 
-Bootstrap, AngularJS, and Node.js
+### Bootstrap, AngularJS, and Node.js
 
 # **Joshua Johanan Talha Khan Ricardo Zea**
 
 BIRMINGHAM - MUMBAI
 
-Web Developer\'s Reference Guide
+Web Developer&apos;s Reference Guide
 
 Copyright © 2016 Packt Publishing
 
@@ -94,7 +95,7 @@ Indiana. He has been a web developer for five years. He has built sites
 using many different languages, including PHP, Python, JavaScript, and
 C#; although if asked, he would prefer using Python and JavaScript.
 These languages have led him to use different MVC frameworks, such as
-Zend Framework, Django, and .Net\'s MVC.
+Zend Framework, Django, and .Net&apos;s MVC.
 
 As you can see from this book, Joshua has also used JavaScript on both
 the backend with Node.js and frontend using many different libraries.
@@ -121,13 +122,13 @@ experienced in developing interactive websites and web applications
 using PHP, MYSQL, and Dot Net Suite along with HTML, CSS, and JavaScript
 libraries. He has been teaching web development as well and is an active
 contributor on programming forums such as StackOverflow. Occasionally,
-he tweets at **\@alphaprofile**.
+he tweets at **&commat;alphaprofile**.
 
 Talha has worked and consulted on various projects for several major
 brands and companies. **Tossdown.com**, a leading restaurants and food
 search engine of Pakistan, is among one of his major achievements. He is
 also running his own start-up while educating newbies on technology. He
-is currently working as a software architect for UAE\'s biggest swimming
+is currently working as a software architect for UAE&apos;s biggest swimming
 academy, Hamilton Aquatics.
 
 > I want to thank my parents for keeping me motivated and my friends who
@@ -143,7 +144,7 @@ academy, Hamilton Aquatics.
 > His confidence in me was enough to push me to reach to my goals. I
 > worked under many projects of various scales and technologies under
 > his supervision. He helped me at every step to hone my skills. I
-> don\'t think I would be have been able to write this book had it not
+> don&apos;t think I would be have been able to write this book had it not
 > been for his constant support and motivation. Without learning from
 > these teachers, there is not a chance I could be doing what I do
 > today, and it is because of them and others who I may not have listed
@@ -159,7 +160,7 @@ designer, allowing him to explain to others the intricacies of design
 and the technicalities of the Web in ways that are very easy to
 understand and assimilate.
 
-Ricardo has a master\'s degree in publicity and advertising and has deep
+Ricardo has a master&apos;s degree in publicity and advertising and has deep
 passion for understanding human behavior. He also has a fiercely
 competitive PC gaming hunger. Together, all this has allowed him to
 switch from the creative side of the brain to the rational side very
@@ -168,10 +169,10 @@ mobile designs that are responsive, perform well, and convey the proper
 message through design.
 
 Ricardo is the author of *Mastering Responsive Web Design*, *Packt
-Publishing*. He\'s also the organizer of the CodePen Dayton meetup
-group. He\'s a member of the Dayton web developers and UX Dayton meetup
-groups. He\'s also one of the first members of SitePoint\'s Ambassadors
-program. He\'s also the author of the monthly web design and development
+Publishing*. He&apos;s also the organizer of the CodePen Dayton meetup
+group. He&apos;s a member of the Dayton web developers and UX Dayton meetup
+groups. He&apos;s also one of the first members of SitePoint&apos;s Ambassadors
+program. He&apos;s also the author of the monthly web design and development
 newletter Level Up!. He was also a technical reviewer for *Sass and
 Compass, Designers Cookbook*, and *Sass Essentials*, all by Packt
 Publishing. For several years, he was also a Flash and CorelDRAW
@@ -185,7 +186,7 @@ experience in visual and graphic design.
 > person, a better husband, and a better dad.
 >
 > To my mom, Socorro, who showed me the values that made me the man I am
-> today. To my dad, Ricardo \"Pinta\" Zea, for teaching me to be
+> today. To my dad, Ricardo &quot;Pinta&quot; Zea, for teaching me to be
 > determined to not only be good at what I do but to be the best I can
 > be.
 >
@@ -205,7 +206,7 @@ Windows-based, and mobile-based applications with expertise in PHP,
 
 Chetankumar likes to contribute to newsgroups and forums. He has written
 articles for Electronics For You, DeveloperIQ, and Flash and Flex
-Developer\'s Magazine. In his spare time, he likes to maintain his
+Developer&apos;s Magazine. In his spare time, he likes to maintain his
 technical blog ([**http://www.tipsntracks.**
 **com**)](http://www.tipsntracks.com/) to get in touch with the
 developer community. He has been the technical reviewer for four books
@@ -222,10 +223,10 @@ Kaiwalya and Hrutvij. You can visit his websites,
 **http://www.tipsntracks.com**, or get in touch with him at
 **chetan.akarte@gmail.** **com**.
 
-> I\'d like to thank my wife, Shraddha, and my parents for their
-> consistent support and encouragement. I\'d also like to thank my
+> I&apos;d like to thank my wife, Shraddha, and my parents for their
+> consistent support and encouragement. I&apos;d also like to thank my
 > lovely children, Kaiwalya and Hrutvij, who allowed me to dedicate all
-> of their playtime with me to this book. I\'d also like to thank Packt
+> of their playtime with me to this book. I&apos;d also like to thank Packt
 > Publishing for this opportunity to do something useful, especially the
 > project coordinator, Kinjal Bari, for all the valuable support.
 
@@ -244,7 +245,7 @@ applications. His expertise includes web apps development, mobile apps
 development, API server development, and real-time analytics. He has
 built apps using AngularJS, Node.js, MongoDB, and Ionic.
 
-> I\'d like to thank my wife, Niyati, for her constant support and
+> I&apos;d like to thank my wife, Niyati, for her constant support and
 > encouragement.
 
 **David Ellenwood** is a frontend developer and WordPress expert with
@@ -266,7 +267,7 @@ architecture and UI development).
 **Robert Mion** takes every effort to design experiences that
 continually delight, empower, and inspire people, often by repeatedly
 triggering that magical moment when your brain makes your mouth go A ha!
-or Of course!. This passion was ignited when watching Pixar\'s Toy Story
+or Of course!. This passion was ignited when watching Pixar&apos;s Toy Story
 at the age of eight. The fire has only grown since then.
 
 Robert continues to use his amassed knowledge of storytelling, color,
@@ -283,7 +284,7 @@ decade and began her career in coding when the majority of HTML pages
 were tabular and inflexible. She remembers the excitement and
 satisfaction in the creative process of building her first prototype for
 a messaging application while she was employed at one of the first
-popular social networks in the age before Facebook. Natalie\'s wide
+popular social networks in the age before Facebook. Natalie&apos;s wide
 ranging experience include key development roles in companies such as
 Godiva, Barnes and Noble, and The Daily Beast. She has spent the last
 year building out the mobile web experience at The Daily Beast, and
@@ -302,9 +303,9 @@ and creating new open source projects. Mateus lives in Brazil where he
 makes several talks on the frontend. You can find him on Twitter at
 **twitter.com/mteusortiz**.
 
-> First of all, I\'d like to thank God. I\'d like to thank my mother,
+> First of all, I&apos;d like to thank God. I&apos;d like to thank my mother,
 > who always supports me and helps me in everything, my father, and all
-> my family and friends. I\'d also like to thank Packt Publishing for
+> my family and friends. I&apos;d also like to thank Packt Publishing for
 > the opportunity to assist in the review of this book.
 
 # www.PacktPub.com
@@ -328,9 +329,9 @@ and eBooks.
 
 [**https://www2.packtpub.com/books/subscription/packtlib**](https://www2.packtpub.com/books/subscription/packtlib)
 
-Do you need instant solutions to your IT questions? PacktLib is Packt\'s
+Do you need instant solutions to your IT questions? PacktLib is Packt&apos;s
 online digital book library. Here, you can search, access, and read
-Packt\'s entire library of books.
+Packt&apos;s entire library of books.
 
 **Why subscribe?**
 
@@ -488,7 +489,7 @@ class 58
 
 contenteditable 58
 
-data-\* 58
+data-&ast; 58
 
 dir 59
 
@@ -917,7 +918,7 @@ top 203
 > **Paging 229** page-break-after 230 page-break-before 230
 > page-break-inside 231
 >
-> **\[**
+> **&lbrack;**
 
 **[Chapter 6: CSS Properties -- Part 3 233]{.underline}**
 
@@ -1139,23 +1140,23 @@ rect() 314
 
 **At-rules 315**
 
-\@charset 315
+&commat;charset 315
 
-\@document() 316
+&commat;document() 316
 
-\@font-face 317
+&commat;font-face 317
 
-\@import 320
+&commat;import 320
 
-\@keyframes 321
+&commat;keyframes 321
 
-\@media 323
+&commat;media 323
 
-\@namespace 324
+&commat;namespace 324
 
-\@page 325
+&commat;page 325
 
-\@supports 326
+&commat;supports 326
 
 **Global CSS keyword values 328**
 
@@ -1261,7 +1262,7 @@ Logical operators 390
 
 Assignment operators 393
 
-Exponentiation assignment (\*\*=) 396
+Exponentiation assignment (&ast;&ast;=) 396
 
 Relational operators 396
 
@@ -1321,7 +1322,7 @@ Testing properties 450
 
 Enumerating properties 451
 
-**\[ \]**
+**&lbrack; &rbrack;**
 
 Property attributes 452
 
@@ -1447,7 +1448,7 @@ Extended parameter handling 512
 
 Bindings 514
 
-Iterators and the for\...of operator 515
+Iterators and the for&period;..of operator 515
 
 Generators 516
 
@@ -1618,7 +1619,7 @@ jQuery Ajax Get 702
 
 jQuery Ajax Post 703
 
-> **\]**
+> **&rbrack;**
 
 **Miscellaneous jQuery functions 704**
 
@@ -1638,7 +1639,7 @@ removeData() 707
 
 **jQuery resources 709**
 
-**[Chapter 15: AngularJS -- Google\'s In-Demand Framework
+**[Chapter 15: AngularJS -- Google&apos;s In-Demand Framework
 711]{.underline}**
 
 **Modules (ngApp) 712**
@@ -1699,7 +1700,7 @@ Provider 728
 
 Value 729
 
-> **\]**
+> **&rbrack;**
 
 Constant 730
 
@@ -1765,7 +1766,7 @@ Unit testing services 764
 
 **[Index 767]{.underline}**
 
-**\[ xix \]**
+**&lbrack; xix &rbrack;**
 
 > [www.allitebooks.com](http://www.allitebooks.org/)
 
@@ -1852,7 +1853,7 @@ various aspects of an HTML document. In this chapter, you will learn to
 traverse elements of an HTML document, methods, event handling,
 animations, and AJAX for rapid development.
 
-*Chapter 15*, *AngularJS -- Google\'s In-Demand Framework*, is where we
+*Chapter 15*, *AngularJS -- Google&apos;s In-Demand Framework*, is where we
 conclude this book by finishing the external library section. Angular
 has been one of the most popular frameworks since it was introduced by
 Google. We will look at all the main concepts that you will need to
@@ -1886,7 +1887,7 @@ Although you can just use a notepad and a browser to do any sort of
 development, an IDE is always preferred and suggested for development in
 any specific language. I would suggest using Adobe Dreamweaver for
 beginners. The intellisense of IDE makes it a lot easier to code as it
-auto-suggests various methods, names, and variables, so you don\'t have
+auto-suggests various methods, names, and variables, so you don&apos;t have
 to remember everything. As we will be dealing with the elements and
 document nodes in the JQuery section, you should have extensions enabled
 in your browser. ECMA Script 6 is very recent and not fully supported by
@@ -1914,15 +1915,15 @@ Code words in text, database table names, folder names, filenames, file
 extensions, pathnames, dummy URLs, user input, and Twitter handles are
 shown as follows:
 
-\"HTML5 has a simple document type declaration, **\<!DOCTYPE html\>**.\"
+&quot;HTML5 has a simple document type declaration, **&lt;!DOCTYPE html\>**.&quot;
 
 A block of code is set as follows:
 
-> **\<div class=\"example\"\>**
+> **&lt;div class=&quot;example&quot;\>**
 >
 > **This is an example HTML element**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 When we wish to draw your attention to a particular part of a code
 block, the relevant lines or items are set in bold:
@@ -1945,8 +1946,8 @@ Any command-line input or output is written as follows:
 
 **New terms** and **important words** are shown in bold. Words that you
 see on the screen, for example, in menus or dialog boxes, appear in the
-text like this: \"Clicking the **Next** button moves you to the next
-screen.\"
+text like this: &quot;Clicking the **Next** button moves you to the next
+screen.&quot;
 
 > Warnings or important notes appear in a box like this.
 >
@@ -1962,7 +1963,7 @@ important for us as it helps us develop titles that you will really get
 the most out of.
 
 To send us general feedback, simply e-mail **feedback@packtpub.com**,
-and mention the book\'s title in the subject of your message.
+and mention the book&apos;s title in the subject of your message.
 
 If there is a topic that you have expertise in and you are interested in
 either writing or contributing to a book, see our author guide at
@@ -1992,7 +1993,7 @@ You can download the code files by following these steps:
 
 4.  Enter the name of the book in the **Search** box.
 
-5.  Select the book for which you\'re looking to download the code
+5.  Select the book for which you&apos;re looking to download the code
     files.
 
 6.  Choose from the drop-down menu where you purchased this book from.
@@ -2056,13 +2057,13 @@ problem.
 text. Annotation of text is done using elements. Using the following
 **p** element, as an example, we will see how to use HTML:
 
-> **\<p\>This is an example\</p\>**
+> **&lt;p\>This is an example&lt;/p\>**
 
 HTML elements also have attributes that will modify how they are
 rendered or interpreted. Attributes are added inside of the starting
 tag. Here is the **class** attribute in a **div** element:
 
-> **\<div class=\"example\"\>This is an example\</div\>**
+> **&lt;div class=&quot;example&quot;\>This is an example&lt;/div\>**
 
 There have been multiple specifications of HTML so far, but we will just
 look at the most commonly used and important elements of HTML5. HTML5 is
@@ -2080,7 +2081,7 @@ specifications, you can and will run into strange rendering issues.
 
 The DOCTYPE element defines the document type of the file, as follows:
 
-> **\<!DOCTYPE documentType\>**
+> **&lt;!DOCTYPE documentType\>**
 
 ### Attributes
 
@@ -2089,7 +2090,7 @@ lets the browser know the type of document you will use.
 
 ### Description
 
-HTML5 has a simple document type declaration, **\<!DOCTYPE html\>**.
+HTML5 has a simple document type declaration, **&lt;!DOCTYPE html\>**.
 This lets the browser know that the document is HTML5. The previous
 versions of HTML needed a formal definition of the version being used,
 but HTML5 has removed this for simplicity.
@@ -2101,13 +2102,13 @@ you do follow the standards.
 
 Here is an HTML5 declaration:
 
-> **\<!DOCTYPE html\>**
+> **&lt;!DOCTYPE html\>**
 
 ## html
 
 The **html** element is the root element of the HTML document:
 
-> **\<html manifest\>\</html\>**
+> **&lt;html manifest\>&lt;/html\>**
 
 ### Attributes
 
@@ -2124,19 +2125,19 @@ element as its children. All other elements will be inside these tags.
 
 Here is what a simple HTML page looks like:
 
-> **\<!DOCTYPE html\>**
+> **&lt;!DOCTYPE html\>**
 >
-> **\<html manifest=\"offline.appcache\"\>\<head\>**
+> **&lt;html manifest=&quot;offline.appcache&quot;\>&lt;head\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 >
-> **\<body\>**
+> **&lt;body\>**
 >
 > **Hey**
 >
-> **\</body\>**
+> **&lt;/body\>**
 >
-> **\</html\>**
+> **&lt;/html\>**
 
 ## Document metadata
 
@@ -2149,7 +2150,7 @@ JavaScript.
 The **head** element is the metadata parent element. All other metadata
 elements will be children of this element:
 
-> **\<head\>\</head\>**
+> **&lt;head\>&lt;/head\>**
 
 **Description**
 
@@ -2161,17 +2162,17 @@ explained next.
 Here is an example of the **head** element that defines a **title** and
 **stylesheet** element:
 
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<title\>Title that appears as the tab name\</title\>**
+> **&lt;title\>Title that appears as the tab name&lt;/title\>**
 
-**\<link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\"
-media=\"all\" /\> \</head\> title**
+**&lt;link href=&quot;style.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;
+media=&quot;all&quot; /\> &lt;/head\> title**
 
 The **title** element displays the title of the document. This is what
-is displayed in the browser\'s tab or the browser window:
+is displayed in the browser&apos;s tab or the browser window:
 
-> **\<title\>\</title\>**
+> **&lt;title\>&lt;/title\>**
 
 #### Description
 
@@ -2179,15 +2180,15 @@ The **title** element is an aptly named element. This is a required
 element in **head**, and there should only be one **title** element for
 a document. Here is a simple example of **title** element:
 
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<title\>Example\</title\> \</head\>**
+> **&lt;title\>Example&lt;/title\> &lt;/head\>**
 
 **link**
 
 The **link** element links a resource to the current document:
 
-> **\<link crossorigin href media rel sizes type\>\</link\>**
+> **&lt;link crossorigin href media rel sizes type\>&lt;/link\>**
 
 #### Attributes
 
@@ -2216,11 +2217,11 @@ use the attributes **href**, **rel**, **type**, and **media** at least.
 You can have multiple **link** elements in a **head** element. Here is a
 simple example of how to load CSS:
 
-> **\<link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\"
-> media=\"all\" /\>**
+> **&lt;link href=&quot;style.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;
+> media=&quot;all&quot; /\>**
 >
-> **\<link href=\"style.css\" media=\"screen\" rel=\"styleshhet\" sizes
-> type=\"text/css\"\>\</link\>**
+> **&lt;link href=&quot;style.css&quot; media=&quot;screen&quot; rel=&quot;styleshhet&quot; sizes
+> type=&quot;text/css&quot;\>&lt;/link\>**
 
 #### See also
 
@@ -2233,7 +2234,7 @@ You can also refer to the **crossorigin**, **href**, **media**, **rel**,
 The **meta** element contains metadata about the document. The syntax is
 as follows:
 
-> **\<meta content http-equiv name\>\</meta\>**
+> **&lt;meta content http-equiv name\>&lt;/meta\>**
 
 #### Attributes
 
@@ -2246,7 +2247,7 @@ The attributes that are used in the **meta** element are as follows:
     **defaultstyle**, which sets the default style. Alternatively, it
     can be set to **refresh**, which can specify the number of seconds
     taken to refresh the page and a different URL for the new page if
-    needed, for example, **httpequiv=\"1;url=http://www.google.com\"**.
+    needed, for example, **httpequiv=&quot;1;url=http://www.google.com&quot;**.
 
 -   **name**: This states the name of the metadata.
 
@@ -2265,9 +2266,9 @@ You can use multiple **meta** tags in a **head** element. Here are two
 examples. The first example will refresh the page every 5 seconds and
 the other will define the **author** metadata:
 
-> **\<meta http-equiv=\"refresh\" content=\"5\" /\>**
+> **&lt;meta http-equiv=&quot;refresh&quot; content=&quot;5&quot; /\>**
 >
-> **\<meta name=\"author\" content=\"Joshua\" /\>**
+> **&lt;meta name=&quot;author&quot; content=&quot;Joshua&quot; /\>**
 
 #### See also
 
@@ -2280,7 +2281,7 @@ The **style** element contains the style information.
 
 **CSS**:
 
-> **\<style media scoped type\>\</style\>**
+> **&lt;style media scoped type\>&lt;/style\>**
 
 #### Attributes
 
@@ -2307,13 +2308,13 @@ then easily find and change styles.
 
 Here is a simple inline stylesheet that sets the font color to blue:
 
-> **\<style media=\"screen\" scoped type=\"text/css\"\> body{**
+> **&lt;style media=&quot;screen&quot; scoped type=&quot;text/css&quot;\> body{**
 >
 > **color: #0000FF;**
 >
 > **}**
 >
-> **\</style\>**
+> **&lt;/style\>**
 
 #### See also
 
@@ -2325,7 +2326,7 @@ more details about the style element.
 The **base** element is the base URL for the document. The syntax is as
 follows:
 
-> **\<base href target\>**
+> **&lt;base href target\>**
 
 #### Attributes
 
@@ -2344,7 +2345,7 @@ URL.
 
 Here is an example of how to set the base URL:
 
-> **\<base href=\"http://www.packtpub.com/\"\>**
+> **&lt;base href=&quot;http://www.packtpub.com/&quot;\>**
 
 #### See also
 
@@ -2356,7 +2357,7 @@ about the **base** element.
 The **script** element allows you to reference or create a script for
 the document:
 
-> **\<script async crossorigin defer src type\>\<script\>**
+> **&lt;script async crossorigin defer src type\>&lt;script\>**
 
 #### Attributes
 
@@ -2394,21 +2395,21 @@ will reference an external script, the second will be an inline
 **script** element, and the last will show how to use the
 **crossorigin** attribute:
 
-> **\<script src=\"example.js\" type=\"text/javascript\"\>\</script\>**
+> **&lt;script src=&quot;example.js&quot; type=&quot;text/javascript&quot;\>&lt;/script\>**
 >
-> **\<script\> var a = 123;**
+> **&lt;script\> var a = 123;**
 >
-> **\</script\>**
+> **&lt;/script\>**
 >
-> **\<script async crossorigin=\"anonymous\" defer
-> src=\"application.js\" type=\"text/javascript\"\>\<script\>**
+> **&lt;script async crossorigin=&quot;anonymous&quot; defer
+> src=&quot;application.js&quot; type=&quot;text/javascript&quot;\>&lt;script\>**
 
 **noscript**
 
 The **noscript** element will be parsed if scripting is turned off in
 the browser. The syntax is as follows:
 
-> **\<noscript\>\</noscript\>**
+> **&lt;noscript\>&lt;/noscript\>**
 
 #### Description
 
@@ -2422,9 +2423,9 @@ JavaScript, but requires it.
 
 Here is an example of the **noscript** element:
 
-> **\<noscript\> Please enable JavaScript.**
+> **&lt;noscript\> Please enable JavaScript.**
 >
-> **\</noscript\>**
+> **&lt;/noscript\>**
 
 ## Semantic content sections
 
@@ -2441,7 +2442,7 @@ amount of different devices.
 The **body** element is the main content section of the document. There
 must be only one main element, its syntax is as follows:
 
-> **\<body\>\</body\>**
+> **&lt;body\>&lt;/body\>**
 
 **Attributes**
 
@@ -2456,16 +2457,16 @@ one **body** element in a document.
 
 Here is an example of the **body** element:
 
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\<span\>Example Body\</span\> \</body\>**
+> **&lt;span\>Example Body&lt;/span\> &lt;/body\>**
 
 ### section
 
 The **section** element describes the content section of a document. For
 example, this can be a chapter of a book:
 
-> **\<section\>\</section\>**
+> **&lt;section\>&lt;/section\>**
 
 **Description**
 
@@ -2478,17 +2479,17 @@ targeted area. You can use this element multiple times in a document.
 
 Here is an example of the **section** element:
 
-> **\<section\>**
+> **&lt;section\>**
 >
-> **\<h2\>Section Heading\</h2\>**
+> **&lt;h2\>Section Heading&lt;/h2\>**
 
-**\<p\>Section content.\</p\> \</section\>**
+**&lt;p\>Section content.&lt;/p\> &lt;/section\>**
 
 **nav**
 
 The **nav** element is the navigation element:
 
-> **\<nav\>\</nav\>**
+> **&lt;nav\>&lt;/nav\>**
 
 **Description**
 
@@ -2501,22 +2502,22 @@ ease of navigation. You can use this multiple times.
 
 Here is an example of using the **nav** element:
 
-> **\<nav\>**
+> **&lt;nav\>**
 >
-> **\<ul\>**
+> **&lt;ul\>**
 >
-> **\<li\>\<a href=\"#\"\>Home\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>Home&lt;/a\>&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 >
-> **\</nav\>**
+> **&lt;/nav\>**
 
 **article**
 
 The **article** element is designed to wrap content that can stand on
 its own:
 
-> **\<article\>\</article\>**
+> **&lt;article\>&lt;/article\>**
 
 **Description**
 
@@ -2534,44 +2535,44 @@ use either. However, both should be related to the content in the outer
 
 Here is an example of the **article** element being used:
 
-> **\<article\>**
+> **&lt;article\>**
 >
-> **\<header\>**
+> **&lt;header\>**
 >
-> **\<h1\>Blog Post\</h1\>**
+> **&lt;h1\>Blog Post&lt;/h1\>**
 >
-> **\</header\>**
+> **&lt;/header\>**
 >
-> **\<p\>This post covers how to use an article element\...\</p\>**
+> **&lt;p\>This post covers how to use an article element&period;..&lt;/p\>**
 >
-> **\<footer\>**
+> **&lt;footer\>**
 >
-> **\<address\>**
+> **&lt;address\>**
 >
 > **Contact the author, Joshua**
 >
-> **\</address\>**
+> **&lt;/address\>**
 >
-> **\<footer\>**
+> **&lt;footer\>**
 >
-> **\</article\>**
+> **&lt;/article\>**
 
 ### Headings
 
 The **heading** elements are the elements that specify different levels
 of headings according to their importance:
 
-> **\<h1\>\</h1\>**
+> **&lt;h1\>&lt;/h1\>**
 >
-> **\<h2\>\</h2\>**
+> **&lt;h2\>&lt;/h2\>**
 >
-> **\<h3\>\</h3\>**
+> **&lt;h3\>&lt;/h3\>**
 >
-> **\<h4\>\</h4\>**
+> **&lt;h4\>&lt;/h4\>**
 >
-> **\<h5\>\</h5\>**
+> **&lt;h5\>&lt;/h5\>**
 >
-> **\<h6\>\</h6\>**
+> **&lt;h6\>&lt;/h6\>**
 
 **Description**
 
@@ -2583,17 +2584,17 @@ follows.
 
 Here is an example using all the headings:
 
-> **\<h1\>Heading Importance 1\</h1\>**
+> **&lt;h1\>Heading Importance 1&lt;/h1\>**
 >
-> **\<h2\>Heading Importance 2\</h2\>**
+> **&lt;h2\>Heading Importance 2&lt;/h2\>**
 >
-> **\<h3\>Heading Importance 3\</h3\>**
+> **&lt;h3\>Heading Importance 3&lt;/h3\>**
 >
-> **\<h4\>Heading Importance 4\</h4\>**
+> **&lt;h4\>Heading Importance 4&lt;/h4\>**
 >
-> **\<h5\>Heading Importance 5\</h5\>**
+> **&lt;h5\>Heading Importance 5&lt;/h5\>**
 >
-> **\<h6\>Heading Importance 6\</h6\>**
+> **&lt;h6\>Heading Importance 6&lt;/h6\>**
 
 **See also**
 
@@ -2605,7 +2606,7 @@ element in more detail.
 The **header** element groups the content that is considered to be the
 header for a particular group of content, its syntax is as follows:
 
-> **\<header\>\</header\>**
+> **&lt;header\>&lt;/header\>**
 
 **Description**
 
@@ -2617,11 +2618,11 @@ new element introduced in HTML5.
 
 Here is an example of the **header** element:
 
-> **\<header\>**
+> **&lt;header\>**
 >
-> **\<img src=\"logo.png\" /\>**
+> **&lt;img src=&quot;logo.png&quot; /\>**
 >
-> **\</header\>**
+> **&lt;/header\>**
 
 **See also**
 
@@ -2633,7 +2634,7 @@ You can also refer to the global attributes to find out about the
 The **footer** element provides a footer of a particular group of
 content, its syntax is as follows:
 
-> **\<footer\>\</footer\>**
+> **&lt;footer\>&lt;/footer\>**
 
 **Description**
 
@@ -2645,18 +2646,18 @@ footer.
 
 Here is an example of the **footer** element:
 
-> **\<footer\>**
+> **&lt;footer\>**
 
 **Written by: Joshua Johanan**
 
-**\</footer\>**
+**&lt;/footer\>**
 
 **address**
 
 The **address** element is used for the contact address of the author or
 organization, its syntax is as follows:
 
-> **\<address\>\</address\>**
+> **&lt;address\>&lt;/address\>**
 
 **Description**
 
@@ -2671,15 +2672,15 @@ elements in an **address** element.
 
 Here is the **address** element in use:
 
-> **\<footer\>**
+> **&lt;footer\>**
 >
-> **\<address\>**
+> **&lt;address\>**
 >
-> **Please contact me at my \<a href=\"#\"\>website\</a\>**
+> **Please contact me at my &lt;a href=&quot;#&quot;\>website&lt;/a\>**
 >
-> **\</address\>**
+> **&lt;/address\>**
 >
-> **\</footer\>**
+> **&lt;/footer\>**
 >
 > [www.allitebooks.com](http://www.allitebooks.org/)
 
@@ -2687,29 +2688,29 @@ Here is the **address** element in use:
 
 The **aside** element is for supplemental content:
 
-> **\<aside\>\</aside\>**
+> **&lt;aside\>&lt;/aside\>**
 
 **Description**
 
 Use the **aside** element to highlight the content that is tied to the
 main article. Some examples in the context of the blog would be the
-author\'s profile, other posts by this author, or even related
+author&apos;s profile, other posts by this author, or even related
 advertisements.
 
 Here is an example of **aside**:
 
-> **\<aside\>**
+> **&lt;aside\>**
 >
 > **Peyton Manning is a 5-time MVP (2003, 2004, 2008, 2009, 2013)**
 >
-> **\</aside\>**
+> **&lt;/aside\>**
 
 **p**
 
 The **p** element is known as the paragraph element. This is a block
 element, its syntax is as follows:
 
-> **\<p\>\</p\>**
+> **&lt;p\>&lt;/p\>**
 
 **Description**
 
@@ -2721,9 +2722,9 @@ your document differently.
 
 Here are a couple of paragraphs:
 
-> **\<p\>This is an intro paragraph.\</p\>**
+> **&lt;p\>This is an intro paragraph.&lt;/p\>**
 >
-> **\<p\>This paragraph will build upon the opening.\</p\>**
+> **&lt;p\>This paragraph will build upon the opening.&lt;/p\>**
 
 ## Content sections
 
@@ -2737,7 +2738,7 @@ semantic sections are.
 The **hr** element is the horizontal rule element, its syntax is as
 follows:
 
-> **\<hr\>**
+> **&lt;hr\>**
 
 **Description**
 
@@ -2746,15 +2747,15 @@ content. You can change the look of this element through CSS.
 
 This element should never have any content inside of it:
 
-> **\<p\>This is a paragraph.\</p\>**
+> **&lt;p\>This is a paragraph.&lt;/p\>**
 
-**\<hr/\> \<p\>This paragraph goes in another direction.\</p\>**
+**&lt;hr/\> &lt;p\>This paragraph goes in another direction.&lt;/p\>**
 
 **pre**
 
 The **pre** element is the preformatted text:
 
-> **\<pre\>\</pre\>**
+> **&lt;pre\>&lt;/pre\>**
 
 **Description**
 
@@ -2765,11 +2766,11 @@ the document. Whitespace and line breaks will be preserved.
 
 Here is an example of using line breaks:
 
-**\<pre\>This text has some line breaks.\</pre\> blockquote**
+**&lt;pre\>This text has some line breaks.&lt;/pre\> blockquote**
 
 The syntax of a **blockquote** element is as follows:
 
-> **\<blockquote cite\>\</blockquote\>**
+> **&lt;blockquote cite\>&lt;/blockquote\>**
 
 **Attributes**
 
@@ -2783,18 +2784,18 @@ document or text.
 
 Here is an example:
 
-> **\<blockquote cite=\"https://www.packtpub.com/\"\>**
+> **&lt;blockquote cite=&quot;https://www.packtpub.com/&quot;\>**
 >
-> **\<p\>Contact Us\</p\>**
+> **&lt;p\>Contact Us&lt;/p\>**
 >
-> **\</blockquote\>**
+> **&lt;/blockquote\>**
 
 ### ol
 
 The **ol** element is the ordered list element, which has the following
 syntax:
 
-> **\<ol reversed start type\>\</ol\>**
+> **&lt;ol reversed start type\>&lt;/ol\>**
 
 **Attributes**
 
@@ -2824,13 +2825,13 @@ The items in the list will be the **li** elements.
 Here is an example of a list that uses Roman numerals and starts at
 **10**.
 
-> **\<ol start=\"10\" type=\"i\"\>**
+> **&lt;ol start=&quot;10&quot; type=&quot;i&quot;\>**
 >
-> **\<li\>Roman numeral 10\</li\>**
+> **&lt;li\>Roman numeral 10&lt;/li\>**
 >
-> **\<li\>Roman numeral 11\</li\>**
+> **&lt;li\>Roman numeral 11&lt;/li\>**
 >
-> **\</ol\>**
+> **&lt;/ol\>**
 
 **See also**
 
@@ -2839,7 +2840,7 @@ about the **ol** element. **ul**
 
 The **ul** element is an unordered list element:
 
-> **\<ul\>\</ul\>**
+> **&lt;ul\>&lt;/ul\>**
 
 **Description**
 
@@ -2854,15 +2855,15 @@ You can nest the **ul** and **ol** elements multiple times.
 
 Here is an example of the **ul** element:
 
-> **\<ul\>**
+> **&lt;ul\>**
 >
-> **\<li\>Items in\</li\>**
+> **&lt;li\>Items in&lt;/li\>**
 >
-> **\<li\>no particular\</li\>**
+> **&lt;li\>no particular&lt;/li\>**
 >
-> **\<li\>order\</li\>**
+> **&lt;li\>order&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
 **See also**
 
@@ -2871,7 +2872,7 @@ the **ul** element. **li**
 
 The **li** element is the list item element:
 
-> **\<li value\>\</li\>**
+> **&lt;li value\>&lt;/li\>**
 
 **Attributes**
 
@@ -2884,15 +2885,15 @@ You will use the **li** element for each item in a list.
 
 Here is an example:
 
-> **\<ul\>**
+> **&lt;ul\>**
 >
-> **\<li\>Item 1\</li\>**
+> **&lt;li\>Item 1&lt;/li\>**
 >
-> **\<li\>Item 2\</li\>**
+> **&lt;li\>Item 2&lt;/li\>**
 >
-> **\<li\>Item 3\</li\>**
+> **&lt;li\>Item 3&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
 **See also**
 
@@ -2901,7 +2902,7 @@ details about the **li** element. **dl**
 
 The **dl** element is the definition list element:
 
-> **\<dl\>\</dl\>**
+> **&lt;dl\>&lt;/dl\>**
 
 **Description**
 
@@ -2915,13 +2916,13 @@ multiple **dd** elements after it.
 
 Here is an example:
 
-> **\<dl\>**
+> **&lt;dl\>**
 >
-> **\<dt\>PactPub\</dt\>**
+> **&lt;dt\>PactPub&lt;/dt\>**
 >
-> **\<dd\>Packt Publishing\</dd\>**
+> **&lt;dd\>Packt Publishing&lt;/dd\>**
 >
-> **\</dl\>**
+> **&lt;/dl\>**
 
 **See also**
 
@@ -2932,7 +2933,7 @@ about the **dl** element.
 
 The **dt** element is the definition term element:
 
-> **\<dt\>\</dt\>**
+> **&lt;dt\>&lt;/dt\>**
 
 **Description**
 
@@ -2941,13 +2942,13 @@ element being the other item.
 
 Here is an example:
 
-> **\<dl\>**
+> **&lt;dl\>**
 >
-> **\<dt\>PactPub\</dt\>**
+> **&lt;dt\>PactPub&lt;/dt\>**
 >
-> **\<dd\>Packt Publishing\</dd\>**
+> **&lt;dd\>Packt Publishing&lt;/dd\>**
 >
-> **\</dl\>**
+> **&lt;/dl\>**
 
 **See also**
 
@@ -2956,7 +2957,7 @@ about the **dt** element. **dd**
 
 The **dd** element is the definition description element:
 
-> **\<dd\>\</dd\>**
+> **&lt;dd\>&lt;/dd\>**
 
 **Description**
 
@@ -2965,13 +2966,13 @@ one being the **dt** element.
 
 Here is an example:
 
-> **\<dl\>**
+> **&lt;dl\>**
 >
-> **\<dt\>PactPub\</dt\>**
+> **&lt;dt\>PactPub&lt;/dt\>**
 >
-> **\<dd\>Packt Publishing\</dd\>**
+> **&lt;dd\>Packt Publishing&lt;/dd\>**
 >
-> **\</dl\>**
+> **&lt;/dl\>**
 
 **See also**
 
@@ -2982,7 +2983,7 @@ about the **dd** element.
 
 The syntax of the **figure** element is as follows:
 
-> **\<figure\>\</figure\>**
+> **&lt;figure\>&lt;/figure\>**
 
 **Description**
 
@@ -2994,13 +2995,13 @@ just using an **img** element.
 
 Here is an example:
 
-> **\<figure\>**
+> **&lt;figure\>**
 >
-> **\<img src=\"figure1.jpg\" title=\"Figure 1\" /\>**
+> **&lt;img src=&quot;figure1.jpg&quot; title=&quot;Figure 1&quot; /\>**
 >
-> **\<figcaption\>Figure One\</figcaption\>**
+> **&lt;figcaption\>Figure One&lt;/figcaption\>**
 >
-> **\</figure\>**
+> **&lt;/figure\>**
 
 **See also**
 
@@ -3011,7 +3012,7 @@ the **figure** element.
 
 The **figcaption** element is the figure caption element:
 
-> **\<figcaption\>\</figcaption\>**
+> **&lt;figcaption\>&lt;/figcaption\>**
 
 **Description**
 
@@ -3022,13 +3023,13 @@ last child of the **figure** element.
 
 Here is a simple example of the **figcaption** element:
 
-> **\<figure\>**
+> **&lt;figure\>**
 >
-> **\<img src=\"figure1.jpg\" title=\"Figure 1\" /\>**
+> **&lt;img src=&quot;figure1.jpg&quot; title=&quot;Figure 1&quot; /\>**
 >
-> **\<figcaption\>Figure One\</figcaption\>**
+> **&lt;figcaption\>Figure One&lt;/figcaption\>**
 >
-> **\</figure\>**
+> **&lt;/figure\>**
 
 **See also**
 
@@ -3037,7 +3038,7 @@ You can also refer to the **figure** element to find out more about the
 
 The **div** element is the division element:
 
-> **\<div\>\</div\>**
+> **&lt;div\>&lt;/div\>**
 
 **Description**
 
@@ -3050,19 +3051,19 @@ no other element suits your requirements.
 
 Here is an example:
 
-> **\<div\> You can put whatever you want in here!**
+> **&lt;div\> You can put whatever you want in here!**
 >
-> **\<div\> More elements.**
+> **&lt;div\> More elements.**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **main**
 
 The syntax of the **main** element is as follows:
 
-> **\<main\>\</main\>**
+> **&lt;main\>&lt;/main\>**
 
 **Description**
 
@@ -3073,13 +3074,13 @@ from an article, in that, an article should be a selfcontained element.
 
 Here is an example of the **main** element in use:
 
-> **\<main\> This is the main content of the document.**
+> **&lt;main\> This is the main content of the document.**
 >
-> **\<article\> Here is the article of the document.**
+> **&lt;article\> Here is the article of the document.**
 >
-> **\</article\>**
+> **&lt;/article\>**
 >
-> **\</main\>**
+> **&lt;/main\>**
 
 ## Inline elements
 
@@ -3091,7 +3092,7 @@ give them functionality, style, and meaning.
 The **a** element is the anchor element. This is where HTML gets the
 **HyperText** (**HT**), the syntax is as follows:
 
-> **\<a download href media ping rel target type\>\</a\>**
+> **&lt;a download href media ping rel target type\>&lt;/a\>**
 
 **Attributes**
 
@@ -3133,22 +3134,22 @@ the user can click on to follow the link. This includes the **text**,
 
 Here is an example of an **img** element with an image:
 
-> **\<a href=\"http://www.packtpub.com\"\>**
+> **&lt;a href=&quot;http://www.packtpub.com&quot;\>**
 >
-> **\<img src=\"packt_logo.png\" /\>**
+> **&lt;img src=&quot;packt_logo.png&quot; /\>**
 >
-> **\</a\>**
+> **&lt;/a\>**
 
 Here is an example of a PDF document that will be downloaded; this will
 track each click:
 
-**\<a download=\"report.pdf\" href=\"assests/report.pdf\"
-media=\"min-width: 1024px\" ping=\"track/click\" rel=\"alternate\"
-target=\"\_blank\" type=\" application/pdf\"\>\</a\> abbr**
+**&lt;a download=&quot;report.pdf&quot; href=&quot;assests/report.pdf&quot;
+media=&quot;min-width: 1024px&quot; ping=&quot;track/click&quot; rel=&quot;alternate&quot;
+target=&quot;\_blank&quot; type=&quot; application/pdf&quot;\>&lt;/a\> abbr**
 
 The **abbr** element is the abbreviation element:
 
-> **\<abbr\>\</abbr\>**
+> **&lt;abbr\>&lt;/abbr\>**
 
 **Description**
 
@@ -3158,11 +3159,11 @@ will display this as a tooltip when you hover over this element.
 
 Here is an example:
 
-**\<abbr title=\"abbreviation\"\>abbr\</abbr\> bdo**
+**&lt;abbr title=&quot;abbreviation&quot;\>abbr&lt;/abbr\> bdo**
 
 The **bdo** element is the bi-direction override element:
 
-> **\<bdo dir\>\</bdo\>**
+> **&lt;bdo dir\>&lt;/bdo\>**
 
 **Attributes**
 
@@ -3176,11 +3177,11 @@ the direction defined in the element.
 
 Here is an example:
 
-**\<bdo dir=\"rtl\"\>Right to Left.\</bdo\> br**
+**&lt;bdo dir=&quot;rtl&quot;\>Right to Left.&lt;/bdo\> br**
 
 The **br** element is the line break element:
 
-> **\<br\>**
+> **&lt;br\>**
 
 **Description**
 
@@ -3190,13 +3191,13 @@ to help place elements, as that is the job of CSS.
 
 Here is an example:
 
-> **First Name\<br\>**
+> **First Name&lt;br\>**
 
 **LastName cite**
 
 The **cite** element is the citation element:
 
-> **\<cite\>\</cite\>**
+> **&lt;cite\>&lt;/cite\>**
 
 **Description**
 
@@ -3205,13 +3206,13 @@ render this in italics.
 
 Here is an example:
 
-> **This quote is from \<cite\>Web Developer\'s Reference\</cite\>**
+> **This quote is from &lt;cite\>Web Developer&apos;s Reference&lt;/cite\>**
 
 ### code
 
 The syntax of the **code** element is as follows:
 
-> **\<code\>\</code\>**
+> **&lt;code\>&lt;/code\>**
 
 **Description**
 
@@ -3220,11 +3221,11 @@ document. The browser will use a monospace font for it.
 
 Here is an example:
 
-**Here is some JavaScript: \<code\>var a = \'test\'\</code\> dfn**
+**Here is some JavaScript: &lt;code\>var a = &apos;test&apos;&lt;/code\> dfn**
 
 The **dfn** element is the defining instance element:
 
-> **\<dfn\>\</dfn\>**
+> **&lt;dfn\>&lt;/dfn\>**
 
 **Description**
 
@@ -3233,11 +3234,11 @@ time a specific word is introduced and explained.
 
 Here is an example of the **dfn** element:
 
-**\<dfn\>HTML\</dfn\>, or HyperText Markup Language. em**
+**&lt;dfn\>HTML&lt;/dfn\>, or HyperText Markup Language. em**
 
 The **em** element is the emphasis element:
 
-> **\<em\>\</em\>**
+> **&lt;em\>&lt;/em\>**
 
 **Description**
 
@@ -3249,7 +3250,7 @@ should not just be used for italics.
 
 The **kbd** element is the keyboard input element:
 
-> **\<kbd\>\</kbd\>**
+> **&lt;kbd\>&lt;/kbd\>**
 
 **Description**
 
@@ -3260,11 +3261,11 @@ computer.
 
 Here is an example:
 
-**Press \<kbd\>Win + R\</kbd\> to open the Run dialog. mark**
+**Press &lt;kbd\>Win + R&lt;/kbd\> to open the Run dialog. mark**
 
 The syntax of the **mark** element is as follows:
 
-> **\<mark\>\</mark\>**
+> **&lt;mark\>&lt;/mark\>**
 
 **Description**
 
@@ -3272,11 +3273,11 @@ The **mark** element is used to highlight text.
 
 Here is an example:
 
-**\<mark\>This\</mark\> will be highlighted q**
+**&lt;mark\>This&lt;/mark\> will be highlighted q**
 
 The **q** element is the quote element:
 
-> **\<q cite\>\</q\>**
+> **&lt;q cite\>&lt;/q\>**
 
 **Attributes**
 
@@ -3288,8 +3289,8 @@ source of the quote.
 
 Here is an example:
 
-> **\<q cite=\"http://en.wikiquote.org/\"\>Don\'t quote me on
-> this.\</q\>**
+> **&lt;q cite=&quot;http://en.wikiquote.org/&quot;\>Don&apos;t quote me on
+> this.&lt;/q\>**
 
 **See also**
 
@@ -3298,7 +3299,7 @@ the **q** element. **s**
 
 The **s** element is the strikethrough element:
 
-> **\<s\>\</s\>**
+> **&lt;s\>&lt;/s\>**
 
 **Description**
 
@@ -3308,11 +3309,11 @@ to the document.
 
 Here is an example:
 
-**Today is the \<s\>twenty-fifth\<s\> twenty-sixth. samp**
+**Today is the &lt;s\>twenty-fifth&lt;s\> twenty-sixth. samp**
 
 The **samp** element is the sample output element:
 
-> **\<samp\>\</samp\>**
+> **&lt;samp\>&lt;/samp\>**
 
 **Description**
 
@@ -3321,11 +3322,11 @@ program.
 
 Here is an example:
 
-**The command should output \<samp\>Done!\</samp\> small**
+**The command should output &lt;samp\>Done!&lt;/samp\> small**
 
 The syntax of the **small** element is as follows:
 
-> **\<small\>\</small\>**
+> **&lt;small\>&lt;/small\>**
 >
 > **small** element is used to make the text smaller. This is usually
 > done with text
@@ -3334,11 +3335,11 @@ such as the copyright or legal text.
 
 Here is an example:
 
-**\<small\>Copyright 2014\</small\> span**
+**&lt;small\>Copyright 2014&lt;/small\> span**
 
 The syntax of the **span** element is as follows:
 
-> **\<span\>\</span\>**
+> **&lt;span\>&lt;/span\>**
 
 **Description**
 
@@ -3348,37 +3349,37 @@ element, and the **span** element is an inline element. The element does
 not add any semantic meaning to the text or document. Often, it is used
 to add a CSS style to the text:
 
-**\<span\>This text is in the span element.\</span\> strong**
+**&lt;span\>This text is in the span element.&lt;/span\> strong**
 
 The syntax of the **strong** element is as follows:
 
-> **\<strong\>\</strong\>**
+> **&lt;strong\>&lt;/strong\>**
 
 **Description**
 
 The **strong** element should be used when certain text needs more
 importance. This carries some semantic meaning. The **strong**
-element\'s default style in most browsers is bold. This should not then
+element&apos;s default style in most browsers is bold. This should not then
 be interchangeable with the **b** element, as that does not carry any
 semantic meaning.
 
 Here is an example:
 
-**\<strong\>Warning!\</strong\> JavaScript must be enabled. sub**
+**&lt;strong\>Warning!&lt;/strong\> JavaScript must be enabled. sub**
 
 The **sub** element is the subscript element:
 
-> **\<sub\>\</sub\>**
+> **&lt;sub\>&lt;/sub\>**
 >
 > **sub** element will render the text as a subscript.
 
 Here is an example:
 
-**H\<sub\>2\</sub\>O sup**
+**H&lt;sub\>2&lt;/sub\>O sup**
 
 The **sup** element is the superscript element:
 
-> **\<sup\>\</sup\>**
+> **&lt;sup\>&lt;/sup\>**
 
 **Description**
 
@@ -3386,11 +3387,11 @@ The **sup** element will render the text as a superscript.
 
 Here is an example:
 
-**x\<sup\>2\</sup\> is what x squared should look like time**
+**x&lt;sup\>2&lt;/sup\> is what x squared should look like time**
 
 The syntax of the **time** element is as follows:
 
-> **\<time datetime\>\</time\>**
+> **&lt;time datetime\>&lt;/time\>**
 
 **Attributes**
 
@@ -3406,15 +3407,15 @@ read.
 
 Here is an example:
 
-> **The party is on \<time datetime=\"2014-11-27 14:00\"\>**
+> **The party is on &lt;time datetime=&quot;2014-11-27 14:00&quot;\>**
 >
-> **Thanksgiving @ 2PM\</time\>**
+> **Thanksgiving @ 2PM&lt;/time\>**
 
 ### var
 
 The **var** element is the variable element:
 
-> **\<var\>\</var\>**
+> **&lt;var\>&lt;/var\>**
 
 **Description**
 
@@ -3423,12 +3424,12 @@ or for programming.
 
 Here is an example:
 
-**The variable \<var\>x\</var\> is equal to the string test in this
+**The variable &lt;var\>x&lt;/var\> is equal to the string test in this
 example. wbr**
 
 The **wbr** element is the word break opportunity element:
 
-> **\<wbr\>**
+> **&lt;wbr\>**
 
 **Description**
 
@@ -3441,7 +3442,7 @@ It is an empty tag, meaning that it should not have an ending tag.
 
 Here is an example:
 
-> **If you have a really short width \<wbr\>then you \<wbr\> could have
+> **If you have a really short width &lt;wbr\>then you &lt;wbr\> could have
 > breaks.**
 
 ## Embedded content
@@ -3451,7 +3452,7 @@ document. **img**
 
 The **img** element is the image element:
 
-> **\<img alt crossorigin height ismap sizes src srcset width /\>**
+> **&lt;img alt crossorigin height ismap sizes src srcset width /\>**
 
 **Attributes**
 
@@ -3496,7 +3497,7 @@ page; otherwise, it defaults to the size of the image.
 The **crossorigin** element can be confusing. It is used to ensure that
 you have ownership of an image before you modify the image in a canvas
 element. The image needs to either be from the same fully qualified
-domain name or the server\'s response must let the browser know whether
+domain name or the server&apos;s response must let the browser know whether
 the current domain can use the image.
 
 Finally, **srcset** is used to give the browser a list of images that it
@@ -3514,7 +3515,7 @@ should use for the image.
 
 The **sizes** element is used along with **srcset** to help the browser
 identify a break point. This is done using a media condition, for
-example, **\"(min-width: 1600px) 25vw, 100vw\"**. This states that if
+example, **&quot;(min-width: 1600px) 25vw, 100vw&quot;**. This states that if
 the width of the page is at least **1600** pixels, the images will be
 25% of the view width, otherwise the view width is 100%. This helps the
 browser know where you want a break point and how large you want the
@@ -3529,26 +3530,26 @@ image to be.
 Here are a few examples. The first example is a simple **img** tag and
 the next one uses **crossorigin**:
 
-> **\<img src=\"example.png\" alt=\"This is an example image\"/\>**
+> **&lt;img src=&quot;example.png&quot; alt=&quot;This is an example image&quot;/\>**
 >
-> **\<img src=\"example.png\" crossorigin=\"anonymous\" alt=\"This is an
-> example image\"/\>**
+> **&lt;img src=&quot;example.png&quot; crossorigin=&quot;anonymous&quot; alt=&quot;This is an
+> example image&quot;/\>**
 
 Here is a **srcset** example that lets the browser choose the image
 based on pixel density:
 
-**\<img src=\"normal.jpg\" srcset=\"normal.jpg 1x, retina.jpg 2x\"
-alt=\"Image of Person in article\" /\>** The following is an example
+**&lt;img src=&quot;normal.jpg&quot; srcset=&quot;normal.jpg 1x, retina.jpg 2x&quot;
+alt=&quot;Image of Person in article&quot; /\>** The following is an example
 using **srcset** and widths:
 
-> **\<img src=\"regular.jpg\" srcset=\"double_size.jpg 1000w,
-> regular.jpg 500w\" sizes=\"100vw\" alt=\"A bird\"/\>**
+> **&lt;img src=&quot;regular.jpg&quot; srcset=&quot;double_size.jpg 1000w,
+> regular.jpg 500w&quot; sizes=&quot;100vw&quot; alt=&quot;A bird&quot;/\>**
 
 **iframe**
 
 The **iframe** element is the inline frame element:
 
-> **\<iframe height name seamless src width\>\</iframe\>**
+> **&lt;iframe height name seamless src width\>&lt;/iframe\>**
 
 **Attributes**
 
@@ -3573,18 +3574,18 @@ The **iframe** element is used to embed another full HTML document
 inside the current document.
 
 Here is an example that loads the Google homepage and another that loads
-Packt Publishing\'s page:
+Packt Publishing&apos;s page:
 
-> **\<iframe src=\"http://www.google.com\"\>\</iframe\>**
+> **&lt;iframe src=&quot;http://www.google.com&quot;\>&lt;/iframe\>**
 >
-> **\<iframe height=\"100px\" name=\"remote-document\"**
+> **&lt;iframe height=&quot;100px&quot; name=&quot;remote-document&quot;**
 
-**seamless src=\"https://www.packtpub.com/\"
-width=\"100px\"\>\</iframe\> embed**
+**seamless src=&quot;https://www.packtpub.com/&quot;
+width=&quot;100px&quot;\>&lt;/iframe\> embed**
 
 The syntax of the **embed** element is as follows:
 
-> **\<embed height src type width/\>**
+> **&lt;embed height src type width/\>**
 
 **Attributes**
 
@@ -3605,7 +3606,7 @@ There are other elements for embedding objects as well, depending on
 their type. For example, you can embed a video using the video element,
 as follows:
 
-> **\<embed src=\"example.mp4\" type=\"video/mp4\"/\>**
+> **&lt;embed src=&quot;example.mp4&quot; type=&quot;video/mp4&quot;/\>**
 
 **See also**
 
@@ -3614,7 +3615,7 @@ to learn more about the **embed** element. **object**
 
 The syntax of the **object** element is as follows:
 
-> **\<object data height type width\>\</object\>**
+> **&lt;object data height type width\>&lt;/object\>**
 
 **Attributes**
 
@@ -3635,10 +3636,10 @@ This has historically been used for the **Flash** objects.
 
 Here is an example:
 
-> **\<object data=\"example.swf\"
-> type=\"application/x-shockwave-flash\"\>**
+> **&lt;object data=&quot;example.swf&quot;
+> type=&quot;application/x-shockwave-flash&quot;\>**
 >
-> **\</object\>**
+> **&lt;/object\>**
 
 **See also**
 
@@ -3649,7 +3650,7 @@ attributes to find out more about the **object** element.
 
 The **param** element is the parameter element:
 
-> **\<param name=\"movie\" value=\"video.swf\"/\>**
+> **&lt;param name=&quot;movie&quot; value=&quot;video.swf&quot;/\>**
 
 **Attributes**
 
@@ -3667,15 +3668,15 @@ parent of this element should be an **object** element.
 Here is an example. This example is useful when using objects on older
 browsers:
 
-> **\<object data=\"example.swf\"
-> type=\"application/x-shockwave-flash\"\>**
+> **&lt;object data=&quot;example.swf&quot;
+> type=&quot;application/x-shockwave-flash&quot;\>**
 
-**\<param name=\"movie\" value=\"example.swf\" /\> \</object\> video**
+**&lt;param name=&quot;movie&quot; value=&quot;example.swf&quot; /\> &lt;/object\> video**
 
 The syntax of the **video** element is as follows:
 
-> **\<video autoplay buffered controls crossorigin height loop muted
-> played poster src width\>\</video\>**
+> **&lt;video autoplay buffered controls crossorigin height loop muted
+> played poster src width\>&lt;/video\>**
 
 **Attributes**
 
@@ -3727,13 +3728,13 @@ fallback content into the element.
 Here is an example using the **video** element and another that
 demonstrates possible values for all of the attributes:
 
-> **\<video src=\"example.mp4\" autoplay poster=**
+> **&lt;video src=&quot;example.mp4&quot; autoplay poster=**
 >
-> **\"example-poster.png\"\>\</video\>**
+> **&quot;example-poster.png&quot;\>&lt;/video\>**
 >
-> **\<video autoplay buffered controls crossorigin=\"anonymous\"
-> height=\"100px\" loop muted played poster=\"cover.jpg\"
-> src=\"video.ogg\" width=\"100px\"\>\</video\>**
+> **&lt;video autoplay buffered controls crossorigin=&quot;anonymous&quot;
+> height=&quot;100px&quot; loop muted played poster=&quot;cover.jpg&quot;
+> src=&quot;video.ogg&quot; width=&quot;100px&quot;\>&lt;/video\>**
 
 **See also**
 
@@ -3742,9 +3743,9 @@ out more about the **video** element. **audio**
 
 The syntax of the **audio** element is as follows:
 
-> **\<audio autoplay buffered controls loop muted played**
+> **&lt;audio autoplay buffered controls loop muted played**
 >
-> **src volume\>\</audio\>**
+> **src volume\>&lt;/audio\>**
 
 **Attributes**
 
@@ -3785,10 +3786,10 @@ content into the element.
 
 Here is an example using the **audio** element:
 
-> **\<audio src=\"test.mp3\" autoplay loop\> Your browsers does not
+> **&lt;audio src=&quot;test.mp3&quot; autoplay loop\> Your browsers does not
 > support the audio element.**
 >
-> **\</audio\>**
+> **&lt;/audio\>**
 
 **See also**
 
@@ -3797,7 +3798,7 @@ out more about the **audio** element. **source**
 
 The syntax of the **source** element is as follows:
 
-> **\<source src type /\>**
+> **&lt;source src type /\>**
 
 **Attributes**
 
@@ -3818,13 +3819,13 @@ other.
 
 Here is an example with an **audio** element:
 
-> **\<audio autoplay controls\>**
+> **&lt;audio autoplay controls\>**
 >
-> **\<source src=\"test.ogg\" type=\"audio/ogg\" /\>**
+> **&lt;source src=&quot;test.ogg&quot; type=&quot;audio/ogg&quot; /\>**
 >
-> **\<source src=\"test.mp3\" type=\"audio/mpeg\"\>**
+> **&lt;source src=&quot;test.mp3&quot; type=&quot;audio/mpeg&quot;\>**
 >
-> **\</audio\>**
+> **&lt;/audio\>**
 
 **See also**
 
@@ -3833,7 +3834,7 @@ more about the **audio** element. **track**
 
 The syntax of the **track** element is as follows:
 
-> **\<track default kind label src /\>**
+> **&lt;track default kind label src /\>**
 
 **Attributes**
 
@@ -3857,14 +3858,14 @@ to videos.
 
 Here is an example video with captions:
 
-> **\<video src=\"test.mp4\"\>**
+> **&lt;video src=&quot;test.mp4&quot;\>**
 >
-> **\<track label=\"English\" kind=\"captions\" src=\"en.vtt\"
+> **&lt;track label=&quot;English&quot; kind=&quot;captions&quot; src=&quot;en.vtt&quot;
 > default\>**
 >
-> **\<track label=\"Spanish\" kind=\"captions\" src=\"sp.vtt\"\>**
+> **&lt;track label=&quot;Spanish&quot; kind=&quot;captions&quot; src=&quot;sp.vtt&quot;\>**
 >
-> **\</video\>**
+> **&lt;/video\>**
 
 ## Tables
 
@@ -3875,7 +3876,7 @@ data. **table**
 
 The syntax of the **table** element is as follows:
 
-> **\<table\>\</table\>**
+> **&lt;table\>&lt;/table\>**
 
 **Description**
 
@@ -3884,19 +3885,19 @@ other elements in this section must be children of this element.
 
 Here is a simple example of the **table** element:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<td\>Column in Row 1\</td\>**
+> **&lt;td\>Column in Row 1&lt;/td\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 
-**\</table\> caption**
+**&lt;/table\> caption**
 
 The syntax of the **caption** element is as follows:
 
-> **\<caption\>\</caption\>**
+> **&lt;caption\>&lt;/caption\>**
 >
 > **caption** element will be the title of the table. This element must
 > be the first child
@@ -3905,23 +3906,23 @@ of the **table** element.
 
 Here is a simple example:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<caption\>Caption for the table\</caption\>**
+> **&lt;caption\>Caption for the table&lt;/caption\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<td\>Column in Row 1\</td\>**
+> **&lt;td\>Column in Row 1&lt;/td\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</table\>**
+> **&lt;/table\>**
 
 ### colgroup
 
 The **colgroup** element is the column group element:
 
-> **\<colgroup span\>\</colgroup\>**
+> **&lt;colgroup span\>&lt;/colgroup\>**
 
 **Attributes**
 
@@ -3936,7 +3937,7 @@ specific columns. **tbody**
 
 The **tbody** attribute is the table body element:
 
-> **\<tbody\>\</tbody\>**
+> **&lt;tbody\>&lt;/tbody\>**
 
 **Description**
 
@@ -3946,23 +3947,23 @@ or more **tr** elements as its children.
 
 Here is an example:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tbody\>**
+> **&lt;tbody\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<td\>Column in Row 1\</td\>**
+> **&lt;td\>Column in Row 1&lt;/td\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</tbody\>**
+> **&lt;/tbody\>**
 
-**\</table\> thead**
+**&lt;/table\> thead**
 
 The **thead** element is the table head element:
 
-> **\<thead\>\</thead\>**
+> **&lt;thead\>&lt;/thead\>**
 
 **Description**
 
@@ -3971,33 +3972,33 @@ must appear before the **tbody** or **tfoot** elements.
 
 Here is an example:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<thead\>**
+> **&lt;thead\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<th\>Heading 1\</th\>**
+> **&lt;th\>Heading 1&lt;/th\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</thead\>**
+> **&lt;/thead\>**
 >
-> **\<tbody\>**
+> **&lt;tbody\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<td\>Column in Row 1\</td\>**
+> **&lt;td\>Column in Row 1&lt;/td\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</tbody\>**
+> **&lt;/tbody\>**
 
-**\</table\> tfoot**
+**&lt;/table\> tfoot**
 
 The **tfoot** element is the table footer element:
 
-> **\<tfoot\>\</tfoot\>**
+> **&lt;tfoot\>&lt;/tfoot\>**
 >
 > **tfoot** element is the footer for the table. It must be used after
 > any **thead**
@@ -4008,33 +4009,33 @@ always at the bottom.
 
 Here is an example:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tbody\>**
+> **&lt;tbody\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<td\>Column in Row 1\</td\>**
+> **&lt;td\>Column in Row 1&lt;/td\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</tbody\>**
+> **&lt;/tbody\>**
 >
-> **\<tfoot\>**
+> **&lt;tfoot\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<td\>Footer 1\</td\>**
+> **&lt;td\>Footer 1&lt;/td\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</tfoot\>**
+> **&lt;/tfoot\>**
 
-**\</table\> tr**
+**&lt;/table\> tr**
 
 The **tr** element is the table row element:
 
-> **\<tr\>\</tr\>**
+> **&lt;tr\>&lt;/tr\>**
 
 **Description**
 
@@ -4045,25 +4046,25 @@ either a **td** or **th** as its child.
 
 Here is an example:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tbody\>**
+> **&lt;tbody\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<td\>Column in Row 1\</td\>**
+> **&lt;td\>Column in Row 1&lt;/td\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</tbody\>**
+> **&lt;/tbody\>**
 >
-> **\</table\>**
+> **&lt;/table\>**
 
 ### td
 
 The **td** element is the table cell element:
 
-> **\<td colspan headers rowspan\>\</td\>**
+> **&lt;td colspan headers rowspan\>&lt;/td\>**
 
 **Attributes**
 
@@ -4085,25 +4086,25 @@ taller, respectively.
 
 Here is an example:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tbody\>**
+> **&lt;tbody\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<td\>Column in Row 1\</td\>**
+> **&lt;td\>Column in Row 1&lt;/td\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</tbody\>**
+> **&lt;/tbody\>**
 >
-> **\</table\>**
+> **&lt;/table\>**
 
 ### th
 
 The **th** element is the table header cell element:
 
-> **\<th colspan rowspan\>\</th\>**
+> **&lt;th colspan rowspan\>&lt;/th\>**
 
 **Attributes**
 
@@ -4119,19 +4120,19 @@ The attributes that are used in the **th** element are as follows:
 
 Here is an example:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<thead\>**
+> **&lt;thead\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<th\>Header\</th\>**
+> **&lt;th\>Header&lt;/th\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</thead\>**
+> **&lt;/thead\>**
 >
-> **\</table\>**
+> **&lt;/table\>**
 
 ## Forms
 
@@ -4144,8 +4145,8 @@ process.
 
 The syntax of the **form** element is as follows:
 
-> **\<form accept-charset action autocomplete enctype method name
-> novalidate target\>\</form\>**
+> **&lt;form accept-charset action autocomplete enctype method name
+> novalidate target\>&lt;/form\>**
 
 **Attributes**
 
@@ -4180,17 +4181,17 @@ different elements inside of the form.
 
 Here is a simple form of the syntax:
 
-> **\<form action=\"processForm\" method=\"post\"\>**
+> **&lt;form action=&quot;processForm&quot; method=&quot;post&quot;\>**
 >
-> **\<input type=\"text\" name=\"text-input\"/\>**
+> **&lt;input type=&quot;text&quot; name=&quot;text-input&quot;/\>**
 >
-> **\<button type=\"submit\"\>Submit!\</button\> \</form\>**
+> **&lt;button type=&quot;submit&quot;\>Submit!&lt;/button\> &lt;/form\>**
 
 ### fieldset
 
 The syntax of the **fieldset** element is as follows:
 
-> **\<fieldset disabled form name\>\</fieldset\>**
+> **&lt;fieldset disabled form name\>&lt;/fieldset\>**
 
 **Attributes**
 
@@ -4213,17 +4214,17 @@ that as its label.
 
 Here is an example of using the **fieldset** element:
 
-> **\<form action=\"processForm\" method=\"post\"\>**
+> **&lt;form action=&quot;processForm&quot; method=&quot;post&quot;\>**
 >
-> **\<fieldset\>**
+> **&lt;fieldset\>**
 >
-> **\<legend\>This is a fieldset\</legend\>**
+> **&lt;legend\>This is a fieldset&lt;/legend\>**
 >
-> **\<input type=\"text\" name=\"text-input\" /\>**
+> **&lt;input type=&quot;text&quot; name=&quot;text-input&quot; /\>**
 >
-> **\</fieldset\>**
+> **&lt;/fieldset\>**
 >
-> **\</form\>**
+> **&lt;/form\>**
 
 **See also**
 
@@ -4234,7 +4235,7 @@ the **fieldset** element.
 
 The syntax of the **legend** element is as follows:
 
-> **\<legend\>\</legend\>**
+> **&lt;legend\>&lt;/legend\>**
 
 **Description**
 
@@ -4248,7 +4249,7 @@ the **legend** element. **label**
 
 The syntax of the **label** element is as follows:
 
-> **\<label accesskey for form\>\</label\>**
+> **&lt;label accesskey for form\>&lt;/label\>**
 
 **Attributes**
 
@@ -4271,23 +4272,23 @@ will be in the input.
 Here is an example that covers each different way of labeling an
 element:
 
-> **\<form action=\"processForm\" method=\"post\"\>**
+> **&lt;form action=&quot;processForm&quot; method=&quot;post&quot;\>**
 >
-> **\<label\>First name: \<input type=\"text\" name=\"firstName\"
-> /\>\</label\>**
+> **&lt;label\>First name: &lt;input type=&quot;text&quot; name=&quot;firstName&quot;
+> /\>&lt;/label\>**
 >
-> **\<label for=\"lastNameInput\"\>Last name:**
+> **&lt;label for=&quot;lastNameInput&quot;\>Last name:**
 
-**\</label\>\<input id=\"lastNameInput\" type=\"text\" name=\"lastName\"
-/\> \</form\> input**
+**&lt;/label\>&lt;input id=&quot;lastNameInput&quot; type=&quot;text&quot; name=&quot;lastName&quot;
+/\> &lt;/form\> input**
 
 The syntax of the **input** element is as shown:
 
-> **\<input accept autocomplete autofocus checked disabled form
+> **&lt;input accept autocomplete autofocus checked disabled form
 > formaction formenctype formmethod formnovalidate formtarget height
 > inputmode max maxlength min minlength multiple name placeholder
 > readonly required size spellcheck src step tabindex type value
-> width\>\</input\>**
+> width\>&lt;/input\>**
 
 **Attributes**
 
@@ -4310,7 +4311,7 @@ The attributes that are used in the **input** element are as follows:
 -   **form**: This states the ID of the form.
 
 -   **formaction**, **formenctype**, **formmethod**, **formnovalidate**,
-    and **formtarget**: These will override the form\'s value if these
+    and **formtarget**: These will override the form&apos;s value if these
     attributes are associated with a button or image.
 
 -   **height**: This is used to set the height of the image.
@@ -4420,16 +4421,16 @@ different types of keyboards and their description:
 
 Here is an example of the **text**, **e-mail**, and **tel** inputs:
 
-> **\<input type=\"text\" name=\"name\" placeholder=\"enter email\"/\>**
+> **&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;enter email&quot;/\>**
 >
-> **\<input type=\"email\" /\>**
+> **&lt;input type=&quot;email&quot; /\>**
 
-**\<input type=\"tel\" /\> button**
+**&lt;input type=&quot;tel&quot; /\> button**
 
 The syntax of the **button** element is as follows:
 
-> **\<button autofocus disabled form formaction formenctype formmethod
-> formnovalidate formtarget name type value\>\</button\>**
+> **&lt;button autofocus disabled form formaction formenctype formmethod
+> formnovalidate formtarget name type value\>&lt;/button\>**
 
 **Attributes**
 
@@ -4444,7 +4445,7 @@ The attributes that are used in the **button** element are as follows:
 -   **form**: This is the ID of the form.
 
 -   **formaction**, **formenctype**, **formmethod**, **formnovalidate**,
-    and **formtarget**: These will override the form\'s value if this is
+    and **formtarget**: These will override the form&apos;s value if this is
     a button or image.
 
 -   **name**: This is the name of the button for the form.
@@ -4462,14 +4463,14 @@ the **type** attribute will change its behavior.
 
 Here is an example of the **reset** and **submit** buttons:
 
-> **\<button type=\"reset\"\>Reset\</button\>**
+> **&lt;button type=&quot;reset&quot;\>Reset&lt;/button\>**
 
-**\<button type=\"submit\"\>Submit\</button\> select**
+**&lt;button type=&quot;submit&quot;\>Submit&lt;/button\> select**
 
 The syntax of the **select** element is as follows:
 
-> **\<select autofocus disabled form multiple name required size
-> \>\</select\>**
+> **&lt;select autofocus disabled form multiple name required size
+> \>&lt;/select\>**
 
 **Attributes**
 
@@ -4499,13 +4500,13 @@ The value of the selected option is used when the form is submitted.
 
 Here is an example:
 
-> **\<select name=\"select\"\>**
+> **&lt;select name=&quot;select&quot;\>**
 >
-> **\<option value=\"1\"\>One\</option\>**
+> **&lt;option value=&quot;1&quot;\>One&lt;/option\>**
 >
-> **\<option value=\"2\"\>Two\</option\>**
+> **&lt;option value=&quot;2&quot;\>Two&lt;/option\>**
 >
-> **\</select\>**
+> **&lt;/select\>**
 
 **See also**
 
@@ -4514,7 +4515,7 @@ out more about the **button** element. **optgroup**
 
 The **optgroup** element is the option group element:
 
-> **\<optgroup disabled label\>\</optgroup\>**
+> **&lt;optgroup disabled label\>&lt;/optgroup\>**
 
 **Attributes**
 
@@ -4533,25 +4534,25 @@ not selectable and do not have a value.
 Here is an example of the **outgroup** element with car makes and
 models:
 
-> **\<select name=\"cars\"\>**
+> **&lt;select name=&quot;cars&quot;\>**
 >
-> **\<optgroup label=\"Ford\"\>**
+> **&lt;optgroup label=&quot;Ford&quot;\>**
 >
-> **\<option value=\"Fiesta\"\>Fiesta\</option\>**
+> **&lt;option value=&quot;Fiesta&quot;\>Fiesta&lt;/option\>**
 >
-> **\<option value=\"Taurus\"\>Taurus\</option\>**
+> **&lt;option value=&quot;Taurus&quot;\>Taurus&lt;/option\>**
 >
-> **\</optgroup\>**
+> **&lt;/optgroup\>**
 >
-> **\<optgroup label=\"Honda\"\>**
+> **&lt;optgroup label=&quot;Honda&quot;\>**
 >
-> **\<option value=\"Accord\"\>Accord\</option\>**
+> **&lt;option value=&quot;Accord&quot;\>Accord&lt;/option\>**
 >
-> **\<option value=\"Fit\"\>Fit\</option\>**
+> **&lt;option value=&quot;Fit&quot;\>Fit&lt;/option\>**
 >
-> **\</optgroup\>**
+> **&lt;/optgroup\>**
 >
-> **\</select\>**
+> **&lt;/select\>**
 
 **See also**
 
@@ -4560,7 +4561,7 @@ more about the **optgroup** element. **option**
 
 The syntax of the **option** element is as shown:
 
-> **\<option disabled selected value\>\</option\>**
+> **&lt;option disabled selected value\>&lt;/option\>**
 
 **Attributes**
 
@@ -4580,13 +4581,13 @@ They can either be the child of a **select** or **optgroup** element.
 
 Here is an example:
 
-> **\<select name=\"select\"\>**
+> **&lt;select name=&quot;select&quot;\>**
 >
-> **\<option value=\"1\"\>One\</option\>**
+> **&lt;option value=&quot;1&quot;\>One&lt;/option\>**
 >
-> **\<option value=\"2\"\>Two\</option\>**
+> **&lt;option value=&quot;2&quot;\>Two&lt;/option\>**
 >
-> **\</select\>**
+> **&lt;/select\>**
 
 **See also**
 
@@ -4595,9 +4596,9 @@ out more about the **option** element. **textarea**
 
 The syntax of the **textarea** element is as follows:
 
-> **\<textarea autocomplete autofocus cols disabled form maxlength
+> **&lt;textarea autocomplete autofocus cols disabled form maxlength
 > minlength name placeholder readonly required rows spellcheck
-> wrap\>\</textarea\>**
+> wrap\>&lt;/textarea\>**
 
 **Attributes**
 
@@ -4643,8 +4644,8 @@ You will use this when you need more text than just a single line.
 
 Here is an example:
 
-> **\<textarea cols=\"20\" rows=\"10\" placeholder=\"Input text
-> here\"\>\</textarea\>**
+> **&lt;textarea cols=&quot;20&quot; rows=&quot;10&quot; placeholder=&quot;Input text
+> here&quot;\>&lt;/textarea\>**
 
 ## Drawing elements
 
@@ -4656,7 +4657,7 @@ the browser. **canvas**
 
 The syntax of the **canvas** element is as follows:
 
-> **\<canvas height width\>\</canvas\>**
+> **&lt;canvas height width\>&lt;/canvas\>**
 
 **Attributes**
 
@@ -4676,17 +4677,17 @@ in JavaScript.
 
 Here is an example of a small **canvas** element:
 
-> **\<canvas height=\"400\" width=\"400\"\> Your browser does not
+> **&lt;canvas height=&quot;400&quot; width=&quot;400&quot;\> Your browser does not
 > support the canvas element.**
 >
-> **\</canvas\>**
+> **&lt;/canvas\>**
 
 ### svg
 
 The **svg** element is the **Scalable Vector Graphics** (**SVG**)
 element:
 
-> **\<svg height viewbox width \>\</svg\>**
+> **&lt;svg height viewbox width \>&lt;/svg\>**
 
 **Attributes**
 
@@ -4711,15 +4712,15 @@ Here is an example that demonstrates the difference between height,
 width, and viewport. The viewport takes up the bounds of the element,
 and height and width give the element its size:
 
-> **\<svg xmlns=\"http://www.w3.org/2000/svg\"
-> preserveAspectRatio=\"\"**
+> **&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot;
+> preserveAspectRatio=&quot;&quot;**
 >
-> **width=\"200\" height=\"100\" viewBox=\"0 0 400 200\"\>**
+> **width=&quot;200&quot; height=&quot;100&quot; viewBox=&quot;0 0 400 200&quot;\>**
 >
-> **\<rect x=\"0\" y=\"0\" width=\"400\" height=\"200\" fill=\"yellow\"
-> stroke=\"black\" stroke-width=\"3\" /\>**
+> **&lt;rect x=&quot;0&quot; y=&quot;0&quot; width=&quot;400&quot; height=&quot;200&quot; fill=&quot;yellow&quot;
+> stroke=&quot;black&quot; stroke-width=&quot;3&quot; /\>**
 >
-> **\</svg\>**
+> **&lt;/svg\>**
 
 # HTML Attributes
 
@@ -4741,7 +4742,7 @@ not mean that it will actually do anything. **accesskey**
 The **accesskey** attribute creates a keyboard shortcut to activate or
 focus on the element:
 
-> **\<element accesskey\>\</element\>**
+> **&lt;element accesskey\>&lt;/element\>**
 
 **Description**
 
@@ -4753,14 +4754,14 @@ Windows will use *Alt* + accesskey and most browsers on Mac use *Ctrl* +
 Here is an example using a textbox that can be focused on with the
 character **q**:
 
-> **\<input type=\"search\" name=\"q\" accesskey=\"q\"/\>**
+> **&lt;input type=&quot;search&quot; name=&quot;q&quot; accesskey=&quot;q&quot;/\>**
 
 ### class
 
 The **class** attribute is often used to help group similar elements for
 CSS selectors:
 
-> **\<element class\>\</element\>**
+> **&lt;element class\>&lt;/element\>**
 
 **Description**
 
@@ -4773,13 +4774,13 @@ Class takes a space-delimited list of class names.
 
 Here is an example that applies the **search-box** class to an element:
 
-**\<input type=\"search\" name=\"q\" class=\"search-box\"/\>
+**&lt;input type=&quot;search&quot; name=&quot;q&quot; class=&quot;search-box&quot;/\>
 contenteditable**
 
-The **contenteditable** attribute sets the element\'s content as
+The **contenteditable** attribute sets the element&apos;s content as
 editable:
 
-> **\<element contenteditable\>\</element\>**
+> **&lt;element contenteditable\>&lt;/element\>**
 
 **Description**
 
@@ -4790,15 +4791,15 @@ the element is editable.
 
 Here is an example with a **div** element:
 
-> **\<div contenteditable=\"true\"\>**
+> **&lt;div contenteditable=&quot;true&quot;\>**
 >
-> **Click here and edit this sentence!\</div\>**
+> **Click here and edit this sentence!&lt;/div\>**
 
-### data-\*
+### data-&ast;
 
-The **data-\*** attribute is the custom attribute for elements:
+The **data-&ast;** attribute is the custom attribute for elements:
 
-> **\<element data-\*\>\</-\>\</element\>**
+> **&lt;element data-&ast;\>&lt;/-\>&lt;/element\>**
 
 **Description**
 
@@ -4809,17 +4810,17 @@ any uppercase letters. The value can be anything.
 Here is a list of items with the **data-id** attributes. Note that the
 attribute name **dataid** is arbitrary. You can use any valid name here:
 
-> **\<li data-id=\"1\"\>First Row\</li\>**
+> **&lt;li data-id=&quot;1&quot;\>First Row&lt;/li\>**
 >
-> **\<li data-id=\"2\"\>Second Row\</li\>**
+> **&lt;li data-id=&quot;2&quot;\>Second Row&lt;/li\>**
 >
-> **\<li data-id=\"3\"\>Third Row\</li\>**
+> **&lt;li data-id=&quot;3&quot;\>Third Row&lt;/li\>**
 
 ### dir
 
 The **dir** attribute defines the text direction:
 
-> **\<element dir\>\</element\>**
+> **&lt;element dir\>&lt;/element\>**
 
 **Description**
 
@@ -4834,15 +4835,15 @@ direction. The following are its possible values:
 
 Here is an example for the **ltr** and **rtl** attributes.
 
-> **\<div dir=\"ltr\"\>Left to Right\</div\>**
+> **&lt;div dir=&quot;ltr&quot;\>Left to Right&lt;/div\>**
 >
-> **\<div dir=\"rtl\"\>Right to Left\</div\>**
+> **&lt;div dir=&quot;rtl&quot;\>Right to Left&lt;/div\>**
 
 ### draggable
 
 The **draggable** attribute defines whether the element is draggable:
 
-> **\<element draggable-\>\</element\>**
+> **&lt;element draggable-\>&lt;/element\>**
 
 **Description**
 
@@ -4852,13 +4853,13 @@ fully:
 
 Here is an example:
 
-> **\<div draggable=\"true\"\>You can drag me.\</div\>**
+> **&lt;div draggable=&quot;true&quot;\>You can drag me.&lt;/div\>**
 
 **hidden**
 
 The **hidden** attribute prevents the rendering of the element:
 
-> **\<element hidden\>\</element\>**
+> **&lt;element hidden\>&lt;/element\>**
 
 **Description**
 
@@ -4869,13 +4870,13 @@ is a Boolean attribute so including this attribute sets the value to
 
 Here is an example:
 
-> **\<div hidden\>This should not show\</div\>**
+> **&lt;div hidden\>This should not show&lt;/div\>**
 
 ### id
 
 The **id** attribute is a unique identifier of the element:
 
-> **\<element id\>\</element\>**
+> **&lt;element id\>&lt;/element\>**
 
 **Description**
 
@@ -4885,13 +4886,13 @@ CSS.
 
 Here is an example using a **div** element:
 
-> **\<div id=\"the-first-div\"\>This is the first div.\</div\>**
+> **&lt;div id=&quot;the-first-div&quot;\>This is the first div.&lt;/div\>**
 
 ### lang
 
 The **lang** attribute defines the language used in the element:
 
-> **\<element lang\>\</element\>**
+> **&lt;element lang\>&lt;/element\>**
 
 **Description**
 
@@ -4904,14 +4905,14 @@ correct pronunciation.
 
 Here is a simple example using English:
 
-> **\<div lang=\"en\"\>The language of this element is
-> English.\</div\>**
+> **&lt;div lang=&quot;en&quot;\>The language of this element is
+> English.&lt;/div\>**
 
 ### spellcheck
 
 The **spellcheck** attribute specifies whether spell check can be used:
 
-> **\<element spellcheck\>\</element\>**
+> **&lt;element spellcheck\>&lt;/element\>**
 
 **Description**
 
@@ -4921,15 +4922,15 @@ either be **true** or **false**.
 
 Here is an example using textarea:
 
-> **\<textarea spellcheck=\"false\"\>**
+> **&lt;textarea spellcheck=&quot;false&quot;\>**
 >
-> **Moste fo teh worsd r mispeld.\</textarea\>**
+> **Moste fo teh worsd r mispeld.&lt;/textarea\>**
 
 ### style
 
 The **style** attribute is used to set the inline style:
 
-> **\<element style\>\</element\>**
+> **&lt;element style\>&lt;/element\>**
 
 **Description**
 
@@ -4940,12 +4941,12 @@ CSS.
 
 Here is an example that sets the background to red and text to white:
 
-**\<div style=\"background: #ff0000; color: #ffffff\"\> This has inline
-styles.\</div\> tabindex**
+**&lt;div style=&quot;background: #ff0000; color: #ffffff&quot;\> This has inline
+styles.&lt;/div\> tabindex**
 
 The **tabindex** attribute sets the tab order:
 
-> **\<element tabindex\>\</element\>**
+> **&lt;element tabindex\>&lt;/element\>**
 
 **Description**
 
@@ -4960,15 +4961,15 @@ positive number and it will set the tab order.
 The following example demonstrates that you can set **tabindex** in a
 different order to where the elements are in the document:
 
-> **\<input type=\"text\" tabindex=\"1\" /\>**
+> **&lt;input type=&quot;text&quot; tabindex=&quot;1&quot; /\>**
 >
-> **\<input type=\"text\" tabindex=\"3\" /\>**
+> **&lt;input type=&quot;text&quot; tabindex=&quot;3&quot; /\>**
 
-**\<input type=\"text\" tabindex=\"2\" /\> title**
+**&lt;input type=&quot;text&quot; tabindex=&quot;2&quot; /\> title**
 
 The **title** attribute is the text for a tooltip:
 
-> **\<element title\>\</element\>**
+> **&lt;element title\>&lt;/element\>**
 
 **Description**
 
@@ -4977,9 +4978,9 @@ Usually, the title is shown as a tooltip for the element. For example,
 when using an image, this could be the name of the image or a photo
 credit:
 
-> **\<p title=\"Some extra information.\"\>**
+> **&lt;p title=&quot;Some extra information.&quot;\>**
 >
-> **This is a paragraph of text.\</p\>**
+> **This is a paragraph of text.&lt;/p\>**
 
 ## Miscellaneous
 
@@ -4988,7 +4989,7 @@ can be used on many different elements. **accept**
 
 The **accept** attribute gives the list of types for the server:
 
-> **\<element accept\>\</element\>**
+> **&lt;element accept\>&lt;/element\>**
 
 **Elements**
 
@@ -4998,16 +4999,16 @@ The elements used in the **accept** attribute are **form** and
 **Description**
 
 The **accept** attribute allows you to suggest the file type that this
-form or input should accept. You can use **audio/\***, **video/\***,
-**image/\***, a MIME type, or the extension.
+form or input should accept. You can use **audio/&ast;**, **video/&ast;**,
+**image/&ast;**, a MIME type, or the extension.
 
 Here is an example looking for PNG files:
 
-**\<input type=\"file\" accept=\".png, image/png\"/\> accept-charset**
+**&lt;input type=&quot;file&quot; accept=&quot;.png, image/png&quot;/\> accept-charset**
 
 The **accept-charset** attribute gives the list of support charsets:
 
-> **\<element accept-charset\>\</element\>**
+> **&lt;element accept-charset\>&lt;/element\>**
 
 **Elements**
 
@@ -5021,14 +5022,14 @@ many languages.
 
 Here is an example of using the **charset** attribute:
 
-> **\<form accept-charset=\"UTF-8\"\>\</form\>**
+> **&lt;form accept-charset=&quot;UTF-8&quot;\>&lt;/form\>**
 
 ### action
 
 The **action** attribute is where the form is processed, the syntax is
 as follows:
 
-> **\<element action \>\</element\>**
+> **&lt;element action \>&lt;/element\>**
 
 **Elements**
 
@@ -5037,11 +5038,11 @@ The **form** element is used in the **action** element.
 **Description**
 
 The **action** attribute consists of the URL that will process the
-form\'s data.
+form&apos;s data.
 
 Here is an example:
 
-> **\<form action=\"form-process.php\"\>\</form\>**
+> **&lt;form action=&quot;form-process.php&quot;\>&lt;/form\>**
 >
 > [www.allitebooks.com](http://www.allitebooks.org/)
 
@@ -5049,7 +5050,7 @@ Here is an example:
 
 The **alt** attribute is an alternative text for the element:
 
-> **\<element alt \>\</element\>**
+> **&lt;element alt \>&lt;/element\>**
 
 **Elements**
 
@@ -5068,14 +5069,14 @@ standardized behavior.
 
 Here is an example using an image:
 
-> **\<img alt=\"Login button.\" src=\"non-loading-image.png\"/\>**
+> **&lt;img alt=&quot;Login button.&quot; src=&quot;non-loading-image.png&quot;/\>**
 
 ### async
 
 The **async** attribute is used for the asynchronous execution of the
 script:
 
-> **\<element async \>\</element\>**
+> **&lt;element async \>&lt;/element\>**
 
 **Elements**
 
@@ -5090,14 +5091,14 @@ without blocking the rendering of the page.
 
 Here is an example:
 
-> **\<script src=\"application.js\" async\>\</script\>**
+> **&lt;script src=&quot;application.js&quot; async\>&lt;/script\>**
 
 ### autocomplete
 
 The **autocomplete** attribute defines whether the element can be
 autocompleted:
 
-> **\<element autocomplete \>\</element\>**
+> **&lt;element autocomplete \>&lt;/element\>**
 
 **Elements**
 
@@ -5112,15 +5113,15 @@ have **on** and **off** as the values.
 
 Here is an example:
 
-> **\<input type=\"text\" autocomplete=\"off\" placeholder=\"Will not
-> autocomplete\"/\>**
+> **&lt;input type=&quot;text&quot; autocomplete=&quot;off&quot; placeholder=&quot;Will not
+> autocomplete&quot;/\>**
 
 ### autofocus
 
 The **autofocus** attribute defines whether the element would be focused
 automatically on the elements:
 
-> **\<element autofocus \>\</element\>**
+> **&lt;element autofocus \>&lt;/element\>**
 
 **Elements**
 
@@ -5134,14 +5135,14 @@ should only be used on one element.
 
 Here is an example of the **autofocus** attribute with a text input:
 
-> **\<input type=\"text\" autofocus/\>**
+> **&lt;input type=&quot;text&quot; autofocus/\>**
 
 ### autoplay
 
 The **autoplay** attribute defines whether the audio or video track
 should play as soon as possible:
 
-> **\<element autoplay \>\</element\>**
+> **&lt;element autoplay \>&lt;/element\>**
 
 **Elements**
 
@@ -5155,14 +5156,14 @@ without having to stop to load.
 
 Here is an example with an audio file:
 
-> **\<audio autoplay src=\"audio.mps\"\>\</audio\>**
+> **&lt;audio autoplay src=&quot;audio.mps&quot;\>&lt;/audio\>**
 
 ### autosave
 
 The **autosave** attribute defines whether the previous values should be
 saved:
 
-> **\<element autosave \>\</element\>**
+> **&lt;element autosave \>&lt;/element\>**
 
 **Elements**
 
@@ -5178,13 +5179,13 @@ as it is not fully standardized.
 
 Here is an example:
 
-> **\<input type=\"text\" autosave=\"textautosave\" /\>**
+> **&lt;input type=&quot;text&quot; autosave=&quot;textautosave&quot; /\>**
 
 ### cite
 
 The **cite** attribute has the source of the quote:
 
-> **\<element cite \>\</element\>**
+> **&lt;element cite \>&lt;/element\>**
 
 **Elements**
 
@@ -5198,14 +5199,14 @@ URL.
 
 Here is an example:
 
-> **\<blockquote cite=**
+> **&lt;blockquote cite=**
 
-**\"http://en.wikiquote.org/wiki/The_Good,\_the_Bad_and_the_Ugly\"\>
-After a meal there\'s nothing like a good cigar. \</blockquote\> cols**
+**&quot;http://en.wikiquote.org/wiki/The_Good,\_the_Bad_and_the_Ugly&quot;\>
+After a meal there&apos;s nothing like a good cigar. &lt;/blockquote\> cols**
 
 The **cols** attribute gives the number of columns:
 
-> **\<element cols \>\</element\>**
+> **&lt;element cols \>&lt;/element\>**
 
 **Elements**
 
@@ -5218,14 +5219,14 @@ element.
 
 Here is an example of it in use:
 
-> **\<textarea cols=\"30\"\>\</textarea\>**
+> **&lt;textarea cols=&quot;30&quot;\>&lt;/textarea\>**
 
 ### colspan
 
 The **colspan** attribute gives the number of columns a cell should
 span:
 
-> **\<element colspan \>\</element\>**
+> **&lt;element colspan \>&lt;/element\>**
 
 **Elements**
 
@@ -5236,18 +5237,18 @@ The **td** and **th** elements are used in the **colspan** attribute.
 
 Here is an example using a table element:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tr\>\<td colspan=\"2\"\>1 and 2\</td\>\</tr\>**
+> **&lt;tr\>&lt;td colspan=&quot;2&quot;\>1 and 2&lt;/td\>&lt;/tr\>**
 >
-> **\<tr\>\<td\>1\</td\>\<td\>2\</td\>\</tr\> \</table\>**
+> **&lt;tr\>&lt;td\>1&lt;/td\>&lt;td\>2&lt;/td\>&lt;/tr\> &lt;/table\>**
 
 ### datetime
 
 The **datetime** attribute gives the date and time associated with this
 element:
 
-> **\<element datetime \>\</element\>**
+> **&lt;element datetime \>&lt;/element\>**
 
 **Elements**
 
@@ -5262,15 +5263,15 @@ and **ins** elements to show when the deletion or insertion occurred.
 
 Here is an example using **del**:
 
-> **My name is \<del
-> datetime=\"2014-12-16T23:59:60Z\"\>John\</del\>Josh.**
+> **My name is &lt;del
+> datetime=&quot;2014-12-16T23:59:60Z&quot;\>John&lt;/del\>Josh.**
 
 ### disabled
 
 The **disabled** attribute defines whether the element can be used or
 not:
 
-> **\<element disabled \>\</element\>**
+> **&lt;element disabled \>&lt;/element\>**
 
 **Elements**
 
@@ -5287,11 +5288,11 @@ and so on.
 
 Here is an example with a **button** element:
 
-**\<button disabled\>This is a disabled button\</button\> download**
+**&lt;button disabled\>This is a disabled button&lt;/button\> download**
 
 The **download** attribute sets a link to download a resource:
 
-> **\<element download \>\</element\>**
+> **&lt;element download \>&lt;/element\>**
 
 **Elements**
 
@@ -5306,14 +5307,14 @@ name.
 
 Here is an example:
 
-> **\<a href=\"example.pdf\" download=\"example.pdf\"\>Save the
-> PDF\</a\>**
+> **&lt;a href=&quot;example.pdf&quot; download=&quot;example.pdf&quot;\>Save the
+> PDF&lt;/a\>**
 
 ### content
 
 The **content** attribute gives a value to go with the name attribute:
 
-> **\<element content \>\</element\>**
+> **&lt;element content \>&lt;/element\>**
 
 **Elements**
 
@@ -5326,14 +5327,14 @@ The **meta** element is used in the content attribute.
 
 Here is an example:
 
-> **\<meta name=\"example\" content=\"value for example\" /\>**
+> **&lt;meta name=&quot;example&quot; content=&quot;value for example&quot; /\>**
 
 ### controls
 
 The **controls** attribute defines whether the controls should be
 displayed:
 
-> **\<element controls \>\</element\>**
+> **&lt;element controls \>&lt;/element\>**
 
 **Elements**
 
@@ -5347,14 +5348,14 @@ media file. This is a Boolean attribute.
 
 Here is an audio example:
 
-> **\<audio controls src=\"example.mp3\"\>\</audio\>**
+> **&lt;audio controls src=&quot;example.mp3&quot;\>&lt;/audio\>**
 
 ### for
 
 The **for** attribute sets the element this attribute is associated
 with:
 
-> **\<element for \>\</element\>**
+> **&lt;element for \>&lt;/element\>**
 
 **Elements**
 
@@ -5368,16 +5369,16 @@ will also allow the user to click on it and focus on the input.
 
 Here is an example with a text input:
 
-> **\<label for=\"username\"\>Username\</label\>**
+> **&lt;label for=&quot;username&quot;\>Username&lt;/label\>**
 >
-> **\<input type=\"text\" id=\"username\" name=\"username\" /\>**
+> **&lt;input type=&quot;text&quot; id=&quot;username&quot; name=&quot;username&quot; /\>**
 
 ### form
 
 The **form** attribute sets the form with which this input is
 associated:
 
-> **\<element form \>\</element\>**
+> **&lt;element form \>&lt;/element\>**
 
 **Elements**
 
@@ -5389,13 +5390,13 @@ The **button**, **fieldset**, **input**, **labellable**, **object**,
 
 The **form** attribute references the form that these controls are in:
 
-> **\<form method=\"get\" id=\"example-form\"\>**
+> **&lt;form method=&quot;get&quot; id=&quot;example-form&quot;\>**
 
-**\</form\> \<input type=\"text\" form=\"example-form\" /\> formaction**
+**&lt;/form\> &lt;input type=&quot;text&quot; form=&quot;example-form&quot; /\> formaction**
 
 The **formaction** attribute sets the form action for the element:
 
-> **\<element formaction \>\</element\>**
+> **&lt;element formaction \>&lt;/element\>**
 
 **Elements**
 
@@ -5412,14 +5413,14 @@ declared value on the form itself.
 
 Here is an example with a button:
 
-> **\<form method=\"get\" action=\"formaction.php\"\>**
+> **&lt;form method=&quot;get&quot; action=&quot;formaction.php&quot;\>**
 
-**\<button formaction=\"buttonaction.php\"\>Press me\</button\>
-\</form\> height**
+**&lt;button formaction=&quot;buttonaction.php&quot;\>Press me&lt;/button\>
+&lt;/form\> height**
 
 The **height** attribute sets the height of an element:
 
-> **\<element height \>\</element\>**
+> **&lt;element height \>&lt;/element\>**
 
 **Elements**
 
@@ -5438,13 +5439,13 @@ all other elements should use CSS to set their height.
 
 Here is an example with a canvas:
 
-> **\<canvas height=\"400\" width=\"400\"\>\</canvas\>**
+> **&lt;canvas height=&quot;400&quot; width=&quot;400&quot;\>&lt;/canvas\>**
 
 ### href
 
 The **href** attribute gives the URL of the resource:
 
-> **\<element href \>\</element\>**
+> **&lt;element href \>&lt;/element\>**
 
 **Elements**
 
@@ -5455,13 +5456,13 @@ The URL for the element is given by the **href** attribute.
 
 Here is an example with an anchor element:
 
-> **\<a href=\"http://www.google.com\"\>Google\</a\>**
+> **&lt;a href=&quot;http://www.google.com&quot;\>Google&lt;/a\>**
 
 ### hreflang
 
 The **hreflang** attribute states the language of the resource:
 
-> **\<element hreflang \>\</element\>**
+> **&lt;element hreflang \>&lt;/element\>**
 
 **Elements**
 
@@ -5476,12 +5477,12 @@ list here, but you can read the standard at
 
 Here is an example:
 
-**\<a href=\"http://www.google.com\" hreflang=\"en\"\>Google\</a\>
+**&lt;a href=&quot;http://www.google.com&quot; hreflang=&quot;en&quot;\>Google&lt;/a\>
 label**
 
 The **label** attribute states the title of the track:
 
-> **\<element label \>\</element\>**
+> **&lt;element label \>&lt;/element\>**
 
 **Elements**
 
@@ -5492,14 +5493,14 @@ title to the track.
 
 Here is an example with subtitles for a video:
 
-> **\<video src=\"sample.mp4\"\>**
+> **&lt;video src=&quot;sample.mp4&quot;\>**
 
-**\<track kind=\"subtitles\" label=\"English Subtitles\" src=\"en.vtt\"
-/\> \</video\> list**
+**&lt;track kind=&quot;subtitles&quot; label=&quot;English Subtitles&quot; src=&quot;en.vtt&quot;
+/\> &lt;/video\> list**
 
 The **list** attribute gives the list of options:
 
-> **\<element list \>\</element\>**
+> **&lt;element list \>&lt;/element\>**
 
 **Elements**
 
@@ -5512,20 +5513,20 @@ options for **input**.
 
 This example has a list of fruits for a text input:
 
-> **\<input type=\"text\" list=\"fruit\" /\>**
+> **&lt;input type=&quot;text&quot; list=&quot;fruit&quot; /\>**
 >
-> **\<datalist id=\"fruit\"\>**
+> **&lt;datalist id=&quot;fruit&quot;\>**
 >
-> **\<option\>Apple\</option\>**
+> **&lt;option\>Apple&lt;/option\>**
 >
-> **\<option\>Banana\</option\> \</datalist\>**
+> **&lt;option\>Banana&lt;/option\> &lt;/datalist\>**
 
 ### loop
 
 The **loop** attribute defines whether the element should loop the
 media:
 
-> **\<element loop \>\</element\>**
+> **&lt;element loop \>&lt;/element\>**
 
 **Elements**
 
@@ -5536,11 +5537,11 @@ on a loop.
 
 Here is an example with an **audio** element:
 
-**\<audio src=\"example.mp3\" loop\>\</audio\> max**
+**&lt;audio src=&quot;example.mp3&quot; loop\>&lt;/audio\> max**
 
 The **max** attribute defines the maximum value:
 
-> **\<element max \>\</element\>**
+> **&lt;element max \>&lt;/element\>**
 
 **Elements**
 
@@ -5554,11 +5555,11 @@ allowed.
 
 Here is an example with an input:
 
-**\<input type=\"number\" min=\"0\" max=\"5\" \> maxlength**
+**&lt;input type=&quot;number&quot; min=&quot;0&quot; max=&quot;5&quot; \> maxlength**
 
 The **maxlength** attribute defines the maximum number of characters:
 
-> **\<element maxlength \>\</element\>**
+> **&lt;element maxlength \>&lt;/element\>**
 
 **Elements**
 
@@ -5571,13 +5572,13 @@ The **maxlength** attribute sets the maximum number of characters.
 
 Here is an example with an input:
 
-> **\<input type=\"text\" maxlength=\"5\"\>**
+> **&lt;input type=&quot;text&quot; maxlength=&quot;5&quot;\>**
 
 ### media
 
 The **media** attribute sets the media for the linked resource:
 
-> **\<element media \>\</element\>**
+> **&lt;element media \>&lt;/element\>**
 
 **Elements**
 
@@ -5595,12 +5596,12 @@ values, but nothing that works across all.
 
 Here is an example with CSS to create a print stylesheet:
 
-**\<link rel=\"stylesheet\" href=\"print.css\" media=\"print\"/\>
+**&lt;link rel=&quot;stylesheet&quot; href=&quot;print.css&quot; media=&quot;print&quot;/\>
 method**
 
 The **method** attribute defines the HTTP method of form:
 
-> **\<element method \>\</element\>**
+> **&lt;element method \>&lt;/element\>**
 
 **Elements**
 
@@ -5614,11 +5615,11 @@ values are **GET**, which is the default, and **POST**.
 Here is an example of a form that submits using the **POST** HTTP
 method:
 
-**\<form method=\"post\" action=\"formaction.php\"\>\</form\> min**
+**&lt;form method=&quot;post&quot; action=&quot;formaction.php&quot;\>&lt;/form\> min**
 
 The **min** attribute defines the minimum value:
 
-> **\<element min \>\</element\>**
+> **&lt;element min \>&lt;/element\>**
 
 **Elements**
 
@@ -5631,14 +5632,14 @@ value for an input.
 
 Here is an example:
 
-> **\<input type=\"number\" min=\"2\"\>**
+> **&lt;input type=&quot;number&quot; min=&quot;2&quot;\>**
 
 ### multiple
 
 The **multiple** attribute defines whether multiple values can be
 selected:
 
-> **\<element multiple \>\</element\>**
+> **&lt;element multiple \>&lt;/element\>**
 
 **Elements**
 
@@ -5651,15 +5652,15 @@ a Boolean attribute.
 
 Here is an example:
 
-> **\<select multiple\>**
+> **&lt;select multiple\>**
 >
-> **\<option\>First\</option\>**
+> **&lt;option\>First&lt;/option\>**
 
-**\<option\>Second\</option\> \</select\> name**
+**&lt;option\>Second&lt;/option\> &lt;/select\> name**
 
 The **name** attribute is the name of the element:
 
-> **\<element name \>\</element\>**
+> **&lt;element name \>&lt;/element\>**
 
 **Elements**
 
@@ -5674,14 +5675,14 @@ value of the element in a submitted form.
 
 Here is an example with an input:
 
-> **\<input type=\"text\" id=\"username\" name=\"username\" /\>**
+> **&lt;input type=&quot;text&quot; id=&quot;username&quot; name=&quot;username&quot; /\>**
 
 ### novalidate
 
 The **novalidate** attribute defines whether the validation should be
 skipped:
 
-> **\<element novalidate \>\</element\>**
+> **&lt;element novalidate \>&lt;/element\>**
 
 **Elements**
 
@@ -5695,12 +5696,12 @@ client-side code. This is a Boolean attribute.
 
 Here is an example:
 
-**\<form method=\"post\" action=\"formaction.php\" novalidate\>\</form\>
+**&lt;form method=&quot;post&quot; action=&quot;formaction.php&quot; novalidate\>&lt;/form\>
 pattern**
 
 The **pattern** attribute defines a regular expression:
 
-> **\<element pattern \>\</element\>**
+> **&lt;element pattern \>&lt;/element\>**
 
 **Elements**
 
@@ -5713,13 +5714,13 @@ input.
 
 Here is an example that will only be valid with numbers:
 
-> **\<input pattern=\"\[0-9\].+\" type=\"text\" /\>**
+> **&lt;input pattern=&quot;&lbrack;0-9&rbrack;.+&quot; type=&quot;text&quot; /\>**
 
 ### placeholder
 
 The **placeholder** attribute gives a hint for the user in the element:
 
-> **\<element placeholder \>\</element\>**
+> **&lt;element placeholder \>&lt;/element\>**
 
 **Elements**
 
@@ -5734,12 +5735,12 @@ disappear once the element is interacted with.
 
 Here is an example with **input**:
 
-**\<input type=\"text\" name=\"username\" placeholder=\"Please enter
-username\"/\> poster**
+**&lt;input type=&quot;text&quot; name=&quot;username&quot; placeholder=&quot;Please enter
+username&quot;/\> poster**
 
 The **poster** attribute gives an image for a video:
 
-> **\<element poster \>\</element\>**
+> **&lt;element poster \>&lt;/element\>**
 
 **Elements**
 
@@ -5752,14 +5753,14 @@ poster (or placeholder) for a video element until the video is loaded.
 
 Here is an example:
 
-> **\<video src=\"video-about-dogs.mp4\"
-> poster=\"images/image-of-dog.png\"\>\</video\>**
+> **&lt;video src=&quot;video-about-dogs.mp4&quot;
+> poster=&quot;images/image-of-dog.png&quot;\>&lt;/video\>**
 
 ### readonly
 
 The **readonly** attribute defines whether the element is editable:
 
-> **\<element readonly \>\</element\>**
+> **&lt;element readonly \>&lt;/element\>**
 
 **Elements**
 
@@ -5773,13 +5774,13 @@ This is a Boolean attribute.
 
 Here is an example with a text input:
 
-> **\<input type=\"text\" readonly /\>**
+> **&lt;input type=&quot;text&quot; readonly /\>**
 
 ### rel
 
 The **rel** attribute defines the relationship of the element:
 
-> **\<element rel \>\</element\>**
+> **&lt;element rel \>&lt;/element\>**
 
 **Elements**
 
@@ -5793,15 +5794,15 @@ element and CSS or with the **a** element and the value of **nofollow**.
 
 Here is a CSS example:
 
-> **\<link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\"
-> media=\"screen\" /\>**
+> **&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; type=&quot;text/css&quot;
+> media=&quot;screen&quot; /\>**
 
 ### required
 
 The **required** attribute defines whether the element is required when
 submitting a form:
 
-> **\<element required \>\</element\>**
+> **&lt;element required \>&lt;/element\>**
 
 **Elements**
 
@@ -5816,11 +5817,11 @@ Boolean attribute.
 
 Here is an example with a text input:
 
-**\<input required type=\"text\" /\> reversed**
+**&lt;input required type=&quot;text&quot; /\> reversed**
 
 The **reversed** attribute changes the list order display:
 
-> **\<element reversed \>\</element\>**
+> **&lt;element reversed \>&lt;/element\>**
 
 **Elements**
 
@@ -5835,19 +5836,19 @@ attribute.
 
 Here is an example:
 
-> **\<ol reversed\>**
+> **&lt;ol reversed\>**
 >
-> **\<li\>1\</li\>**
+> **&lt;li\>1&lt;/li\>**
 >
-> **\<li\>2\</li\>**
+> **&lt;li\>2&lt;/li\>**
 >
-> **\<li\>3\</li\>**
+> **&lt;li\>3&lt;/li\>**
 
-**\</ol\> rows**
+**&lt;/ol\> rows**
 
 The **rows** attribute sets rows in a text area:
 
-> **\<element rows \>\</element\>**
+> **&lt;element rows \>&lt;/element\>**
 
 **Elements**
 
@@ -5859,13 +5860,13 @@ The **rows** attribute sets the number of rows in **textarea**.
 
 Here is an example:
 
-> **\<textarea rows=\"30\"\>\</textarea\>**
+> **&lt;textarea rows=&quot;30&quot;\>&lt;/textarea\>**
 
 ### rowspan
 
 The **rowspan** attribute sets the number of rows that a cell will span:
 
-> **\<element rowspan \>\</element\>**
+> **&lt;element rowspan \>&lt;/element\>**
 
 **Elements**
 
@@ -5878,18 +5879,18 @@ make the cell span the number of rows in the value.
 
 Here is an example:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tr\>\<td rowspan=\"2\"\>Pets\</td\>\<td\>Dogs\</td\>\</tr\>**
+> **&lt;tr\>&lt;td rowspan=&quot;2&quot;\>Pets&lt;/td\>&lt;td\>Dogs&lt;/td\>&lt;/tr\>**
 >
-> **\<tr\>\<td\>Cats\</td\>\</tr\> \</table\>**
+> **&lt;tr\>&lt;td\>Cats&lt;/td\>&lt;/tr\> &lt;/table\>**
 
 ### scope
 
 The **scope** attribute defines the cell with which the element is
 associated:
 
-> **\<element scope \>\</element\>**
+> **&lt;element scope \>&lt;/element\>**
 
 **Elements**
 
@@ -5904,18 +5905,18 @@ columns in the table when a screen reader is used.
 
 Here is an example with a table cell:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tr\>\<th\>Name\</th\>\<th\>Age\</th\>\</tr\>**
+> **&lt;tr\>&lt;th\>Name&lt;/th\>&lt;th\>Age&lt;/th\>&lt;/tr\>**
 >
-> **\<tr\>\<td scope=\"row\"\>Gizmo\</td\>\<td\>4\</td\>\</tr\>
-> \</table\>**
+> **&lt;tr\>&lt;td scope=&quot;row&quot;\>Gizmo&lt;/td\>&lt;td\>4&lt;/td\>&lt;/tr\>
+> &lt;/table\>**
 
 ### selected
 
 The **selected** attribute sets the default selection:
 
-> **\<element selected \>\</element\>**
+> **&lt;element selected \>&lt;/element\>**
 
 **Elements**
 
@@ -5929,15 +5930,15 @@ page loads. This should only be set on one **option** element per
 
 Here is an example:
 
-> **\<select\>**
+> **&lt;select\>**
 >
-> **\<option\>Cats\</option\>**
+> **&lt;option\>Cats&lt;/option\>**
 
-**\<option selected\>Dogs\</option\> \</select\> size**
+**&lt;option selected\>Dogs&lt;/option\> &lt;/select\> size**
 
 The **size** attribute sets the width of element:
 
-> **\<element size \>\</element\>**
+> **&lt;element size \>&lt;/element\>**
 
 **Elements**
 
@@ -5954,13 +5955,13 @@ number of characters in the integer form. The default for this is
 
 Here is an example with a text input:
 
-> **\<input type=\"text\" size=\"100\" /\>**
+> **&lt;input type=&quot;text&quot; size=&quot;100&quot; /\>**
 
 ### src
 
 The **src** attribute gives the URL for the element:
 
-> **\<element src \>\</element\>**
+> **&lt;element src \>&lt;/element\>**
 
 **Elements**
 
@@ -5974,13 +5975,13 @@ The **src** attribute gives the URL of the resource for the element.
 
 Here is an example with an **image** element:
 
-> **\<img src=\"dogs.png\" /\>**
+> **&lt;img src=&quot;dogs.png&quot; /\>**
 
 ### start
 
 The **start** attribute sets the starting number:
 
-> **\<element start \>\</element\>**
+> **&lt;element start \>&lt;/element\>**
 
 **Elements**
 
@@ -5993,19 +5994,19 @@ list.
 
 Here is an example:
 
-> **\<ol start=\"10\"\>**
+> **&lt;ol start=&quot;10&quot;\>**
 >
-> **\<li\>1\</li\>**
+> **&lt;li\>1&lt;/li\>**
 >
-> **\<li\>2\</li\>**
+> **&lt;li\>2&lt;/li\>**
 >
-> **\</ol\>**
+> **&lt;/ol\>**
 
 ### step
 
 The **step** attribute determines the jump between each number:
 
-> **\<element step \>\</element\>**
+> **&lt;element step \>&lt;/element\>**
 
 **Elements**
 
@@ -6020,11 +6021,11 @@ for each increment.
 Here is an example with a number input. You will only be able to
 increment by **5** four times before reaching the max:
 
-**\<input type=\"number\" min=\"0\" max=\"20\" step=\"5\" /\> type**
+**&lt;input type=&quot;number&quot; min=&quot;0&quot; max=&quot;20&quot; step=&quot;5&quot; /\> type**
 
 The **type** attribute defines the type of the element:
 
-> **\<element type \>\</element\>**
+> **&lt;element type \>&lt;/element\>**
 
 **Elements**
 
@@ -6064,11 +6065,11 @@ Here is a list for each element:
 
 Here is an example with an input:
 
-**\<input type=\"password\" /\> value**
+**&lt;input type=&quot;password&quot; /\> value**
 
 The **value** attribute sets the value of the element:
 
-> **\<element value \>\</element\>**
+> **&lt;element value \>&lt;/element\>**
 
 **Elements**
 
@@ -6081,11 +6082,11 @@ The **value** attribute will set the value of the element at page load.
 
 Here is an example with a text input:
 
-**\<input type=\"text\" value=\"Hey!\"/\> width**
+**&lt;input type=&quot;text&quot; value=&quot;Hey!&quot;/\> width**
 
 The **width** attribute sets the width of the element:
 
-> **\<element width \>\</element\>**
+> **&lt;element width \>&lt;/element\>**
 
 **Elements**
 
@@ -6102,11 +6103,11 @@ The **width** attribute sets the width of the element.
 
 Here is an example with a **canvas** element:
 
-**\<canvas width=\"200\" height=\"200\"\>\</canvas\> wrap**
+**&lt;canvas width=&quot;200&quot; height=&quot;200&quot;\>&lt;/canvas\> wrap**
 
 The **wrap** attribute sets how the text is wrapped:
 
-> **\<element wrap \>\</element\>**
+> **&lt;element wrap \>&lt;/element\>**
 
 **Elements**
 
@@ -6122,18 +6123,18 @@ not insert any line breaks.
 
 Here is an example:
 
-> **\<textarea cols=\"10\" wrap=\"hard\"\>\</textarea\>**
+> **&lt;textarea cols=&quot;10&quot; wrap=&quot;hard&quot;\>&lt;/textarea\>**
 
 # CSS Concepts and Applications
 
 **Cascading Style Sheet** (**CSS**) is the preferred way to style HTML.
 HTML has a style element and a global style attribute. These make it
-very easy to write unmaintainable HTML. For example, let\'s imagine that
+very easy to write unmaintainable HTML. For example, let&apos;s imagine that
 we have 10 elements on an HTML page for which we want the font color to
 be red. We create a **span** element to wrap the text that has the font
 color red, as follows:
 
-> **\<span style=\"color: #ff0000;\"\>\</span\>**
+> **&lt;span style=&quot;color: #ff0000;&quot;\>&lt;/span\>**
 
 Later, if we decide to change the color to blue, we will have to change
 10 instances of that element and then multiply this by the number of
@@ -6192,23 +6193,23 @@ This is the simplest way to select elements---using their name. For the
 most part, when using just HTML, you not need to worry about the
 namespace, as all of the HTML elements are in the default namespace. An
 asterisk can be used to specify all namespaces, for example,
-**\*\|Element**.
+**&ast;\|Element**.
 
 When this selector is used, it will match all of the elements in the
 document. For example, if you have fifteen **h2** elements and use a
 single **h2** element, then this rule will match all fifteen.
 
 Here are a few examples of the **type** selector. The first code sets
-all the **h1** elements\' font color to red. The next code applies red
+all the **h1** elements&apos; font color to red. The next code applies red
 as the background color for all **p** elements:
 
 > **h1 { color: #ff0000; } p { background: #ff0000; }**
 
 ### The universal selector
 
-The asterisk (**\***) represents any and all qualified elements:
+The asterisk (**&ast;**) represents any and all qualified elements:
 
-> **\* ns\|\* \*\|\***
+> **&ast; ns\|&ast; &ast;\|&ast;**
 
 Here, **ns** is a namespace.
 
@@ -6216,7 +6217,7 @@ Here, **ns** is a namespace.
 
 This is essentially a wildcard selector. It will match every element.
 This is **true** even when used with other selectors. For example,
-**\*.my-class** and **.my-class** are the same.
+**&ast;.my-class** and **.my-class** are the same.
 
 While you can use it as a single selector to match every element, it is
 most useful when used with other selectors. Following along with our
@@ -6224,35 +6225,35 @@ preceding example, we may want to select any element that is a
 descendant of an **article** element. This selector is very explicit and
 easy to read, take a look at the following syntax:
 
-> **article \***
+> **article &ast;**
 
 Here is an example. The first example uses attribute selectors to select
 any elements with **hreflang** in English, and the second example will
 select all elements in the document:
 
-> **\*\[hreflang=\"en\"\] { display: block;
+> **&ast;&lbrack;hreflang=&quot;en&quot;&rbrack; { display: block;
 > background:url(flag_of_the_UK); }**
 >
-> **\* { padding: 0; }**
+> **&ast; { padding: 0; }**
 
 ### The attribute selectors
 
 These selectors will match against attributes of an element. There are
 seven different types of attribute selector and they are as follows:
 
-> **\[attribute\]**
+> **&lbrack;attribute&rbrack;**
 >
-> **\[attribute=value\]**
+> **&lbrack;attribute=value&rbrack;**
 >
-> **\[attribute\~=value\]**
+> **&lbrack;attribute\~=value&rbrack;**
 >
-> **\[attribute\|=value\]**
+> **&lbrack;attribute\|=value&rbrack;**
 >
-> **\[attribute\^=value\]**
+> **&lbrack;attribute\^=value&rbrack;**
 >
-> **\[attribute\$=value\]**
+> **&lbrack;attribute\$=value&rbrack;**
 >
-> **\[attribute\*=value\]**
+> **&lbrack;attribute&ast;=value&rbrack;**
 
 These selectors are usually preceded by a type selector or universal
 selector.
@@ -6263,23 +6264,23 @@ This selector is a way to use a regular expression syntax in a selector
 rule. Each of the selectors will act differently based on the use, so
 they are listed with the differences here:
 
--   **\[attribute\]**: This matches an element that has the
-    **\[attribute\]** attribute, irrespective of the value of the
+-   **&lbrack;attribute&rbrack;**: This matches an element that has the
+    **&lbrack;attribute&rbrack;** attribute, irrespective of the value of the
     attribute.
 
--   **\[=\]**: The value has to be an exact match.
+-   **&lbrack;=&rbrack;**: The value has to be an exact match.
 
--   **\[\~=\]**: This is used when the attribute takes a list of values.
+-   **&lbrack;\~=&rbrack;**: This is used when the attribute takes a list of values.
     One of the values in the list must match.
 
--   **\[\|=\]**: This attribute must either be an exact match or the
+-   **&lbrack;\|=&rbrack;**: This attribute must either be an exact match or the
     value must begin with the value followed immediately by a **-**.
 
--   **\[\^=\]**: This attribute matches the value that has this prefix.
+-   **&lbrack;\^=&rbrack;**: This attribute matches the value that has this prefix.
 
--   **\[\$=\]**: This attribute matches the value that has this suffix.
+-   **&lbrack;\$=&rbrack;**: This attribute matches the value that has this suffix.
 
--   **\[\*=\]**: This attribute matches any substring of the value.
+-   **&lbrack;&ast;=&rbrack;**: This attribute matches any substring of the value.
 
 The best way to really show the difference between these is to use some
 examples. We will look at the **lang** and **href** attributes. The
@@ -6287,17 +6288,17 @@ examples will be in the same order in which they were introduced.
 
 Here is the HTML file that the examples will be selecting.
 
-> **\<span lang=\"en-us en-gb\"\>Attribute Selector\</span\>**
+> **&lt;span lang=&quot;en-us en-gb&quot;\>Attribute Selector&lt;/span\>**
 >
-> **\<span lang=\"es\"\>selector de atributo\</span\>**
+> **&lt;span lang=&quot;es&quot;\>selector de atributo&lt;/span\>**
 >
-> **\<span lang=\"de-at de\"\>German (Austria)\</span\>**
+> **&lt;span lang=&quot;de-at de&quot;\>German (Austria)&lt;/span\>**
 >
-> **\<a href=\"https://example.com\"\>HTTPS\</a\>**
+> **&lt;a href=&quot;https://example.com&quot;\>HTTPS&lt;/a\>**
 >
-> **\<a href=\"http://google.com\"\>Google\</a\>**
+> **&lt;a href=&quot;http://google.com&quot;\>Google&lt;/a\>**
 >
-> **\<a href=\"http://example.com/example.pdf\"\>Example PDF\</a\>**
+> **&lt;a href=&quot;http://example.com/example.pdf&quot;\>Example PDF&lt;/a\>**
 
 Using the following, we should have all the spans with a **lang**
 attribute with a black background, Spanish will be grey, German will be
@@ -6305,11 +6306,11 @@ red, English will be blue, anchor elements that have **https** attribute
 will be yellow, any PDFs will be red, and any anchor to Google will be
 green. Here are the preceding styles described:
 
-> **span\[lang\] { background-color: #000000; color: #ffffff; }
-> span\[lang=\"es\"\] { color: #808080; } span\[lang\~=\"de-at\"\] {
-> color: #ff0000; } span\[lang\|=\"en\"\] { color: #0000ff; }
-> a\[href\^=\"https\"\] { color: #ffff00; } a\[href\$=\"pdf\"\] { color:
-> #ff0000; } a\[href\*=\"google\"\] { color: #00ff00; }**
+> **span&lbrack;lang&rbrack; { background-color: #000000; color: #ffffff; }
+> span&lbrack;lang=&quot;es&quot;&rbrack; { color: #808080; } span&lbrack;lang\~=&quot;de-at&quot;&rbrack; {
+> color: #ff0000; } span&lbrack;lang\|=&quot;en&quot;&rbrack; { color: #0000ff; }
+> a&lbrack;href\^=&quot;https&quot;&rbrack; { color: #ffff00; } a&lbrack;href\$=&quot;pdf&quot;&rbrack; { color:
+> #ff0000; } a&lbrack;href&ast;=&quot;google&quot;&rbrack; { color: #00ff00; }**
 
 ### The class selectors
 
@@ -6318,7 +6319,7 @@ of the element.
 
 > **element.class**
 >
-> **.class or \*.class element.class.another-class**
+> **.class or &ast;.class element.class.another-class**
 
 **Description**
 
@@ -6332,14 +6333,14 @@ be present.
 
 Here is some HTML with different elements that have a class attribute:
 
-> **\<h1 class=\"red\"\>Red Text\</h1\>**
+> **&lt;h1 class=&quot;red&quot;\>Red Text&lt;/h1\>**
 >
-> **\<span class=\"red\"\>Red Text\</span\>**
+> **&lt;span class=&quot;red&quot;\>Red Text&lt;/span\>**
 >
-> **\<span class=\"green black\"\>Green text, black
-> background\</span\>**
+> **&lt;span class=&quot;green black&quot;\>Green text, black
+> background&lt;/span\>**
 >
-> **\<span class=\"green\"\>Normal text\</span\>**
+> **&lt;span class=&quot;green&quot;\>Normal text&lt;/span\>**
 
 Here is the CSS to style the HTML:
 
@@ -6355,7 +6356,7 @@ elements that have both classes defined.
 
 This selector will match based on the **ID** attribute of the element:
 
-> **#id element#id or \*#id**
+> **#id element#id or &ast;#id**
 
 **Description**
 
@@ -6406,20 +6407,20 @@ In this first example, we will target images that are in an ordered list
 with the ID of presidents and give them a red border. Here is its HTML
 code:
 
-> **\<ol id=\"presidents\"\>**
+> **&lt;ol id=&quot;presidents&quot;\>**
 >
-> **\<li\>\<img src=\"pres01.png\" alt=\"PortraitProtrait of George**
+> **&lt;li\>&lt;img src=&quot;pres01.png&quot; alt=&quot;PortraitProtrait of George**
 >
-> **Washington\" /\>George Washington\</li\>**
+> **Washington&quot; /\>George Washington&lt;/li\>**
 >
-> **\<li\>\<img src=\"pres02.png\" alt=\"PortraitProtrait of John
-> Adams\"**
+> **&lt;li\>&lt;img src=&quot;pres02.png&quot; alt=&quot;PortraitProtrait of John
+> Adams&quot;**
 >
-> **/\>John Adams\</li\>**
+> **/\>John Adams&lt;/li\>**
 >
-> **\</ol\>**
+> **&lt;/ol\>**
 >
-> **\<img src=\"not_pres.png\" alt=\"not a President - no border\" /\>**
+> **&lt;img src=&quot;not_pres.png&quot; alt=&quot;not a President - no border&quot; /\>**
 
 Here is the CSS rule:
 
@@ -6428,19 +6429,19 @@ Here is the CSS rule:
 Here is an example that demonstrates that there can be many elements
 between selectors. Here is the very arbitrary HTML.
 
-> **\<div class=\"example\"\> I am normal.**
+> **&lt;div class=&quot;example&quot;\> I am normal.**
 >
-> **\<div\>**
+> **&lt;div\>**
 >
-> **\<div class=\"select-me\"\> I am red.**
+> **&lt;div class=&quot;select-me&quot;\> I am red.**
 >
-> **\<span class=\"select-me\"\>I am red as well.\</span\>**
+> **&lt;span class=&quot;select-me&quot;\>I am red as well.&lt;/span\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 Here is the CSS rule:
 
@@ -6449,15 +6450,15 @@ Here is the CSS rule:
 Finally, here is an example of a multiple selector hierarchy, which has
 the following HTML:
 
-> **\<div class=\"first\"\>Not the target**
+> **&lt;div class=&quot;first&quot;\>Not the target**
 >
-> **\<div class=\"second\"\>Not the target**
+> **&lt;div class=&quot;second&quot;\>Not the target**
 >
-> **\<div class=\"third\"\>I am the target.\</div\>**
+> **&lt;div class=&quot;third&quot;\>I am the target.&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 The CSS rule:
 
@@ -6477,11 +6478,11 @@ a direct descendant of the parent directly contained by the first.
 
 Here is an example that will only target the first span in this HTML:
 
-> **\<div\>Here is an \<span\>arbitrary\</span\>**
+> **&lt;div\>Here is an &lt;span\>arbitrary&lt;/span\>**
 >
-> **\<p\>\<span\>structure.\</span\>\</p\>\</div\>**
+> **&lt;p\>&lt;span\>structure.&lt;/span\>&lt;/p\>&lt;/div\>**
 
-Here is the CSS rule that only sets the first span\'s color to red:
+Here is the CSS rule that only sets the first span&apos;s color to red:
 **div \> span { color: #ff0000; }**
 
 ### The adjacent sibling combinator
@@ -6497,14 +6498,14 @@ The two elements must have the same parent, and the first element must
 be immediately followed by the second.
 
 Here is an example that highlights how the selector works. Only the
-second span will have the rule applied. The final span\'s preceding
+second span will have the rule applied. The final span&apos;s preceding
 sibling is not another span so it is not matched by the selector. Here
 is the HTML.
 
-> **\<p\>Here are a few spans in a row: \<span\>1\</span\>
-> \<span\>2\</span\>**
+> **&lt;p\>Here are a few spans in a row: &lt;span\>1&lt;/span\>
+> &lt;span\>2&lt;/span\>**
 >
-> **\<em\>3\</em\> \<span\>4\</span\>\</p\>**
+> **&lt;em\>3&lt;/em\> &lt;span\>4&lt;/span\>&lt;/p\>**
 
 **CSS**: **span + span { color: #ff0000; }**
 
@@ -6525,10 +6526,10 @@ Here is an example that shows that both the second and third spans will
 be targeted even though there is an **em** element between them. Here is
 the HTML:
 
-> **\<p\>Here are a few spans in a row: \<span\>1\</span\>
-> \<span\>2\</span\>**
+> **&lt;p\>Here are a few spans in a row: &lt;span\>1&lt;/span\>
+> &lt;span\>2&lt;/span\>**
 >
-> **\<em\>3\</em\> \<span\>4\</span\>\</p\>**
+> **&lt;em\>3&lt;/em\> &lt;span\>4&lt;/span\>&lt;/p\>**
 
 Here is the CSS rule:
 
@@ -6553,7 +6554,7 @@ inline style will trump any selector specificity:
 -   Any **universal** selectors are ignored
 
 The numbers are then concatenated together. The larger the value, the
-more precedence the rule has. Let\'s look at some selector examples. The
+more precedence the rule has. Let&apos;s look at some selector examples. The
 examples will be composed of the selector and then the calculated value:
 
 -   **h1**: **a=0** **b=0** **c=1**, **001** or **1**
@@ -6562,7 +6563,7 @@ examples will be composed of the selector and then the calculated value:
 
 -   **h1 p \> span**: **a=0** **b=0** **c=3**, **003** or **3**
 
--   **h1 \*\[lang=\"en\"\]**: **a=0** **b=1** **c=1**, **011** or **11**
+-   **h1 &ast;&lbrack;lang=&quot;en&quot;&rbrack;**: **a=0** **b=1** **c=1**, **011** or **11**
 
 -   **h1 p span.green**: **a=0** **b=1** **c=3**, **013** or **13**
 
@@ -6584,20 +6585,20 @@ be one in the entire document.
 
 Here is an example HTML that has three headings:
 
-> **\<h1\>First Heading\</h1\>**
+> **&lt;h1\>First Heading&lt;/h1\>**
 >
-> **\<h1 class=\"headings\"\>\<span\>Second Heading\</span\>\</h1\>**
+> **&lt;h1 class=&quot;headings&quot;\>&lt;span\>Second Heading&lt;/span\>&lt;/h1\>**
 >
-> **\<h1 class=\"headings\" id=\"third\"\>Third Heading\</h1\>**
+> **&lt;h1 class=&quot;headings&quot; id=&quot;third&quot;\>Third Heading&lt;/h1\>**
 
 Here is the CSS rule that will target each heading differently. The
 first rule targets all the elements, but it has the lowest specificity,
 the next rule is in the middle, and the last rule only targets one
-element. In the following example, **/\* \*/** denotes text that is a
+element. In the following example, **/&ast; &ast;/** denotes text that is a
 comment:
 
-> **h1 { color: #ff0000; } /\* 001 \*/ h1.headings span { color:
-> #00ff00; } /\* 012 \*/ h1#third { color: #0000ff; } /\* 101 \*/**
+> **h1 { color: #ff0000; } /&ast; 001 &ast;/ h1.headings span { color:
+> #00ff00; } /&ast; 012 &ast;/ h1#third { color: #0000ff; } /&ast; 101 &ast;/**
 
 ## Pseudo-classes
 
@@ -6626,9 +6627,9 @@ visited. The browser may decide to switch a link back after some time.
 Here is an example along with the **:visited** pseudo-class. Here is its
 HTML:
 
-> **\<a href=\"#test\"\>Probably not visited\</a\>**
+> **&lt;a href=&quot;#test&quot;\>Probably not visited&lt;/a\>**
 >
-> **\<a href=\"https://www.google.com\"\>Probably visited\</a\>**
+> **&lt;a href=&quot;https://www.google.com&quot;\>Probably visited&lt;/a\>**
 
 Here is the CSS. We can make an assumption that you have visited Google,
 so the link would likely be green in color:
@@ -6648,9 +6649,9 @@ This pseudo-class exists on any anchor element that has been visited.
 Here is an example along with the **:link** pseudo-class. Here is its
 HTML:
 
-> **\<a href=\"#test\"\>Probably not visited\</a\>**
+> **&lt;a href=&quot;#test&quot;\>Probably not visited&lt;/a\>**
 >
-> **\<a href=\"https://www.google.com\"\>Probably visited\</a\>**
+> **&lt;a href=&quot;https://www.google.com&quot;\>Probably visited&lt;/a\>**
 
 Here is the CSS. We can make the same assumption that you have visited
 Google, so the first link should be red and the second link will be
@@ -6678,7 +6679,7 @@ actions or link pseudo-classes.
 
 Here is an example:
 
-> **\<a href=\"https://www.google.com\"\>Google\</a\>**
+> **&lt;a href=&quot;https://www.google.com&quot;\>Google&lt;/a\>**
 
 The link will turn green while you are clicking on it. Here is its CSS:
 
@@ -6699,11 +6700,11 @@ clicked inside.
 
 Here is a text input example:
 
-> **\<input type=\"text\" value=\"Red when focused\"\>**
+> **&lt;input type=&quot;text&quot; value=&quot;Red when focused&quot;\>**
 
 Here is the CSS. This also highlights the fact that you can use a
 pseudo-class, which allows use of more complex selectors:
-**input\[type=\"text\"\]:focus { color: #ff0000; }**
+**input&lbrack;type=&quot;text&quot;&rbrack;:focus { color: #ff0000; }**
 
 **:hover**
 
@@ -6721,7 +6722,7 @@ determine whether a user is hovering over an element.
 
 Here is an example:
 
-> **\<span\>Hover over me!\</span\>**
+> **&lt;span\>Hover over me!&lt;/span\>**
 
 The text in the span will be red in color when hovered over. Here is its
 CSS: **span:hover { color: #ff0000; }**
@@ -6747,9 +6748,9 @@ the first child of the element type this is applied to will be selected.
 Here is an example that will only select the first paragraph element.
 Here is the HTML:
 
-> **\<p\>First paragraph.\</p\>**
+> **&lt;p\>First paragraph.&lt;/p\>**
 >
-> **\<p\>Second paragraph.\</p\>**
+> **&lt;p\>Second paragraph.&lt;/p\>**
 
 Here is the CSS. This will change the text of the first paragraph red:
 
@@ -6770,15 +6771,15 @@ This is the same as **:nth-of-type(1)**.
 Here is an example that will target the first paragraph element even
 though it is not the first child. Here is the HTML:
 
-> **\<article\>**
+> **&lt;article\>**
 >
-> **\<h1\>Title of Article\</h1\>**
+> **&lt;h1\>Title of Article&lt;/h1\>**
 >
-> **\<p\>First paragraph.\</p\>**
+> **&lt;p\>First paragraph.&lt;/p\>**
 >
-> **\<p\>Second paragraph.\</p\>**
+> **&lt;p\>Second paragraph.&lt;/p\>**
 >
-> **\</article\>**
+> **&lt;/article\>**
 
 Here is the CSS:
 
@@ -6799,9 +6800,9 @@ will be selected.
 Here is an example that will only select the last paragraph element.
 Here is the HTML:
 
-> **\<p\>First paragraph.\</p\>**
+> **&lt;p\>First paragraph.&lt;/p\>**
 >
-> **\<p\>Second paragraph.\</p\>**
+> **&lt;p\>Second paragraph.&lt;/p\>**
 
 Here is the CSS. This will change the color of the second and first
 paragraph red. This selector works because even on the most basic of
@@ -6824,15 +6825,15 @@ because it will not select the element unless it is the first
 Here is an example that will target the last paragraph element. Here is
 its HTML:
 
-> **\<article\>**
+> **&lt;article\>**
 >
-> **\<p\>First paragraph.\</p\>**
+> **&lt;p\>First paragraph.&lt;/p\>**
 >
-> **\<p\>Second paragraph.\</p\>**
+> **&lt;p\>Second paragraph.&lt;/p\>**
 >
-> **\<a href=\"#\"\>A link\</a\>**
+> **&lt;a href=&quot;#&quot;\>A link&lt;/a\>**
 >
-> **\</article\>**
+> **&lt;/article\>**
 
 Here is the CSS:
 
@@ -6872,15 +6873,15 @@ only select the fifth child and no other.
 Table rows are a great example of using this selector, so we will target
 every odd row. Here is the HTML:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tr\>\<td\>First (will be red)\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>First (will be red)&lt;/td\>&lt;/tr\>**
 >
-> **\<tr\>\<td\>Second\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>Second&lt;/td\>&lt;/tr\>**
 >
-> **\<tr\>\<td\>Third (will be red)\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>Third (will be red)&lt;/td\>&lt;/tr\>**
 >
-> **\</table\>**
+> **&lt;/table\>**
 
 Here is the CSS:
 
@@ -6899,17 +6900,17 @@ same as it is for **:nth-child**.
 
 Here is an example using a table. Here is the HTML:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tr\>\<td\>First\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>First&lt;/td\>&lt;/tr\>**
 >
-> **\<tr\>\<td\>Second\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>Second&lt;/td\>&lt;/tr\>**
 >
-> **\<tr\>\<td\>Third\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>Third&lt;/td\>&lt;/tr\>**
 >
-> **\<tr\>\<td\>Fourth\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>Fourth&lt;/td\>&lt;/tr\>**
 >
-> **\</table\>**
+> **&lt;/table\>**
 
 The first CSS rule will change the color of every other row to red, but
 because it counts from the end, the first and third row will be
@@ -6939,15 +6940,15 @@ Like all the other *n*th selectors, this one uses the same logic as
 
 Here is an example that uses paragraphs and spans:
 
-> **\<p\>First\</p\>**
+> **&lt;p\>First&lt;/p\>**
 >
-> **\<span\>First Span\</span\>**
+> **&lt;span\>First Span&lt;/span\>**
 >
-> **\<span\>Second Span\</span\>**
+> **&lt;span\>Second Span&lt;/span\>**
 >
-> **\<p\>Second\</p\>**
+> **&lt;p\>Second&lt;/p\>**
 >
-> **\<p\>Third\</p\>**
+> **&lt;p\>Third&lt;/p\>**
 
 Here is the CSS. This rule will only target the paragraphs and make the
 odd ones red:
@@ -6972,21 +6973,21 @@ an element.
 Here is an example with two tables, where one has multiple rows and the
 other has only one:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tr\>\<td\>First\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>First&lt;/td\>&lt;/tr\>**
 >
-> **\<tr\>\<td\>Second\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>Second&lt;/td\>&lt;/tr\>**
 >
-> **\<tr\>\<td\>Third\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>Third&lt;/td\>&lt;/tr\>**
 >
-> **\</table\>**
+> **&lt;/table\>**
 >
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tr\>\<td\>Only\</td\>\</tr\>**
+> **&lt;tr\>&lt;td\>Only&lt;/td\>&lt;/tr\>**
 >
-> **\</table\>**
+> **&lt;/table\>**
 
 Here is the CSS to target the only row in the second table:
 
@@ -7007,21 +7008,21 @@ Here is an example that uses arbitrary divisions to create a structure
 where one paragraph element is the only one of its type. Here is the
 HTML:
 
-> **\<div\>**
+> **&lt;div\>**
 >
-> **\<p\>Only p.\</p\>**
+> **&lt;p\>Only p.&lt;/p\>**
 >
-> **\<div\>**
+> **&lt;div\>**
 >
-> **\<p\>Not the \</p\>**
+> **&lt;p\>Not the &lt;/p\>**
 >
-> **\<p\>only one.\</p\>**
+> **&lt;p\>only one.&lt;/p\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
-Here is the CSS rule that will only target the first paragraph\'s
+Here is the CSS rule that will only target the first paragraph&apos;s
 element:
 
 > **p:only-of-type { color: #ff0000; }**
@@ -7045,10 +7046,10 @@ list.
 
 Here is an example with a **checkbox** and a **label** value:
 
-> **\<input type=\"checkbox\" checked value=\"check-value\"
-> name=\"test\" /\>**
+> **&lt;input type=&quot;checkbox&quot; checked value=&quot;check-value&quot;
+> name=&quot;test&quot; /\>**
 >
-> **\<label for=\"test\"\>Check me out\</label\>**
+> **&lt;label for=&quot;test&quot;\>Check me out&lt;/label\>**
 
 Here is a CSS rule that will target the label only when the checkbox is
 checked:
@@ -7069,13 +7070,13 @@ selected option from a **select** element.
 
 Here is an example using a form:
 
-> **\<form method=\"post\"\>**
+> **&lt;form method=&quot;post&quot;\>**
 >
-> **\<input type=\"submit\" value=\"Submit\" /\>**
+> **&lt;input type=&quot;submit&quot; value=&quot;Submit&quot; /\>**
 >
-> **\<input type=\"reset\" value=\"Reset\" /\>**
+> **&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /\>**
 >
-> **\</form\>**
+> **&lt;/form\>**
 
 Here is the CSS. This will only target the submit input as it is the
 default:
@@ -7098,9 +7099,9 @@ attribute is present and **:enabled** will do the opposite.
 
 Here is some HTML with two inputs out of which one is disabled:
 
-> **\<input type=\"submit\" value=\"Submit\" disabled/\>**
+> **&lt;input type=&quot;submit&quot; value=&quot;Submit&quot; disabled/\>**
 >
-> **\<input type=\"reset\" value=\"Reset\" /\>**
+> **&lt;input type=&quot;reset&quot; value=&quot;Reset&quot; /\>**
 
 Here is the CSS. The disabled input will have its text color set as red
 and the other as green:
@@ -7123,11 +7124,11 @@ as a child. However, comments will not count as children.
 Here is an example with three **div** tags. The first is empty, the next
 has text, and the final one has one space in it. Here is the HTML:
 
-> **\<div\>\</div\>**
+> **&lt;div\>&lt;/div\>**
 >
-> **\<div\>Not Empty\</div\>**
+> **&lt;div\>Not Empty&lt;/div\>**
 >
-> **\<div\> \</div\>**
+> **&lt;div\> &lt;/div\>**
 
 Here is the CSS. Only the first div will have a red background:
 
@@ -7151,9 +7152,9 @@ target it.
 
 Here is an example that uses an input that is the number type:
 
-> **\<input type=\"number\" min=\"1\" max=\"10\" value=\"11\" /\>**
+> **&lt;input type=&quot;number&quot; min=&quot;1&quot; max=&quot;10&quot; value=&quot;11&quot; /\>**
 >
-> **\<input type=\"number\" min=\"1\" max=\"10\" value=\"5\" /\>**
+> **&lt;input type=&quot;number&quot; min=&quot;1&quot; max=&quot;10&quot; value=&quot;5&quot; /\>**
 
 Here is the CSS. The first input will have red text because it is beyond
 the maximum range and the second will have green text:
@@ -7181,9 +7182,9 @@ selectors, for example, a **div** tag.
 
 Here is an example with an e-mail input:
 
-> **\<input type=\"email\" value=\"test@test.com\" /\>**
+> **&lt;input type=&quot;email&quot; value=&quot;test@test.com&quot; /\>**
 >
-> **\<input type=\"email\" value=\"not a valid email\" /\>**
+> **&lt;input type=&quot;email&quot; value=&quot;not a valid email&quot; /\>**
 
 Here is the CSS. The first input will be green as it is valid and the
 other will be red:
@@ -7206,9 +7207,9 @@ does not add to specificity of the rule.
 
 Here is an example using paragraphs:
 
-> **\<p\>Targeted Element\</p\>**
+> **&lt;p\>Targeted Element&lt;/p\>**
 >
-> **\<p class=\"not-me\"\>Non targeted element\</p\>**
+> **&lt;p class=&quot;not-me&quot;\>Non targeted element&lt;/p\>**
 
 Here is the CSS. Only the first paragraph will be targeted:
 
@@ -7230,9 +7231,9 @@ This is used for any input element that is required or optional.
 Here is an example that has two inputs---one that is required and one
 that is not:
 
-> **\<input type=\"text\" value=\"Required\" required /\>**
+> **&lt;input type=&quot;text&quot; value=&quot;Required&quot; required /\>**
 >
-> **\<input type=\"text\" value=\"Optional\" /\>**
+> **&lt;input type=&quot;text&quot; value=&quot;Optional&quot; /\>**
 
 Here is the CSS. The required input will have red text and the optional
 input will have green text:
@@ -7257,16 +7258,16 @@ elements that have a **lang** attribute.
 Here is an example with a **span** element that does not have a **lang**
 attribute, but it is the child of the body which does:
 
-> **\<body lang=\"en-us\"\>**
+> **&lt;body lang=&quot;en-us&quot;\>**
 >
-> **\<span\>This is English.\</span\>**
+> **&lt;span\>This is English.&lt;/span\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 
 Here is the CSS. The first rule will match the element, but the second
 will not match anything:
 
-> **:lang(en) { color: #ff0000; } span\[lang\|=en\] { color: #00ff00;
+> **:lang(en) { color: #ff0000; } span&lbrack;lang\|=en&rbrack; { color: #00ff00;
 > }**
 
 ## Pseudo-elements
@@ -7303,14 +7304,14 @@ section to see what you can insert.
 Here is an example that uses both **::before** and **::after**. This
 will create a turkey sandwich. Here is the HTML.
 
-> **\<p class=\"sandwich\"\>Turkey\</p\>**
+> **&lt;p class=&quot;sandwich&quot;\>Turkey&lt;/p\>**
 
 Here is the CSS that will put a slice of bread before and after the
 turkey:
 
 > **p.sandwich::before, p.sandwich::after**
 >
-> **{ content: \":Slice of Bread:\"; }**
+> **{ content: &quot;:Slice of Bread:&quot;; }**
 
 **See also**
 
@@ -7340,7 +7341,7 @@ This only applies to block-like containers such as block, **list-item**,
 >
 > Here is an example, which will not select the first letter:
 >
-> **\<p\>\<br /\>First letter\</p\>**
+> **&lt;p\>&lt;br /\>First letter&lt;/p\>**
 >
 > Here is the CSS:
 >
@@ -7348,8 +7349,8 @@ This only applies to block-like containers such as block, **list-item**,
 
 Here is an example:
 
-> **\<p\>This is a long line of text that may or may not be broken up
-> across lines.\</p\>**
+> **&lt;p\>This is a long line of text that may or may not be broken up
+> across lines.&lt;/p\>**
 
 Here is the CSS. The T in This will be two times the font size of all
 the other characters: **p::first-letter { font-size: 2em; }**
@@ -7368,9 +7369,9 @@ as a **block box**, **inline-block**, **table-caption**, or
 
 Here is an example, with the following HTML:
 
-> **\<p\>This is a long line of text that may or may not be broken up
+> **&lt;p\>This is a long line of text that may or may not be broken up
 > across lines based on the width of the page and the width of the
-> element it is in.\</p\> \<p\>This is the entire first line.\</p\>**
+> element it is in.&lt;/p\> &lt;p\>This is the entire first line.&lt;/p\>**
 
 Here is the CSS. This will make the first line, whatever it may be, red:
 
@@ -7390,7 +7391,7 @@ the next version. Most browsers will still honor this pseudo-element.
 
 Here is an example:
 
-> **\<p\>Highlight this to text.\</p\>**
+> **&lt;p\>Highlight this to text.&lt;/p\>**
 
 Here is the CSS. When the text is selected, the text will be white on a
 red background:
@@ -7407,7 +7408,7 @@ that you can generate. Here is a rundown.
 
 This is the content that will be placed either before or after elements:
 
-> **content(none, \<string\>, \<uri\>, \<counter\>, open-quote,
+> **content(none, &lt;string\>, &lt;uri\>, &lt;counter\>, open-quote,
 > close-quote, no-open-quote, no-close-quote, attr(x))**
 
 **Parameters**
@@ -7418,11 +7419,11 @@ Following are the parameters and their description:
 
 -   **normal**: This is the default parameter and is the same as none
 
--   **\<string\>**: This is any string text content
+-   **&lt;string\>**: This is any string text content
 
--   **\<uri\>**: This will map to a resource, for example, an image
+-   **&lt;uri\>**: This will map to a resource, for example, an image
 
--   **\<counter\>**: This can be used as either the **counter()** or
+-   **&lt;counter\>**: This can be used as either the **counter()** or
     **counters()** function to put a counter before or after each
     element
 
@@ -7447,29 +7448,29 @@ that HTML will ignore a line break by default.
 Here are some examples. These will demonstrate how to use many of the
 content values:
 
-> **\<h1\>First\</h1\>**
+> **&lt;h1\>First&lt;/h1\>**
 >
-> **\<h1\>Second\</h1\>**
+> **&lt;h1\>Second&lt;/h1\>**
 >
-> **\<h1 class=\"test\"\>Attribute\</h1\>**
+> **&lt;h1 class=&quot;test&quot;\>Attribute&lt;/h1\>**
 >
-> **\<h2\>Line Break\</h2\>**
+> **&lt;h2\>Line Break&lt;/h2\>**
 >
-> **\<blockquote\>Don\'t quote me on this.\</blockquote\>**
+> **&lt;blockquote\>Don&apos;t quote me on this.&lt;/blockquote\>**
 
-Here is the CSS. The **h1** elements will have the word \"**chapter**\"
+Here is the CSS. The **h1** elements will have the word &quot;**chapter**&quot;
 along with a number before each. The **h2** element will have a line
 break in its content. Finally, the **blockquote** will have an opening
 quote and a closing quote:
 
 > **h1 { counter-increment: chapter; }**
 >
-> **h1::before { content: \"Chapter\" counter(chapter) \": \"
+> **h1::before { content: &quot;Chapter&quot; counter(chapter) &quot;: &quot;
 > attr(class)**
 >
 > **; }**
 >
-> **h2::before { content: \"New\\A Line\"; white-space: pre; }
+> **h2::before { content: &quot;New\\A Line&quot;; white-space: pre; }
 > blockquote::before { content: open-quote; } blockquote::after {
 > content: close-quote; }**
 
@@ -7478,11 +7479,11 @@ quote and a closing quote:
 Quotation marks specify which characters are used as open and close
 quotes:
 
-> **quotes: \[\<string\> \<string\>\]+**
+> **quotes: &lbrack;&lt;string\> &lt;string\>&rbrack;+**
 
 **Parameters**
 
-**\<string\> \<string\>**: These are pairs of characters that will
+**&lt;string\> &lt;string\>**: These are pairs of characters that will
 represent an open and close quote. You can use this multiple times to
 create levels of quotes.
 
@@ -7492,12 +7493,12 @@ We can use this property to set which quotation marks are used.
 
 Here is an example that has a nested quote:
 
-> **\<blockquote\>Don\'t quote me \<blockquote\>on\</blockquote\>
-> this.\</blockquote\>**
+> **&lt;blockquote\>Don&apos;t quote me &lt;blockquote\>on&lt;/blockquote\>
+> this.&lt;/blockquote\>**
 
 The quotation marks are completely arbitrary. Here is the CSS:
 
-> **blockquote { quotes: \":\" \"!\" \"&\" \"\*\"; }**
+> **blockquote { quotes: &quot;:&quot; &quot;!&quot; &quot;&&quot; &quot;&ast;&quot;; }**
 
 # CSS Properties -- Part 1
 
@@ -7520,12 +7521,12 @@ properties that need to be vendor prefixed (**-webkit-**, **-moz-**,
 Vendor prefixes are short pieces of CSS that are added to the beginning
 of the CSS property (and sometimes CSS values too). These pieces of code
 are directly related to either the company that makes the browser (the
-\"vendor\") or to the CSS engine of the browser.
+&quot;vendor&quot;) or to the CSS engine of the browser.
 
 There are four major CSS prefixes: **-webkit-**, **-moz-**, **-ms-** and
 **-o-**. They are explained here:
 
--   **-webkit-**: This references Safari\'s engine, Webkit (Google
+-   **-webkit-**: This references Safari&apos;s engine, Webkit (Google
     Chrome and Opera used this engine in the past as well)
 
 -   **-moz-**: This stands for Mozilla, who creates Firefox
@@ -7547,19 +7548,19 @@ A basic example of a prefixed CSS property is **column-gap**:
 >
 > **-moz-column-gap: 5px; column-gap: 5px; }**
 
-Knowing which CSS properties need to be prefixed is futile. That\'s why
-it\'s important to keep a constant eye on **CanIUse.com**. However,
-it\'s also important to automate the prefixing process with tools such
+Knowing which CSS properties need to be prefixed is futile. That&apos;s why
+it&apos;s important to keep a constant eye on **CanIUse.com**. However,
+it&apos;s also important to automate the prefixing process with tools such
 as **Autoprefixer** or **-prefix-free**, or mixins in preprocessors, and
 so on.
 
-However, vendor prefixing isn\'t in the scope of the book, so the
-properties we\'ll discuss are absent of any vendor prefixes. If you want
+However, vendor prefixing isn&apos;t in the scope of the book, so the
+properties we&apos;ll discuss are absent of any vendor prefixes. If you want
 to learn more about vendor prefixes, you can visit **Mozilla Developer
 Network** (**MDN**) at [**http://tiny.cc/**
 **mdn-vendor-prefixes**](http://tiny.cc/mdn-vendor-prefixes).
 
-Let\'s get the CSS properties reference rolling.
+Let&apos;s get the CSS properties reference rolling.
 
 ## Animation
 
@@ -7579,7 +7580,7 @@ following markup and animation structure as our base:
 
 **HTML**:
 
-> **\<div class=\"element\"\>\</div\>**
+> **&lt;div class=&quot;element&quot;\>&lt;/div\>**
 
 **CSS**:
 
@@ -7587,7 +7588,7 @@ following markup and animation structure as our base:
 >
 > **}**
 >
-> **\@keyframes fadingColors {**
+> **&commat;keyframes fadingColors {**
 >
 > **0% {**
 >
@@ -7604,23 +7605,23 @@ following markup and animation structure as our base:
 > **}**
 
 In the examples, we will only see the **.element** rule since the HTML
-and **\@keyframes fadingColors** will remain the same.
+and **&commat;keyframes fadingColors** will remain the same.
 
-> The **\@keyframes** declaration block is a custom animation that can
-> be applied to any element. When applied, the element\'s background
+> The **&commat;keyframes** declaration block is a custom animation that can
+> be applied to any element. When applied, the element&apos;s background
 > will go from red to black.
 
-Ok, let\'s do this.
+Ok, let&apos;s do this.
 
 **animation-name**
 
-The **animation-name** CSS property is the name of the **\@keyframes**
+The **animation-name** CSS property is the name of the **&commat;keyframes**
 at-rule that we want to execute, and it looks like this:
 **animation-name: fadingColors;**
 
 #### Description
 
-In the HTML and CSS base example, our **\@keyframes** at-rule had an
+In the HTML and CSS base example, our **&commat;keyframes** at-rule had an
 animation where the background color went from red to black. The name of
 that animation is **fadingColors**.
 
@@ -7633,7 +7634,7 @@ So, we can call the animation like this:
 > **animation-name: fadingColors; }**
 
 This is a valid rule using the longhand. There are clearly no issues
-with it at all. The thing is that the animation won\'t run unless we add
+with it at all. The thing is that the animation won&apos;t run unless we add
 **animation-duration** to it.
 
 **animation-duration**
@@ -7705,18 +7706,18 @@ There are four values: **normal**, **reverse**, **alternate**, and
     **ease-out**, it gets replaced by **ease-in** when played in
     reverse.
 
-> We\'ll look at these timing functions in a minute.
+> We&apos;ll look at these timing functions in a minute.
 
 -   **alternate-reverse**: This is the same thing as **alternate**, but
     the animation starts backward, from the end.
 
 In our current example, we have a continuous animation. However, the
-background color has a \"hard stop\" when going from black (end of the
+background color has a &quot;hard stop&quot; when going from black (end of the
 animation) to red (start of the animation).
 
-Let\'s create a more \"fluid\" animation by making the black background
+Let&apos;s create a more &quot;fluid&quot; animation by making the black background
 fade into red and then red into black without any hard stops. Basically,
-we are trying to create a \"pulse-like\" effect:
+we are trying to create a &quot;pulse-like&quot; effect:
 
 **CSS**:
 
@@ -7788,7 +7789,7 @@ There are four values: **none**, **forwards**, **backwards**, and
     almost the same as using **forwards**.
 
 The prior properties are better used in animations that have an end and
-stop. In our example, we\'re using a fading/pulsating animation, so the
+stop. In our example, we&apos;re using a fading/pulsating animation, so the
 best property to use is **none**.
 
 **CSS**:
@@ -7817,18 +7818,18 @@ self-explanatory.
 > animation-fill-mode: none; animation-play-state: running; }**
 
 In this case, defining **animation-play-state** as **running** is
-redundant, but I\'m listing it for purposes of the example.
+redundant, but I&apos;m listing it for purposes of the example.
 
 **animation-timing-function**
 
 The **animation-timing-function** CSS property defines how an
-animation\'s speed should progress throughout its cycles, and it looks
+animation&apos;s speed should progress throughout its cycles, and it looks
 like this:
 
 > **animation-timing-function: ease-out;**
 
 There are five predefined values, also known as easing functions, for
-the **Bézier** curve (we\'ll see what the Bézier curve is in a minute):
+the **Bézier** curve (we&apos;ll see what the Bézier curve is in a minute):
 **ease**, **ease-in**, **ease-out**, **ease-in-out**, and **linear**.
 
 ##### ease
@@ -7873,10 +7874,10 @@ and can be called using the **cubic-bezier()** function or the
 The **cubic-bezier()** function allows us to create custom acceleration
 curves. Most use cases can benefit from the already defined easing
 functions we just mentioned (**ease**, **ease-in**, **ease-out**,
-**ease-in-out** and **linear**), but if you\'re feeling adventurous,
+**ease-in-out** and **linear**), but if you&apos;re feeling adventurous,
 **cubic-bezier()** is your best bet.
 
-Here\'s what a Bézier curve looks like:
+Here&apos;s what a Bézier curve looks like:
 
 > ![](./images/image7.jpg){width="3.2946522309711286in"
 > height="3.3693153980752406in"}
@@ -7893,7 +7894,7 @@ control point on the upper right.
 
 ###### Description
 
-Let\'s represent all five predefined easing functions with the
+Let&apos;s represent all five predefined easing functions with the
 **cubic-bezier()** function:
 
 -   ease: **animation-timing-function: cubic-bezier(.25, .1, .25, 1);**
@@ -7907,10 +7908,10 @@ Let\'s represent all five predefined easing functions with the
 
 -   linear: **animation-timing-function: cubic-bezier(0, 0, 1, 1);**
 
-I\'m not sure about you, but I prefer to use the predefined values.
+I&apos;m not sure about you, but I prefer to use the predefined values.
 
 Now, we can start tweaking and testing each value to the decimal, save
-it, and wait for the live refresh to do its thing. However, that\'s too
+it, and wait for the live refresh to do its thing. However, that&apos;s too
 much time wasted testing if you ask me.
 
 > The amazing Lea Verou created the best web app to work with Bézier
@@ -7920,7 +7921,7 @@ much time wasted testing if you ask me.
 The Bézier curve image showed earlier was taken from the
 **cubic-bezier.com** website.
 
-Let\'s add **animation-timing-function** to our example:
+Let&apos;s add **animation-timing-function** to our example:
 
 **CSS**:
 
@@ -7930,8 +7931,8 @@ animation-direction: alternate; animation-delay: 3s;
 animation-fill-mode: none; animation-play-state: running;
 animation-timing-function: ease-out; } steps()**
 
-The **steps()** timing function isn\'t very widely used, but knowing how
-it works is a must if you\'re into CSS animations.
+The **steps()** timing function isn&apos;t very widely used, but knowing how
+it works is a must if you&apos;re into CSS animations.
 
 It looks like this:
 
@@ -7980,12 +7981,12 @@ like this:
 >
 > **animation-timing-function: steps(6, start); }**
 
-Granted, the pulsating effect in our example isn\'t quite noticeable
+Granted, the pulsating effect in our example isn&apos;t quite noticeable
 when we add the **steps()** function. However, you can see it more
 clearly in this pen from Louis Lazarus when hovering over the boxes, at
 [**http://tiny.cc/steps-timingfunction**](http://tiny.cc/steps-timing-function)
 
-Here\'s an image taken from Stephen Greig\'s article in *Smashing
+Here&apos;s an image taken from Stephen Greig&apos;s article in *Smashing
 Magazine*, *Understanding CSS Timing Functions*, that explains **start**
 and **end** from the **steps()** function:
 
@@ -8052,7 +8053,7 @@ and then stop.
 
 ### Final CSS code
 
-Let\'s see how all the animation properties look in one final example
+Let&apos;s see how all the animation properties look in one final example
 showing both the longhand and shorthand styles.
 
 **Longhand style**
@@ -8195,7 +8196,7 @@ a color, and then apply a blend mode to them:
 
 > **.element { width: 500px; height: 500px;**
 >
-> **background-image: url(\'../images/image.jpg\'); background-color:
+> **background-image: url(&apos;../images/image.jpg&apos;); background-color:
 > red; background-blend-mode: multiply;**
 >
 > **}**
@@ -8208,7 +8209,7 @@ a color, and then apply a blend mode to them:
 > background-blend-mode: multiply; }**
 >
 > Notice that in the second example, the path to the image is not inside
-> quotes. The quotes, single \[**\'\'**\] or double \[**\"\"**\], are
+> quotes. The quotes, single &lbrack;**&apos;&apos;**&rbrack; or double &lbrack;**&quot;&quot;**&rbrack;, are
 > optional.
 
 CSS-Tricks has a great Pen showing all these blend modes. However, I
@@ -8220,7 +8221,7 @@ So, check out the CodePen demo with all the blend modes at
 
 ### background-clip
 
-The **background-clip** CSS property helps define whether an element\'s
+The **background-clip** CSS property helps define whether an element&apos;s
 background extends below its border or not, and it looks like this:
 **background-clip: border-box;**
 
@@ -8262,7 +8263,7 @@ of an element, and it looks like this: **background-color: red;**
 
 Also, **transparent** is actually a color in CSS.
 
-> If we wanted to set a gradient background color, we\'d have to use the
+> If we wanted to set a gradient background color, we&apos;d have to use the
 > **background-image** property instead. This is because gradients are
 > actually images.
 
@@ -8278,7 +8279,7 @@ The color value can be defined using any of the following methods:
 
 **CSS**:
 
-> **/\*Named Color\*/**
+> **/&ast;Named Color&ast;/**
 >
 > **.element {**
 >
@@ -8286,7 +8287,7 @@ The color value can be defined using any of the following methods:
 >
 > **}**
 >
-> **/\*HEX\*/**
+> **/&ast;HEX&ast;/**
 >
 > **.element {**
 >
@@ -8294,7 +8295,7 @@ The color value can be defined using any of the following methods:
 >
 > **}**
 >
-> **/\*RGB\*/**
+> **/&ast;RGB&ast;/**
 >
 > **.element {**
 >
@@ -8302,16 +8303,16 @@ The color value can be defined using any of the following methods:
 >
 > **}**
 >
-> **/\*RGBa\*/**
+> **/&ast;RGBa&ast;/**
 >
 > **.element {**
 >
-> **/\*Background has 50% opacity\*/ background-color: rgba(255, 0, 0,
+> **/&ast;Background has 50% opacity&ast;/ background-color: rgba(255, 0, 0,
 > .5);**
 >
 > **}**
 >
-> **/\*HSL\*/**
+> **/&ast;HSL&ast;/**
 >
 > **.element {**
 >
@@ -8319,11 +8320,11 @@ The color value can be defined using any of the following methods:
 >
 > **}**
 >
-> **/\*HSLa\*/**
+> **/&ast;HSLa&ast;/**
 >
 > **.element {**
 >
-> **/\*Background has 50% opacity\*/ background-color: hsla(0, 100%,
+> **/&ast;Background has 50% opacity&ast;/ background-color: hsla(0, 100%,
 > 50%, .5); }**
 
 ### background-image
@@ -8357,7 +8358,7 @@ horizontal, or diagonal.
 #### Radial
 
 Its syntax is **radial-gradient**. These gradients are circular in
-nature, and by default, they will adapt to an element\'s dimension. For
+nature, and by default, they will adapt to an element&apos;s dimension. For
 example, if the element is a perfect square, it would make a perfect
 circular radial gradient. However, if the element is a rectangle, then
 the radial gradient would look like an oval.
@@ -8375,7 +8376,7 @@ proportions of the gradients.
 
 **CSS**:
 
-> **/\*Graphic file\*/**
+> **/&ast;Graphic file&ast;/**
 >
 > **.element {**
 >
@@ -8383,7 +8384,7 @@ proportions of the gradients.
 >
 > **}**
 >
-> **/\*Multiple images\*/**
+> **/&ast;Multiple images&ast;/**
 >
 > **.element { background-image:**
 >
@@ -8391,7 +8392,7 @@ proportions of the gradients.
 >
 > **}**
 >
-> **/\*Linear gradient\*/**
+> **/&ast;Linear gradient&ast;/**
 >
 > **.element {**
 >
@@ -8399,7 +8400,7 @@ proportions of the gradients.
 >
 > **}**
 >
-> **/\*Linear Gradient with color stops\*/**
+> **/&ast;Linear Gradient with color stops&ast;/**
 >
 > **.element {**
 >
@@ -8407,7 +8408,7 @@ proportions of the gradients.
 >
 > **}**
 >
-> **/\*Radial gradient\*/**
+> **/&ast;Radial gradient&ast;/**
 >
 > **.element {**
 >
@@ -8415,7 +8416,7 @@ proportions of the gradients.
 >
 > **}**
 >
-> **/\*Radial gradient with color stops\*/**
+> **/&ast;Radial gradient with color stops&ast;/**
 >
 > **.element {**
 >
@@ -8489,7 +8490,7 @@ The default value is **0 0**; which is exactly the same as **left top**.
 
 **CSS**:
 
-> **/\*Default values\*/**
+> **/&ast;Default values&ast;/**
 >
 > **.element {**
 >
@@ -8497,7 +8498,7 @@ The default value is **0 0**; which is exactly the same as **left top**.
 >
 > **}**
 >
-> **/\*Keyword values\*/**
+> **/&ast;Keyword values&ast;/**
 >
 > **.element {**
 >
@@ -8505,7 +8506,7 @@ The default value is **0 0**; which is exactly the same as **left top**.
 >
 > **}**
 >
-> **/\*Percentages values\*/**
+> **/&ast;Percentages values&ast;/**
 >
 > **.element {**
 >
@@ -8513,7 +8514,7 @@ The default value is **0 0**; which is exactly the same as **left top**.
 >
 > **}**
 >
-> **/\*Length values\*/**
+> **/&ast;Length values&ast;/**
 >
 > **.element {**
 >
@@ -8560,19 +8561,19 @@ There are four values: **repeat**, **repeat-x**, **repeat-y**, and
 
 **CSS**:
 
-> **/\*Default value\*/**
+> **/&ast;Default value&ast;/**
 >
 > **.repeat { background-repeat: repeat; }**
 >
-> **/\*Repeat horizontally\*/**
+> **/&ast;Repeat horizontally&ast;/**
 >
 > **.repeat-x { background-repeat: repeat-x; }**
 >
-> **/\*Repeat vertically\*/**
+> **/&ast;Repeat vertically&ast;/**
 >
 > **.repeat-y { background-repeat: repeat-y; }**
 >
-> **/\*No repeat\*/**
+> **/&ast;No repeat&ast;/**
 >
 > **.no-repeat { background-repeat: no-repeat; }**
 
@@ -8608,7 +8609,7 @@ or vertical) in order to maintain its aspect ratio and not deform it.
 #### contain
 
 This value makes sure the image can be seen completely within its parent
-container. The image does not bleed on the edges; it\'s \"contained\".
+container. The image does not bleed on the edges; it&apos;s &quot;contained&quot;.
 **cover**
 
 This value scales the image and takes the longest dimension (horizontal
@@ -8677,40 +8678,40 @@ This is a bit more scalable because if we need to add any other values,
 all we need to do is add the new value to this declaration rather than
 writing a separate one.
 
-However, at the end, it\'s all a matter of personal style.
+However, at the end, it&apos;s all a matter of personal style.
 
 **CSS**:
 
-> **/\*BG color\*/**
+> **/&ast;BG color&ast;/**
 >
 > **.element { background: red; }**
 >
-> **/\*BG color and image\*/**
+> **/&ast;BG color and image&ast;/**
 >
 > **.element { background: url(../images/bg.png) red; }**
 >
-> **/\*BG color, image and position\*/**
+> **/&ast;BG color, image and position&ast;/**
 >
 > **.element { background: url(../images/bg.png) 50% 50% red; }**
 >
-> **/\*BG color, image, position and do not repeat\*/**
+> **/&ast;BG color, image, position and do not repeat&ast;/**
 >
 > **.element { background: url(../images/bg.png) 50% 50% red no- repeat;
 > }**
 >
-> **/\*BG color, image, position, do not repeat and size\*/**
+> **/&ast;BG color, image, position, do not repeat and size&ast;/**
 >
 > **.element { background: url(../images/bg.png) 50% 50% / contain red
 > no-repeat; }**
 >
-> **/\*BG color, image, position, do not repeat, size and clip\*/**
+> **/&ast;BG color, image, position, do not repeat, size and clip&ast;/**
 >
 > **.element { background: url(../images/bg.png) 50% 50% / contain red**
 >
 > **no-repeat content-box; }**
 >
-> **/\*BG color, image, position, do not repeat, size, clip and
-> attachment\*/**
+> **/&ast;BG color, image, position, do not repeat, size, clip and
+> attachment&ast;/**
 >
 > **.element { background: url(../images/bg.png) 50% 50% / contain red
 > no-repeat content-box fixed; }**
@@ -8728,11 +8729,11 @@ concept. This meant the web designers and developers had to come up with
 all sorts of tricks to get around such a problem. Those days are now
 gone, for the most part at least.
 
-Let\'s move on to the box model properties.
+Let&apos;s move on to the box model properties.
 
 ### width
 
-The **width** CSS property specifies the width of an element\'s content
+The **width** CSS property specifies the width of an element&apos;s content
 area, and it looks like this:
 
 > **width: 10px;**
@@ -8746,7 +8747,7 @@ Alternatively, it could also look like this:
 The content area is inside the padding, border, and margin of the
 element.
 
-Let\'s talk about the most used values and keywords: the *length* value,
+Let&apos;s talk about the most used values and keywords: the *length* value,
 *percentage* value, **auto**, **max-content**, **min-content**, and
 **fit-content**.
 
@@ -8782,19 +8783,19 @@ You can find more information on MDN at
 
 **CSS**:
 
-> **/\*max-content\*/**
+> **/&ast;max-content&ast;/**
 >
 > **.element { width: max-content;**
 >
 > **}**
 >
-> **/\*min-content\*/**
+> **/&ast;min-content&ast;/**
 >
 > **.element { width: min-content;**
 >
 > **}**
 >
-> **/\*fit-content\*/**
+> **/&ast;fit-content&ast;/**
 >
 > **.element { width: fit-content; }**
 
@@ -8803,7 +8804,7 @@ Here is a demo in CodePen:
 
 ### height
 
-The **height** CSS property specifies the height of an element\'s
+The **height** CSS property specifies the height of an element&apos;s
 *content area*, and it looks like this:
 
 > **height: 200px;**
@@ -8827,25 +8828,25 @@ This is when we use percentages such as **50%**, **85%**, and so on.
 
 #### inherit
 
-With this keyword, the element will inherit its parent container\'s
+With this keyword, the element will inherit its parent container&apos;s
 height. You can find more information on MDN a[t
 **http://tiny.cc/mdn-height**](http://tiny.cc/mdn-height)
 
 **CSS**:
 
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
 > **.element { height: 200px;**
 >
 > **}**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 >
 > **.element { height: 50%;**
 >
 > **}**
 >
-> **/\*Inherit value\*/**
+> **/&ast;Inherit value&ast;/**
 >
 > **.element { height: inherit; }**
 
@@ -8885,23 +8886,23 @@ Negative values are not allowed.
 
 **CSS**:
 
-> **/\*Shorthand, ONE value: all four sides have the same padding\*/**
+> **/&ast;Shorthand, ONE value: all four sides have the same padding&ast;/**
 >
 > **.element { padding: 10px; }**
 >
-> **/\*Shorthand, TWO values: Top & Bottom - Left & Right\*/**
+> **/&ast;Shorthand, TWO values: Top & Bottom - Left & Right&ast;/**
 >
 > **.element { padding: 10px 15px; }**
 >
-> **/\*Shorthand, THREE values: Top - Left & Right - Bottom\*/**
+> **/&ast;Shorthand, THREE values: Top - Left & Right - Bottom&ast;/**
 >
 > **.element { padding: 10px 15px 20px; }**
 >
-> **/\*Shorthand, FOUR values: Top - Right - Bottom - Left\*/**
+> **/&ast;Shorthand, FOUR values: Top - Right - Bottom - Left&ast;/**
 >
 > **.element { padding: 10px 15px 20px 25px; }**
 >
-> **/\*Longhand, all values. They can go in any order\*/**
+> **/&ast;Longhand, all values. They can go in any order&ast;/**
 >
 > **.element { padding-top: 10px; padding-right: 15px; padding-bottom:
 > 20px; padding-left: 25px; }**
@@ -8938,23 +8939,23 @@ Negative values are allowed.
 
 **CSS**:
 
-> **/\*Shorthand, ONE value: all four sides have the same padding\*/**
+> **/&ast;Shorthand, ONE value: all four sides have the same padding&ast;/**
 >
 > **.element { margin: 10px; }**
 >
-> **/\*Shorthand, TWO values: Top & Bottom - Left & Right\*/**
+> **/&ast;Shorthand, TWO values: Top & Bottom - Left & Right&ast;/**
 >
 > **.element { margin: 10px 15px; }**
 >
-> **/\*Shorthand, THREE values: Top - Left & Right - Bottom\*/**
+> **/&ast;Shorthand, THREE values: Top - Left & Right - Bottom&ast;/**
 >
 > **.element { margin: 10px 15px 20px; }**
 >
-> **/\*Shorthand, FOUR values: Top - Right - Bottom - Left\*/**
+> **/&ast;Shorthand, FOUR values: Top - Right - Bottom - Left&ast;/**
 >
 > **.element { margin: 10px 15px 20px 25px; }**
 >
-> **/\*Longhand, all values. They 1can go in any order\*/**
+> **/&ast;Longhand, all values. They 1can go in any order&ast;/**
 >
 > **.element { margin-top: 10px; margin-right: 15px; margin-bottom:
 > 20px; margin-left: 25px; }**
@@ -8965,7 +8966,7 @@ There is a particular behavior with the margins. If two stacked elements
 have top and bottom margins, the margins are not added. Instead, the
 larger value is the only one taken into account.
 
-For example, we have an **\<h1\>** heading and a **\<p\>** paragraph.
+For example, we have an **&lt;h1\>** heading and a **&lt;p\>** paragraph.
 The heading has a bottom margin of **20px**, and the paragraph has a top
 margin of **10px**.
 
@@ -8979,7 +8980,7 @@ the margins collapse allows the content and layout to maintain
 consistency and avoid creating undesired extra spacing between stacked
 elements.
 
-This is also good because it saves us the effort of having to \"negate\"
+This is also good because it saves us the effort of having to &quot;negate&quot;
 margins on every stacked element that has top and bottom margins, again,
 to avoid creating those extra spaces.
 
@@ -8990,12 +8991,12 @@ this behavior. Here is a demo in CodePen:
 
 ### border
 
-The **border** CSS property is the shorthand that defines an element\'s
+The **border** CSS property is the shorthand that defines an element&apos;s
 border thickness, style, and color.
 
 The **border** property and all its sister properties (**border-width**,
 **border-style**, and **border-color**) and variations are
-self-explanatory, so there\'s no need for a *Description* section like
+self-explanatory, so there&apos;s no need for a *Description* section like
 in prior properties.
 
 The CSS example ahead will help clarify the use of these properties.
@@ -9028,23 +9029,23 @@ accomplishes exactly the same accomplishment as the bottom rule with the
 
 **CSS**:
 
-> **/\*Shorthand\*/**
+> **/&ast;Shorthand&ast;/**
 >
 > **.element-shorthand { border: 10px solid green;**
 >
 > **}**
 >
-> **/\*Longhand\*/**
+> **/&ast;Longhand&ast;/**
 >
 > **.element-longhand {**
 >
-> **/\*Width\*/ border-top-width: 10px; border-right-width: 10px;
+> **/&ast;Width&ast;/ border-top-width: 10px; border-right-width: 10px;
 > border-bottom-width: 10px; border-left-width: 10px;**
 >
-> **/\*Style\*/ border-top-style: solid; border-right-style: solid;
+> **/&ast;Style&ast;/ border-top-style: solid; border-right-style: solid;
 > border-bottom-style: solid; border-left-style: solid;**
 >
-> **/\*Color\*/ border-top-color: green; border-right-color: green;
+> **/&ast;Color&ast;/ border-top-color: green; border-right-color: green;
 > border-bottom-color: green; border-left-color: green;**
 >
 > **}**
@@ -9073,8 +9074,8 @@ but only to the margin.
 
 **CSS**:
 
-> **/\*Padding, border and margin are added to the element\'s
-> dimensions\*/**
+> **/&ast;Padding, border and margin are added to the element&apos;s
+> dimensions&ast;/**
 >
 > **.element {**
 >
@@ -9082,16 +9083,16 @@ but only to the margin.
 >
 > **}**
 >
-> **/\*Padding and border are not added to the element\'s dimensions,
-> only margin\*/ .element {**
+> **/&ast;Padding and border are not added to the element&apos;s dimensions,
+> only margin&ast;/ .element {**
 >
 > **box-sizing: border-box;**
 >
 > **}**
 >
-> **/\*Always start your CSS with this rule\*/**
+> **/&ast;Always start your CSS with this rule&ast;/**
 >
-> **\*, \*:before, \*:after { box-sizing: border-box; }**
+> **&ast;, &ast;:before, &ast;:after { box-sizing: border-box; }**
 
 Here is a demo in CodePen: **http://tiny.cc/box-sizing**
 
@@ -9123,15 +9124,15 @@ You can find more information on MDN at
 
 **CSS**:
 
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
 > **.element { height: 75px;**
 >
-> **/\*This property overrides height\*/ max-height: 150px;**
+> **/&ast;This property overrides height&ast;/ max-height: 150px;**
 >
 > **}**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 >
 > **.element { max-height: 65%; }**
 
@@ -9163,15 +9164,15 @@ You can find more information on MDN at
 
 **CSS**:
 
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
 > **.element { width: 150px;**
 >
-> **/\*This property overrides width\*/ max-width: 75px;**
+> **/&ast;This property overrides width&ast;/ max-width: 75px;**
 >
 > **}**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 >
 > **.element { max-width: 65%; }**
 
@@ -9202,16 +9203,16 @@ You can find more information on MDN at
 [**http://tiny.cc/mdn-min-height**](http://tiny.cc/mdn-min-height)
 **CSS**:
 
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
 > **.element { height: 75px; max-height: 150px;**
 >
-> **/\*This property overrides height and max-height\*/ min-height:
+> **/&ast;This property overrides height and max-height&ast;/ min-height:
 > 300px;**
 >
 > **}**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 >
 > **.element { min-height: 65%; }**
 
@@ -9245,14 +9246,14 @@ You can find more information on MDN at
 
 **CSS**:
 
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
-> **.element { width: 150px; max-width: 75px; /\*This property overrides
-> width and max-width\*/ min-width: 300px;**
+> **.element { width: 150px; max-width: 75px; /&ast;This property overrides
+> width and max-width&ast;/ min-width: 300px;**
 >
 > **}**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 >
 > **.element { min-width: 65%; }**
 
@@ -9267,10 +9268,10 @@ A *replaced element* is an HTML element whose content and dimensions are
 intrinsic (defined by the element itself) and are not defined by CSS or
 by its context or surroundings.
 
-Examples of *replaced elements* are **\<img\>**, **\<video\>**,
-**\<audio\>**, **\<canvas\>**, **\<iframe\>**, **\<textarea\>**,
-**\<object\>**, **\<input\>**, **\<button\>**, **\<br\>**, and
-**\<hr\>**.
+Examples of *replaced elements* are **&lt;img\>**, **&lt;video\>**,
+**&lt;audio\>**, **&lt;canvas\>**, **&lt;iframe\>**, **&lt;textarea\>**,
+**&lt;object\>**, **&lt;input\>**, **&lt;button\>**, **&lt;br\>**, and
+**&lt;hr\>**.
 
 Now, the most important characteristic of replaced elements is that we
 cannot apply generated content to them via CSS using the **:before** or
@@ -9292,15 +9293,15 @@ There are four keyword values: **contain**, **cover**, **fill**,
 
 The aspect ratio of the content inside the replaced element is
 preserved. This content is enlarged as much as possible until it reaches
-its maximum size defined by its width and height. It\'s possible to see
-some \"unfilled\" areas of the element due to preservation of the aspect
+its maximum size defined by its width and height. It&apos;s possible to see
+some &quot;unfilled&quot; areas of the element due to preservation of the aspect
 ratio.
 
 #### cover
 
 The aspect ratio of the content inside the replaced element is
 preserved. This content is enlarged as much as possible until it
-completely fills or \"covers\" the entire content box. **fill**
+completely fills or &quot;covers&quot; the entire content box. **fill**
 
 The aspect ratio of the content inside the replaced element is not
 necessarily preserved. This means that when filling the entire content
@@ -9355,8 +9356,8 @@ Here is a demo in CodePen: **http://tiny.cc/object-fit-position**
 With this property, we can not only make rounded corners but also
 circles, ellipses, and other interesting shapes.
 
-I admit that the term \"rounded corners\" is far less obscure than
-\"border radius\". **border-radius**
+I admit that the term &quot;rounded corners&quot; is far less obscure than
+&quot;border radius&quot;. **border-radius**
 
 The **border-radius** CSS property allows us to make rounded corners on
 almost any HTML element, and it looks like this:
@@ -9386,14 +9387,14 @@ This is when we use one of the following units: **px**, **em**, **in**,
 This is when we use percentages such as **50%**, **85%**, and so on.
 
 We can use, one, two, three, or four values in the same declaration. We
-can also use a slash symbol, \"**/**\", to separate groups of values.
+can also use a slash symbol, &quot;**/**&quot;, to separate groups of values.
 
-> Sometimes, the background color or texture \"bleeds\" over the rounded
+> Sometimes, the background color or texture &quot;bleeds&quot; over the rounded
 > corners in some browsers. Use **background-clip** to fix this issue.
 
 **CSS**:
 
-> **/\*Longhand\*/**
+> **/&ast;Longhand&ast;/**
 >
 > **.element {**
 >
@@ -9402,43 +9403,43 @@ can also use a slash symbol, \"**/**\", to separate groups of values.
 >
 > **}**
 >
-> **/\*Shorthand\*/**
+> **/&ast;Shorthand&ast;/**
 >
 > **.element { border-radius: 20px; }**
 >
-> **/\*Two values: top-left-and-bottom-right - top-right-and-bottom-**
+> **/&ast;Two values: top-left-and-bottom-right - top-right-and-bottom-**
 >
-> **left\*/**
+> **left&ast;/**
 >
 > **.element-1 { border-radius: 70px 7px; }**
 >
-> **/\*Three values: top-left - top-right-and-bottom-left - bottom-
-> right\*/**
+> **/&ast;Three values: top-left - top-right-and-bottom-left - bottom-
+> right&ast;/**
 >
 > **.element-2 { border-radius: 70px 7px 20px; }**
 >
-> **/\*Four values: top-left - top-right - bottom-right -
-> bottom-left\*/**
+> **/&ast;Four values: top-left - top-right - bottom-right -
+> bottom-left&ast;/**
 >
 > **.element-3 { border-radius: 70px 7px 20px 150px; }**
 >
-> **/\*Values divided with a slash \"/\" symbol \*/**
+> **/&ast;Values divided with a slash &quot;/&quot; symbol &ast;/**
 >
 > **.element-4 { border-radius: 70px 7px/20px 30px; }**
 >
-> **/\*Circle\*/**
+> **/&ast;Circle&ast;/**
 >
 > **.element-5 { border-radius: 200px; }**
 >
-> **/\*Ellipse\*/**
+> **/&ast;Ellipse&ast;/**
 >
 > **.element-6 { height: 100px; border-radius: 100%; }**
 >
-> **/\*Pill\*/**
+> **/&ast;Pill&ast;/**
 >
 > **.element-7 { height: 100px; border-radius: 100px; }**
 >
-> **/\*Half Pill: top-left - top-right - bottom-right - bottom-left\*/**
+> **/&ast;Half Pill: top-left - top-right - bottom-right - bottom-left&ast;/**
 >
 > **.element-8 { height: 100px; border-radius: 100px 0 0 100px; }**
 
@@ -9457,16 +9458,16 @@ Alternatively, it could also look like this:
 
 There is no space between the number and the unit.
 
-In most cases, the unit isn\'t required after the number **0** (zero).
+In most cases, the unit isn&apos;t required after the number **0** (zero).
 
 There are several types of length units, such as described in the
 following explanations.
 
 ### Relative length units
 
-They are dependent on another element\'s length (usually, a parent
+They are dependent on another element&apos;s length (usually, a parent
 element in the DOM) that relates directly to the element in question.
-When the other element\'s length changes, the length of the element in
+When the other element&apos;s length changes, the length of the element in
 question maintains the defined proportion. In other words, there is no
 need to declare the length of the child element again.
 
@@ -9479,7 +9480,7 @@ many headaches.
 
 #### ex
 
-The **ex** suffix stands for an element\'s x-height. The **ex** CSS unit
+The **ex** suffix stands for an element&apos;s x-height. The **ex** CSS unit
 refers to the height of lowercase *x*. This height is dependent on the
 font. In other words, the heights can be different if we are using Arial
 than if we are using Verdana, even if the value is the same.
@@ -9504,7 +9505,7 @@ than if we are using Verdana, even if the value is the same.
 The **em** suffix stands for the pronunciation of the letter *m*, and it
 represented the width of the lower case *m* in the print and typography
 industries. In CSS, the **em** unit represents a calculation of an
-element\'s **font-size** property.
+element&apos;s **font-size** property.
 
 This unit can be used together with many CSS properties, but the most
 common use is to define **font-size** elements.
@@ -9525,10 +9526,10 @@ element in a markup document. A markup document is not only an HTML
 document; it can also be an XML, SVG, or other markup-based document.
 
 Granted that in this guide, we are referring to an HTML document, and
-since this is the case, the root element is the **\<html\>** element.
+since this is the case, the root element is the **&lt;html\>** element.
 
-A very common practice is to set the font size on the **\<html\>**
-element to **62.5%**. This way, when we\'re setting our font sizes for
+A very common practice is to set the font size on the **&lt;html\>**
+element to **62.5%**. This way, when we&apos;re setting our font sizes for
 other elements, we can still think in pixels, but write in **rem** units
 to maintain the relative font size when scaling up or down our document
 in our responsive projects.
@@ -9541,7 +9542,7 @@ in our responsive projects.
 >
 > **} h1 {**
 >
-> **/\*It\'s the same as 22px\*/ font-size: 2.2rem; }**
+> **/&ast;It&apos;s the same as 22px&ast;/ font-size: 2.2rem; }**
 
 #### The % sign
 
@@ -9561,7 +9562,7 @@ hand in hand.
 
 ### Viewport-relative length units
 
-These units relate to the viewport. If the viewport\'s dimensions
+These units relate to the viewport. If the viewport&apos;s dimensions
 change, the properties using viewport-relative length values adapt to
 the new dimensions of the view window.
 
@@ -9571,7 +9572,7 @@ These units are a godsend in my book. They do what we would expect of
 fonts in a responsive world: enlarge or shrink according to the width or
 height of the viewport.
 
-Let\'s check them out.
+Let&apos;s check them out.
 
 #### vh
 
@@ -9607,7 +9608,7 @@ its width. The value of **vmin** is 1/100th of the side with the
 smallest length of the viewport.
 
 For example, if we declare the **font-size** of an element as **1vmin**
-and the browser\'s viewport is 600 × 800, the font size is then **6px**.
+and the browser&apos;s viewport is 600 × 800, the font size is then **6px**.
 
 **CSS**:
 
@@ -9621,7 +9622,7 @@ its width. The value of **vmax** is 1/100th of the side with the largest
 length of the viewport.
 
 For example, if we declare the **font-size** of an element as **1vmax**,
-and the browser\'s viewport is 600 × 800, the font size is then **8px**.
+and the browser&apos;s viewport is 600 × 800, the font size is then **8px**.
 
 **CSS**:
 
@@ -9630,8 +9631,8 @@ and the browser\'s viewport is 600 × 800, the font size is then **8px**.
 ### Absolute length units
 
 These units represent a physical dimension of an element. Some units in
-CSS come from the printing world, and although it\'s not common to use
-them, it\'s important to know as much as we can about them.
+CSS come from the printing world, and although it&apos;s not common to use
+them, it&apos;s important to know as much as we can about them.
 
 **Description**
 
@@ -9646,8 +9647,8 @@ In other words, a pixel in a standard LED/LCD display (for example, a
 monitor or a TV) has different sizes than a pixel in a high-density
 screen. Even the pixel sizes between high-density screens are different.
 
-Let\'s see what each abbreviation means, and at the end of the section,
-we\'ll be able to see a single example with all the units.
+Let&apos;s see what each abbreviation means, and at the end of the section,
+we&apos;ll be able to see a single example with all the units.
 
 #### cm
 
@@ -9668,27 +9669,27 @@ The **px** suffix stands for *pixel*.
 All the following values represent units that resemble **16px** font
 size, but in different length units.
 
-> **/\*Centimeter\*/**
+> **/&ast;Centimeter&ast;/**
 >
 > **.element { font-size: .43cm; }**
 >
-> **/\*Millimeter\*/**
+> **/&ast;Millimeter&ast;/**
 >
 > **.element { font-size: 4.3mm; }**
 >
-> **/\*Inch\*/**
+> **/&ast;Inch&ast;/**
 >
 > **.element { font-size: .17in; }**
 >
-> **/\*Pica\*/**
+> **/&ast;Pica&ast;/**
 >
 > **.element { font-size: 1pc; }**
 >
-> **/\*Point\*/**
+> **/&ast;Point&ast;/**
 >
 > **.element { font-size: 12pt; }**
 >
-> **/\*Pixel\*/**
+> **/&ast;Pixel&ast;/**
 >
 > **.element { font-size: 16px; }**
 
@@ -9702,9 +9703,9 @@ These units are used whenever we want to rotate an element via the
 **transform** property.
 
 Aside from the **deg** data type, the other angle data type units
-aren\'t really that common.
+aren&apos;t really that common.
 
-Let\'s check them out though. **deg**
+Let&apos;s check them out though. **deg**
 
 The **deg** suffix stands for *degrees*. **grad**
 
@@ -9714,29 +9715,29 @@ The **rad** suffix stands for *radians*.
 
 #### turn
 
-The **turn** suffix is not an abbreviation; it\'s the actual word
-*turn*. There is one turn in a full circle, so if we\'re going to make a
+The **turn** suffix is not an abbreviation; it&apos;s the actual word
+*turn*. There is one turn in a full circle, so if we&apos;re going to make a
 horizontal rectangle rotate 90 degrees to make it vertical, we would
-define it as **.25turn**, because it\'s ¼th of the complete turn.
+define it as **.25turn**, because it&apos;s ¼th of the complete turn.
 
 **CSS**:
 
 All the following values represent units that resemble a 90-degree turn
 of an element but in different angle data types:
 
-> **/\*Degrees\*/**
+> **/&ast;Degrees&ast;/**
 >
 > **.element { transform: rotate(90deg); }**
 >
-> **/\*Gradians\*/**
+> **/&ast;Gradians&ast;/**
 >
 > **.element { transform: rotate(100grad); }**
 >
-> **/\*Radians\*/**
+> **/&ast;Radians&ast;/**
 >
 > **.element { transform: rotate(89.535rad); }**
 >
-> **/\*Turn\*/**
+> **/&ast;Turn&ast;/**
 >
 > **.element { transform: rotate(.25turn); }**
 
@@ -9745,7 +9746,7 @@ of an element but in different angle data types:
 These units represent the screen density of pixels on any given output
 or device.
 
-Unlike relative and absolute units, it\'s necessary to add the unit to
+Unlike relative and absolute units, it&apos;s necessary to add the unit to
 the value **0** (zero).
 
 **Description**
@@ -9753,7 +9754,7 @@ the value **0** (zero).
 Whenever we need to consider density screens, resolution units will do
 the heavy lifting for us. They are used in media queries.
 
-Let\'s see how they work.
+Let&apos;s see how they work.
 
 #### dpi
 
@@ -9771,19 +9772,19 @@ due to the 1:96 fixed ratio of CSS pixels.
 
 **CSS**:
 
-> **/\*\*@2x pixel ratio\*\*/**
+> **/&ast;&ast;@2x pixel ratio&ast;&ast;/**
 >
-> **/\*Dots per inch\*/**
+> **/&ast;Dots per inch&ast;/**
 >
-> **\@media (min-resolution: 192dpi) { \... }**
+> **&commat;media (min-resolution: 192dpi) { &period;.. }**
 >
-> **/\*Dots per centimeter\*/**
+> **/&ast;Dots per centimeter&ast;/**
 >
-> **\@media (min-resolution: 75.5906dpcm) { \... }**
+> **&commat;media (min-resolution: 75.5906dpcm) { &period;.. }**
 >
-> **/\*Dots per pixel\*/**
+> **/&ast;Dots per pixel&ast;/**
 >
-> **\@media (min-resolution: 2dppx) { \... }**
+> **&commat;media (min-resolution: 2dppx) { &period;.. }**
 
 ### Duration units
 
@@ -9810,13 +9811,13 @@ The **s** suffix stands for *seconds*. **1s** = 1000 milliseconds.
 
 **CSS**:
 
-> **/\*Milliseconds\*/**
+> **/&ast;Milliseconds&ast;/**
 >
 > **.element { animation-duration: 3ms; }**
 >
 > **.element { transition: .003s; }**
 >
-> **/\*Seconds\*/**
+> **/&ast;Seconds&ast;/**
 >
 > **.element { animation-duration: 3s; }**
 >
@@ -9832,7 +9833,7 @@ declared columns.
 Although not necessarily ideal, actual elements such as DIVs can also be
 distributed in columns with the CSS **columns** property.
 
-Let\'s dive in.
+Let&apos;s dive in.
 
 **column-count**
 
@@ -9845,20 +9846,20 @@ element, and it looks like this:
 
 We can use either a *number* value or the keyword **auto**.
 
-When we use the **auto** keyword, we\'re letting the browser decide how
+When we use the **auto** keyword, we&apos;re letting the browser decide how
 many columns can fit within the available space. This is a very powerful
 and robust solution for responsive layouts. However, it is required that
 we declare **columnwidth** for this to work.
 
 **CSS**:
 
-> **/\*Let the browser decide\*/**
+> **/&ast;Let the browser decide&ast;/**
 >
 > **.element { column-count: auto; column-width: 200px;**
 >
 > **}**
 >
-> **/\*Specific number of columns\*/**
+> **/&ast;Specific number of columns&ast;/**
 >
 > **.element { column-count: 3; }**
 
@@ -9887,20 +9888,20 @@ There are two keywords: **auto** and **balance**.
 
 **CSS**:
 
-> **/\*Balance\*/**
+> **/&ast;Balance&ast;/**
 >
 > **.element { column-fill: balance; column-count: 4; height: 400px;**
 >
 > **}**
 >
-> **/\*Auto\*/**
+> **/&ast;Auto&ast;/**
 >
 > **.element { column-fill: auto; column-count: 4; }**
 
 **column-gap**
 
 The **column-gap** CSS property defines the space between columns. In
-editorial terms, this space is the \"gutter\", and it looks like this:
+editorial terms, this space is the &quot;gutter&quot;, and it looks like this:
 
 > **column-gap: 50px;**
 
@@ -9915,13 +9916,13 @@ There are two values: the **auto** keyword and a *length* value.
 
 **CSS**:
 
-> **/\*Auto = 1em\*/**
+> **/&ast;Auto = 1em&ast;/**
 >
 > **.element { column-gap: auto; column-count: 4;**
 >
 > **}**
 >
-> **/\*Length value: px or em\*/**
+> **/&ast;Length value: px or em&ast;/**
 >
 > **.element { column-gap: 50px; column-count: 4;**
 >
@@ -9930,7 +9931,7 @@ There are two values: the **auto** keyword and a *length* value.
 **column-rule**
 
 The **column-rule** CSS property creates or draws a vertical line that
-\"separates\" the columns, and it looks like this: **column-rule: 2px
+&quot;separates&quot; the columns, and it looks like this: **column-rule: 2px
 solid black;**
 
 ##### Description
@@ -9955,14 +9956,14 @@ properties:
 
 **CSS**:
 
-> **/\*Length, solid line and RGBa\*/**
+> **/&ast;Length, solid line and RGBa&ast;/**
 >
 > **.element { column-gap: auto; column-count: 4; column-rule: 2px solid
 > rgba(0, 0, 0, .3);**
 >
 > **}**
 >
-> **/\*Keyword, dotted and color name\*/**
+> **/&ast;Keyword, dotted and color name&ast;/**
 >
 > **.element { column-gap: 50px; column-count: 4;**
 >
@@ -10012,9 +10013,9 @@ keywords: **thin**, **medium**, or **thick**.
 
 **column-span**
 
-The **column-span** CSS property makes an element that\'s supposed to
+The **column-span** CSS property makes an element that&apos;s supposed to
 behave like a column into an element that spans across all columns. The
-element is still a \"column\", but it now expands the full width of the
+element is still a &quot;column&quot;, but it now expands the full width of the
 columns, like a block element.
 
 There are two values, **none** and **all**, which are self-explanatory.
@@ -10041,13 +10042,13 @@ columns.
 
 **CSS**:
 
-> **/\*em value\*/**
+> **/&ast;em value&ast;/**
 >
 > **.element { column-width: 10em;**
 >
 > **}**
 >
-> **/\*px value\*/**
+> **/&ast;px value&ast;/**
 >
 > **.element {**
 >
@@ -10059,12 +10060,12 @@ The **columns** CSS property is the shorthand that we can use to set
 **column-width** and **column-count**.
 
 It can accept either one or two values in the same declaration. The
-order of the values doesn\'t matter, but it\'s a good measure to declare
+order of the values doesn&apos;t matter, but it&apos;s a good measure to declare
 **column-width** first and **columncount** second.
 
 **CSS**:
 
-> **/\*column-width and then column-count\*/**
+> **/&ast;column-width and then column-count&ast;/**
 >
 > **.element { columns: 300px 2;**
 >
@@ -10084,7 +10085,7 @@ concepts, but also because it may result in less markup and CSS.
 > A powerful partner to Flexbox is the Grid Layout, which is still in
 > its early stages of development, and browser support is scarce. Since
 > Grid Layout is out of the scope of this section, you can read more on
-> Rachel Andrew\'s project site, Grid By Example, at
+> Rachel Andrew&apos;s project site, Grid By Example, at
 > **http://gridbyexample.com/**
 
 Before we dive into the Flexbox properties, the following diagram will
@@ -10092,7 +10093,7 @@ help us understand the terminology and orientations:
 
 ![](./images/image13.jpg){width="5.5in" height="3.0284722222222222in"}
 
-Let\'s dive into Flexbox properties.
+Let&apos;s dive into Flexbox properties.
 
 ### flex-grow
 
@@ -10108,23 +10109,23 @@ invalid.
 
 The flex item will grow by the defined grow factor as long as there is
 space to do so. It can grow on both the main or cross axes, depending on
-the direction defined by the **flex-direction** property, which we\'ll
+the direction defined by the **flex-direction** property, which we&apos;ll
 talk about in a minute.
 
 **CSS**:
 
-> **/\*First flex item will take 1 unit of the available space\*/**
+> **/&ast;First flex item will take 1 unit of the available space&ast;/**
 >
 > **.element-1 { flex-grow: 1; }**
 >
-> **/\*Second and third flex items will take 2 units of the available
-> space\*/**
+> **/&ast;Second and third flex items will take 2 units of the available
+> space&ast;/**
 >
 > **.element-2 { flex-grow: 2; }**
 >
 > **.element-3 { flex-grow: 2; }**
 >
-> **/\*Fourth flex item will take 1 unit of the available space\*/
+> **/&ast;Fourth flex item will take 1 unit of the available space&ast;/
 > .element-4 { flex-grow: 1; }**
 
 ### flex-shrink
@@ -10146,18 +10147,18 @@ we can make them fit the size of the flex container.
 
 **CSS**:
 
-> **/\*First flex item will take 1 unit of the available space\*/**
+> **/&ast;First flex item will take 1 unit of the available space&ast;/**
 >
 > **.element-1 { flex-shrink: 1; }**
 >
-> **/\*Second and third flex items will take 2 units of the available
-> space\*/**
+> **/&ast;Second and third flex items will take 2 units of the available
+> space&ast;/**
 >
 > **.element-2 { flex-shrink: 2; }**
 >
 > **.element-3 { flex-shrink: 2; }**
 >
-> **/\*Fourth flex item will take 1 unit of the available space\*/
+> **/&ast;Fourth flex item will take 1 unit of the available space&ast;/
 > .element-4 { flex-shrink: 1; }**
 
 ### flex-basis
@@ -10178,38 +10179,38 @@ of it. Negative values are invalid.
 
 **CSS**:
 
-> **/\*Both elements will be 50% wide\*/**
+> **/&ast;Both elements will be 50% wide&ast;/**
 >
-> **/\*Both elements will be 50% wide\*/**
+> **/&ast;Both elements will be 50% wide&ast;/**
 >
 > **.a { flex-grow: 1; }**
 >
 > **.b { flex-grow: 1; }**
 >
-> **/\*First element WILL NOT grow and has a fixed width of 200px if
-> there\'s enough space\*/**
+> **/&ast;First element WILL NOT grow and has a fixed width of 200px if
+> there&apos;s enough space&ast;/**
 >
 > **.a { flex-grow: 0; flex-basis: 200px;**
 >
 > **}**
 >
-> **/\*Second element WILL grow and has a minimum width of 200px if
-> there\'s enough space\*/**
+> **/&ast;Second element WILL grow and has a minimum width of 200px if
+> there&apos;s enough space&ast;/**
 >
 > **.b { flex-grow: 1; flex-basis: 200px;**
 >
 > **}**
 >
-> **/\*First element WILL grow and has a minimum width of 200px if
-> there\'s enough space\*/**
+> **/&ast;First element WILL grow and has a minimum width of 200px if
+> there&apos;s enough space&ast;/**
 >
-> **.a { flex-grow: 1; flex-basis: 200px; } /\*Second element:**
+> **.a { flex-grow: 1; flex-basis: 200px; } /&ast;Second element:**
 
 -   **WILL NOT grow**
 
 -   **WILL shrink if the container is smaller than 400px**
 
--   **It has a minimum width of 200px if there\'s enough space\*/**
+-   **It has a minimum width of 200px if there&apos;s enough space&ast;/**
 
 > **.b { flex-grow: 0; flex-shrink: 1; flex-basis: 200px; }**
 
@@ -10256,19 +10257,19 @@ top of the other, starting from bottom to top.
 
 **CSS**:
 
-> **/\*Horizontal axis: row\*/**
+> **/&ast;Horizontal axis: row&ast;/**
 >
 > **.flex-container { flex-direction: row; }**
 >
-> **/\*Horizontal axis: row-reverse\*/**
+> **/&ast;Horizontal axis: row-reverse&ast;/**
 >
 > **.flex-container { flex-direction: row-reverse; }**
 >
-> **/\*Vertical axis: column\*/**
+> **/&ast;Vertical axis: column&ast;/**
 >
 > **.flex-container { flex-direction: column; }**
 >
-> **/\*Vertical axis: column\*/ .flex-container { flex-direction:
+> **/&ast;Vertical axis: column&ast;/ .flex-container { flex-direction:
 > column-reverse; }**
 
 ### flex-wrap
@@ -10309,7 +10310,7 @@ of the flex items in either columns or rows.
 The **flex-wrap** attribute, on the other hand, defines whether the flex
 items should wrap or not when the container becomes too small.
 
-We can specify either one or two values. The order doesn\'t affect the
+We can specify either one or two values. The order doesn&apos;t affect the
 result.
 
 The **flex-direction** attribute can take any of its available values:
@@ -10324,21 +10325,21 @@ well: **nowrap** (default value),**wrap**, or **wrap-reverse**.
 
 **CSS**:
 
-> **/\*Main axis and elements will wrap from bottom to top\*/**
+> **/&ast;Main axis and elements will wrap from bottom to top&ast;/**
 >
 > **.flex-container { flex-direction: row; flex-wrap: wrap-reverse;**
 >
 > **}**
 >
-> **/\*Above rule is the same as this rule\*/**
+> **/&ast;Above rule is the same as this rule&ast;/**
 >
 > **.flex-container { flex-flow: row wrap-reverse; }**
 >
-> **/\*Main axis and flex items will wrap from top to bottom\*/**
+> **/&ast;Main axis and flex items will wrap from top to bottom&ast;/**
 >
 > **.flex-container { flex-flow: row-reverse wrap; }**
 >
-> **/\*Cross axis, wrapping doesn\'t happen on column layout\*/
+> **/&ast;Cross axis, wrapping doesn&apos;t happen on column layout&ast;/
 > .flex-container { flex-flow: column; }**
 
 ### align-content
@@ -10384,28 +10385,28 @@ whole container.
 
 **CSS**:
 
-> **/\*All lines at the top\*/**
+> **/&ast;All lines at the top&ast;/**
 >
 > **.flex-container { align-content: flex-start; }**
 >
-> **/\*All lines at the bottom\*/**
+> **/&ast;All lines at the bottom&ast;/**
 >
 > **.flex-container { align-content: flex-end; }**
 >
-> **/\*All lines at the center\*/**
+> **/&ast;All lines at the center&ast;/**
 >
 > **.flex-container { align-content: center; }**
 >
-> **/\*Evenly spaced lines. The top one touches the top edge; the bottom
-> one touches the bottom edge\*/**
+> **/&ast;Evenly spaced lines. The top one touches the top edge; the bottom
+> one touches the bottom edge&ast;/**
 >
 > **.flex-container { align-content: space-around; }**
 >
-> **/\*Evenly spaced lines, even the top and bottom ones\*/**
+> **/&ast;Evenly spaced lines, even the top and bottom ones&ast;/**
 >
 > **.flex-container { align-content: space-between; }**
 >
-> **/\*Lines will stretch to fill all the available space\*/**
+> **/&ast;Lines will stretch to fill all the available space&ast;/**
 >
 > **.flex-container { align-content: stretch; }**
 
@@ -10444,23 +10445,23 @@ This stretches the flex elements to fill the entire parent container.
 
 **CSS**:
 
-> **/\*Align items to the beginning\*/**
+> **/&ast;Align items to the beginning&ast;/**
 >
 > **.flex-container { align-items: flex-start; }**
 >
-> **/\*Align items to the end\*/**
+> **/&ast;Align items to the end&ast;/**
 >
 > **.flex-container { align-items: flex-end; }**
 >
-> **/\*Align items to the center\*/**
+> **/&ast;Align items to the center&ast;/**
 >
 > **.flex-container { align-items: center; }**
 >
-> **/\*Align items to their text baseline\*/**
+> **/&ast;Align items to their text baseline&ast;/**
 >
 > **.flex-container { align-items: baseline; }**
 >
-> **/\*Make items stretch and fill the parent container\*/**
+> **/&ast;Make items stretch and fill the parent container&ast;/**
 >
 > **.flex-container { align-items: stretch; }**
 
@@ -10496,23 +10497,23 @@ This stretches the flex elements to fill the entire parent container.
 
 **CSS**:
 
-> **/\*Align the flex item to the top\*/**
+> **/&ast;Align the flex item to the top&ast;/**
 >
 > **.element { align-self: flex-start; }**
 >
-> **/\*Align the flex item to the bottom\*/**
+> **/&ast;Align the flex item to the bottom&ast;/**
 >
 > **.element { align-self: flex-end; }**
 >
-> **/\*Align the flex item to the center\*/**
+> **/&ast;Align the flex item to the center&ast;/**
 >
 > **.element { align-self: center; }**
 >
-> **/\*Align the flex items to their text baseline\*/**
+> **/&ast;Align the flex items to their text baseline&ast;/**
 >
 > **.element { align-self: baseline; }**
 >
-> **/\*Make the flex item stretch\*/**
+> **/&ast;Make the flex item stretch&ast;/**
 >
 > **.element { align-self: stretch; }**
 
@@ -10537,8 +10538,8 @@ The starting number is **0** (zero), not 1. Negative values are allowed.
 
 **CSS**:
 
-> **/\*The default order of all elements has been altered, however,
-> their source order remains the same.\*/**
+> **/&ast;The default order of all elements has been altered, however,
+> their source order remains the same.&ast;/**
 >
 > **.element-1 { order: 3; }**
 >
@@ -10595,18 +10596,18 @@ edges.
 ### flex
 
 The **flex** CSS property is the shorthand in which we can declare the
-values for **flex-grow**, **flex-shrink**, and **flex-basis**. It\'s
+values for **flex-grow**, **flex-shrink**, and **flex-basis**. It&apos;s
 recommended that you follow this order when declaring the values.
 
 **CSS**:
 
-> **/\*Apply flexbox to the parent container\*/**
+> **/&ast;Apply flexbox to the parent container&ast;/**
 >
-> **.flex-container { display: flex; } /\*Flex items create 4
+> **.flex-container { display: flex; } /&ast;Flex items create 4
 > containers, each of different size.**
 >
 > **Each container grows/shrinks proportional to the flex growth/shrink
-> factorsand the browser automatically calculates the flex-basis\*/
+> factorsand the browser automatically calculates the flex-basis&ast;/
 > .element-1 { flex: 1 4 auto; }**
 >
 > **.element-2 { flex: 2 3 auto; }**
@@ -10626,7 +10627,7 @@ background features, be positioning or even blend modes to create nice
 visual effects without having to depend on image editors of any kind.
 
 The Box Model concept is something we can tackle easier especially
-knowing that legacy IE\'s have less and less impact than before. This is
+knowing that legacy IE&apos;s have less and less impact than before. This is
 greatly impacted by how we work with CSS units since we need to
 understand which units work best with different use cases and
 requirements.
@@ -10642,10 +10643,10 @@ Buckle up!
 
 # CSS Properties -- Part 2
 
-Ok, we\'re through Part 1 of the CSS properties. Indeed, there are many,
+Ok, we&apos;re through Part 1 of the CSS properties. Indeed, there are many,
 many more properties to talk about.
 
-Let\'s now move on to Part 2.
+Let&apos;s now move on to Part 2.
 
 ## Fonts
 
@@ -10656,27 +10657,27 @@ ones.
 Typography is so powerful that when we use it correctly, we may even get
 away with not using a single image in our project.
 
-Let\'s take a look at the CSS font properties, shall we?
+Let&apos;s take a look at the CSS font properties, shall we?
 
 ### font-family
 
 The **font-family** CSS property defines the font we want an element to
 use, and looks like this:
 
-> **font-family: \"Times New Roman\", Times, Baskerville, Georgia,
+> **font-family: &quot;Times New Roman&quot;, Times, Baskerville, Georgia,
 > serif;**
 
 **Description**
 
 This property can hold one or multiple font names in its declaration.
 There is no limit as to how many font names it can hold; however, it is
-not only very unlikely to list more than four or five fonts, but it\'s
+not only very unlikely to list more than four or five fonts, but it&apos;s
 also unnecessary.
 
 The font family names are separated by commas. We call this the *font
 stack*. The browser will read the font stack and use the first one in
-the stack, if it can\'t find it or download it, it will move on to the
-next font family name and so on until it\'s able to use one from the
+the stack, if it can&apos;t find it or download it, it will move on to the
+next font family name and so on until it&apos;s able to use one from the
 stack.
 
 There are two types of font family names: family name and generic family
@@ -10697,7 +10698,7 @@ names in the font stack. Generic family names can be **monospace**,
 
 > It is not mandatory to use quotes (single or double) when a font
 > family name has multiple words. For example, writing **font-family:
-> \"Times New Roman\", serif;** is the same as writing **font-family:
+> &quot;Times New Roman&quot;, serif;** is the same as writing **font-family:
 > Times New Roman, serif;**. Note that **Times New Roman** is not quoted
 > in the second example.
 
@@ -10705,7 +10706,7 @@ names in the font stack. Generic family names can be **monospace**,
 
 > **.element {**
 >
-> **font-family: \"Times New Roman\", Times, Baskerville, Georgia,
+> **font-family: &quot;Times New Roman&quot;, Times, Baskerville, Georgia,
 > serif; }**
 
 ### font-feature-settings
@@ -10713,7 +10714,7 @@ names in the font stack. Generic family names can be **monospace**,
 The **font-feature-settings** CSS property provides control over
 typographic properties in OpenType fonts, and looks like this:
 
-> **font-feature-settings: \"smcp\";**
+> **font-feature-settings: &quot;smcp&quot;;**
 
 **Description**
 
@@ -10721,8 +10722,8 @@ The font-feature-settings CSS property allows us to control and use
 other alternative glyphs that come included in some font files.
 
 An example of an alternate glyph is for example when we type the
-fractions 1/2 or 1/4 the font actually includes the \"small
-superscript\" version like ½ and ¼. Or if we type H~2~O it turns into
+fractions 1/2 or 1/4 the font actually includes the &quot;small
+superscript&quot; version like ½ and ¼. Or if we type H~2~O it turns into
 H~2~O.
 
 Remember, not all fonts contain special glyphs (font features).
@@ -10769,18 +10770,18 @@ For a complete list of all font features, check the Microsoft site at
 
 **CSS**:
 
-> **/\*Small capitals\*/**
+> **/&ast;Small capitals&ast;/**
 >
 > **.element {**
 >
-> **font-feature-settings: \"smcp\"; }**
+> **font-feature-settings: &quot;smcp&quot;; }**
 
 ### font-size
 
 The **font-size** CSS property defines the size of the text of an
 element, and it looks like this:
 
-> **font-size-settings: \"smcp\";**
+> **font-size-settings: &quot;smcp&quot;;**
 
 **Description**
 
@@ -10795,7 +10796,7 @@ length, and percentage.
 #### Absolute keywords/size
 
 The sizes defined relate directly to specific font sizes. They can also
-be used to set a font size of an element based on the parent element\'s
+be used to set a font size of an element based on the parent element&apos;s
 font size. Values are as follows:
 
 -   **xx-small**
@@ -10824,10 +10825,10 @@ font size of its parent container. The values are:
 #### Length
 
 Negative values are invalid. When using **px**, the font size is
-absolute; it\'s not relative to the font size of the parent container.
+absolute; it&apos;s not relative to the font size of the parent container.
 When using **em**, **ex**, and **ch**, the font size is relative to the
-font size of the element\'s parent container. When using **rem**, the
-font size is relative to the root element, that is, the **\<html\>**
+font size of the element&apos;s parent container. When using **rem**, the
+font size is relative to the root element, that is, the **&lt;html\>**
 element. When using **vw**, **vh**, **vmax**, and **vmin** the font size
 is relative to the viewport.
 
@@ -10845,25 +10846,25 @@ The most popular units are:
 #### Percentage
 
 The **percentage** attribute refers to the percentage of the parent
-element\'s font size.
+element&apos;s font size.
 
 Its unit is **%**.
 
 **CSS**:
 
-> **/\*Absolute keywords/size\*/**
+> **/&ast;Absolute keywords/size&ast;/**
 >
 > **.element { font-size: x-small; }**
 >
-> **/\*Relative size\*/**
+> **/&ast;Relative size&ast;/**
 >
 > **.element { font-size: smaller; }**
 >
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
 > **.element { font-size: 18px; }**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 >
 > **.element { font-size: 62.5%; }**
 
@@ -10873,7 +10874,7 @@ The **font-size-adjust** CSS property helps us define the aspect ratio
 of the fonts based on the size difference of the lowercase letter *x*
 and upper case letter *X*, and it looks like this:
 
-> **font-size-adjust: .5\";**
+> **font-size-adjust: .5&quot;;**
 
 **Description**
 
@@ -10886,7 +10887,7 @@ any font from the font stack.
 This property accepts a *numeric* value without a unit. It can also
 accept decimal values.
 
-A great online tool that can do this for us is Fontdeck\'s
+A great online tool that can do this for us is Fontdeck&apos;s
 font-size-adjust web app:
 **http://fontdeck.com/support/fontsizeadjust**.
 
@@ -10909,7 +10910,7 @@ it looks like this: **font-stretch: condensed;**
 
 **Description**
 
-The **font-stretch** property doesn\'t just *stretch* the font to
+The **font-stretch** property doesn&apos;t just *stretch* the font to
 whatever we tell it to. It looks for an actual face inside the font file
 that matches the declared style; or at that is as close as possible.
 
@@ -10951,17 +10952,17 @@ and it looks like this:
 The **font-style** property accepts the following values: **normal**,
 **italic**, and **oblique**.
 
-Let\'s clear up the difference between **italic** and **oblique**.
+Let&apos;s clear up the difference between **italic** and **oblique**.
 
 According to the spec:
 
-> *\"Italic forms are generally cursive in nature, while oblique faces
-> are typically sloped versions of the regular face.\"*
+> *&quot;Italic forms are generally cursive in nature, while oblique faces
+> are typically sloped versions of the regular face.&quot;*
 
 This means that when we declare the font style **italic**, the browser
 will look for the italic face of the font and use that face. A good
 example of this is the typeface *Georgia*; when we use the **italic**
-property, we can clearly see that it\'s an actual italicized face rather
+property, we can clearly see that it&apos;s an actual italicized face rather
 than making the normal face oblique.
 
 Oblique makes the Normal face slanted or inclined in order to *simulate*
@@ -11056,15 +11057,15 @@ This property also accepts keyword values such as **normal**, **bold**,
 > **bold** keyword is the same as **700**.
 
 One thing to note is that the keywords **bolder** and **lighter** are
-dependent on the parent element\'s font weight.
+dependent on the parent element&apos;s font weight.
 
 **CSS**:
 
-> **/\*Numeric value\*/**
+> **/&ast;Numeric value&ast;/**
 >
 > **.element { font-weight: 200; }**
 >
-> **/\*Keyword value\*/**
+> **/&ast;Keyword value&ast;/**
 >
 > **.element { font-weight: bold; }**
 
@@ -11074,7 +11075,7 @@ The **font** CSS property is the shorthand for the **font-style**,
 **font-variant**, **font-weight**, **font-size**, **line-height**, and
 **font-family** properties, and it looks like this:
 
-> **font: italic small-caps bold 18px/2 \"Times New Roman\", Times,
+> **font: italic small-caps bold 18px/2 &quot;Times New Roman&quot;, Times,
 > Baskerville, Georgia, serif;**
 
 **Description**
@@ -11089,7 +11090,7 @@ order for it to work:
     will be ignored
 
 -   If any more than these two properties are going to be declared,
-    it\'s mandatory to adhere to the following order:
+    it&apos;s mandatory to adhere to the following order:
 
 > ° **font-style**
 >
@@ -11105,51 +11106,51 @@ order for it to work:
 >
 > When declaring the **line-height** value in the shorthand, it always
 > has to go after the **font-size** property separated with a slash
-> \"**/**\" character, for example, **.element { font: 12px/1.6 Arial;
+> &quot;**/**&quot; character, for example, **.element { font: 12px/1.6 Arial;
 > }**.
 
 -   **CSS**:
 
-> **/\*All font properties in a single declaration\*/**
+> **/&ast;All font properties in a single declaration&ast;/**
 >
-> **.element { font: italic small-caps bold 18px/2 \"Times New
-> Roman\",**
+> **.element { font: italic small-caps bold 18px/2 &quot;Times New
+> Roman&quot;,**
 >
 > **Times, Baskerville, Georgia, serif; }**
 >
-> **/\*font-style\*/**
+> **/&ast;font-style&ast;/**
 >
 > **.element { font-style: italic; }**
 >
-> **/\*font-variant\*/**
+> **/&ast;font-variant&ast;/**
 >
 > **.element { font-variant: small-caps; }**
 >
-> **/\*font-weight\*/**
+> **/&ast;font-weight&ast;/**
 >
 > **.element { font-weight: bold; }**
 >
-> **/\*font-size\*/**
+> **/&ast;font-size&ast;/**
 >
 > **.element { font-size: 18px; }**
 >
-> **/\*line-height\*/**
+> **/&ast;line-height&ast;/**
 >
 > **.element { line-height: 2; }**
 >
-> **/\*font-family\*/**
+> **/&ast;font-family&ast;/**
 >
-> **.element { font-family: \"Times New Roman\", Times, Baskerville,**
+> **.element { font-family: &quot;Times New Roman&quot;, Times, Baskerville,**
 >
 > **Georgia, serif; }**
 
 ## Transform
 
-CSS transforms have gained such popularity that it\'s rare not to see
+CSS transforms have gained such popularity that it&apos;s rare not to see
 some sort of transformation in a website nowadays---from button shapes
 and animations to layouts.
 
-Let\'s dig in.
+Let&apos;s dig in.
 
 ### transform
 
@@ -11165,12 +11166,12 @@ and **skewY()**, **translate()**, **rotate()**, **matrix()**, and
 
 Note that X-axis equals *horizontal* and Y-axis equals *vertical*.
 
-> An easy way to remember which axis is which is by saying this: \"*x is
-> a cross so the x-axis is across*\". **http://tiny.cc/xy-axis**
+> An easy way to remember which axis is which is by saying this: &quot;*x is
+> a cross so the x-axis is across*&quot;. **http://tiny.cc/xy-axis**
 
 #### scale()
 
-The **scale()** function scales an element. It\'s also the shorthand for
+The **scale()** function scales an element. It&apos;s also the shorthand for
 **scaleX()** and **scaleY()** functions. It accepts a *numeric* value
 without a unit. The *numeric* value represents the proportion in which
 the element will be scaled. For example, **2** means that the element
@@ -11229,40 +11230,40 @@ you can refer to either of these two articles:
 -   *The CSS3 matrix() Transform for the Mathematically Challenged* by
     Zoltan Hawryluk at **http://tiny.cc/css-matrix-2 CSS**:
 
-> **/\*Scale the same value in both X an Y-axis\*/**
+> **/&ast;Scale the same value in both X an Y-axis&ast;/**
 >
 > **.element { transform: scale(1.1); }**
 >
-> **/\*Scale different values for X and Y-axis\*/**
+> **/&ast;Scale different values for X and Y-axis&ast;/**
 >
 > **.element { transform: scale(1.1, 1.5); }**
 >
-> **/\*Tilt the element on X-axis only\*/**
+> **/&ast;Tilt the element on X-axis only&ast;/**
 >
 > **.element { transform: skew(10deg); }**
 >
-> **/\*Tilt the element on both X and Y-axis\*/**
+> **/&ast;Tilt the element on both X and Y-axis&ast;/**
 >
 > **.element { transform: skew(10deg, -20deg); }**
 >
-> **/\*Move the element 10px to the right\*/**
+> **/&ast;Move the element 10px to the right&ast;/**
 >
 > **.element { transform: translate(10px); }**
 >
-> **/\*Move the element 10px to the right and 10% down\*/**
+> **/&ast;Move the element 10px to the right and 10% down&ast;/**
 >
 > **.element { transform: translate(-10px, 10%); }**
 >
-> **/\*Rotate in a 2D plane\*/**
+> **/&ast;Rotate in a 2D plane&ast;/**
 >
 > **.element { transform: rotate(10deg); }**
 >
-> **/\*Matrix\*/**
+> **/&ast;Matrix&ast;/**
 >
 > **.element { transform: matrix(2, 2, 1, 2, 0, 0); }**
 >
-> **/\*Add perspective to the element to make it rotate in a 3D
-> plane\*/**
+> **/&ast;Add perspective to the element to make it rotate in a 3D
+> plane&ast;/**
 >
 > **.element { transform: perspective(100px) rotateX(40deg); }**
 
@@ -11291,31 +11292,31 @@ The keywords that are accepted in this property are: **top**, **right**,
 
 **CSS**:
 
-> **/\*Single value affects both X and Y-axis\*/**
+> **/&ast;Single value affects both X and Y-axis&ast;/**
 >
 > **.element { transform: scale(2, 4); transform-origin: 50px;**
 >
 > **}**
 >
-> **/\*Two values one for each axis\*/**
+> **/&ast;Two values one for each axis&ast;/**
 >
 > **.element { transform: scale(2, 4); transform-origin: 50px -100px;**
 >
 > **}**
 >
-> **/\*Keyword value\*/**
+> **/&ast;Keyword value&ast;/**
 >
 > **.element { transform: scale(2, 4); transform-origin: bottom;**
 >
 > **}**
 >
-> **/\*Length and keyword values\*/**
+> **/&ast;Length and keyword values&ast;/**
 >
 > **.element { transform: scale(2, 4); transform-origin: 50px bottom;**
 >
 > **}**
 >
-> **/\*Both keyword values\*/**
+> **/&ast;Both keyword values&ast;/**
 >
 > **.element { transform: scale(2, 4); transform-origin: right bottom;
 > }**
@@ -11331,7 +11332,7 @@ positioned in a 3D space or 2D space (flat), and it looks like this:
 
 This property takes only two values: **flat** and **preserve-3d**.
 
-When the **preserve-3d** property is applied, the elements\' stack on
+When the **preserve-3d** property is applied, the elements&apos; stack on
 the *z* axis can be altered via the **translate()** function, thus the
 elements can appear in different planes regardless of the order in which
 they appear in the source HTML.
@@ -11344,7 +11345,7 @@ which they appear in the source HTML.
 
 **CSS**:
 
-> **/\*Perspective\*/**
+> **/&ast;Perspective&ast;/**
 >
 > **.parent-container { transform-style: preserve-3d; perspective:
 > 500px;**
@@ -11366,7 +11367,7 @@ which they appear in the source HTML.
 CSS transitions allow us to have very granular control over our
 animations.
 
-Let\'s take a look at these properties.
+Let&apos;s take a look at these properties.
 
 **transition**
 
@@ -11381,22 +11382,22 @@ This property lets us define the transition between two states of an
 element via the **:hover** or **:active** pseudo-classes.
 
 One thing to consider is that the order in which these properties appear
-doesn\'t matter. However, since **transition-delay** and
+doesn&apos;t matter. However, since **transition-delay** and
 **transition-duration** use the same value unit, **transition-delay**
 will always be considered first, followed by **transition-duration**.
 
 **CSS**:
 
-> **/\*Shorthand with all properties in a single declaration\*/**
+> **/&ast;Shorthand with all properties in a single declaration&ast;/**
 >
 > **.element { width: 100px;**
 >
-> **/\*property - duration - timing function - delay\*/ transition:
+> **/&ast;property - duration - timing function - delay&ast;/ transition:
 > width 400ms ease-out 1s;**
 >
 > **}**
 >
-> **/\*Longhand. Each property is declared separately\*/**
+> **/&ast;Longhand. Each property is declared separately&ast;/**
 >
 > **.element {**
 >
@@ -11476,7 +11477,7 @@ The **transition-property** CSS property accepts the following values:
 **transition-timing-function**
 
 The **transition-timing-function** CSS property defines how an
-animation\'s speed should progress throughout its cycles.
+animation&apos;s speed should progress throughout its cycles.
 
 Both the **transition-timing-function** and
 **animation-timing-function** properties accept the same five predefined
@@ -11500,7 +11501,7 @@ building sites and applications, so having a good understanding of how
 to place an element on a layout is crucial, especially when an element
 can have different positions depending on the available space.
 
-Let\'s see what positioning is all about.
+Let&apos;s see what positioning is all about.
 
 ### position
 
@@ -11513,9 +11514,9 @@ There are five keyword values for the **position** property: **static**,
 
 This is the default value of the **position** property. The element
 stays in the flow of the document and appears in the actual location
-where it\'s located in the markup. **absolute**
+where it&apos;s located in the markup. **absolute**
 
-The element is removed from the document flow and it\'s positioned in
+The element is removed from the document flow and it&apos;s positioned in
 relation to its closest relative positioned ancestor element.
 
 #### relative
@@ -11538,16 +11539,16 @@ property.
 
 **CSS**:
 
-> **/\*Position relative\*/**
+> **/&ast;Position relative&ast;/**
 >
 > **.element { position: relative;**
 >
 > **}**
 >
-> **/\*When the element hits the top of the viewport, it will stay fixed
+> **/&ast;When the element hits the top of the viewport, it will stay fixed
 > at**
 >
-> **20px from the top\*/**
+> **20px from the top&ast;/**
 >
 > **.element { position: sticky; top: 20px; }**
 
@@ -11562,7 +11563,7 @@ relative;** and the element has **position: absolute;** declared.
 
 If none of the ancestors have **position: relative;** declared, the
 absolute positioned element will traverse the DOM until it reaches the
-**\<body\>** tag, at which point it will position itself at the top of
+**&lt;body\>** tag, at which point it will position itself at the top of
 the page regardless of its location in the source HTML.
 
 Negative values are valid.
@@ -11582,15 +11583,15 @@ It supports the following values:
 
 **CSS**:
 
-> **/\*auto\*/**
+> **/&ast;auto&ast;/**
 >
 > **.element { top: auto; }**
 >
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
 > **.element { top: 20px; }**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 >
 > **.element { top: 15%; }**
 
@@ -11607,7 +11608,7 @@ declared.
 
 If none of the ancestors have **position: relative;** declared, the
 absolute positioned element will traverse the DOM until it reaches the
-**\<body\>** tag, at which point it will position itself at the bottom
+**&lt;body\>** tag, at which point it will position itself at the bottom
 of the page regardless of its location in the source HTML.
 
 Negative values are valid.
@@ -11627,15 +11628,15 @@ It supports the following values:
 
 **CSS**:
 
-> **/\*auto\*/**
+> **/&ast;auto&ast;/**
 >
 > **.element { bottom: auto; }**
 >
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
 > **.element { bottom: 20px; }**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 
 **.element { bottom: 15%; } left**
 
@@ -11648,7 +11649,7 @@ relative;** and the element has **position: absolute;** declared.
 
 If none of the ancestors have **position: relative;** declared, the
 absolute positioned element will traverse the DOM until it reaches the
-**\<body\>** tag, at which point it will position itself at the left of
+**&lt;body\>** tag, at which point it will position itself at the left of
 the page regardless of its location in the source HTML.
 
 Negative values are valid.
@@ -11668,15 +11669,15 @@ The **left** property supports the following values:
 
 **CSS**:
 
-> **/\*auto\*/**
+> **/&ast;auto&ast;/**
 >
 > **.element { left: auto; }**
 >
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
 > **.element { left: 20px; }**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 >
 > **.element { left: 15%; }**
 
@@ -11691,7 +11692,7 @@ relative;** and the element has **position: absolute;** declared.
 
 If none of the ancestors have **position: relative;** declared, the
 absolute positioned element will traverse the DOM until it reaches the
-**\<body\>** tag, at which point it will position itself at the right of
+**&lt;body\>** tag, at which point it will position itself at the right of
 the page regardless of its location in the source HTML.
 
 Negative values are valid.
@@ -11711,15 +11712,15 @@ It supports the following values:
 
 **CSS**:
 
-> **/\*auto\*/**
+> **/&ast;auto&ast;/**
 >
 > **.element { right: auto; }**
 >
-> **/\*Length value\*/**
+> **/&ast;Length value&ast;/**
 >
 > **.element { right: 20px; }**
 >
-> **/\*Percentage value\*/**
+> **/&ast;Percentage value&ast;/**
 >
 > **.element { right: 15%; }**
 
@@ -11734,12 +11735,12 @@ It accepts the following values:
 
 -   **baseline**: This is the default value. It aligns the elements to
     the bottom, exactly at the last line of text regardless of the
-    elements\' line height. In other words, it aligns the last line of
+    elements&apos; line height. In other words, it aligns the last line of
     text to baselines of the elements.
 
--   **bottom**: This aligns the elements\' containers to the bottom. The
+-   **bottom**: This aligns the elements&apos; containers to the bottom. The
     text and line height of the elements are not considered, only the
-    elements\' containers to the bottom.
+    elements&apos; containers to the bottom.
 
 -   **Length value**: For the length value, we use one of the following
     units: **px**, **em**, **in**, **mm**, **cm**, **vw**, and so on.
@@ -11757,15 +11758,15 @@ It accepts the following values:
 -   **super**: This aligns the element to the superscript baseline of
     the parent container.
 
--   **top**: This aligns the elements\' containers to the top. The text
+-   **top**: This aligns the elements&apos; containers to the top. The text
     and line height of the elements are not considered.
 
 -   **text-bottom**: This aligns the elements to the bottom based on the
-    parent\'s text baseline. The line height of the elements is not
+    parent&apos;s text baseline. The line height of the elements is not
     considered, only the bottom of their containers is considered.
 
 -   **text-top**: This aligns the elements to the top based on the
-    parent\'s text baseline. The line height of the elements is not
+    parent&apos;s text baseline. The line height of the elements is not
     considered, but the top of their containers is.
 
 ## Text
@@ -11773,7 +11774,7 @@ It accepts the following values:
 Typography is an incredibly powerful design feature and, in reality,
 styling text with CSS is actually simple.
 
-Let\'s see how.
+Let&apos;s see how.
 
 ### color
 
@@ -11793,27 +11794,27 @@ The **color** property supports all color modes, **HEX**, **RGB**,
 
 **CSS**:
 
-> **/\*Color Name\*/**
+> **/&ast;Color Name&ast;/**
 >
 > **.element { color: red; }**
 >
-> **/\*HEX\*/**
+> **/&ast;HEX&ast;/**
 >
 > **.element { color: #f00; }**
 >
-> **/\*RGB\*/**
+> **/&ast;RGB&ast;/**
 >
 > **.element { color: rgb(255, 0, 0); }**
 >
-> **/\*RGBa - Color has 50% opacity\*/**
+> **/&ast;RGBa - Color has 50% opacity&ast;/**
 >
 > **.element { color: rgba(255, 0, 0, .5); }**
 >
-> **/\*HSL\*/**
+> **/&ast;HSL&ast;/**
 >
 > **.element { color: hsl(0, 100%, 50%); }**
 >
-> **/\*HSLa - Color has 50% opacity\*/**
+> **/&ast;HSLa - Color has 50% opacity&ast;/**
 >
 > **.element { color: hsla(0, 100%, 50%, .5); }**
 
@@ -11835,19 +11836,19 @@ element itself, but it will work on its content.
 
 **CSS**:
 
-> **/\*Centered text\*/**
+> **/&ast;Centered text&ast;/**
 >
 > **.element { text-align: center; }**
 >
-> **/\*Left aligned text\*/**
+> **/&ast;Left aligned text&ast;/**
 >
 > **.element { text-align: left; }**
 >
-> **/\*Right aligned text\*/**
+> **/&ast;Right aligned text&ast;/**
 >
 > **.element { text-align: right; }**
 >
-> **/\*Fully justified text\*/**
+> **/&ast;Fully justified text&ast;/**
 >
 > **.element { text-align: justify; }**
 
@@ -11871,33 +11872,33 @@ as a shorthand.
 
 **CSS**:
 
-> **/\*Line above the text\*/**
+> **/&ast;Line above the text&ast;/**
 >
 > **.element { text-decoration: overline; }**
 >
-> **/\*Line under the text\*/**
+> **/&ast;Line under the text&ast;/**
 >
 > **.element { text-decoration: underline; }**
 >
-> **/\*Line across the text\*/**
+> **/&ast;Line across the text&ast;/**
 >
 > **.element { text-decoration: line-through; }**
 >
-> **/\*No underline\*/**
+> **/&ast;No underline&ast;/**
 >
 > **.element { text-decoration: none; }**
 >
-> **/\*Blinking text\*/**
+> **/&ast;Blinking text&ast;/**
 >
 > **.element { text-decoration: blink; }**
 >
-> **/\*Shorthand\*/**
+> **/&ast;Shorthand&ast;/**
 >
-> **/\*Two values\*/**
+> **/&ast;Two values&ast;/**
 >
 > **.element { text-decoration: underline wavy; }**
 >
-> **/\*Three values\*/**
+> **/&ast;Three values&ast;/**
 >
 > **.element { text-decoration: overline dashed yellow; }**
 
@@ -11917,15 +11918,15 @@ in a single declaration. The keyword values are the same as in the
 
 **CSS**:
 
-> **/\*One value\*/**
+> **/&ast;One value&ast;/**
 >
 > **.element { text-decoration-line: overline; }**
 >
-> **/\*Two values\*/**
+> **/&ast;Two values&ast;/**
 >
 > **.element { text-decoration-line: overline underline; }**
 
-**/\*Three values\*/ .element { text-decoration-line: overline underline
+**/&ast;Three values&ast;/ .element { text-decoration-line: overline underline
 blink; } text-decoration-color**
 
 The **text-decoration-color** CSS property defines the type of color the
@@ -11939,19 +11940,19 @@ It supports all color modes: **HEX**, **RGB**, **RGBa**, **HSL**,
 
 **CSS**:
 
-> **/\*Color Name\*/**
+> **/&ast;Color Name&ast;/**
 >
-> **.element { text-decoration-color: red; } /\*HEX\*/**
+> **.element { text-decoration-color: red; } /&ast;HEX&ast;/**
 >
-> **.element { text-decoration-color: #f00; } /\*RGB\*/**
+> **.element { text-decoration-color: #f00; } /&ast;RGB&ast;/**
 >
-> **.element { text-decoration-color: rgb(255, 0, 0); } /\*RGBa - Color
-> has 50% opacity\*/**
+> **.element { text-decoration-color: rgb(255, 0, 0); } /&ast;RGBa - Color
+> has 50% opacity&ast;/**
 >
-> **.element { text-decoration-color: rgba(255, 0, 0, .5); } /\*HSL\*/**
+> **.element { text-decoration-color: rgba(255, 0, 0, .5); } /&ast;HSL&ast;/**
 >
-> **.element { text-decoration-color: hsl(0, 100%, 50%); } /\*HSLa -
-> Color has 50% opacity\*/**
+> **.element { text-decoration-color: hsl(0, 100%, 50%); } /&ast;HSLa -
+> Color has 50% opacity&ast;/**
 >
 > **.element { text-decoration-color: hsla(0, 100%, 50%, .5); }**
 
@@ -12009,7 +12010,7 @@ portion of it.
 
 #### ellipsis
 
-This adds an ellipsis character \"...\" at the end of the line of text.
+This adds an ellipsis character &quot;...&quot; at the end of the line of text.
 
 CSS:
 
@@ -12060,7 +12061,7 @@ It disables kerning and ligatures.
 The browser favors legibility over rendering speed and geometric detail.
 It enables kerning and some optional ligatures. Keep in mind that if the
 browser tries to use any kerning and ligatures, this information needs
-to be contained in the font file, otherwise we won\'t see the effects of
+to be contained in the font file, otherwise we won&apos;t see the effects of
 such features.
 
 #### geometricPrecision
@@ -12098,12 +12099,12 @@ These are the four values it supports: **x-offset**, **y-offset**,
 **color**, and **blur**.
 
 -   **x-offset**: This sets the horizontal distance of the shadow from
-    the text. It\'s declared as a length value (**px**, **em**, **in**,
+    the text. It&apos;s declared as a length value (**px**, **em**, **in**,
     **mm**, **cm**, **vw**, and so on). Negative values are valid. This
     value is mandatory.
 
 -   **y-offset**: This sets the vertical distance of the shadow from the
-    text. It\'s declared as a length value (**px**, **em**, **in**,
+    text. It&apos;s declared as a length value (**px**, **em**, **in**,
     **mm**, **cm**, **vw**, and so on). Negative values are valid. This
     value is mandatory.
 
@@ -12112,7 +12113,7 @@ These are the four values it supports: **x-offset**, **y-offset**,
     *color name*. This value is optional. If it is not specified, the
     default color will be the same color as the text itself.
 
--   **blur**: This is the **smudge** effect. It\'s declared as a length
+-   **blur**: This is the **smudge** effect. It&apos;s declared as a length
     value (**px**, **em**, **in**, **mm**, **cm**, **vw**, and so on).
     It supports all color modes: **HEX**, **RGB**, **RGBa**, **HSL**,
     **HSLs**, and *color name*. This value is optional. If it is not
@@ -12120,16 +12121,16 @@ These are the four values it supports: **x-offset**, **y-offset**,
 
 **CSS**:
 
-> **/\*2 values: x-offset and y-offset\*/**
+> **/&ast;2 values: x-offset and y-offset&ast;/**
 >
 > **.element { text-shadow: 5px 10px; }**
 >
-> **/\*3 values: x-offset, y-offset and blur. Color value defaults to
-> the font color\*/**
+> **/&ast;3 values: x-offset, y-offset and blur. Color value defaults to
+> the font color&ast;/**
 >
 > **.element { text-shadow: 5px 2vw 5px; }**
 >
-> **/\*4 values: x-offset, y-offset, blur and color name\*/**
+> **/&ast;4 values: x-offset, y-offset, blur and color name&ast;/**
 >
 > **.element { text-shadow: 5px -2vw .2cm black; }**
 
@@ -12187,9 +12188,9 @@ right of the text.
 #### under
 
 This value places the underline below the base line of the text, so it
-won\'t cross any descender (it supports values like **q**, **p**, **y**,
+won&apos;t cross any descender (it supports values like **q**, **p**, **y**,
 and so on). This is helpful in text that has mathematical and chemical
-formulas that use a lot of subscripts, so the underline doesn\'t
+formulas that use a lot of subscripts, so the underline doesn&apos;t
 interfere with certain characters and make such formulas confusing or
 difficult to read.
 
@@ -12212,7 +12213,7 @@ The text direction is typically defined in the HTML via the **dir**
 attribute rather than via CSS.
 
 The **direction** CSS property is not inherited by table cells. So, in
-addition to this, it\'s recommended to set the direction of the text via
+addition to this, it&apos;s recommended to set the direction of the text via
 the **dir** attribute in the HTML document to maintain complete
 cascading support if the CSS files do not load.
 
@@ -12231,10 +12232,10 @@ Tables, tables, tables! Together with images, HTML tables are the black
 sheep of web design.
 
 Regardless of being the black sheep, the power of tables is amazing. And
-if there\'s an HTML element that does its job well, very well, it\'s
+if there&apos;s an HTML element that does its job well, very well, it&apos;s
 tables.
 
-Let\'s dig in.
+Let&apos;s dig in.
 
 ### table-layout
 
@@ -12357,7 +12358,7 @@ supported, but they were dropped in CSS 2.1.
 Continuing with typography features, we now enter the **word** and
 **paragraph** properties.
 
-Let\'s get going. **hyphens**
+Let&apos;s get going. **hyphens**
 
 The **hyphens** CSS property tells the browser how to handle hyphenation
 when text lines wrap, and it looks like this: **hyphens: auto;**
@@ -12373,7 +12374,7 @@ language and a proper hyphenation dictionary is available. Each browser
 supports hyphenation differently.
 
 > Ensure that the **lang** attribute is declared either globally on the
-> **\<html\>** tag or on the specific element whose content should be
+> **&lt;html\>** tag or on the specific element whose content should be
 > hyphenated.
 
 This property supports three keyword values: **none**, **manual**, and
@@ -12397,8 +12398,8 @@ potential line break in the text:
 
 > **U+2010 (HYPHEN)**
 
-This character is called a **hard** hyphen. It\'s an actual hyphen \"-\"
-and it\'s visible in the text. The browser may or may not break the line
+This character is called a **hard** hyphen. It&apos;s an actual hyphen &quot;-&quot;
+and it&apos;s visible in the text. The browser may or may not break the line
 on that specific character.
 
 > **U+00AD (SHY)**
@@ -12461,7 +12462,7 @@ and a **percentage** value.
 
 #### normal
 
-This is the default value. It\'s defined by the current font or the
+This is the default value. It&apos;s defined by the current font or the
 browser itself, and it resets to the default spacing.
 
 #### Length value
@@ -12535,7 +12536,7 @@ value, a **length** value, and a **percentage** value.
 
 ### orphans
 
-Let\'s understand the term **orphans** first. Orphans are the lines of a
+Let&apos;s understand the term **orphans** first. Orphans are the lines of a
 paragraph left in the previous page when a block of text is split over
 two pages. In the Web world, this is seen in text that spans several
 columns, where the first line of a paragraph is left on the previous
@@ -12560,9 +12561,9 @@ the number of lines left on the previous page or column.
 
 **CSS**:
 
-> **/\*Print stylesheet\*/**
+> **/&ast;Print stylesheet&ast;/**
 >
-> **\@media print {**
+> **&commat;media print {**
 >
 > **.element { orphans: 3;**
 >
@@ -12570,7 +12571,7 @@ the number of lines left on the previous page or column.
 >
 > **}**
 >
-> **/\*Screen stylesheet\*/**
+> **/&ast;Screen stylesheet&ast;/**
 >
 > **.element { orphans: 4;**
 >
@@ -12581,7 +12582,7 @@ the number of lines left on the previous page or column.
 The **quotes** CSS property controls the types of quotation marks to
 use, and it looks like this:
 
-> **quotes: \"\"\" \"\"\" \"\'\" \"\'\";**
+> **quotes: &quot;&quot;&quot; &quot;&quot;&quot; &quot;&apos;&quot; &quot;&apos;&quot;;**
 
 **Description**
 
@@ -12594,44 +12595,44 @@ using the **content** property and the **open-quote** and
 close-quote;**.
 
 We can also declare the types of quotes we want to use and not let the
-browser decide. We\'ll see this in the following CSS example.
+browser decide. We&apos;ll see this in the following CSS example.
 
-Quotes always start and end with a double-character symbol, either **\"
-\"** or, for example, **« »** in French. But, if there\'s a nested
-quote, this nested quote uses a singlecharacter symbol, either **\' \'**
+Quotes always start and end with a double-character symbol, either **&quot;
+&quot;** or, for example, **« »** in French. But, if there&apos;s a nested
+quote, this nested quote uses a singlecharacter symbol, either **&apos; &apos;**
 or, for example, **‹ ›** in French.
 
-This property supports two values: **none** and a **\[string string\]**
+This property supports two values: **none** and a **&lbrack;string string&rbrack;**
 value.
 
 **none**
 
 No quotation marks are generated when using the **content** property.
 
-#### \[string string +\] value
+#### &lbrack;string string +&rbrack; value
 
 Each **string** represents a pair of quotes. The first **string**
 represents the outer level quotation marks and the second **string**
 represents the nested level quotation marks.
 
 The **+** sign means that we can add deeper levels of nested quotation
-marks, but it\'s not really necessary, two levels should work for most
+marks, but it&apos;s not really necessary, two levels should work for most
 cases.
 
 Taking into account these considerations, we can then create the
 following quotation marks with the **quotes** property:
 
-> **CSS:/\*Quotation marks inserted by the browser \" \" and \' \'\*/
+> **CSS:/&ast;Quotation marks inserted by the browser &quot; &quot; and &apos; &apos;&ast;/
 > p:before { content: open-quote; } p:after { content: close-quote; }
-> /\*Custom declared quotation marks\*/ p { quotes: \"\"\" \"\"\" \"\'\"
-> \"\'\"; }**
+> /&ast;Custom declared quotation marks&ast;/ p { quotes: &quot;&quot;&quot; &quot;&quot;&quot; &quot;&apos;&quot;
+> &quot;&apos;&quot;; }**
 >
-> **/\*French quotation marks\*/ p { quotes: \"«\" \"»\" \"‹\" \"›\";
+> **/&ast;French quotation marks&ast;/ p { quotes: &quot;«&quot; &quot;»&quot; &quot;‹&quot; &quot;›&quot;;
 > }**
 
 ### widows
 
-Let\'s clarify the term **widows** first. Widows are the lines of a
+Let&apos;s clarify the term **widows** first. Widows are the lines of a
 paragraph that appear on the next page when a block of text is split
 over two pages. In the Web world, this is seen in text that spans
 several columns, where the last line of a paragraph appears on the next
@@ -12656,9 +12657,9 @@ the amount of lines that will appear on the next page or column.
 
 **CSS**:
 
-> **/\*Print stylesheet\*/**
+> **/&ast;Print stylesheet&ast;/**
 >
-> **\@media print {**
+> **&commat;media print {**
 >
 > **.element { widows: 3;**
 >
@@ -12666,7 +12667,7 @@ the amount of lines that will appear on the next page or column.
 >
 > **}**
 >
-> **/\*Screen stylesheet\*/**
+> **/&ast;Screen stylesheet&ast;/**
 >
 > **.element { widows: 4; }**
 
@@ -12752,13 +12753,13 @@ documents. It will wrap the text where necessary.
 #### nowrap
 
 Multiple spaces will collapse into a single space, and the line will
-never wrap except if there\'s a **\<br\>** tag in the markup.
+never wrap except if there&apos;s a **&lt;br\>** tag in the markup.
 
 #### pre
 
-It\'s the same as the HTML element **\<pre\>**, which means
+It&apos;s the same as the HTML element **&lt;pre\>**, which means
 **preformatted**. This value will honor all spaces in the text, but will
-not wrap it unless there\'s a **\<br\>** tag in the markup, just like
+not wrap it unless there&apos;s a **&lt;br\>** tag in the markup, just like
 **nowrap** does. This value is great to display short chunks of code.
 **pre-wrap**
 
@@ -12777,7 +12778,7 @@ the tab character can have.
 
 As we saw in the prior **white-space** property description, multiple
 spaces are collapsed into a single space by default. Therefore, this
-property will only work on elements that are inside a **\<pre\>** tag
+property will only work on elements that are inside a **&lt;pre\>** tag
 or, have one of the **white-space** properties that honor multiple
 spaces, **pre** and **pre-wrap**.
 
@@ -12793,7 +12794,7 @@ default value to anything we want.
 The **tab-size** property supports two values: A **numeric** value and a
 **length** value.
 
--   **Numeric value**: It\'s just a number without a unit. Negative
+-   **Numeric value**: It&apos;s just a number without a unit. Negative
     values are not valid.
 
 -   **Length value**: We use one of the following units when we use the
@@ -12814,7 +12815,7 @@ make is also printed.
 The following properties will help us make our content more presentable
 and better handled across pages when printed.
 
-Let\'s check out these paging properties.
+Let&apos;s check out these paging properties.
 
 ### page-break-after
 
@@ -12828,7 +12829,7 @@ What this means is that when a new page break is created, a new page
 will be printed.
 
 It works only on block-level elements. Also, since this property is used
-for printing, it\'s common to see it inside an **\@print** media query.
+for printing, it&apos;s common to see it inside an **&commat;print** media query.
 
 This property supports five keyword values: **always**, **auto**,
 **avoid**, **left**, and **right**.
@@ -12849,7 +12850,7 @@ This property supports five keyword values: **always**, **auto**,
 
 **CSS**:
 
-> **\@media print {**
+> **&commat;media print {**
 >
 > **.element {**
 >
@@ -12872,7 +12873,7 @@ breaks before a specific element, and it looks like this:
 When a new page break is created, a new page will be printed.
 
 It works only on block-level elements. Also, since this property is used
-for printing, it\'s common to see it inside an **\@print** media query.
+for printing, it&apos;s common to see it inside an **&commat;print** media query.
 
 This property supports the same five keyword values as the
 **page-break-before** property: **always**, **auto**, **avoid**,
@@ -12883,7 +12884,7 @@ description of each keyword value.
 
 **CSS**:
 
-> **\@media print {**
+> **&commat;media print {**
 >
 > **.element {**
 >
@@ -12916,7 +12917,7 @@ This property supports only two keyword values, though: **auto** and
 
 **CSS**:
 
-> **\@media print {**
+> **&commat;media print {**
 >
 > **.element {wdwqd page-break-before: avoid;**
 >
@@ -12926,10 +12927,10 @@ This property supports only two keyword values, though: **auto** and
 
 # CSS Properties -- Part 3
 
-Now that we\'re done with Part 2 of the CSS properties, let\'s end
+Now that we&apos;re done with Part 2 of the CSS properties, let&apos;s end
 strongly with Part 3.
 
-Let\'s do this.
+Let&apos;s do this.
 
 ## Page box
 
@@ -12943,14 +12944,14 @@ margin area.
 
 The size of the page box cannot be modified. But if we plan to modify
 some of the page box properties, we need to include them in an
-**\@page** rule.
+**&commat;page** rule.
 
-Let\'s check it out. **bleed**
+Let&apos;s check it out. **bleed**
 
 The **bleed** CSS property is also called the *CSS at-rule descriptor*.
-It defines how much a page should \"*overflow*\" or bleed outside the
+It defines how much a page should &quot;*overflow*&quot; or bleed outside the
 page box. This property only works if marks have been enabled using the
-**marks** property, which we\'ll see next.
+**marks** property, which we&apos;ll see next.
 
 **Description**
 
@@ -12959,7 +12960,7 @@ The **bleed** property only supports a length value: **px**, **em**,
 
 **CSS**:
 
-> **\@page { bleed: 5mm; }**
+> **&commat;page { bleed: 5mm; }**
 
 ### marks
 
@@ -12983,7 +12984,7 @@ The **marks** property supports three keyword values: **crop**,
 
 **CSS**:
 
-> **\@page {**
+> **&commat;page {**
 >
 > **marks: crop cross; }**
 
@@ -12993,32 +12994,32 @@ CSS lists are one of the most versatile elements of web design. Aside
 from being used for making, well, lists, they are also used for
 navigation, layouts, slideshows, carousels, and so on.
 
-Let\'s see some of their properties.
+Let&apos;s see some of their properties.
 
 ### list-style
 
 The **list-style** CSS property is shorthand for the
 **list-style-type**, **list-styleimage**, and **list-style-position**
 properties. These properties are actually the values that the
-**list-style** CSS property supports. We\'ll see all these properties
+**list-style** CSS property supports. We&apos;ll see all these properties
 next.
 
 **Description**
 
 The **list-style** property supports one, two, or three values, in any
-order. If a value isn\'t declared, it will use its default value.
+order. If a value isn&apos;t declared, it will use its default value.
 
 **CSS**:
 
-> **/\*Default values\*/**
+> **/&ast;Default values&ast;/**
 >
-> **ul { list-style: disc outside none; } /\*One value, the other two
-> are default\*/ ul { list-style: circle; }**
+> **ul { list-style: disc outside none; } /&ast;One value, the other two
+> are default&ast;/ ul { list-style: circle; }**
 >
-> **/\*Two values, the other one is defaults\*/ ul { list-style:
+> **/&ast;Two values, the other one is defaults&ast;/ ul { list-style:
 > lower-roman inside; }**
 >
-> **/\*Three values\*/**
+> **/&ast;Three values&ast;/**
 >
 > **ul { list-style: decimal outside url(../images/list-bullet.png); }**
 
@@ -13026,34 +13027,34 @@ order. If a value isn\'t declared, it will use its default value.
 
 The **list-style-type** CSS property defines the type of graphic or
 marker (also called **bullet**) the list will use. The color of the
-marker is determined by the color of the text of the element it\'s
+marker is determined by the color of the text of the element it&apos;s
 applied to.
 
 **Description**
 
-The **list-style-type** property supports many values, but we\'ll list
+The **list-style-type** property supports many values, but we&apos;ll list
 15 of the most commonly used ones: **armenian**, **circle**,
 **decimal**, **decimal-leading-zero**, **disc**, **georgian**,
 **lower-alpha**, **lower-greek**, **lower-latin**, **lower-roman**,
 **none**, **square**, **upper-alpha**, **upper-latin**, and
 **upper-roman**.
 
-Here\'s a screenshot with all values except the **none** value:
+Here&apos;s a screenshot with all values except the **none** value:
 
 > ![](./images/image15.png){width="2.563888888888889in"
 > height="2.5972222222222223in"}
 
 **CSS**:
 
-> **/\*Style: 01, 02, 03\...\*/**
+> **/&ast;Style: 01, 02, 03&period;..&ast;/**
 >
 > **ul { list-style-type: decimal-leading-zero; }**
 >
-> **/\*Style: α,** β**,** γ**\...\*/**
+> **/&ast;Style: α,** β**,** γ**&period;..&ast;/**
 >
 > **ul { list-style-type: lower-greek; }**
 >
-> **/\*Style: A, B, C\...\*/ ul { list-style-type: upper-latin; }**
+> **/&ast;Style: A, B, C&period;..&ast;/ ul { list-style-type: upper-latin; }**
 
 ### list-style-position
 
@@ -13068,15 +13069,15 @@ The **list-style-position** property supports two keyword values:
 #### inside
 
 When the **inside** value is applied, the marker will appear inside the
-text. If there\'s a line that wraps, the marker will be flushed to the
-left and not \"*sticking out*\" like in traditional lists.
+text. If there&apos;s a line that wraps, the marker will be flushed to the
+left and not &quot;*sticking out*&quot; like in traditional lists.
 
 #### outside
 
 The default value is **outside**. When this value is applied (or not,
-since it\'s the default), the marker will appear outside the text. If
-there\'s a line that wraps, the marker will be outside the text block.
-It will \"*stick out*\" just like in traditional lists.
+since it&apos;s the default), the marker will appear outside the text. If
+there&apos;s a line that wraps, the marker will be outside the text block.
+It will &quot;*stick out*&quot; just like in traditional lists.
 
 **CSS**:
 
@@ -13098,7 +13099,7 @@ function:
 
 -   **none**: No image is used to replace the marker
 
--   **url()**: It\'s used to define the path to the image that will
+-   **url()**: It&apos;s used to define the path to the image that will
     replace the marker
 
 **CSS**:
@@ -13107,24 +13108,24 @@ function:
 >
 > **list-style-image: url(../images/list-bullet.png); }**
 
-Here\'s a demo in CodePen with all HTML lists:
+Here&apos;s a demo in CodePen with all HTML lists:
 **http://tiny.cc/html-lists**
 
 ## Counter
 
-Traditional lists via the **\<ul\>**, **\<ol\>**, **\<dl\>** tags
-aren\'t too versatile when it comes to styling the markers. Sometimes,
+Traditional lists via the **&lt;ul\>**, **&lt;ol\>**, **&lt;dl\>** tags
+aren&apos;t too versatile when it comes to styling the markers. Sometimes,
 we have to rely on extra markup to accomplish some minimal custom
 styling.
 
 CSS counters, on the other hand, take styling lists (or any element for
 that matter) to a whole new level of customization and styling.
 
-Granted, CSS counters rely not only on the properties we\'re going to
+Granted, CSS counters rely not only on the properties we&apos;re going to
 see next, but also on the **content** property and the **:before**
 pseudo-element.
 
-Let\'s check out the properties that make CSS counters so great.
+Let&apos;s check out the properties that make CSS counters so great.
 
 ### counter-reset
 
@@ -13138,11 +13139,11 @@ name, and it looks like this:
 The **counter-reset** property serves two purposes: resets the counter
 and defines a name for the counter. The name is later used by the
 **counter-increment** and **counter()**/**counters()** functions that
-we\'ll see later.
+we&apos;ll see later.
 
-I have to admit that the term \"**counter-reset**\" isn\'t as intuitive
-as it should be if it\'s used to set a name for the counter. Something
-like \"**counter-name**\" would be more suitable if you ask me.
+I have to admit that the term &quot;**counter-reset**&quot; isn&apos;t as intuitive
+as it should be if it&apos;s used to set a name for the counter. Something
+like &quot;**counter-name**&quot; would be more suitable if you ask me.
 
 This property supports two values: a *name* and a *number*.
 
@@ -13153,22 +13154,22 @@ We can reference multiple counter resets in the same declaration.
 We need to give the reset counter a name. This value is required. It can
 be any name but it needs to adhere to the following conditions:
 
--   It can start with a letter, an underscore \"**\_**\", or a hyphen
-    \"**-**\"
+-   It can start with a letter, an underscore &quot;**\_**&quot;, or a hyphen
+    &quot;**-**&quot;
 
--   It can start with a hyphen \"**-**\" character but cannot have two
+-   It can start with a hyphen &quot;**-**&quot; character but cannot have two
     consecutive hyphens at the beginning of the name
 
--   The name cannot be just a hyphen\"**-**\"; at least one more
-    character is required, but it can\'t be a number since it would be
-    interpreted as \"**minus 1**\" (**-1**)
+-   The name cannot be just a hyphen&quot;**-**&quot;; at least one more
+    character is required, but it can&apos;t be a number since it would be
+    interpreted as &quot;**minus 1**&quot; (**-1**)
 
 -   It cannot start with a number or a special character like **\#**,
     **\$**, **!**, and so on
 
 #### number
 
-It\'s the number that the counter is reset to. The default value is
+It&apos;s the number that the counter is reset to. The default value is
 **0** (zero) if no value is declared.
 
 This value is optional unless we want to start the list from a number
@@ -13181,13 +13182,13 @@ Negative values are valid.
 
 **CSS**:
 
-> **/\*Define a name and counter reset to 0\*/ ul { counter-reset:
+> **/&ast;Define a name and counter reset to 0&ast;/ ul { counter-reset:
 > basic-counter; }**
 >
-> **/\*The counter will start at 3\*/ ul { counter-reset: basic-counter
+> **/&ast;The counter will start at 3&ast;/ ul { counter-reset: basic-counter
 > 2; }**
 
-**/\*Multiple counters in a single declaration\*/ ul { counter-reset:
+**/&ast;Multiple counters in a single declaration&ast;/ ul { counter-reset:
 basic-counter-A, basic-counter-B 2; } counter-increment**
 
 The **counter-increment** CSS property increments the value of one or
@@ -13209,15 +13210,15 @@ values: A *name* and a *number*. **name**
 
 It can be any name but it needs to adhere to the following conditions:
 
--   It can start with a letter, an underscore \"**\_**\", or a hyphen
-    \"**-**\"
+-   It can start with a letter, an underscore &quot;**\_**&quot;, or a hyphen
+    &quot;**-**&quot;
 
--   It can start with a hyphen \"**-**\" character but not have two
+-   It can start with a hyphen &quot;**-**&quot; character but not have two
     consecutive hyphens at the beginning of the name
 
--   The name cannot be just the hyphen\"**-**\"; at least one more
-    character is required, but it can\'t be a number since it would be
-    interpreted as \"**minus 1**\" (**-1**).
+-   The name cannot be just the hyphen&quot;**-**&quot;; at least one more
+    character is required, but it can&apos;t be a number since it would be
+    interpreted as &quot;**minus 1**&quot; (**-1**).
 
 -   It cannot start with a number or a special character like **\#**,
     **\$**, **!**, and so on.
@@ -13241,17 +13242,17 @@ be **-2**, **-4**, **-6**, and so on.
 
 **CSS**:
 
-> **/\*First, define a name and counter reset to 0 with counter-reset\*/
+> **/&ast;First, define a name and counter reset to 0 with counter-reset&ast;/
 > ul { counter-reset: basic-counter; }**
 >
-> **/\*Then, invoque the counter name and increment every element by 2
+> **/&ast;Then, invoque the counter name and increment every element by 2
 > (2,**
 >
-> **4, 6, and so on.)\*/**
+> **4, 6, and so on.)&ast;/**
 >
 > **ul li { counter-increment: basic-counter 2; }**
 >
-> **/\*Multiple counters\*/**
+> **/&ast;Multiple counters&ast;/**
 >
 > **ul li { counter-increment: basic-counter 2 roman-numeral-counter;
 > }**
@@ -13263,7 +13264,7 @@ Here is a demo in CodePen: **http://tiny.cc/css-counters**
 There are three ways to create the effect of depth: using lights,
 shadows, or both.
 
-Let\'s see how we create box shadows for our containers.
+Let&apos;s see how we create box shadows for our containers.
 
 ### box-shadow
 
@@ -13295,21 +13296,21 @@ The four length values are as follows:
     value, the more spread the shadow becomes, but also more
     translucent. Negative values are not valid. This value is required.
 
--   The fourth value is for the size of the shadow (or \"spread
-    radius\"). Negative values are valid. This value is optional.
+-   The fourth value is for the size of the shadow (or &quot;spread
+    radius&quot;). Negative values are valid. This value is optional.
 
 #### Color value
 
 This is the fifth value in the list. It supports all color modes:
 **HEX**, **RGB**, **RGBa**, **HSL**, **HSLs**, and *color name*.
 
-This value is optional. If no color is specified, it\'s up to the
+This value is optional. If no color is specified, it&apos;s up to the
 browser to decide which color to use. Some browsers may not even display
 a shadow at all without a color value.
 
 The *color* value can go either at the beginning or at the end of the
 declaration but never between the length values; otherwise, the
-**box-shadow** property won\'t work.
+**box-shadow** property won&apos;t work.
 
 #### inset
 
@@ -13324,23 +13325,23 @@ defaults to displaying the shadow outside the element.
 
 This value can go either at the beginning or at the end of the
 declaration but never between the length values; otherwise, the
-**box-shadow** property won\'t work.
+**box-shadow** property won&apos;t work.
 
 **CSS**:
 
-> **/\*Left 10px, top 10px, blur 13px, spread 5px, RGBa mode, inside the
-> element\*/ .element {**
+> **/&ast;Left 10px, top 10px, blur 13px, spread 5px, RGBa mode, inside the
+> element&ast;/ .element {**
 >
 > **box-shadow: 10px 10px 13px 5px rgba(0, 0, 0, .5) inset; }**
 
 ## Display and visibility
 
 Display properties are some of the most widely used CSS features in web
-design and development. Let\'s check them out.
+design and development. Let&apos;s check them out.
 
 ### all
 
-The **all** CSS property resets an element\'s properties to its default
+The **all** CSS property resets an element&apos;s properties to its default
 values, and it looks like this:
 
 > **all: initial;**
@@ -13351,34 +13352,34 @@ The only properties that are not reset are the **direction** and
 **unicode-bidi** properties, which control text direction. This is
 important because text direction is required to understand the content.
 If these properties were reset by the **all** property, then text would
-run the opposite way it\'s supposed to, disrupting the message
+run the opposite way it&apos;s supposed to, disrupting the message
 completely.
 
 This property supports three keyword values: **initial**, **inherit**,
 and **unset**.
 
 -   **initial**: This changes all the properties of the element or the
-    element\'s parent to their initial values.
+    element&apos;s parent to their initial values.
 
 -   **inherit**: This changes all the properties of the element or the
-    element\'s parent to their parent values.
+    element&apos;s parent to their parent values.
 
 -   **unset**: This changes all the properties of the element or the
-    element\'s parent to their parent values if those properties are
+    element&apos;s parent to their parent values if those properties are
     inheritable, otherwise it will change them to their initial value.
 
 **CSS**:
 
-> **/\*Change an element\'s properties to their initial value\*/**
+> **/&ast;Change an element&apos;s properties to their initial value&ast;/**
 >
 > **.element { all: initial; }**
 >
-> **/\*Inherit all the initial properties of the parent container\*/**
+> **/&ast;Inherit all the initial properties of the parent container&ast;/**
 >
 > **.element { all: inherit; }**
 >
-> **/\*Change the parent\'s properties to its parent values if
-> inheritable\*/ .parent-container { all: unset; }**
+> **/&ast;Change the parent&apos;s properties to its parent values if
+> inheritable&ast;/ .parent-container { all: unset; }**
 
 ### clear
 
@@ -13391,18 +13392,18 @@ should not *float*, and it looks like this:
 
 When the **clear** property is used, it clears the specific box in
 question, not its child elements. If we wanted to clear its child
-elements, we\'d have to declare the **clear** property on them.
+elements, we&apos;d have to declare the **clear** property on them.
 
 When dealing with float-based grids, this property is crucial to the
 layout. That is because floated elements are taken out of the document
 flow. Thus, their parent container will not take them into account and
-its height isn\'t determined by those floated elements anymore.
+its height isn&apos;t determined by those floated elements anymore.
 
 So, adding a clearing declaration (with the **display** and **content**
-properties) to the parent\'s **:after** pseudo element \"*tells*\" the
+properties) to the parent&apos;s **:after** pseudo element &quot;*tells*&quot; the
 parent element to consider the floated elements and thus the parent
-container\'s height is now determined by the tallest floating child
-element. Let\'s take a look at the following image:
+container&apos;s height is now determined by the tallest floating child
+element. Let&apos;s take a look at the following image:
 
 > ![](./images/image17.jpg){width="3.8673611111111112in"
 > height="4.277083333333334in"}
@@ -13425,17 +13426,17 @@ Here is a demo in CodePen: **http://tiny.cc/clearing-floats** The
 
 **CSS**:
 
-> **/\*Float an element to the left\*/**
+> **/&ast;Float an element to the left&ast;/**
 >
 > **.element-a { float: left; }**
 >
-> **/\*Float an element to the right\*/**
+> **/&ast;Float an element to the right&ast;/**
 >
 > **.element-b { float: right; }**
 >
-> **/\*Clear the floats on the parent container\*/**
+> **/&ast;Clear the floats on the parent container&ast;/**
 >
-> **.parent-container:after { content: \'\'; display: table; clear:
+> **.parent-container:after { content: &apos;&apos;; display: table; clear:
 > both; }**
 
 ### display
@@ -13447,7 +13448,7 @@ block;**
 **Description**
 
 This property accepts about 25 keyword values; some of them are very
-obscure and rarely used. Let\'s focus on the 15 most relevant ones:
+obscure and rarely used. Let&apos;s focus on the 15 most relevant ones:
 
 -   **block**
 
@@ -13480,7 +13481,7 @@ obscure and rarely used. Let\'s focus on the 15 most relevant ones:
 -   **table-row-group**
 
 -   **block**: Makes an element be displayed as a block-level element,
-    like a **\<div\>** tag or an **\<h1\>** element.
+    like a **&lt;div\>** tag or an **&lt;h1\>** element.
 
 -   **flex**: Makes an element be displayed as a block-level element and
     lays out its content based on the **Flexbox** model.
@@ -13489,10 +13490,10 @@ obscure and rarely used. Let\'s focus on the 15 most relevant ones:
     lays out its content based on the **Grid** model.
 
 -   **inline**: Makes an element be displayed as an inline-level
-    element, like a link **\<a\>** element.
+    element, like a link **&lt;a\>** element.
 
 -   **inline-block**: Makes an element be displayed as an
-    **inline-block** element, like a list **\<li\>** element.
+    **inline-block** element, like a list **&lt;li\>** element.
 
 -   **inline-flex**: Makes an element be displayed as an inline element
     and lays out its content based on the **Flexbox** model.
@@ -13506,44 +13507,44 @@ obscure and rarely used. Let\'s focus on the 15 most relevant ones:
 
 In the following list, all the **table-related** values are mapped to an
 HTML element. So when any of those values are applied to an element,
-they make that element behave as a **table-related** element. Let\'s
+they make that element behave as a **table-related** element. Let&apos;s
 take a look at the attributes:
 
--   table = **\<table\>**
+-   table = **&lt;table\>**
 
--   table-cell = **\<td\>**
+-   table-cell = **&lt;td\>**
 
--   table-column = **\<col\>**
+-   table-column = **&lt;col\>**
 
--   table-column-group = **\<colgroup\>**
+-   table-column-group = **&lt;colgroup\>**
 
--   table-footer-group = **\<tfoot\>**
+-   table-footer-group = **&lt;tfoot\>**
 
--   table-header-group = **\<thead\>**
+-   table-header-group = **&lt;thead\>**
 
--   table-row = **\<tr\>**
+-   table-row = **&lt;tr\>**
 
--   table-row-group = **\<tbody\>**
+-   table-row-group = **&lt;tbody\>**
 
 Visit MDN for a list of all the display values:
 **http://tiny.cc/mdn-display**
 
 **CSS**:
 
-> **/\*Make an element display like a block level element\*/**
+> **/&ast;Make an element display like a block level element&ast;/**
 >
 > **.element { display: block; }**
 >
-> **/\*Make an element display like a \<table\> element\*/**
+> **/&ast;Make an element display like a &lt;table\> element&ast;/**
 >
 > **.element { display: table; }**
 >
-> **/\*Make an element display like an inline-block element -
-> \<li\>\*/**
+> **/&ast;Make an element display like an inline-block element -
+> &lt;li\>&ast;/**
 >
 > **.element { display: inline-block; }**
 >
-> **/\*Hide an element an its children\*/**
+> **/&ast;Hide an element an its children&ast;/**
 >
 > **.element { display: none; }**
 
@@ -13569,13 +13570,13 @@ RGBa and HSLa color modes.
 
 **CSS**:
 
-> **/\*Make an element 55% opaque. This affects its children as
-> well\*/**
+> **/&ast;Make an element 55% opaque. This affects its children as
+> well&ast;/**
 >
 > **.element { opacity: .55; }**
 >
-> **/\*Makes shadow 20% opaque. Same effect as in RGBa and HSLa color
-> modes.\*/**
+> **/&ast;Makes shadow 20% opaque. Same effect as in RGBa and HSLa color
+> modes.&ast;/**
 >
 > **.element { box-shadow: 0 0 5px rgba(0, 0, 0, .2); }**
 
@@ -13590,8 +13591,8 @@ it looks like this: **filter: blur(10px);**
 A few examples of CSS filters are blur, turning a color image into
 grayscale or sepia, or changing its opacity.
 
-> This **filter** property is not the same as Microsoft\'s proprietary
-> **filter** property that only IE supports. Unlike Microsoft\'s
+> This **filter** property is not the same as Microsoft&apos;s proprietary
+> **filter** property that only IE supports. Unlike Microsoft&apos;s
 > proprietary filters, which are not part of a standard, this CSS
 > **filter** property is part of a work in progress of the W3C.
 
@@ -13599,7 +13600,7 @@ This property supports 11 values. These values are called CSS functions.
 Multiple functions can be declared in the same selector, separated by a
 space.
 
-Let\'s see the list:
+Let&apos;s see the list:
 
 -   **blur()**
 
@@ -13664,7 +13665,7 @@ valid, and decimal values are allowed. **drop-shadow()**
 This adds a shadow under the element.
 
 This function works almost exactly the same way as the **box-shadow**
-property with two differences: the **drop-shadow()** function doesn\'t
+property with two differences: the **drop-shadow()** function doesn&apos;t
 support the **spread-radius** attribute or the **inset** values.
 
 Please refer to the **box-shadow** property for a detailed description
@@ -13690,7 +13691,7 @@ not valid, and decimal values are allowed.
 This applies a hue rotation to the element. It accepts an *angle* value.
 
 The angle value defines the degrees around the color wheel the element
-sample will be modified to. There isn\'t a maximum value, however, if
+sample will be modified to. There isn&apos;t a maximum value, however, if
 the value is larger than **360deg**, the rotation will just go around.
 For example, if we declare **380deg**, that would the same as **20deg**.
 **invert()**
@@ -13698,10 +13699,10 @@ For example, if we declare **380deg**, that would the same as **20deg**.
 The **invert()** function inverts the color of the element. If used in
 an image, it makes the image look like a film negative.
 
-A value of 100% completely inverts the element\'s color; a value of 0%
+A value of 100% completely inverts the element&apos;s color; a value of 0%
 leaves the element unchanged. Values over 100% are not allowed.
 
-A value of 1 completely inverts the element\'s color, and a value of 0
+A value of 1 completely inverts the element&apos;s color, and a value of 0
 leaves the element unchanged. Values over 1 are not allowed.
 
 Negative values are not valid, and decimal values are allowed.
@@ -13752,58 +13753,58 @@ in the SVG.
 
 **CSS**:
 
-> **/\*Blur\*/**
+> **/&ast;Blur&ast;/**
 >
 > **.element { filter: blur(10px); }**
 >
-> **/\*Brightness\*/**
+> **/&ast;Brightness&ast;/**
 >
 > **.element { filter: brightness(20%); }**
 >
-> **/\*Contrast\*/**
+> **/&ast;Contrast&ast;/**
 >
 > **.element { filter: contrast(10); }**
 >
-> **/\*Drop shadow\*/**
+> **/&ast;Drop shadow&ast;/**
 >
 > **.element { filter: drop-shadow(5px 5px 3px rgba(0, 0, 0, .5)); }**
 >
-> **/\*Grayscale\*/**
+> **/&ast;Grayscale&ast;/**
 >
 > **.element { filter: grayscale(.8); }**
 >
-> **/\*Hue rotation\*/**
+> **/&ast;Hue rotation&ast;/**
 >
 > **.element { filter: hue-rotate(80deg); }**
 >
-> **/\*Invert\*/**
+> **/&ast;Invert&ast;/**
 >
 > **.element { filter: invert(1); }**
 >
-> **/\*Opacity\*/**
+> **/&ast;Opacity&ast;/**
 >
 > **.element { filter: opacity(.2); }**
 >
-> **/\*Saturation\*/**
+> **/&ast;Saturation&ast;/**
 >
 > **.element { filter: saturate(300%); }**
 >
-> **/\*Sepia\*/**
+> **/&ast;Sepia&ast;/**
 >
 > **.element { filter: sepia(100%); }**
 >
-> **/\*URL\*/**
+> **/&ast;URL&ast;/**
 >
 > **.element { filter: url(/images/file.svg#blur); }**
 >
-> **/\*Multiple filters for a single element\*/**
+> **/&ast;Multiple filters for a single element&ast;/**
 >
 > **.element { filter: sepia(100%) saturate(200%) hue-rotate(50deg); }**
 
 ### overflow
 
 The **overflow** CSS property defines how a block level element should
-handle content that \"*bleeds*\" (overflows) outside its boundaries, and
+handle content that &quot;*bleeds*&quot; (overflows) outside its boundaries, and
 it looks like this: **overflow: auto;**
 
 **Description**
@@ -13829,25 +13830,25 @@ This property supports four keyword values: **auto**, **hidden**,
     any direction, the browser will create scrollbars in one or both
     axes.
 
--   **hidden**: This will clip/hide the content that\'s outside of the
+-   **hidden**: This will clip/hide the content that&apos;s outside of the
     element. No scrollbars are generated. This value is very popular
     when clearing floats. Again, be careful when using this value.
 
 -   **scroll**: This creates horizontal and vertical scrollbars even if
-    the content isn\'t overflowing the container.
+    the content isn&apos;t overflowing the container.
 
 -   **visible**: This is the default value. No content is clipped/hidden
     and no scrollbars are generated.
 
 **CSS**:
 
-> **/\*Scroll bars are generated if the content needs them\*/**
+> **/&ast;Scroll bars are generated if the content needs them&ast;/**
 >
 > **.element { white-space: nowrap; overflow: auto;**
 >
 > **}**
 >
-> **/\*Clearing floats. Be careful with this technique\*/**
+> **/&ast;Clearing floats. Be careful with this technique&ast;/**
 >
 > **.parent-container { overflow: hidden; }**
 
@@ -13899,8 +13900,8 @@ not, and it looks like this:
 The **visibility** property is similar to **display: none;** in terms of
 hiding an element; the difference is that when hiding an element with
 the **visibility** property, the space the element occupies still
-affects the layout. It\'s just \"*invisible*\". With **display: none;**,
-it\'s like the element doesn\'t even exist.
+affects the layout. It&apos;s just &quot;*invisible*&quot;. With **display: none;**,
+it&apos;s like the element doesn&apos;t even exist.
 
 The **visibility** CSS property is not inheritable; in other words, we
 can still make the child elements visible even if their parent container
@@ -13923,17 +13924,17 @@ This property supports three different keyword values: **collapse**,
 
 **CSS**:
 
-> **/\*Hide an element\*/**
+> **/&ast;Hide an element&ast;/**
 >
 > **.element { visibility: hidden; }**
 >
-> **/\*Parent container visible while child heading is visible\*/**
+> **/&ast;Parent container visible while child heading is visible&ast;/**
 >
 > **.parent-container { visibility: hidden; }**
 >
 > **.parent-container h1 { visibility: visible; }**
 >
-> **/\*Hide table elements\*/ tr { visibility: collapse; } tfoot {
+> **/&ast;Hide table elements&ast;/ tr { visibility: collapse; } tfoot {
 > visibility: collapse; }**
 
 ### z-index
@@ -13952,7 +13953,7 @@ For this property to work, the element has to have a position
 The **z-index** property accepts two values: a *number* and a *keyword*
 value.
 
--   **Number value**: This is also called an \"**integer**\". It\'s just
+-   **Number value**: This is also called an &quot;**integer**&quot;. It&apos;s just
     a number without a unit.
 
 -   **auto**: This is the default value. The stacking order of elements
@@ -13960,19 +13961,19 @@ value.
 
 **CSS**:
 
-> **/\*Set all cards to relative position so z-index can work\*/**
+> **/&ast;Set all cards to relative position so z-index can work&ast;/**
 >
 > **.card { position: relative; }**
 >
-> **/\*The Ace card sits on top of the pile\*/**
+> **/&ast;The Ace card sits on top of the pile&ast;/**
 >
 > **.card.ace { z-index: 2; }**
 >
-> **/\*The Five card sits at the bottom of the pile\*/**
+> **/&ast;The Five card sits at the bottom of the pile&ast;/**
 >
 > **.card.five { z-index: 0; }**
 >
-> **/\*The Queen card sits in between the Ace and the Five\*/**
+> **/&ast;The Queen card sits in between the Ace and the Five&ast;/**
 >
 > **.card.queen { z-index: 1; }**
 
@@ -13980,23 +13981,23 @@ value.
 
 These two features allow us to hide parts of an element in order to show
 a background image or color, or to give an element a special shape. Both
-terms can be a bit confusing, so let\'s see a brief description of each:
+terms can be a bit confusing, so let&apos;s see a brief description of each:
 
 -   **Clipping** is done with vectors or paths since this CSS feature
     was taken from the SVG specification. It creates a solid edge
     between the element and its background.
 
 -   **Masking**, on the other hand, uses images/bitmaps. With images, we
-    can have \"*feathered*\" or blurred edges, whereas with clipping we
+    can have &quot;*feathered*&quot; or blurred edges, whereas with clipping we
     have straight edges.
 
-Let\'s check these properties out.
+Let&apos;s check these properties out.
 
 ### mask
 
 The **mask** CSS property is the shorthand for the **mask-clip**,
 **mask-composite**, **maskimage**, **mask-mode**, **mask-origin**,
-**mask-position**, **mask-repeat**, and **mask-size** properties. We\'ll
+**mask-position**, **mask-repeat**, and **mask-size** properties. We&apos;ll
 see each of these in more detail later. The **mask** property looks like
 this:
 
@@ -14005,9 +14006,9 @@ this:
 
 **Description**
 
-A group of all the prior properties is called a \"*mask layer*\".
+A group of all the prior properties is called a &quot;*mask layer*&quot;.
 
-It\'s recommended to use the shorthand syntax over individual specific
+It&apos;s recommended to use the shorthand syntax over individual specific
 properties, since the shorthand resets undeclared properties to their
 initial values. This is helpful because it makes it easier to override
 values later in the cascade, thus avoiding specificity issues and
@@ -14023,17 +14024,17 @@ reference a bitmap/raster file with a transparency or a background
 gradient with the **lineargradient()** CSS function. We can even create
 a mask by referencing several images in the same declaration.
 
-There are two types of mask: *alpha* masks and *luminance* masks. We\'ll
+There are two types of mask: *alpha* masks and *luminance* masks. We&apos;ll
 see what each of these types of mask are later.
 
 **CSS**:
 
-> **/\*Mask referencing a bitmap file.**
+> **/&ast;Mask referencing a bitmap file.**
 >
 > **We are specifying: mask-image mask-position / mask-size mask- repeat
 > mask-clip**
 >
-> **\*/**
+> **&ast;/**
 >
 > **.element {**
 >
@@ -14042,7 +14043,7 @@ see what each of these types of mask are later.
 >
 > **}**
 >
-> **/\*Mask using the CSS linear-gradient property\*/**
+> **/&ast;Mask using the CSS linear-gradient property&ast;/**
 >
 > **.element {**
 >
@@ -14050,7 +14051,7 @@ see what each of these types of mask are later.
 >
 > **}**
 >
-> **/\*Mask created by declaring multiple masks\*/**
+> **/&ast;Mask created by declaring multiple masks&ast;/**
 >
 > **.element { mask: url(../images/mask.png) 50% 50% / contain no-repeat
 > border- box,**
@@ -14088,11 +14089,11 @@ It supports four keyword values: **border-box**, **content-box**,
 
 **CSS**:
 
-> **/\*Padding box clipping\*/**
+> **/&ast;Padding box clipping&ast;/**
 >
 > **.element { mask-clip: padding-box; }**
 >
-> **/\*Multiple values\*/**
+> **/&ast;Multiple values&ast;/**
 >
 > **.element { mask-clip: padding-box, border-box; }**
 
@@ -14133,11 +14134,11 @@ triangle is on top and the circle below; the different types of
 
 **CSS**:
 
-> **/\*Intersect the masks\*/**
+> **/&ast;Intersect the masks&ast;/**
 >
 > **.element { mask-composite: intersect; }**
 >
-> **/\*Multiple values\*/ .element { mask-composite: intersect, exclude;
+> **/&ast;Multiple values&ast;/ .element { mask-composite: intersect, exclude;
 > }**
 
 ### mask-image
@@ -14148,25 +14149,25 @@ as mask layers on any given element, and it looks like this:
 
 **Description**
 
-The **mask-image** property may also refer to **\<mask\>** elements in
+The **mask-image** property may also refer to **&lt;mask\>** elements in
 an SVG file. Multiple values are comma-separated. The images can be
 bitmap files, SVGs, and even CSS gradients that are images as well.
 
 **CSS**:
 
-> **/\*Mask referencing a bitmap\*/**
+> **/&ast;Mask referencing a bitmap&ast;/**
 >
 > **.element { mask-image: url(../images/mask.png); }**
 >
-> **/\*Mask using a CSS gradient\*/**
+> **/&ast;Mask using a CSS gradient&ast;/**
 >
 > **.element { mask-image: linear-gradient(black 5%, transparent); }**
 >
-> **/\*Mask referencing an SVG \<mask\>\*/**
+> **/&ast;Mask referencing an SVG &lt;mask\>&ast;/**
 >
 > **.element { mask-image: url(../images/file.svg#mask); }**
 >
-> **/\*Multiple values\*/**
+> **/&ast;Multiple values&ast;/**
 >
 > **.element { mask-image: url(../images/mask.png), linear-**
 >
@@ -14198,16 +14199,16 @@ hidden. Gray areas partially cover the image.
 
 **CSS**:
 
-> **/\*Alpha mask\*/**
+> **/&ast;Alpha mask&ast;/**
 >
 > **.element { mask-mode: alpha; }**
 >
-> **/\*Multiple values\*/ .element { mask-mode: alpha, luminance; }**
+> **/&ast;Multiple values&ast;/ .element { mask-mode: alpha, luminance; }**
 
 ### mask-origin
 
 The **mask-origin** CSS property defines the location or position of the
-mask layer in relation to the element\'s box starting at the top left
+mask layer in relation to the element&apos;s box starting at the top left
 corner, and it looks like this:
 
 > **mask-mode: alpha;**
@@ -14219,7 +14220,7 @@ The **mask-origin** property works in a similar way to the
 Part 1*, for more information.
 
 Now, this property can be used in both HTML and SVG elements. However,
-there are some keyword values that apply to one that won\'t work on the
+there are some keyword values that apply to one that won&apos;t work on the
 other.
 
 Multiple comma-separated keyword values can be present in the same
@@ -14259,12 +14260,12 @@ The SVG keyword values are **view-box**, **fill-box**, and
 
 **CSS**:
 
-> **/\*Content box origin; the mask will exclude borders and
-> paddings\*/**
+> **/&ast;Content box origin; the mask will exclude borders and
+> paddings&ast;/**
 >
 > **.element { mask-origin: content-box; }**
 >
-> **/\*Multiple values\*/ .element { mask-origin: border-box,
+> **/&ast;Multiple values&ast;/ .element { mask-origin: border-box,
 > padding-box; }**
 
 ### mask-position
@@ -14290,15 +14291,15 @@ on; and a *percentage* value such as 50%, 85%, and so on.
 
 **CSS**:
 
-> **/\*Keyword values\*/**
+> **/&ast;Keyword values&ast;/**
 >
 > **.element { mask-position: right top; }**
 >
-> **/\*Length and Percentage values\*/**
+> **/&ast;Length and Percentage values&ast;/**
 >
 > **.element { mask-position: 50px 25%; }**
 >
-> **/\*Multiple values\*/ .element { mask-position: right top, 50% 50%;
+> **/&ast;Multiple values&ast;/ .element { mask-position: right top, 50% 50%;
 > }**
 
 ### mask-repeat
@@ -14339,15 +14340,15 @@ It supports six keyword values: **repeat**, **no-repeat**, **repeat-x**,
 
 **CSS**:
 
-> **/\*Space out the mask without clipping it\*/**
+> **/&ast;Space out the mask without clipping it&ast;/**
 >
 > **.element { mask-repeat: space; }**
 >
-> **/\*Repeat the mask in the X-axis (horizontally)\*/**
+> **/&ast;Repeat the mask in the X-axis (horizontally)&ast;/**
 >
 > **.element { mask-repeat: repeat-x; }**
 >
-> **/\*Multiple values\*/ .element { mask-repeat: space, repeat-x; }**
+> **/&ast;Multiple values&ast;/ .element { mask-repeat: space, repeat-x; }**
 
 ### mask-size
 
@@ -14383,7 +14384,7 @@ The **mask-position** CSS property supports several types of value: a
     image mask is larger on its width or height, it will get clipped.
 
 -   **auto**: This scales the image mask to the actual size of the
-    image\'s intrinsic proportions without distorting it.
+    image&apos;s intrinsic proportions without distorting it.
 
 **CSS**:
 
@@ -14392,7 +14393,7 @@ The **mask-position** CSS property supports several types of value: a
 ### mask-type
 
 The **mask-type** CSS property is specifically for SVG files. It
-specifies if an SVG **\<mask\>** element is an *alpha* or a *luminance*
+specifies if an SVG **&lt;mask\>** element is an *alpha* or a *luminance*
 mask.
 
 For the definitions of *alpha* and *luminance* masks, refer to the
@@ -14429,12 +14430,12 @@ used in the **border-image** declaration.
 
 **CSS**:
 
-> **/\*Border image referencing a bitmap file\*/**
+> **/&ast;Border image referencing a bitmap file&ast;/**
 >
 > **.element { mask-border-image: url(../images/border-image- mask.png);
 > }**
 >
-> **/\*Border image using a CSS gradient\*/ .element {
+> **/&ast;Border image using a CSS gradient&ast;/ .element {
 > mask-border-image: linear-gradient(red, transparent); }**
 
 ### mask-border-mode
@@ -14487,16 +14488,16 @@ and will become part of the mask.
 
 **CSS**:
 
-> **/\*All sides are offset by 40\*/**
+> **/&ast;All sides are offset by 40&ast;/**
 >
 > **.element { mask-border-slice: 40; }**
 >
-> **/\*Top & bottom and left & right values\*/**
+> **/&ast;Top & bottom and left & right values&ast;/**
 >
 > **.element { mask-border-slice: 20% 30%; }**
 >
-> **/\*Make the center of the image part of the mask with top & bottom,
-> and left & right offsets\*/ .element { mask-border-slice: fill 40 25;
+> **/&ast;Make the center of the image part of the mask with top & bottom,
+> and left & right offsets&ast;/ .element { mask-border-slice: fill 40 25;
 > }**
 
 ### mask-border-width
@@ -14556,15 +14557,15 @@ are declared, they correspond to the top, right, bottom and left sides.
 
 **CSS**:
 
-> **/\*All four sides have the same value\*/**
+> **/&ast;All four sides have the same value&ast;/**
 >
 > **.element { mask-border-outset: 10px; }**
 >
-> **/\*Top & bottom and left & right values\*/**
+> **/&ast;Top & bottom and left & right values&ast;/**
 >
 > **.element { mask-border-outset: 2 6; }**
 >
-> **/\*Top, left & right, and bottom values\*/**
+> **/&ast;Top, left & right, and bottom values&ast;/**
 >
 > **.element { mask-border-outset: 5 20px 2; }**
 
@@ -14595,7 +14596,7 @@ clipping the image mask. **stretch**
 This is the default value. The image mask is stretched to completely
 fill the area. **space**
 
-Similar to **repeat**, but the difference is that if the area isn\'t
+Similar to **repeat**, but the difference is that if the area isn&apos;t
 filled with complete image masks, it will distribute the space around
 the tiles.
 
@@ -14622,12 +14623,12 @@ This vector graphic can be a *basic shape* or an *SVG path*.
 
 > Note: The **clip** CSS property is now deprecated due to poor features
 > and limitations with SVGs. The current and widely supported
-> **clip-path** property is part of the SVG specification, and it\'s
+> **clip-path** property is part of the SVG specification, and it&apos;s
 > been adopted by the CSS masking module.
 
 The **clip-path** CSS property combined with the **shape-outside**
 property can create amazing layouts. With this combination, we can make
-a paragraph \"*curve*\" around a clipped element whose basic shape is
+a paragraph &quot;*curve*&quot; around a clipped element whose basic shape is
 also a curve or circle.
 
 This property supports four values: three *functions*: **url()**, a
@@ -14638,11 +14639,11 @@ used as the clipping path.
 
 **CSS**:
 
-> **/\*Clipping path referenced from an external SVG file\*/**
+> **/&ast;Clipping path referenced from an external SVG file&ast;/**
 >
 > **.element { clip-path: url(..images/file.svg#clipping-path); }**
 >
-> **/\*Clipping path referenced from an embedded SVG\*/**
+> **/&ast;Clipping path referenced from an embedded SVG&ast;/**
 
 **.element { clip-path: url(#clipping-path); } circle()**
 
@@ -14659,7 +14660,7 @@ accepts two arguments: a *shape radius* and a *position*.
 > declared, the browser will take the length from the center of the
 > circle to its closest side, and create a circle based on that
 > distance. With this, the circle never bleeds or overflows the content,
-> it\'s always complete.
+> it&apos;s always complete.
 >
 > ° **farthest-side**: This value will create a circle by taking the
 > length from the center to the farthest side. This means that if the
@@ -14674,16 +14675,16 @@ accepts two arguments: a *shape radius* and a *position*.
 
 **CSS**:
 
-> **/\*Circle 150px wide and tall with location\*/**
+> **/&ast;Circle 150px wide and tall with location&ast;/**
 >
 > **.element { clip-path: circle(150px at 0 50%); }**
 >
-> **/\*Circle without location is centered on the element\*/**
+> **/&ast;Circle without location is centered on the element&ast;/**
 >
 > **.element { clip-path: circle(150px); }**
 >
-> **/\*Circle defaults to closest-side and is centered on the
-> element\*/**
+> **/&ast;Circle defaults to closest-side and is centered on the
+> element&ast;/**
 
 **.element { clip-path: circle(); } ellipse()**
 
@@ -14694,15 +14695,15 @@ instead of one. **rx** represents the *X* axis and **ry** the *Y* axis.
 
 **CSS**:
 
-> **/\*Ellipse with location\*/**
+> **/&ast;Ellipse with location&ast;/**
 >
 > **.element { clip-path: ellipse(200px 100px at 0 50%); }**
 >
-> **/\*Ellipse without location is centered\*/**
+> **/&ast;Ellipse without location is centered&ast;/**
 >
 > **.element { clip-path: ellipse(200px 100px); }**
 
-**/\*No value makes an ellipse that is as wide an tall as the element\*/
+**/&ast;No value makes an ellipse that is as wide an tall as the element&ast;/
 .element { clip-path: ellipse(); } inset()**
 
 This CSS function defines a rectangle shape inside the element. It can
@@ -14717,12 +14718,12 @@ value, which is optional. This value must be preceded by the term
 
 **CSS**:
 
-> **/\*Inset clip path where all four offset sides have the same
-> distance\*/**
+> **/&ast;Inset clip path where all four offset sides have the same
+> distance&ast;/**
 >
 > **.element { clip-path: inset(20px); }**
 >
-> **/\*Inset clip path with border-radius declared\*/**
+> **/&ast;Inset clip path with border-radius declared&ast;/**
 >
 > **.element { clip-path: inset(5% 20px 10% 40px round 20px); }**
 
@@ -14743,18 +14744,18 @@ Now, creating polygons by hand is not only a major undertaking but it
 could be very time consuming. The best solution is to use a tool for the
 creation process:
 
--   Bennet Feely\'s *Clippy* (**http://bennettfeely.com/clippy/**)
+-   Bennet Feely&apos;s *Clippy* (**http://bennettfeely.com/clippy/**)
 
 -   *Clip Path Generator* (**http://cssplant.com/clip-path-generator**)
 
 **CSS**:
 
-> **/\*This polygon has 3 pairs of coordinates so it creates a
-> triangle-shaped clipping path\*/**
+> **/&ast;This polygon has 3 pairs of coordinates so it creates a
+> triangle-shaped clipping path&ast;/**
 >
 > **.element { clip-path: polygon(0 0, 0 100%, 100% 0); }**
 >
-> **/\*Custom polygon (a star) from Bennett Feely\'s, Clippy tool\*/**
+> **/&ast;Custom polygon (a star) from Bennett Feely&apos;s, Clippy tool&ast;/**
 >
 > **.element { clip-path: polygon(50% 0%, 63% 38%, 100% 38%, 69% 59%,**
 
@@ -14764,11 +14765,11 @@ There is no clipping path that gets created.
 
 ## Image rendering and orientation
 
-Making sure images display correctly is not only a designer\'s
+Making sure images display correctly is not only a designer&apos;s
 responsibility, we as web designers and developers also have a say in
 how images behave and display under particular circumstances.
 
-Let\'s see how to change the orientation and rendering quality of images
+Let&apos;s see how to change the orientation and rendering quality of images
 with CSS.
 
 ### image-orientation
@@ -14792,7 +14793,7 @@ The **image-orientation** property supports two keyword values and an
 -   **from-image**: The image is rotated using the EXIF Data contained
     in the image.
 
--   **flip**: The image is flipped horizontally; it\'s reflected. This
+-   **flip**: The image is flipped horizontally; it&apos;s reflected. This
     value should go after the *angle* value.
 
 -   **Angle value**: This defines the rotation applied to the image. It
@@ -14801,12 +14802,12 @@ The **image-orientation** property supports two keyword values and an
 
 **CSS**:
 
-> **/\*Flip the image horizontally\*/ img { image-orientation: flip; }**
+> **/&ast;Flip the image horizontally&ast;/ img { image-orientation: flip; }**
 >
-> **/\*Rotate the image 180 degrees and flip it horizontally\*/ img {
+> **/&ast;Rotate the image 180 degrees and flip it horizontally&ast;/ img {
 > image-orientation: 180deg flip; }**
 >
-> **/\*Follow the orientation from the EXIF information in the image\*/
+> **/&ast;Follow the orientation from the EXIF information in the image&ast;/
 > img { image-orientation: from-image; }**
 
 ### image-rendering
@@ -14839,10 +14840,10 @@ upscaled images. This property supports three keyword values: **auto**,
 
 **CSS**:
 
-> **/\*Good for checkered patterns or QR codes\*/ img { image-rendering:
+> **/&ast;Good for checkered patterns or QR codes&ast;/ img { image-rendering:
 > pixelated; }**
 >
-> **/\*Exclusively for pixel art\*/ img { image-rendering: crisp-edges;
+> **/&ast;Exclusively for pixel art&ast;/ img { image-rendering: crisp-edges;
 > }**
 
 ## User interface
@@ -14851,7 +14852,7 @@ The following properties are directly tied to UX Design but on the
 frontend. Addressing the following properties from the beginning of any
 build can go a long way.
 
-Let\'s check them out.
+Let&apos;s check them out.
 
 ### cursor
 
@@ -14872,10 +14873,10 @@ already exist.
 
 We can also use custom cursors. Keep in mind the following notes:
 
--   It\'s recommended that the image of the cursor is 32 x 32 pixels.
+-   It&apos;s recommended that the image of the cursor is 32 x 32 pixels.
 
--   It\'s required to declare a built-in cursor to act as a fallback in
-    case the custom image(s) doesn\'t load.
+-   It&apos;s required to declare a built-in cursor to act as a fallback in
+    case the custom image(s) doesn&apos;t load.
 
 -   Legacy versions of IE require an absolute path to the image of the
     custom cursor.
@@ -14891,12 +14892,12 @@ coordinates, and 32 keyword values.
 
 #### A URL (or URI)
 
-The URL is used for custom cursors. It\'s the path to the image. Several
+The URL is used for custom cursors. It&apos;s the path to the image. Several
 URLs can be defined in the same declaration. Thus, several custom
 cursors can be used. If declaring more than one URL, the values are
 comma-separated.
 
-It\'s mandatory that after the declaration of the URL, a native non-URL
+It&apos;s mandatory that after the declaration of the URL, a native non-URL
 value should be declared. This is so if everything else fails, the user
 can still use the pointer. This value is optional.
 
@@ -14912,9 +14913,9 @@ Negative numbers are not allowed and the values range from **0** to
 ##### 32 keyword values
 
 The keyword values use the operating system or browser native cursors.
-There\'s practically a cursor for any pointer action.
+There&apos;s practically a cursor for any pointer action.
 
-Here\'s a list of the 32 keyword values:
+Here&apos;s a list of the 32 keyword values:
 
 -   **alias**
 
@@ -14989,26 +14990,26 @@ Some of the most commonly used values are **default**, **move**,
 -   **move**: This sets the *move* pointer. It looks like a large plus
     sign with arrows on all four ends.
 
--   **pointer**: This sets the pointer to the \"hand\" icon.
+-   **pointer**: This sets the pointer to the &quot;hand&quot; icon.
 
 -   **text**: This sets the *text* pointer. It usually looks like a
-    serif capital \"**I**\" but taller.
+    serif capital &quot;**I**&quot; but taller.
 
 See all cursors in action here:
 [**http://tiny.cc/cursor**](http://tiny.cc/cursor)
 
 **CSS**:
 
-> **/\*Custom cursor with absolute path and coordinates\*/**
+> **/&ast;Custom cursor with absolute path and coordinates&ast;/**
 >
 > **.element { cursor: url(/images/cursor.cur) 10 10, default; }**
 >
-> **/\*Multiple custom cursors with coordinates\*/**
+> **/&ast;Multiple custom cursors with coordinates&ast;/**
 >
 > **.element { cursor: url(/images/cursor-1.png) 5 5, url(/images/
 > cursor-2.png) 0 0, default; }**
 >
-> **/\*Assign a pointer on the \<button\> and \<select\> elements\*/
+> **/&ast;Assign a pointer on the &lt;button\> and &lt;select\> elements&ast;/
 > button,**
 >
 > **select { cursor: pointer; }**
@@ -15026,7 +15027,7 @@ example: say we have two containers where they considerably overlap. If
 we apply **pointer-events: none;** to the element on top, the
 clicking/tapping goes through that element and targets the content in
 the bottom one. Basically, we can select the content on the bottom
-element even if we\'re clicking/tapping on the element on top.
+element even if we&apos;re clicking/tapping on the element on top.
 
 This property supports ten keyword values. However, only two are related
 to HTML; all the rest are part of the SVG specification, which is out of
@@ -15046,25 +15047,25 @@ declared. More info on MDN can be found here:
 
 **CSS**:
 
-> **/\*Clicking/tapping on the element won\'t work\*/**
+> **/&ast;Clicking/tapping on the element won&apos;t work&ast;/**
 >
 > **.element { pointer-events: none; }**
 >
-> **/\*Restore the default clicking/tapping behavior to the element\*/
+> **/&ast;Restore the default clicking/tapping behavior to the element&ast;/
 > .element { pointer-events: auto; }**
 
 ### outline
 
 The **outline** CSS property creates a border around an element to
-provide a visual cue that it\'s active or has gained focus.
+provide a visual cue that it&apos;s active or has gained focus.
 
 This property is the shorthand for the **outline-color**,
 **outline-width** **and outline-style** properties. For convenience,
-it\'s recommended to always use this shorthand rather than separate
+it&apos;s recommended to always use this shorthand rather than separate
 properties when declaring **outline**.
 
 The difference between **outline** and **border** is that **outline**
-doesn\'t take up space; it\'s created on top of the content, so the
+doesn&apos;t take up space; it&apos;s created on top of the content, so the
 layout is never affected by it.
 
 However, declaring the **outline** values is exactly the same as
@@ -15077,16 +15078,16 @@ longhand properties: the *color*, the *width*, and the *style*. All
 three values are required and can appear in any order in the
 declaration.
 
--   **color**: This is mapped to the **outline-color** property. It\'s
+-   **color**: This is mapped to the **outline-color** property. It&apos;s
     the color of the outline. It supports all color modes: **HEX**,
     **RGB**, **RGBa**, **HSL**, **HSLs**, and color name.
 
--   **width**: This is mapped to the **outline-width** property. It\'s
+-   **width**: This is mapped to the **outline-width** property. It&apos;s
     the thickness of the outline. It supports any length value, such as
     **px**, **em**, **in**, **mm**, **cm**, **vw**, and so on.
     Percentage values are not valid.
 
--   **style**: This is mapped to the **outline-style** property. It\'s
+-   **style**: This is mapped to the **outline-style** property. It&apos;s
     the type of line to be used. It takes the same values as border:
     **dashed**, **dotted**, **double**, **groove**, **hidden**,
     **inset**, **none**, **outset**, **ridge**, and **solid**.
@@ -15102,7 +15103,7 @@ declaration.
 The power of CSS is mind-boggling; not only can we do amazing animations
 just with CSS, but CSS can also handle three-dimensional designs.
 
-Let\'s check out the properties that allows us to do so.
+Let&apos;s check out the properties that allows us to do so.
 
 ### perspective
 
@@ -15133,12 +15134,12 @@ perspective effect is less intense.
 
 **CSS**:
 
-> **/\*Enable perspective for child elements by applying it on the
-> parent container\*/**
+> **/&ast;Enable perspective for child elements by applying it on the
+> parent container&ast;/**
 >
 > **.parent-container { perspective: 300px; }**
 >
-> **/\*Child element will move in a 3D plane\*/ .parent-container
+> **/&ast;Child element will move in a 3D plane&ast;/ .parent-container
 > .element { transform: rotateX(170deg); }**
 
 ### perspective-origin
@@ -15173,24 +15174,24 @@ and **center**.
 
 Adding to the prior CSS from the **perspective** example:
 
-> **/\*Enable perspective for child elements by applying it on the
-> parent container\*/**
+> **/&ast;Enable perspective for child elements by applying it on the
+> parent container&ast;/**
 >
-> **/\*The origin of the perspective X and Y-axis\*/**
+> **/&ast;The origin of the perspective X and Y-axis&ast;/**
 >
 > **.parent-container { perspective: 300px; perspective-origin: 24%
 > center;**
 >
 > **}**
 >
-> **/\*Child element will move in a 3D plane\*/**
+> **/&ast;Child element will move in a 3D plane&ast;/**
 >
 > **.parent-container .element { transform: rotateX(170deg); }**
 
 ### backface-visibility
 
 The **backface-visibility** CSS property defines whether the rear face
-of an element that\'s facing the viewer is visible or not, and it looks
+of an element that&apos;s facing the viewer is visible or not, and it looks
 like this:
 
 > **backface-visibility: hidden;**
@@ -15205,10 +15206,10 @@ keyword values: **visible** and **hidden**.
 > **And finalizing the prior example from the perspective-origin
 > example:**
 >
-> **/\*Enable perspective for child elements by applying it on the
-> parent container\*/**
+> **/&ast;Enable perspective for child elements by applying it on the
+> parent container&ast;/**
 >
-> **/\*The origin of the perspective X and Y-axis\*/**
+> **/&ast;The origin of the perspective X and Y-axis&ast;/**
 >
 > **.parent-container { perspective: 300px;**
 >
@@ -15216,8 +15217,8 @@ keyword values: **visible** and **hidden**.
 >
 > **}**
 >
-> **/\*Child element will move in a 3D plane\*/ /\*The backside of the
-> element will not be visible\*/**
+> **/&ast;Child element will move in a 3D plane&ast;/ /&ast;The backside of the
+> element will not be visible&ast;/**
 >
 > **.parent-container .element { transform: rotateX(170deg);
 > backface-visibility: hidden; }**
@@ -15226,19 +15227,19 @@ keyword values: **visible** and **hidden**.
 
 And this is it for the CSS Properties chapters, quite a ride eh?
 
-In this final chapter we learned how to work with the Page Box\'s
+In this final chapter we learned how to work with the Page Box&apos;s
 properties like bleed and marks for printing. We also learned that HTML
 lists are used for many other things like menus, navigation, slideshow,
 and so on, amongst other things like CSS counters and how to create
 custom styles for list marks.
 
 Creating the effect of depth with drop shadows is quite easy with the
-**box-shadow** property. Just don\'t overdo it. Then we learned about
+**box-shadow** property. Just don&apos;t overdo it. Then we learned about
 display and visibility, one of the most important features of CSS. In
 this section we learned how to clear floating elements as well in
 addition to applying filters to images and elements alike.
 
-Masking and clipping elements isn\'t so difficult after all, we can use
+Masking and clipping elements isn&apos;t so difficult after all, we can use
 either bitmaps or vectors depending on our specific circumstances. This
 led us to understand better how to work with images and their
 orientation.
@@ -15251,10 +15252,10 @@ And finally we learned about the 3D properties like **perspective** and
 **backfacevisiblity** that allow us to do pretty cool things with CSS
 only.
 
-The following chapter about CSS functions is going to take what we\'ve
+The following chapter about CSS functions is going to take what we&apos;ve
 seen so far to a new level of possibilities.
 
-Let\'s fly.
+Let&apos;s fly.
 
 # CSS Functions
 
@@ -15264,7 +15265,7 @@ custom fonts, or create visual effects like transparencies or
 transforming elements in both two-dimensional and three-dimensional
 planes.
 
-Let\'s see what CSS functions are all about.
+Let&apos;s see what CSS functions are all about.
 
 ## Filter
 
@@ -15359,11 +15360,11 @@ it looks like this:
 The **invert()** function inverts the color of the element. If used in
 an image, it makes the image look like a film negative.
 
-A value of **100%** completely inverts the element\'s color; a value of
+A value of **100%** completely inverts the element&apos;s color; a value of
 **0%** leaves the element unchanged. Values over **100%** are not
 allowed.
 
-A value of **1** completely inverts the element\'s color; a value of
+A value of **1** completely inverts the element&apos;s color; a value of
 **0** leaves the element unchanged. Values over **1** are not allowed.
 Also, negative values are not valid. Decimal values are allowed for
 both. **hue-rotate()**
@@ -15448,11 +15449,11 @@ Also, for both, negative values are not valid.
 
 ### Transforms
 
-CSS transforms have gained such popularity that it\'s rare not to see
+CSS transforms have gained such popularity that it&apos;s rare not to see
 some sort of transformation in a website nowadays, for example, button
 shapes, animations, and layouts.
 
-Let\'s see the transformation CSS functions. **matrix()**
+Let&apos;s see the transformation CSS functions. **matrix()**
 
 The **matrix()** CSS function is used with the **transform** property,
 and it looks like this:
@@ -15466,8 +15467,8 @@ properties, since they can be combined here. This function is used to
 define a two-dimensional transformation matrix.
 
 This function requires a solid understanding of math, but in reality
-this function isn\'t something to be done by hand. Instead, we can use a
-tool like Eric Meyer\'s and Aaron Gustafson\'s *The Matrix Resolutions*
+this function isn&apos;t something to be done by hand. Instead, we can use a
+tool like Eric Meyer&apos;s and Aaron Gustafson&apos;s *The Matrix Resolutions*
 ([**http://tiny.cc/eric-meyer-matrix**](http://tiny.cc/eric-meyer-matrix)).
 
 The explanation of the advanced mathematics of the **matrix()** function
@@ -15486,11 +15487,11 @@ explanations you can refer to any of these two articles:
 
 **CSS**:
 
-> **/\*This\*/**
+> **/&ast;This&ast;/**
 >
 > **.element { transform: skew(10deg) scale(.5); }**
 >
-> **/\*Is the same as this\*/ .element { transform: matrix(0.5, 0,
+> **/&ast;Is the same as this&ast;/ .element { transform: matrix(0.5, 0,
 > 0.0881635, 0.5, 0, 0); }**
 
 ### matrix3d()
@@ -15510,19 +15511,19 @@ function is a shorthand, but this one is for all transform 3D properties
 in a 4 x 4 grid.
 
 This function requires a solid understanding of math, but in reality
-this function isn\'t something to be done by hand. Instead, we can use a
-tool like Eric Meyer and Aaron Gustafson\'s *The Matrix Resolutions*
+this function isn&apos;t something to be done by hand. Instead, we can use a
+tool like Eric Meyer and Aaron Gustafson&apos;s *The Matrix Resolutions*
 ([**http://tiny.cc/eric-meyer-matrix**)](http://tiny.cc/eric-meyer-matrix).
 
 **CSS**:
 
-> **/\*This\*/**
+> **/&ast;This&ast;/**
 >
 > **.element { transform: rotate3d(10, 10, 1, 45deg) translate3d(1px,**
 >
 > **1px, 0); }**
 >
-> **/\*Is the same as this\*/**
+> **/&ast;Is the same as this&ast;/**
 >
 > **.element { transform: matrix3d(0.852825, 0.195593, -0.484183, 0,**
 >
@@ -15594,11 +15595,11 @@ element counter-clockwise.
 
 **CSS**:
 
-> **/\*This\*/**
+> **/&ast;This&ast;/**
 >
 > **.element { transform: rotateX(25deg); }**
 >
-> **/\*Is the same as this\*/ .element { transform: rotate3d(1, 0, 0,
+> **/&ast;Is the same as this&ast;/ .element { transform: rotate3d(1, 0, 0,
 > 25deg); }**
 
 ### rotateY()
@@ -15622,11 +15623,11 @@ element counter-clockwise.
 
 **CSS**:
 
-> **/\*This\*/**
+> **/&ast;This&ast;/**
 >
 > **.element { transform: rotateY(75deg); }**
 >
-> **/\*Is the same as this\*/**
+> **/&ast;Is the same as this&ast;/**
 >
 > **.element { transform: rotate3d(0, 1, 0, 75deg); }**
 
@@ -15651,11 +15652,11 @@ element counter-clockwise.
 
 **CSS**:
 
-> **/\*This\*/**
+> **/&ast;This&ast;/**
 >
 > **.element { transform: rotateZ(33deg); }**
 >
-> **/\*Is the same as this\*/ .element { transform: rotate3d(0, 0, 1,
+> **/&ast;Is the same as this&ast;/ .element { transform: rotate3d(0, 0, 1,
 > 33deg); }**
 
 ### scale()
@@ -15692,12 +15693,12 @@ element is flipped.
 
 **CSS**:
 
-> **/\*Element is flipped in both directions and scaled to 200% its
-> size\*/**
+> **/&ast;Element is flipped in both directions and scaled to 200% its
+> size&ast;/**
 >
 > **.element { transform: scale(-2); }**
 >
-> **/\*Element is scaled to 200% horizontally and 300% vertically\*/
+> **/&ast;Element is scaled to 200% horizontally and 300% vertically&ast;/
 > .element { transform: scale(2, 3); }**
 
 ### scale3d()
@@ -15719,13 +15720,13 @@ is flipped.
 
 **CSS**:
 
-> **/\*The element is twice the size\*/**
+> **/&ast;The element is twice the size&ast;/**
 >
 > **.element { transform: scale3d(2, 2, 2); }**
 >
-> **/\*Flipped element in both X and Y-axis while scaled to 300%, and**
+> **/&ast;Flipped element in both X and Y-axis while scaled to 300%, and**
 >
-> **200% on the Z-axis\*/ .element { transform: scale3d(-3, -3, 2); }**
+> **200% on the Z-axis&ast;/ .element { transform: scale3d(-3, -3, 2); }**
 
 ### scaleX()
 
@@ -15811,30 +15812,30 @@ It supports one or two *angle* values: the first one corresponds to the
 declared, the element is skewed only on the *X* axes. Negative values
 are allowed.
 
-It\'s recommended that you use either the **skewX()** or **skewY()**
+It&apos;s recommended that you use either the **skewX()** or **skewY()**
 functions rather than **skew()**, because **skew()** has been removed
 from the spec (although most browsers still support it).
 
 **CSS**:
 
-> **/\*One value only affects the element on the X-axis\*/**
+> **/&ast;One value only affects the element on the X-axis&ast;/**
 >
 > **.element { transform: skew(20deg); }**
 >
-> **/\*Two values affects the element on both X and Y-axis\*/**
+> **/&ast;Two values affects the element on both X and Y-axis&ast;/**
 >
 > **.element { transform: skew(20deg, 25deg); }**
 
 ### skewX()
 
-The **\@skewX()** CSS function is used with the **transform** property,
+The **&commat;skewX()** CSS function is used with the **transform** property,
 and it looks like this:
 
 > **transform: skewX(40deg);**
 
 **Description**
 
-The **\@skewX()** function skews or *tilts* an element on the *X* axes
+The **&commat;skewX()** function skews or *tilts* an element on the *X* axes
 on a two-dimensional plane.
 
 It supports one *angle* value. Negative values are allowed.
@@ -15847,14 +15848,14 @@ It supports one *angle* value. Negative values are allowed.
 
 ### skewY()
 
-The **\@skewY()** CSS function is used with the **transform** property,
+The **&commat;skewY()** CSS function is used with the **transform** property,
 and it looks like this:
 
 > **transform: skewY(36deg);**
 
 **Description**
 
-The **\@skewY()** function skews or *tilts* an element on the *Y* axes
+The **&commat;skewY()** function skews or *tilts* an element on the *Y* axes
 in a two-dimensional plane.
 
 It supports one *angle* value. Negative values are allowed.
@@ -15891,12 +15892,12 @@ it will be delayed a bit when using **end**.
 
 **CSS**:
 
-> **/\*The transition is divided in 3 equal size intervals\*/**
+> **/&ast;The transition is divided in 3 equal size intervals&ast;/**
 >
 > **.element { transition-timing-function: steps(3); }**
 >
-> **/\*The transition is divided in 3 equal size intervals but it will
-> delay a bit before it starts\*/ .element { transition-timing-function:
+> **/&ast;The transition is divided in 3 equal size intervals but it will
+> delay a bit before it starts&ast;/ .element { transition-timing-function:
 > steps(3, end); }**
 
 ### translate()
@@ -15923,11 +15924,11 @@ Negative values are allowed.
 
 **CSS:**
 
-> **/\*One value, the element is moved on the X-axis only\*/**
+> **/&ast;One value, the element is moved on the X-axis only&ast;/**
 >
 > **.element { transform: translate(20px); }**
 >
-> **/\*Two values, the element is moved on the X and Y-axis\*/**
+> **/&ast;Two values, the element is moved on the X and Y-axis&ast;/**
 >
 > **.element { transform: translate(20px, -50%); }**
 
@@ -16026,7 +16027,7 @@ effect.
 Colors can make or break a design, there are many ways to go about
 creating palettes and all that good stuff.
 
-Let\'s take a look at *HSL(a)* and *RGB(a)*.
+Let&apos;s take a look at *HSL(a)* and *RGB(a)*.
 
 ### hsl() and hsla()
 
@@ -16055,11 +16056,11 @@ color is full.
 
 The third value is the lightness, also known as luminance. This is
 basically the brightness of the base color. **0%** means there is no
-lightness, hence it\'s black. **100%** is full lightness, hence it looks
+lightness, hence it&apos;s black. **100%** is full lightness, hence it looks
 white. **50%** means the base color is full.
 
 The fourth value is the alpha channel. This is the transparency of the
-color. It\'s declared with a unitless *numeric* decimal value from **0**
+color. It&apos;s declared with a unitless *numeric* decimal value from **0**
 to **1**. Complete transparent is **0**, and **1** is fully opaque.
 
 The great advantage that HSL color naming system has over RGB is that it
@@ -16071,11 +16072,11 @@ You can see the HSL color wheel in CodePen:
 [**http://tiny.cc/hsl-color-wheel**](http://tiny.cc/hsl-color-wheel)
 **CSS**:
 
-> **/\*HSL\*/**
+> **/&ast;HSL&ast;/**
 >
 > **.element { background-color: hsl(240, 100%, 50%); }**
 >
-> **/\*HSLa\*/ .element { background-color: hsla(10, 20%, 30%, .5); }**
+> **/&ast;HSLa&ast;/ .element { background-color: hsla(10, 20%, 30%, .5); }**
 
 ### rgb() and rgba()
 
@@ -16100,23 +16101,23 @@ from 0% to 100%. For example, we can represent the color green as
 **rgb(0, 255, 0)** or **rgb(0, 100%, 0)**.
 
 As I just mentioned, the fourth value is the alpha channel. This is the
-transparency of the color. It\'s declared with a unitless *numeric*
+transparency of the color. It&apos;s declared with a unitless *numeric*
 decimal value from **0** to **1**. Complete transparent is **0**, and
 **1** is fully opaque.
 
 **CSS**:
 
-> **/\*RGB\*/**
+> **/&ast;RGB&ast;/**
 >
 > **.element { background-color: rgb(240, 100, 50); }**
 >
-> **/\*RGBa\*/**
+> **/&ast;RGBa&ast;/**
 >
 > **.element { background-color: rgba(10, 20, 30, .5); }**
 
 ## Gradients
 
-For those who didn\'t know, CSS gradients are actually images. But these
+For those who didn&apos;t know, CSS gradients are actually images. But these
 images are created by the browser the moment it sees a gradient color
 declared. The thing with these images is that they are created on the
 fly and do not cause any HTTP requests.
@@ -16130,7 +16131,7 @@ created with gradients everyone reading this book should bookmark. Check
 it out here:
 [**http://tiny.cc/leave-verou-css3-patterns**](http://tiny.cc/leave-verou-css3-patterns)
 
-Let\'s see how to create gradients in CSS.
+Let&apos;s see how to create gradients in CSS.
 
 ### linear-gradient()
 
@@ -16150,7 +16151,7 @@ If no direction for the gradient line is specified, the default value is
 from top to bottom.
 
 Any amount of colors can be declared in the gradient line. Technically
-speaking, there\'s no limit, but from a design standpoint we should
+speaking, there&apos;s no limit, but from a design standpoint we should
 always try to keep it simple. At least two color values are required.
 
 The **linear-gradient()** function supports all color modes: **HEX**,
@@ -16187,44 +16188,44 @@ value and go after the color value.
 
 > Percentage values are more commonly used due to the fact that they can
 > scale with the element. Pixel values are fine too, but they just
-> don\'t have the same versatility as relative units.
+> don&apos;t have the same versatility as relative units.
 
 Color stops are very flexible because they allow us to make solid
 transitions between colors. This is great for making patterns or other
 types of graphics that require solid color transitions, like country
 flags.
 
-When the *stop positions* aren\'t declared, the browser distributes the
+When the *stop positions* aren&apos;t declared, the browser distributes the
 gradient colors evenly along the gradient line.
 
 **CSS**:
 
-> **/\*Basic gradient. Colors are distributed evenly along the gradient
-> line\*/**
+> **/&ast;Basic gradient. Colors are distributed evenly along the gradient
+> line&ast;/**
 >
 > **.element { background-image: linear-gradient(red, blue); }**
 >
-> **/\*Gradient goes from right to left and starts with color red\*/**
+> **/&ast;Gradient goes from right to left and starts with color red&ast;/**
 >
 > **.element { background-image: linear-gradient(to left, red, blue);
 > }**
 >
-> **/\*Gradient line is diagonal; inclined 170 degrees\*/**
+> **/&ast;Gradient line is diagonal; inclined 170 degrees&ast;/**
 >
 > **.element { background-image: linear-gradient(170deg, red, blue); }**
 >
-> **/\*Gradient with stop positions in percentages\*/**
+> **/&ast;Gradient with stop positions in percentages&ast;/**
 >
 > **.element { background-image: linear-gradient(red 50%, blue 75%); }**
 >
-> **/\*Gradient with stop positions in pixels\*/**
+> **/&ast;Gradient with stop positions in pixels&ast;/**
 >
 > **.element { background-image: linear-gradient(red 100px, blue**
 >
 > **150px); }**
 >
-> **/\*Colombian flag (yellow, blue and red bands) made with solid color
-> transitions using stop positions\*/**
+> **/&ast;Colombian flag (yellow, blue and red bands) made with solid color
+> transitions using stop positions&ast;/**
 >
 > **.element { background-image: linear-gradient(#fcd116 50%, #003893
 > 50%, #003893 75%, #ce1126 75%); }**
@@ -16243,10 +16244,10 @@ There are three parts to a radial gradient: its *center*, its *ending
 shape*, and *color stops*.
 
 The *center* defines the location in the element from which the radial
-gradient will start; a radial gradient doesn\'t have to start at the
+gradient will start; a radial gradient doesn&apos;t have to start at the
 center of an element. The *ending shape* defines if the radial gradient
 is going to be a circle or an ellipse. The ellipse shape is the default
-shape if the **circle** keyword isn\'t declared. The *color stops* are
+shape if the **circle** keyword isn&apos;t declared. The *color stops* are
 the colors that make the gradient and, if declared, any *stop positions*
 which are optional. Remember that stop positions can be declared in any
 *length* value or a *percentage* value and go after the color value.
@@ -16297,39 +16298,39 @@ one of four *keyword* *values*: **closest-corner**, **farthest-corner**,
 
 **CSS**:
 
-> **/\*Basic gradient. Colors are distributed evenly in the ellipse\*/**
+> **/&ast;Basic gradient. Colors are distributed evenly in the ellipse&ast;/**
 >
 > **.element { background-image: radial-gradient(red, blue); }**
 >
-> **/\*Ending shape declared as circle\*/**
+> **/&ast;Ending shape declared as circle&ast;/**
 >
 > **.element { background-image: radial-gradient(circle, red, blue); }**
 >
-> **/\*Position declared (only one value). Gradient will start at the
-> left and center\*/**
+> **/&ast;Position declared (only one value). Gradient will start at the
+> left and center&ast;/**
 >
 > **.element { background-image: radial-gradient(circle at left, red,
 > blue); }**
 >
-> **/\*Position declared (two values)\*/**
+> **/&ast;Position declared (two values)&ast;/**
 >
 > **.element { background-image: radial-gradient(circle at left top,
 > red, blue); }**
 >
-> **/\*Position declared with percentages. An ending shape value is
-> required\*/**
+> **/&ast;Position declared with percentages. An ending shape value is
+> required&ast;/**
 >
 > **.element { background-image: radial-gradient(circle at 25% 75%, red,
 > blue); }**
 >
-> **/\*Size of the gradient declared in pixels\*/**
+> **/&ast;Size of the gradient declared in pixels&ast;/**
 >
 > **.element { background-image: radial-gradient(100px 50px ellipse at**
 >
 > **25% 75%, red, blue); }**
 >
-> **/\*Size of the gradient relative to the farthest side of the
-> element. Ending shape can be after or before size\*/**
+> **/&ast;Size of the gradient relative to the farthest side of the
+> element. Ending shape can be after or before size&ast;/**
 >
 > **.element { background-image: radial-gradient(circle farthest-side at
 > 25% 75%, red, blue); }**
@@ -16350,28 +16351,28 @@ that function for a detailed explanation of all the available values.
 
 In order for the **repeating-linear-gradient()** function to work, we
 need to define *stop positions* on the colors. Otherwise, the repeated
-gradient will look as if we\'re just using **linear-gradient()**.
+gradient will look as if we&apos;re just using **linear-gradient()**.
 
 **CSS**:
 
-> **/\*Basic repeating linear gradient\*/**
+> **/&ast;Basic repeating linear gradient&ast;/**
 >
 > **.element { background-image: repeating-linear-gradient(orange**
 >
 > **50px, green 75px); }**
 >
-> **/\*Repeating gradient goes from right to left and starts with color
-> orange\*/**
+> **/&ast;Repeating gradient goes from right to left and starts with color
+> orange&ast;/**
 >
 > **.element { background-image: repeating-linear-gradient(to left,
 > orange 50px, green 75px); }**
 >
-> **/\*Repeating gradient line is diagonal; inclined 170 degrees\*/**
+> **/&ast;Repeating gradient line is diagonal; inclined 170 degrees&ast;/**
 >
 > **.element { background-image: repeating-linear-gradient(170deg,
 > orange 50px, green 75px); }**
 >
-> **/\*Repeating gradient with stop positions in percentages\*/**
+> **/&ast;Repeating gradient with stop positions in percentages&ast;/**
 >
 > **.element { background-image: repeating-linear-gradient(orange 25%,
 > green 50%); }**
@@ -16390,45 +16391,45 @@ that function for a detailed explanation of all the available values.
 
 In order for the **repeating-radial-gradient()** function to work, we
 need to define *stop positions* on the colors. Otherwise, the repeated
-gradient will look as if we\'re just using **radial-gradient()**.
+gradient will look as if we&apos;re just using **radial-gradient()**.
 
 **CSS**:
 
-> **/\*Basic repeating linear gradient\*/**
+> **/&ast;Basic repeating linear gradient&ast;/**
 >
 > **.element { background-image: repeating-radial-gradient(navy 50px,
 > gray 75px); }**
 >
-> **/\*Ending shape declared as circle\*/**
+> **/&ast;Ending shape declared as circle&ast;/**
 >
 > **.element { background-image: repeating-radial-gradient(circle,**
 >
 > **navy 50px, gray 75px); }**
 >
-> **/\*Position declared (only one value). Gradient will start at the
-> left and center\*/**
+> **/&ast;Position declared (only one value). Gradient will start at the
+> left and center&ast;/**
 >
 > **.element { background-image: repeating-radial-gradient(circle at
 > left, navy 50px, gray 75px); }**
 >
-> **/\*Position declared (two values)\*/**
+> **/&ast;Position declared (two values)&ast;/**
 >
 > **.element { background-image: repeating-radial-gradient(circle at
 > left top, navy 50px, gray 75px); }**
 >
-> **/\*Position declared with percentages. Defaults to ellipse shape
-> unless \'circle\' is specified\*/**
+> **/&ast;Position declared with percentages. Defaults to ellipse shape
+> unless &apos;circle&apos; is specified&ast;/**
 >
 > **.element { background-image: repeating-radial-gradient(at 25% 75%,
 > navy 50px, gray 75px); }**
 >
-> **/\*Size of the gradient declared in pixels\*/**
+> **/&ast;Size of the gradient declared in pixels&ast;/**
 >
 > **.element { background-image: repeating-radial-gradient(200px 25px at
 > 25% 75%, navy 50px, gray 75px); }**
 >
-> **/\*Size of the gradient relative to the farthest side of the
-> element. Ending shape can be after or before size\*/**
+> **/&ast;Size of the gradient relative to the farthest side of the
+> element. Ending shape can be after or before size&ast;/**
 >
 > **.element { background-image: repeating-radial-gradient(circle
 > farthest-side at 25% 75%, navy 50px, gray 75px); }**
@@ -16436,7 +16437,7 @@ gradient will look as if we\'re just using **radial-gradient()**.
 ## Values
 
 The following CSS functions allow us to declare many custom values for
-various results. Let\'s check them out.
+various results. Let&apos;s check them out.
 
 ### attr()
 
@@ -16454,7 +16455,7 @@ In CSS, the **attr()** function is most commonly used with the
 inject content into the document, but in reality the **attr()** function
 can be used with *any* other CSS property.
 
-In HTML, it\'s very common to use the **attr()** CSS function to target
+In HTML, it&apos;s very common to use the **attr()** CSS function to target
 the HTML5 **data-** or the **href** attributes. The **attr()** function
 can be used to target *any* HTML attribute.
 
@@ -16480,9 +16481,9 @@ saving space.
 
 **CSS**:
 
-> **/\*Print the links from the content\*/**
+> **/&ast;Print the links from the content&ast;/**
 >
-> **\@media print { main a\[href\]:after { content: attr(href);**
+> **&commat;media print { main a&lbrack;href&rbrack;:after { content: attr(href);**
 >
 > **}**
 >
@@ -16497,48 +16498,48 @@ attribute.
 
 **HTML**:
 
-> **\<table\>**
+> **&lt;table\>**
 >
-> **\<tr class=\"headings\"\>**
+> **&lt;tr class=&quot;headings&quot;\>**
 >
-> **\<th\>Plan\</th\>**
+> **&lt;th\>Plan&lt;/th\>**
 >
-> **\<th\>Price\</th\>**
+> **&lt;th\>Price&lt;/th\>**
 >
-> **\<th\>Duration\</th\>**
+> **&lt;th\>Duration&lt;/th\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\<tr\>**
+> **&lt;tr\>**
 >
-> **\<td data-label=\"Plan:\"\>Silver\</td\>**
+> **&lt;td data-label=&quot;Plan:&quot;\>Silver&lt;/td\>**
 >
-> **\<td data-label=\"Price:\"\>\$50\</td\>**
+> **&lt;td data-label=&quot;Price:&quot;\>\$50&lt;/td\>**
 >
-> **\<td data-label=\"Duration:\"\>3 months\</td\>**
+> **&lt;td data-label=&quot;Duration:&quot;\>3 months&lt;/td\>**
 >
-> **\</tr\>**
+> **&lt;/tr\>**
 >
-> **\</table\>**
+> **&lt;/table\>**
 
 **CSS**:
 
-> **/\*40em = 640÷16\*/**
+> **/&ast;40em = 640÷16&ast;/**
 >
-> **\@media (max-width:40em) { /\*Behave like a \"row\"\*/ td, tr {
+> **&commat;media (max-width:40em) { /&ast;Behave like a &quot;row&quot;&ast;/ td, tr {
 > display: block;**
 >
 > **}**
 >
-> **/\*Hide the headings but not with display: none; for
-> accessibility\*/**
+> **/&ast;Hide the headings but not with display: none; for
+> accessibility&ast;/**
 >
 > **.headings { position: absolute; top: -100%; left: -100%; overflow:
 > hidden;**
 >
 > **}**
 >
-> **/\*Inject the content from the data-label attribute\*/ td:before {
+> **/&ast;Inject the content from the data-label attribute&ast;/ td:before {
 > content: attr(data-label); display: inline-block; width: 70px;
 > padding-right: 5px; white-space: nowrap; text-align: right;
 > font-weight: bold;**
@@ -16556,12 +16557,12 @@ calculations, and it looks like this:
 
 Or like this:
 
-> **padding: calc(5 \* 2px - .25em);**
+> **padding: calc(5 &ast; 2px - .25em);**
 
 **Description**
 
 We can perform those calculations with addition (**+**), subtraction
-(**-**), division (**/**), and multiplication (**\***). It\'s commonly
+(**-**), division (**/**), and multiplication (**&ast;**). It&apos;s commonly
 used to calculate relative values for **width** and **height**, but as
 you saw, we can use this function with any CSS property.
 
@@ -16571,20 +16572,20 @@ subtraction, for example, can be considered to have a negative value,
 for example, **calc(2.5em -5px)**. This **calc()** function is invalid
 since the second value is considered a negative value. Space is required
 after the subtraction (**-**) operator. However, the division (**/**)
-and multiplication (**\***) operators don\'t require the spaces.
+and multiplication (**&ast;**) operators don&apos;t require the spaces.
 
 Now, when doing a division (**/**), the value on the right *must* be a
-*number* value. For a multiplication (**\***) operation, at least one of
+*number* value. For a multiplication (**&ast;**) operation, at least one of
 the values *must* be *number* value as well.
 
 **CSS**:
 
-> **/\* The element\'s width is half its intrinsic width plus 25px\*/**
+> **/&ast; The element&apos;s width is half its intrinsic width plus 25px&ast;/**
 >
 > **.element { width: calc(100% / 2 + 25px); }**
 >
-> **/\*The element\'s padding is 10px minus .25em of the result\*/
-> .element { padding: calc(5 \* 2px - .25em); }**
+> **/&ast;The element&apos;s padding is 10px minus .25em of the result&ast;/
+> .element { padding: calc(5 &ast; 2px - .25em); }**
 
 ### url()
 
@@ -16600,29 +16601,29 @@ resource. **URL** stands for **Uniform Resource Locator**.
 
 This function is commonly used with the **background** or
 **background-image** properties, but it can be used with any of the
-properties that take a URL as a value, like **\@font-face**,
+properties that take a URL as a value, like **&commat;font-face**,
 **list-style**, **cursor**, and so on.
 
-The URL can be quoted using single (**\'** **\'**) or double quotes
-(**\"** **\"**), or not quoted at all. However, there can\'t be any
+The URL can be quoted using single (**&apos;** **&apos;**) or double quotes
+(**&quot;** **&quot;**), or not quoted at all. However, there can&apos;t be any
 combinations of quote styles such as starting with a single quote and
 ending with a double quote.
 
 Also, double quotes inside a URL that uses single quotes and single
 quotes inside a URL that uses double quotes *must* be escaped with a
-backslash (**\\**). Otherwise, it will break the URL.
+backslash (**\&ast;*). Otherwise, it will break the URL.
 
 The URL pointing to the resource can be either absolute or relative. If
-it\'s relative, it\'s relative to the location of the style sheet in the
+it&apos;s relative, it&apos;s relative to the location of the style sheet in the
 folder structure, not the webpage itself.
 
-The **url()** CSS function also supports Data URI\'s, which is basically
+The **url()** CSS function also supports Data URI&apos;s, which is basically
 the code of an image. So instead of pointing the selector to download an
 image in the **/images** folder, we can embed the actual image in the
 CSS.
 
 Be careful with this because although we are reducing an HTTP request
-(and that\'s a *huge* win), we might be making the CSS file larger and a
+(and that&apos;s a *huge* win), we might be making the CSS file larger and a
 bit harder to maintain if the image changes. There can also be potential
 performance and render-blocking issues.
 
@@ -16633,7 +16634,7 @@ Nicholas Zakas: *Data URIs Explained*
 
 **CSS**:
 
-> **/\*Colombian flag icon as Data URI. No quotes in URL\*/**
+> **/&ast;Colombian flag icon as Data URI. No quotes in URL&ast;/**
 >
 > **.element { background:
 > url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB2
@@ -16642,15 +16643,15 @@ Nicholas Zakas: *Data URIs Explained*
 > iRLNw8QARgbO40M8EBnvMgz1dAAAkeoGYBluZXgAAAAASUVORK5CYII=) #ccc no-
 > repeat center; }**
 >
-> **/\*Custom cursor. Single quotes in URL\*/**
+> **/&ast;Custom cursor. Single quotes in URL&ast;/**
 >
-> **.element { cursor: url(\'../images/cursor.cur\') 10 10, default; }**
+> **.element { cursor: url(&apos;../images/cursor.cur&apos;) 10 10, default; }**
 >
-> **/\*Web font. Double quotes in URL\*/**
+> **/&ast;Web font. Double quotes in URL&ast;/**
 >
-> **\@font-face { font-family: Franchise;**
+> **&commat;font-face { font-family: Franchise;**
 >
-> **src: url(\"../fonts/franchise.woff\") format(\"woff\"); }**
+> **src: url(&quot;../fonts/franchise.woff&quot;) format(&quot;woff&quot;); }**
 
 ### cubic-bezier()
 
@@ -16666,7 +16667,7 @@ The **cubic-bezier()** function is used with the
 properties. Most use cases can benefit from the already defined easing
 functions we mentioned in *Chapter 4*, *CSS Properties -- Part 1*,
 (**ease**, **ease-in**, **ease-out**, **ease-in-out**, and **linear**);
-if you\'re feeling adventurous, **cubic-bezier()** is your best bet.
+if you&apos;re feeling adventurous, **cubic-bezier()** is your best bet.
 
 Refer to the **animation-timing-function** CSS property in *Chapter 4*,
 *CSS Properties -- Part 1*, to see what a **Bézier** curve looks like.
@@ -16674,7 +16675,7 @@ The **cubic-bezier()** function takes four parameters in the form of:
 
 > **animation-timing-function: cubic-bezier(a, b, a, b);**
 
-Let\'s represent all five predefined easing functions with the
+Let&apos;s represent all five predefined easing functions with the
 **cubic-bezier()** function:
 
 -   **ease**: **animation-timing-function: cubic-bezier(.25, .1, .25,
@@ -16691,10 +16692,10 @@ Let\'s represent all five predefined easing functions with the
 
 -   **linear**: **animation-timing-function: cubic-bezier(0, 0, 1, 1);**
 
-I\'m not sure about you, but I prefer to use the predefined values.
+I&apos;m not sure about you, but I prefer to use the predefined values.
 
 Now, we can start tweaking and testing each value to the decimal, save,
-and wait for the live refresh to do its thing. But that\'s too much
+and wait for the live refresh to do its thing. But that&apos;s too much
 wasted time testing if you ask me.
 
 The amazing Lea Verou created the best web app to work with Bézier
@@ -16719,7 +16720,7 @@ The Bézier curve image showed previously was taken from the
 The following CSS functions have no specific category, so we grouped
 them here in a miscellaneous section.
 
-Let\'s see what we have.
+Let&apos;s see what we have.
 
 ### drop-shadow()
 
@@ -16731,7 +16732,7 @@ adds a shadow under the element, and it looks like this:
 
 The **drop-shadow()** function works almost exactly the same way as the
 **box-shadow** property with two differences: the **drop-shadow()**
-function doesn\'t support the **spread-radius** or the **inset** values.
+function doesn&apos;t support the **spread-radius** or the **inset** values.
 
 Please refer to the **box-shadow** property for a detailed description
 of all the values. Additionally, some browsers actually provide hardware
@@ -16754,7 +16755,7 @@ background for another HTML element, and it looks like this:
 **Description**
 
 Use cases for the **element()** function are rare, but nonetheless it is
-available to us (granted, browser support isn\'t ideal yet).
+available to us (granted, browser support isn&apos;t ideal yet).
 
 **CSS**:
 
@@ -16772,7 +16773,7 @@ used as background, and it looks like this:
 **Description**
 
 The **image()** function is practically the same as the **url()**
-function and it\'s considered to be more flexible and ideal to declare
+function and it&apos;s considered to be more flexible and ideal to declare
 background images rather than using the commonly known **url()**
 function. However, the **image()** CSS function is at risk from being
 dropped from the spec due to lack of browser support.
@@ -16820,7 +16821,7 @@ element in question will react in a three-dimensional plane.
 
 This function works similarly to the **perspective** property, and the
 difference is that the **perspective()** function is used to give
-perspective to a single element. Hence, it\'s applied to the *element
+perspective to a single element. Hence, it&apos;s applied to the *element
 itself*. The **perspective** property is good for giving perspective to
 several elements at once, hence it is applied to the parent element
 instead.
@@ -16830,7 +16831,7 @@ on a list, each element will have its own vanishing point. But if we
 apply the **perspective** property to the parent container of that list,
 all elements will share the same vanishing point.
 
-The **perspective()** function on its own doesn\'t do much, so in order
+The **perspective()** function on its own doesn&apos;t do much, so in order
 to see it in action we must combine it with any of the other transform
 functions like **rotate()**, **rotateX()**, or **rotateY()**.
 
@@ -16876,78 +16877,78 @@ CSS *at-rules* start with the **@** character and are followed by a
 keyword or identifier. They always have to end with a semicolon (**;**)
 character.
 
-Some of the most popular at-rules are **\@font-face**, which is used to
-declare custom fonts; **\@import** that is used to import external CSS
+Some of the most popular at-rules are **&commat;font-face**, which is used to
+declare custom fonts; **&commat;import** that is used to import external CSS
 files (not recommended by the way for performance reasons), and it is
 also used in some CSS preprocessors to bring external partial files that
 will eventually get compiled into a single CSS file (recommended
-method); **\@media** is used to declare media queries in our responsive
-projects or print style sheets and so on; **\@keyframes** is used to
+method); **&commat;media** is used to declare media queries in our responsive
+projects or print style sheets and so on; **&commat;keyframes** is used to
 create animations and so on.
 
-At-rules, let\'s see where they\'re *at*.
+At-rules, let&apos;s see where they&apos;re *at*.
 
-### \@charset
+### &commat;charset
 
-The **\@charset()** at-rule defines the character encoding to be used by
+The **&commat;charset()** at-rule defines the character encoding to be used by
 a style sheet, and it looks like this:
 
-> **\@charset \"UTF-8\";**
+> **&commat;charset &quot;UTF-8&quot;;**
 
 **Description**
 
 We rarely need to define the character encoding in a style sheet as long
-as it\'s defined in the HTML. When the browser detects the character
-encoding in the HTML, it implies that it\'s the same character encoding
+as it&apos;s defined in the HTML. When the browser detects the character
+encoding in the HTML, it implies that it&apos;s the same character encoding
 for the CSS file(s).
 
-If you like to declare the character encoding in your CSS files, that\'s
+If you like to declare the character encoding in your CSS files, that&apos;s
 fine too. If you plan to use this in a style sheet, it should be the
 first thing at the top of the file. It cannot have a space character
 before the **@** symbol, or a blank line above it. The *character
-encoding name* should always be inside quotes, either single (**\'**
-**\'**) or double quotes (**\"** **\"**).
+encoding name* should always be inside quotes, either single (**&apos;**
+**&apos;**) or double quotes (**&quot;** **&quot;**).
 
 **CSS**:
 
-> **/\*Correct character encoding directive\*/**
+> **/&ast;Correct character encoding directive&ast;/**
 >
-> **\@charset \"UTF-8\";**
+> **&commat;charset &quot;UTF-8&quot;;**
 >
-> **/\*Character encoding of the CSS is set to Latin-9 (Western**
+> **/&ast;Character encoding of the CSS is set to Latin-9 (Western**
 >
-> **European languages, with Euro sign)\*/**
+> **European languages, with Euro sign)&ast;/**
 >
-> **\@charset \'iso-8859-15\';**
+> **&commat;charset &apos;iso-8859-15&apos;;**
 >
-> **/\*This is invalid, there is a space before the @ symbol\*/**
+> **/&ast;This is invalid, there is a space before the @ symbol&ast;/**
 >
-> **\@charset \"UTF-8\";**
+> **&commat;charset &quot;UTF-8&quot;;**
 >
-> **/\*This is invalid, character encoding name should be inside
+> **/&ast;This is invalid, character encoding name should be inside
 > single**
 >
-> **\[\'\'\] or double quotes \[\"\"\]\*/**
+> **&lbrack;&apos;&apos;&rbrack; or double quotes &lbrack;&quot;&quot;&rbrack;&ast;/**
 >
-> **\@charset UTF-8;**
+> **&commat;charset UTF-8;**
 
-### \@document()
+### &commat;document()
 
-The **\@document()** at-rule allows to define styles that only apply to
+The **&commat;document()** at-rule allows to define styles that only apply to
 a certain pages of a site, and it looks like this in one of its forms:
 
-> **\@document url(\'http://website.com/page.html\') { \... }**
+> **&commat;document url(&apos;http://website.com/page.html&apos;) { &period;.. }**
 
 **Description**
 
-There are four CSS functions that are exclusive to the **\@document()**
-at-rule: **url()**, **url-prefix()**, **domain()**, and **regexp(\"**
-**\")**. Multiple functions can be defined in a single declaration.
+There are four CSS functions that are exclusive to the **&commat;document()**
+at-rule: **url()**, **url-prefix()**, **domain()**, and **regexp(&quot;**
+**&quot;)**. Multiple functions can be defined in a single declaration.
 
 The values inside the functions can either be declared without quotation
-marks, or use single (**\'** **\'**) or double quotes (**\"** **\"**).
-Only the **regexp(\"\")** function requires the use of double quotes
-(**\"** **\"**).
+marks, or use single (**&apos;** **&apos;**) or double quotes (**&quot;** **&quot;**).
+Only the **regexp(&quot;&quot;)** function requires the use of double quotes
+(**&quot;** **&quot;**).
 
 -   **url()**: This restricts the styles to a document that matches the
     URL
@@ -16955,50 +16956,50 @@ Only the **regexp(\"\")** function requires the use of double quotes
 -   **url-prefix()**: This restricts the styles to a document that start
     with the specified URL
 
--   **domain()**: This restricts the styles to a document\'s specific
+-   **domain()**: This restricts the styles to a document&apos;s specific
     domain
 
--   **regexp(\"\")**: This restricts the styles to a document that match
+-   **regexp(&quot;&quot;)**: This restricts the styles to a document that match
     the regular expression
 
 **CSS**:
 
-> **/\*url() function\*/**
+> **/&ast;url() function&ast;/**
 >
-> **\@document url(\'http://website.com/page.html\') { \... }**
+> **&commat;document url(&apos;http://website.com/page.html&apos;) { &period;.. }**
 >
-> **/\*url-prefix() function\*/**
+> **/&ast;url-prefix() function&ast;/**
 >
-> **\@document url-prefix(\"http://website.com/about/\") { \... }**
+> **&commat;document url-prefix(&quot;http://website.com/about/&quot;) { &period;.. }**
 >
-> **/\*domain() function\*/**
+> **/&ast;domain() function&ast;/**
 >
-> **\@document domain(website.com) { \... }**
+> **&commat;document domain(website.com) { &period;.. }**
 >
-> **/\*regexp() function\*/**
+> **/&ast;regexp() function&ast;/**
 >
-> **\@document regexp(\"https:.\*\")**
+> **&commat;document regexp(&quot;https:.&ast;&quot;)**
 >
-> **/\*Multiple functions in a single declaration\*/**
+> **/&ast;Multiple functions in a single declaration&ast;/**
 >
-> **\@document url(\'http://website.com/page.html\') { \... },
-> url-prefix(\"http://website.com/about/\") { \... },
-> domain(website.com) { \... }, regexp(\"https:.\*\") { \... }**
+> **&commat;document url(&apos;http://website.com/page.html&apos;) { &period;.. },
+> url-prefix(&quot;http://website.com/about/&quot;) { &period;.. },
+> domain(website.com) { &period;.. }, regexp(&quot;https:.&ast;&quot;) { &period;.. }**
 
-### \@font-face
+### &commat;font-face
 
-The **\@font-face()** at-rule is used to define custom fonts to use on a
+The **&commat;font-face()** at-rule is used to define custom fonts to use on a
 document, and it looks like this in its simplest form:
 
-> **\@font-face { font-family: Franchise;**
+> **&commat;font-face { font-family: Franchise;**
 >
-> **src: url(\"../fonts/franchise.woff\") format(\"woff\"); }**
+> **src: url(&quot;../fonts/franchise.woff&quot;) format(&quot;woff&quot;); }**
 
 **Description**
 
-The **\@font-face()** at-rule has been around for actually more years
+The **&commat;font-face()** at-rule has been around for actually more years
 than many believe, so our buddy IE6 supports this function. With the
-**\@font-face()** at-rule, we can target custom font files to use on a
+**&commat;font-face()** at-rule, we can target custom font files to use on a
 website/webapp and extend the design and branding possibilities way
 beyond system fonts.
 
@@ -17006,8 +17007,8 @@ One peculiarity of custom fonts is that different versions of each
 browser support one format but not another or even has its own
 proprietary font format.
 
-Paul Irish\'s article *Bulletproof \@font-face Syntax*, where the
-*smiley face* technique originated, is a must-read **\@font-face**
+Paul Irish&apos;s article *Bulletproof &commat;font-face Syntax*, where the
+*smiley face* technique originated, is a must-read **&commat;font-face**
 article for all web designers and developers
 [(**http://tiny.cc/paul-irish-font-face**](http://tiny.cc/paul-irish-font-face)).
 
@@ -17031,9 +17032,9 @@ All modern browsers support these two formats.
 
 **EOT** stands for **Embedded Open Type** and was created by Microsoft.
 Only old versions of IE (IE6 to IE8) require the use of this font
-format. No other browsers support this format, so if we don\'t need to
+format. No other browsers support this format, so if we don&apos;t need to
 support legacy browsers, we do not need to declare a link to this font
-format in the **\@font-face()** at-rule declaration.
+format in the **&commat;font-face()** at-rule declaration.
 
 #### OTF and TTF
 
@@ -17046,13 +17047,13 @@ ligatures, fractions, and so on.
 #### SVG
 
 **SVG** stands for **Scalable Vector Graphic**. An SVG *font file*
-doesn\'t really have a font; it has vector representations of the font.
+doesn&apos;t really have a font; it has vector representations of the font.
 This type of font file is used when old iOS devices need to be
 supported. However, if this type of font is not declared, the old iOS
-device will simply use a system font instead, which if you ask me, I\'m
+device will simply use a system font instead, which if you ask me, I&apos;m
 totally fine with.
 
-The values inside the **\@font-face** brackets are called the **font
+The values inside the **&commat;font-face** brackets are called the **font
 descriptors**. In it, we can declare several values: **font-family**,
 **src**, **font-variant**, **font-stretch**, **fontstyle**,
 **font-weight**, and **unicode-range**. **font-family**
@@ -17073,7 +17074,7 @@ locally installed files with the **local()** function.
 #### font-variant
 
 The **font-variant** CSS property turns the targeted text into small
-caps. In CSS3, it\'s considered a shorthand and has been extended with
+caps. In CSS3, it&apos;s considered a shorthand and has been extended with
 new values, which developers rarely use. Refer to *Chapter 5*, *CSS
 Properties -- Part 2*, for more information. **font-stretch**
 
@@ -17091,7 +17092,7 @@ information.
 
 The **unicode-range** CSS property descriptor defines a specific range
 of characters or glyphs that should be downloaded from a font declared
-in a **\@font-face** declaration. This is helpful, for example, when
+in a **&commat;font-face** declaration. This is helpful, for example, when
 working on a site with different languages. By declaring
 **unicode-range**, the browser only downloads the specific characters of
 that language for that page, thus saving bandwidth and optimizing
@@ -17101,10 +17102,10 @@ This property is rarely used.
 
 **Google fonts**
 
-We can\'t talk about **\@font-face** without talking about **Google
+We can&apos;t talk about **&commat;font-face** without talking about **Google
 Fonts**. Google Fonts is a free web font service that allows us to
-practically skip all the manual work of creating **\@font-face**
-declaration block in our CSS files by giving us an HTML **\<link\>**
+practically skip all the manual work of creating **&commat;font-face**
+declaration block in our CSS files by giving us an HTML **&lt;link\>**
 that points to the font(s) we selected.
 
 Check out Google Fonts at
@@ -17112,65 +17113,65 @@ Check out Google Fonts at
 
 **HTML**:
 
-> **\<!\-- Google Fonts link snippet \--\>**
+> **&lt;!\-- Google Fonts link snippet \--\>**
 >
-> **\<link href=\'https://fonts.googleapis.com/css?family=Roboto\'**
+> **&lt;link href=&apos;https://fonts.googleapis.com/css?family=Roboto&apos;**
 >
-> **rel=\'stylesheet\' type=\'text/css\'\>**
+> **rel=&apos;stylesheet&apos; type=&apos;text/css&apos;\>**
 
 **CSS**:
 
-> **/\*Full descriptive \@font-face declaration\*/**
+> **/&ast;Full descriptive &commat;font-face declaration&ast;/**
 >
-> **\@font-face { font-family: Roboto; /\*IE9 Compat Modes\*/ src:
-> url(\"../fonts/roboto.eot\"); /\*Locally installed font file\*/ src:
-> local(\"roboto\"),**
+> **&commat;font-face { font-family: Roboto; /&ast;IE9 Compat Modes&ast;/ src:
+> url(&quot;../fonts/roboto.eot&quot;); /&ast;Locally installed font file&ast;/ src:
+> local(&quot;roboto&quot;),**
 >
-> **/\*IE6-IE8\*/**
+> **/&ast;IE6-IE8&ast;/**
 >
-> **url(\"../fonts/roboto.eot?#iefix\") format(\"embedded-
-> opentype\"),**
+> **url(&quot;../fonts/roboto.eot?#iefix&quot;) format(&quot;embedded-
+> opentype&quot;),**
 >
-> **/\*Modern Browsers\*/**
+> **/&ast;Modern Browsers&ast;/**
 >
-> **url(\"../fonts/roboto.woff2\") format(\"woff2\"),
-> url(\"../fonts/roboto.woff\") format(\"woff\"),**
+> **url(&quot;../fonts/roboto.woff2&quot;) format(&quot;woff2&quot;),
+> url(&quot;../fonts/roboto.woff&quot;) format(&quot;woff&quot;),**
 >
-> **/\*Safari, Android, iOS\*/**
+> **/&ast;Safari, Android, iOS&ast;/**
 >
-> **url(\"../fonts/roboto.ttf\") format(\"truetype\"),**
+> **url(&quot;../fonts/roboto.ttf&quot;) format(&quot;truetype&quot;),**
 >
-> **/\*Old iOS devices\*/**
+> **/&ast;Old iOS devices&ast;/**
 >
-> **url(\"../fonts/roboto.svg#roboto\") format(\"svg\");**
+> **url(&quot;../fonts/roboto.svg#roboto&quot;) format(&quot;svg&quot;);**
 >
-> **/\*Unicode range\*/**
+> **/&ast;Unicode range&ast;/**
 >
 > **unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;**
 >
-> **/\*Font properties\*/ font-weight: normal; font-style: normal; }**
+> **/&ast;Font properties&ast;/ font-weight: normal; font-style: normal; }**
 >
-> **/\*Recommended \@font-face syntax\*/**
+> **/&ast;Recommended &commat;font-face syntax&ast;/**
 >
-> **\@font-face { font-family: Roboto;**
+> **&commat;font-face { font-family: Roboto;**
 >
-> **src: url(\"../fonts/roboto.woff2\") format(\"woff2\"),
-> url(\"../fonts/roboto.woff\") format(\"woff\");**
+> **src: url(&quot;../fonts/roboto.woff2&quot;) format(&quot;woff2&quot;),
+> url(&quot;../fonts/roboto.woff&quot;) format(&quot;woff&quot;);**
 >
 > **font-weight: normal; font-style: normal; }**
 >
-> **/\*Usage\*/**
+> **/&ast;Usage&ast;/**
 >
 > **.element {**
 >
 > **font-family: Roboto, Arial, Helvetica, san-serif; }**
 
-### \@import
+### &commat;import
 
-The **\@import()** at-rule is used to import a style sheet into another,
+The **&commat;import()** at-rule is used to import a style sheet into another,
 and it looks like this:
 
-> **\@import \"other-style-sheet.css\";**
+> **&commat;import &quot;other-style-sheet.css&quot;;**
 
 **Description**
 
@@ -17178,8 +17179,8 @@ The previous example targets another style sheet with a **string**
 value. But style sheets can also be imported using the **url()**
 function.
 
-The **\@import** rules should always precede any other rules except the
-**\@charset** rule, otherwise, it will be ignored by the browser.
+The **&commat;import** rules should always precede any other rules except the
+**&commat;charset** rule, otherwise, it will be ignored by the browser.
 
 One thing to take into consideration is cascading. Imported style sheets
 cascade in the order they are imported. There is also a way to specify
@@ -17187,50 +17188,50 @@ the media a specific imported style sheet is for via media queries. If
 more than one media query is declared, it needs to be separated by
 commas.
 
-> It\'s a known fact that using **\@import** has a negative impact on
+> It&apos;s a known fact that using **&commat;import** has a negative impact on
 > performance due to sequential downloading instead of parallel
 > downloads and multiple HTTP requests. Read more about this issue on
-> Steve Souders\' article *Don\'t Use \@import* at
+> Steve Souders&apos; article *Don&apos;t Use &commat;import* at
 >
 > [**http://tiny.cc/steve-souders-avoidimport**](http://tiny.cc/steve-souders-avoidimport)
 
 **CSS**:
 
-> **/\*Import a style sheet in the same directory\*/**
+> **/&ast;Import a style sheet in the same directory&ast;/**
 >
-> **\@import \"other-style-sheet.css\";**
+> **&commat;import &quot;other-style-sheet.css&quot;;**
 >
-> **/\*Import a style sheet from a relative path\*/**
+> **/&ast;Import a style sheet from a relative path&ast;/**
 >
-> **\@import url(../other-stylesheets/other-style-sheet.css);**
+> **&commat;import url(../other-stylesheets/other-style-sheet.css);**
 >
-> **/\*Import a style sheet with an absolute path\*/**
+> **/&ast;Import a style sheet with an absolute path&ast;/**
 >
-> **\@import url(http://website.com/other-stylesheets/other-style-
+> **&commat;import url(http://website.com/other-stylesheets/other-style-
 > sheet.css);**
 >
-> **/\*Define a print style sheet with the \'print\' media query\*/**
+> **/&ast;Define a print style sheet with the &apos;print&apos; media query&ast;/**
 >
-> **\@import \"print.css\" print;**
+> **&commat;import &quot;print.css&quot; print;**
 >
-> **/\*Declare multiple media queries\*/**
+> **/&ast;Declare multiple media queries&ast;/**
 >
-> **\@import \"screen.css\" screen, projection;**
+> **&commat;import &quot;screen.css&quot; screen, projection;**
 >
-> **/\*Use more a commonly known media query\*/**
+> **/&ast;Use more a commonly known media query&ast;/**
 >
-> **\@import url(\"portrait.css\") screen and (orientation: portrait);**
+> **&commat;import url(&quot;portrait.css&quot;) screen and (orientation: portrait);**
 
-### \@keyframes
+### &commat;keyframes
 
-The **\@keyframes()** at-rule is used to list CSS properties to be
+The **&commat;keyframes()** at-rule is used to list CSS properties to be
 animated, and it looks like this:
 
-> **\@keyframes animationName { from {**
+> **&commat;keyframes animationName { from {**
 >
-> **/\*Animation properties START here\*/**
+> **/&ast;Animation properties START here&ast;/**
 >
-> **} to { /\*Animation properties END here\*/**
+> **} to { /&ast;Animation properties END here&ast;/**
 >
 > **}**
 >
@@ -17238,16 +17239,16 @@ animated, and it looks like this:
 
 **Description**
 
-The animation created with the **\@keyframes** at-rule only runs for one
+The animation created with the **&commat;keyframes** at-rule only runs for one
 cycle. If we want the animation to play over and over, ease-in,
 ease-out, or show other behavior, we need to declare those properties in
-the element itself, outside the **\@keyframes** at-rule.
+the element itself, outside the **&commat;keyframes** at-rule.
 
 Please refer to the Animation section in *Chapter 4*, *CSS Properties --
 Part 1*, for detailed explanations of those CSS properties.
 
-The animation\'s name (also called an **identifier**) always comes after
-the **\@keyframes** keyword separated by a space. This animation name
+The animation&apos;s name (also called an **identifier**) always comes after
+the **&commat;keyframes** keyword separated by a space. This animation name
 will later be referenced with the **animation-name** or **animation**
 shorthand CSS properties.
 
@@ -17257,23 +17258,23 @@ selectors* **0%** and **100%**. Negative values are not allowed.
 
 Obviously, we can declare intermediate waypoints but we can only do this
 using *keyframe selectors*. There is no limit to the amount of
-properties that can be declared in the **\@keyframes** at-rule. However,
-some browsers animate properties that the spec says can\'t be animated,
+properties that can be declared in the **&commat;keyframes** at-rule. However,
+some browsers animate properties that the spec says can&apos;t be animated,
 while others follow the spec correctly. Granted, the spec is unclear
 about some of the definitions, so make sure to run proper tests.
 
-Now the difference between using **\@keyframes** at-rule and the
-**transition** property is that with the **\@keyframes** at-rule we have
+Now the difference between using **&commat;keyframes** at-rule and the
+**transition** property is that with the **&commat;keyframes** at-rule we have
 the power of defining what happens in the middle waypoints rather than
 letting the browser figure it out for us.
 
 Basically, if we have a simple animation, we can just use the
 **transition** property. If we have somewhat more complex and elaborate
-animations, use **\@keyframes**.
+animations, use **&commat;keyframes**.
 
 **CSS**:
 
-> **\@keyframes diamond { from { top: 0; left: 0;**
+> **&commat;keyframes diamond { from { top: 0; left: 0;**
 >
 > **}**
 >
@@ -17299,23 +17300,23 @@ animations, use **\@keyframes**.
 >
 > **animation: diamond 3s infinite ease-in-out; }**
 
-### \@media
+### &commat;media
 
-The **\@media()** at-rule allows us to define a set of CSS styles that
+The **&commat;media()** at-rule allows us to define a set of CSS styles that
 apply to a certain media type, and it looks like this:
 
-> **\@media (min-width: 40em) { \... }**
+> **&commat;media (min-width: 40em) { &period;.. }**
 
 You can use the preceding code or the following code as well:
 
-> **\@media print { \... }**
+> **&commat;media print { &period;.. }**
 
 **Description**
 
 This piece of CSS allows us to declare any set of styles to a specific
 media type.
 
-The two types of directives that come after the **\@media()** at-rule,
+The two types of directives that come after the **&commat;media()** at-rule,
 for example, **print** and **screen** and even **(min-width: 40em)** or
 **(max-width: 40em)**, and they are called **media queries**.
 
@@ -17326,7 +17327,7 @@ display are called **media features**.
 #### Media types
 
 Media types are case-sensitive. There are 10 media types that we can use
-with the **\@media()** at-rule:
+with the **&commat;media()** at-rule:
 
 -   **all**: This is meant to work on all devices
 
@@ -17335,7 +17336,7 @@ with the **\@media()** at-rule:
 
 -   **embossed**: This is meant to work on braille printers
 
--   **handheld**: This is meant to work with handled \"mobile\" devices
+-   **handheld**: This is meant to work with handled &quot;mobile&quot; devices
 
 -   **print**: This is meant to work for printing documents
 
@@ -17351,132 +17352,132 @@ with the **\@media()** at-rule:
 
 **CSS**:
 
-> **/\*Viewport width media query\*/**
+> **/&ast;Viewport width media query&ast;/**
 >
-> **\@media (min-width: 40em) { header { background: red; }**
+> **&commat;media (min-width: 40em) { header { background: red; }**
 >
 > **}**
 >
-> **/\*Print media query\*/**
+> **/&ast;Print media query&ast;/**
 >
-> **\@media print {**
+> **&commat;media print {**
 >
-> **\*, \*:before, \*:after { background-image: none; }**
+> **&ast;, &ast;:before, &ast;:after { background-image: none; }**
 >
 > **}**
 
-### \@namespace
+### &commat;namespace
 
-The **\@namespace()** at-rule is used to define the XML namespaces in a
+The **&commat;namespace()** at-rule is used to define the XML namespaces in a
 style sheet, and it looks like this:
 
-> **\@namespace url(http://www.w3.org/1999/xhtml);**
+> **&commat;namespace url(http://www.w3.org/1999/xhtml);**
 
 You can use the preceding code or the following code as well:
 
-> **\@namespace svg url(http://www.w3.org/2000/svg);**
+> **&commat;namespace svg url(http://www.w3.org/2000/svg);**
 
 **Description**
 
-We use the **\@namespace()** at-rule in a CSS document when we need to
+We use the **&commat;namespace()** at-rule in a CSS document when we need to
 use selectors that apply or target certain elements in a specific
 namespace. For example, we can have an embedded SVG file in our HTML
 document. The thing is that SVGs share common elements with HTML and
-XML, such as the **\<a\>** element. So instead of creating a separate
+XML, such as the **&lt;a\>** element. So instead of creating a separate
 style sheet to target the SVG elements, we can declare an SVG namespace
-with the **\@namespace()** at-rule to target the **\<a\>** elements
+with the **&commat;namespace()** at-rule to target the **&lt;a\>** elements
 within the same HTML document, thus we only have to work in one style
 sheet rather than two (or more).
 
-Now, the **\@namespace()** at-rule is mostly used for legacy XHTML
-documents where it\'s necessary to declare a namespace in the
-**\<html\>** element:
+Now, the **&commat;namespace()** at-rule is mostly used for legacy XHTML
+documents where it&apos;s necessary to declare a namespace in the
+**&lt;html\>** element:
 
-> **\<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\"
-> lang=\"en\"\>**
+> **&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;en&quot;
+> lang=&quot;en&quot;\>**
 
 With the **xmlns** directive in place, we can now declare the namespaces
-in our CSS. Finally, we can then target the **\<a\>** elements in the
-SVG block without affecting the HTML **\<a\>** elements.
+in our CSS. Finally, we can then target the **&lt;a\>** elements in the
+SVG block without affecting the HTML **&lt;a\>** elements.
 
 The URLs are merely to make the markup more readable and easier to
 understand when someone is reading through it.
 
 **XHTML**:
 
-> **\<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"**
+> **&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Strict//EN&quot;**
 >
-> **\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\"\>**
+> **&quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&quot;\>**
 >
-> **\<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\"
-> lang=\"en\"\>**
+> **&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;en&quot;
+> lang=&quot;en&quot;\>**
 
 **CSS**:
 
-> **\@namespace \"http://www.w3.org/1999/xhtml\";**
+> **&commat;namespace &quot;http://www.w3.org/1999/xhtml&quot;;**
 >
-> **\@namespace svg \"http://www.w3.org/2000/svg\";**
+> **&commat;namespace svg &quot;http://www.w3.org/2000/svg&quot;;**
 >
 > **svg\|a {**
 >
 > **background: orange; }**
 
-### \@page
+### &commat;page
 
-The **\@page()** at-rule is used to modify certain properties of a page
+The **&commat;page()** at-rule is used to modify certain properties of a page
 to get it ready for printing, and it looks like this:
 
-> **\@page { margin: 2cm;**
+> **&commat;page { margin: 2cm;**
 >
 > **}**
 
 **Description**
 
-When using the **\@page()** at-rule, only a few properties of the page
+When using the **&commat;page()** at-rule, only a few properties of the page
 can be changed: **margins**, **widows**, **orphans**, and *page breaks*.
 Declaring any other types of properties will be ignored.
 
 We can also declare if we want to target *only the first page*, *all the
 left pages only*, or *all the right pages only* with the **:first**,
-**:left** and **:right** pseudo-classes. The **\@page()** at-rule is
+**:left** and **:right** pseudo-classes. The **&commat;page()** at-rule is
 most commonly used to change the margins.
 
 **CSS**:
 
-> **/\*Affects all pages\*/**
+> **/&ast;Affects all pages&ast;/**
 >
-> **\@page { margin: 2cm;**
->
-> **}**
->
-> **/\*Affects all left pages only\*/**
->
-> **\@page :left { margin: .8in; orphans: 3;**
+> **&commat;page { margin: 2cm;**
 >
 > **}**
 >
-> **/\*Affects all right pages only\*/**
+> **/&ast;Affects all left pages only&ast;/**
 >
-> **\@page :right { margin: 15mm; }**
+> **&commat;page :left { margin: .8in; orphans: 3;**
+>
+> **}**
+>
+> **/&ast;Affects all right pages only&ast;/**
+>
+> **&commat;page :right { margin: 15mm; }**
 
-### \@supports
+### &commat;supports
 
-The **\@supports()** at-rule is used to detect a *feature* on a browser,
+The **&commat;supports()** at-rule is used to detect a *feature* on a browser,
 and it looks like this:
 
-> **\@supports (display: flex) { \... }**
+> **&commat;supports (display: flex) { &period;.. }**
 
 **Description**
 
-*Feature detection* is something that\'s usually done with polyfills
-like **Modernizr**. With the **\@supports()** at-rule, we can accomplish
+*Feature detection* is something that&apos;s usually done with polyfills
+like **Modernizr**. With the **&commat;supports()** at-rule, we can accomplish
 similar results via CSS only.
 
 In order for this function to work properly, we need to specify a
 *property* and a *value*.
 
 There are three keyword operators that we can use with the
-**\@supports()** at-rule: **not**, **and** and **or**.
+**&commat;supports()** at-rule: **not**, **and** and **or**.
 
 #### The not operator
 
@@ -17500,9 +17501,9 @@ Additionally, we can also combine operators when necessary.
 
 **CSS**:
 
-> **/\*Detect a feature that is supported\*/**
+> **/&ast;Detect a feature that is supported&ast;/**
 >
-> **\@supports (transform: translateX(-50%)) {**
+> **&commat;supports (transform: translateX(-50%)) {**
 >
 > **.element {**
 >
@@ -17510,17 +17511,17 @@ Additionally, we can also combine operators when necessary.
 >
 > **} }**
 >
-> **/\*Detect a feature that is NOT supported\*/**
+> **/&ast;Detect a feature that is NOT supported&ast;/**
 >
-> **\@supports not (transform: translateX(-50%)) {**
+> **&commat;supports not (transform: translateX(-50%)) {**
 >
 > **.element { margin-left: 120px;**
 >
 > **} }**
 >
-> **/\*Detect multiple features\*/**
+> **/&ast;Detect multiple features&ast;/**
 >
-> **\@supports (transform: translateX(-50%)) and (display: flex) {**
+> **&commat;supports (transform: translateX(-50%)) and (display: flex) {**
 >
 > **.element {**
 >
@@ -17528,9 +17529,9 @@ Additionally, we can also combine operators when necessary.
 >
 > **} }**
 >
-> **/\*Detect at least one feature\*/**
+> **/&ast;Detect at least one feature&ast;/**
 >
-> **\@supports (-webkit-box-pack: justify) or (-webkit-justify-content:
+> **&commat;supports (-webkit-box-pack: justify) or (-webkit-justify-content:
 > space-between) or (-ms-flex-pack: justify) or (justify-content:
 > space-between) {**
 >
@@ -17540,9 +17541,9 @@ Additionally, we can also combine operators when necessary.
 >
 > **} }**
 >
-> **/\*Combining conditions\*/**
+> **/&ast;Combining conditions&ast;/**
 >
-> **\@supports (transform: translateX(-50%)) and ( (-webkit-justify-
+> **&commat;supports (transform: translateX(-50%)) and ( (-webkit-justify-
 > content: space-between) or (justify-content: space-between) ) {**
 >
 > **transform: translateY(-50%); justify-content: space-between;**
@@ -17557,11 +17558,11 @@ developers, but have you ever wondered what exactly they mean and do?
 **auto**
 
 The **auto** CSS keyword value tells the browser to automatically
-compute the CSS property\'s value, and it looks like this:
+compute the CSS property&apos;s value, and it looks like this:
 
 > **margin: auto;**
 
-The term **auto** is short for **automatic**. It\'s not the same as
+The term **auto** is short for **automatic**. It&apos;s not the same as
 saying 100% because 100% is an actual defined value; **auto** is
 calculated by the browser.
 
@@ -17572,7 +17573,7 @@ when centering an element horizontally with the **margin** CSS property.
 
 > **.element { margin: auto; }**
 >
-> I\'ve seen most people use **margin: 0 auto;** to center an element.
+> I&apos;ve seen most people use **margin: 0 auto;** to center an element.
 > This is fine, but the value zero (**0**) can be omitted. **margin:
 > auto;** is enough and yields the same result.
 
@@ -17583,11 +17584,11 @@ values of its parent container.
 
 **CSS**:
 
-> **/\*All \<h1\>\'s are red\*/ h1 { color: red; }**
+> **/&ast;All &lt;h1\>&apos;s are red&ast;/ h1 { color: red; }**
 >
-> **/\*All text in .element is blue\*/ .element { color: blue; }**
+> **/&ast;All text in .element is blue&ast;/ .element { color: blue; }**
 >
-> **/\*Make all \<h1\>\'s inside .element blue\*/ .element h1 { color:
+> **/&ast;Make all &lt;h1\>&apos;s inside .element blue&ast;/ .element h1 { color:
 > inherit; }**
 
 **initial**
@@ -17597,11 +17598,11 @@ value as per the CSS spec.
 
 **CSS**:
 
-> **/\*All \<h1\>\'s are red\*/ h1 { color: red; }**
+> **/&ast;All &lt;h1\>&apos;s are red&ast;/ h1 { color: red; }**
 >
-> **/\*Set the color of all \<h1\>\'s inside .element to the default**
+> **/&ast;Set the color of all &lt;h1\>&apos;s inside .element to the default**
 >
-> **(black)\*/ .element h1 { color: initial; }**
+> **(black)&ast;/ .element h1 { color: initial; }**
 
 **none**
 
@@ -17630,18 +17631,18 @@ By combining the **inherit** and **initial** keywords, the **unset** CSS
 keyword value resets the value of a property.
 
 If an element is inheriting values from its parent container and the
-**unset** keyword is declared, then the property\'s value is reset to
-the parent container\'s value (since it\'s inheriting). But if an
+**unset** keyword is declared, then the property&apos;s value is reset to
+the parent container&apos;s value (since it&apos;s inheriting). But if an
 element has no parent container and the **unset** keyword is declared,
-then its property\'s value is reset to the default value as per the spec
-(since it\'s not inheriting).
+then its property&apos;s value is reset to the default value as per the spec
+(since it&apos;s not inheriting).
 
 **CSS**:
 
-> **/\*All \<h1\>\'s are set to the default color per the spec\*/ h1 {
+> **/&ast;All &lt;h1\>&apos;s are set to the default color per the spec&ast;/ h1 {
 > color: unset; }**
 >
-> **/\*All \<h1\>\'s are set to the default color of the parent\*/**
+> **/&ast;All &lt;h1\>&apos;s are set to the default color of the parent&ast;/**
 >
 > **.element { color: green; }**
 >
@@ -17656,35 +17657,35 @@ value defined by the *user agent*. It looks like this:
 > **display: revert;**
 
 This is different from the **initial** CSS keyword because **revert**
-rolls back the cascade and resets the value as per the user agent\'s
+rolls back the cascade and resets the value as per the user agent&apos;s
 *style sheet* value. With **initial** the value is reset to its default
 value as per the specification.
 
 For example, the spec says that the default value of **display** is
 **inline**. However, most UAs assign a default value of **display:
-block;** to **\<div\>**, or **display: table;** to **\<table\>**.
+block;** to **&lt;div\>**, or **display: table;** to **&lt;table\>**.
 
 **CSS**:
 
-> **/\*Default value per the spec\*/ display: inline;**
+> **/&ast;Default value per the spec&ast;/ display: inline;**
 >
-> **/\*Default value per the UA style sheet\*/ div { display: block; }**
+> **/&ast;Default value per the UA style sheet&ast;/ div { display: block; }**
 >
-> **/\*Style defined by the developer/designer\*/**
+> **/&ast;Style defined by the developer/designer&ast;/**
 >
 > **.element { display: inline-block; }**
 >
-> **/\*Style sheet is rolled back and DIV behaves as display: block;\*/
+> **/&ast;Style sheet is rolled back and DIV behaves as display: block;&ast;/
 > div.element { display: revert; }**
 
 ## Summary
 
 This conclude the chapters about CSS, pretty interesting stuff eh?
 
-We learned about CSS Filters and how we can modify elements\' colors
+We learned about CSS Filters and how we can modify elements&apos; colors
 without having to rely on image editing tools. This also applies to CSS
 Transforms because we can modify the shape and orientation of
-elements\', at least to some extent, quite easily with CSS only.
+elements&apos;, at least to some extent, quite easily with CSS only.
 
 At the same time we learned about the different ways we can create
 colors in CSS, and that HSL mode is more intuitive and versatile than
@@ -17699,8 +17700,8 @@ We now know that to improve performance with drop shadows we can use the
 we can use the **opacity()** function; or the perspective of an element
 with the **perspective()** function.
 
-At-rules now make more sense I\'m sure. Additionally, we addressed the
-different font formats and learned that if we don\'t need to support
+At-rules now make more sense I&apos;m sure. Additionally, we addressed the
+different font formats and learned that if we don&apos;t need to support
 legacy IEs we can just use
 
 WOFF and WOFF2.
@@ -17709,7 +17710,7 @@ And finally, we got clarification on the all the global CSS keyword
 values like auto or inherit that we use all the time and never really
 question what they are and how they work.
 
-Note that you don\'t have to know and remember all the CSS functions,
+Note that you don&apos;t have to know and remember all the CSS functions,
 you need to know where to look---this book.
 
 > JavaScript Implementations,
@@ -17790,7 +17791,7 @@ and generator expressions, maps, sets, and so on.
 After the standardization of JavaScript as ECMAScript, the next step was
 to have complete control over **Document Object Model** (**DOM**).
 
-The HTML is parsed into DOM by the web browser\'s DOM API. DOM is the
+The HTML is parsed into DOM by the web browser&apos;s DOM API. DOM is the
 client understanding of the webpage. All the elements/nodes are
 converted into a tree-like structure known as **DOM Tree**. The members
 of this tree can be manipulated on the fly using different methods such
@@ -17835,7 +17836,7 @@ feature makes it a cross-platform scripting language. However, it is not
 much useful if used alone, which is why it is used along with
 server-side languages to make powerful and interactive applications. It
 can be easily integrated within a web browser environment, enabling
-users to have complete control over the browser\'s objects and events.
+users to have complete control over the browser&apos;s objects and events.
 
 The core capabilities of JavaScript are also called ECMAScript.
 ECMAScript is not actually browser-dependent or environment-dependent.
@@ -17875,21 +17876,21 @@ changes to the document on the fly.
 
 For instance, this is a simple webpage:
 
-> **\<html\>**
+> **&lt;html\>**
 >
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<title\>My Web Document\</title\>**
+> **&lt;title\>My Web Document&lt;/title\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 >
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\<p\>Javascript Reference!\<p\>**
+> **&lt;p\>Javascript Reference!&lt;p\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 >
-> **\</html\>**
+> **&lt;/html\>**
 
 ### Browser object model (BOM)
 
@@ -17908,13 +17909,13 @@ language that is used to write programs or scripts that are executed in
 a client (any web browser such as Internet Explorer, Safari, Google
 Chrome, Mozilla Firefox, Opera, and so on) is called a **client-side
 scripting language**. These scripts make your HTML look interactive and
-dynamic. JavaScript enables user to interact with the web page\'s
+dynamic. JavaScript enables user to interact with the web page&apos;s
 content and the client window itself.
 
 **Adding JavaScript into a web page**
 
 Mostly, JavaScript code is embedded into the HTML within the
-**\<script\>** tags and can be viewed by viewing the source of the page.
+**&lt;script\>** tags and can be viewed by viewing the source of the page.
 A good practice to embed JavaScript into your page is to place all the
 scripts in a separate file (a JavaScript file having the **.js** file
 extension). Then, this file can be included on the page. When the page
@@ -17927,101 +17928,101 @@ Since, the client is expecting HTML all the time, anything else such as
 styles or scripts have to be enclosed in their specific tags; for
 example:
 
-> **\<style\>**
+> **&lt;style\>**
 >
-> **/\* all css code \*/**
+> **/&ast; all css code &ast;/**
 >
-> **\</style\>**
+> **&lt;/style\>**
 >
-> **\<script\>**
+> **&lt;script\>**
 >
 > **//all scripts**
 >
-> **\</script\>**
+> **&lt;/script\>**
 
-The JavaScript interpreter is evoked as soon as the browser\'s rendering
-engine discovers any **\<script\>** tag.
+The JavaScript interpreter is evoked as soon as the browser&apos;s rendering
+engine discovers any **&lt;script\>** tag.
 
-Most of the time, JavaScript lies within the **\<head\>** tags of the
+Most of the time, JavaScript lies within the **&lt;head\>** tags of the
 web document:
 
-> **\<html\>**
+> **&lt;html\>**
 >
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<title\>My First JavaScript Example\</title\>**
+> **&lt;title\>My First JavaScript Example&lt;/title\>**
 >
-> **\<script type=\"text/javascript\"\> alert(\"Hello earthlings!\");**
+> **&lt;script type=&quot;text/javascript&quot;\> alert(&quot;Hello earthlings!&quot;);**
 >
-> **\</script\>**
+> **&lt;/script\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 >
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 >
-> **\</html\>**
+> **&lt;/html\>**
 
 The **type** attribute specifies that the code enclosed within these
-**\<script\>** tags is plain code written in JavaScript. It is not
+**&lt;script\>** tags is plain code written in JavaScript. It is not
 compulsory to mention the **type** attribute. The preceding code can be
 written without it as well and will work exactly the same.
 
-Although **\<script\>**tags can be placed anywhere within an HTML
+Although **&lt;script\>**tags can be placed anywhere within an HTML
 document, another good practice is to place it at the end of the
-document before closing the **\</body\>** tag so that all the pages are
+document before closing the **&lt;/body\>** tag so that all the pages are
 loaded before any script executes.
 
 ### Loading external JavaScript files
 
 Just like external CSS files are included into the web page, JavaScript
 can also be included into the webpage from external JavaScript files.
-Let\'s take a look at the following HTML code:
+Let&apos;s take a look at the following HTML code:
 
-> **\<html\>**
+> **&lt;html\>**
 >
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<title\> My First JavaScript Example \</title\>**
+> **&lt;title\> My First JavaScript Example &lt;/title\>**
 >
-> **\<script src=\"external_javascript_Planets.js\"\>\</script\>**
+> **&lt;script src=&quot;external_javascript_Planets.js&quot;\>&lt;/script\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 >
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 >
-> **\</html\>**
+> **&lt;/html\>**
 
 The **src** attribute is very similar to that used in the image
-**\<img\>** tags. It just mentions the reference path to the external
+**&lt;img\>** tags. It just mentions the reference path to the external
 JavaScript files, which are later included into the page. Do not add any
-other JavaScript code into the **\<script\>** tags, which import
-external JS files. If needed, place another **\<script\>** tag.
+other JavaScript code into the **&lt;script\>** tags, which import
+external JS files. If needed, place another **&lt;script\>** tag.
 
 Multiple external JS files can also be included, as follows:
 
-> **\<html\>**
+> **&lt;html\>**
 >
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<title\> My First JavaScript Example \</title\>**
+> **&lt;title\> My First JavaScript Example &lt;/title\>**
 >
-> **\<script src=\"external_javascript_Moon.js\"\>\</script\>**
+> **&lt;script src=&quot;external_javascript_Moon.js&quot;\>&lt;/script\>**
 >
-> **\<script src=\"external_javascript_Sun.js\"\>\</script\>**
+> **&lt;script src=&quot;external_javascript_Sun.js&quot;\>&lt;/script\>**
 >
-> **\<script src=\"external_javascript)Stars.js\"\>\</script\>**
+> **&lt;script src=&quot;external_javascript)Stars.js&quot;\>&lt;/script\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 >
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 >
-> **\</html\>**
+> **&lt;/html\>**
 >
 > In cases where external JavaScript libraries, such as jQuery and
 > MooTools are used, the order in which the files are included has to be
@@ -18029,7 +18030,7 @@ Multiple external JS files can also be included, as follows:
 
 #### Writing our first program in JavaScript
 
-Don\'t worry; it is not at all an alien language. It is a high-level
+Don&apos;t worry; it is not at all an alien language. It is a high-level
 language and can be understood very easily as its statements, keywords,
 and other syntax is based on basic English. The simplest way to learn
 any programming language is to jump into it and play with its code. To
@@ -18053,45 +18054,45 @@ JavaScript program:
     with. Copy and paste the following code into your document. It is a
     simple HTML code:
 
-> **\<html\>**
+> **&lt;html\>**
 >
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<title\> My First JavaScript Example \</title\>**
+> **&lt;title\> My First JavaScript Example &lt;/title\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 >
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\<h1\>The Planetary System\</h1\>**
+> **&lt;h1\>The Planetary System&lt;/h1\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 >
-> **\</html\>**
+> **&lt;/html\>**
 
-2.  Create a **\<script\>** tag after a **\<title\>** tag before closing
-    the **\</head\>** tag in the head section:
+2.  Create a **&lt;script\>** tag after a **&lt;title\>** tag before closing
+    the **&lt;/head\>** tag in the head section:
 
-> **\<html\>**
+> **&lt;html\>**
 >
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<title\> My First JavaScript Example \</title\>**
+> **&lt;title\> My First JavaScript Example &lt;/title\>**
 >
-> **\<script type=\"text/javascript\"\>\</script\>**
+> **&lt;script type=&quot;text/javascript&quot;\>&lt;/script\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 >
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\<h1\>The Planetary System\</h1\>**
+> **&lt;h1\>The Planetary System&lt;/h1\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 >
-> **\</html\>**
+> **&lt;/html\>**
 
-3.  Insert **alert(\"hello world\"); document.write(\'\<h2\>This text
-    has been added by JavaScript!\</h2\>\');** within the script tags.
+3.  Insert **alert(&quot;hello world&quot;); document.write(&apos;&lt;h2\>This text
+    has been added by JavaScript!&lt;/h2\>&apos;);** within the script tags.
 
 4.  The **alert** attribute is a JavaScript function that creates a
     popup with the message written inside the quotes and parentheses.
@@ -18099,29 +18100,29 @@ JavaScript program:
     Similarly, **document.write** is a JavaScript function that outputs
     the given string on the webpage.
 
-> **\<html\>**
+> **&lt;html\>**
 >
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<title\> My First JavaScript Example \</title\>**
+> **&lt;title\> My First JavaScript Example &lt;/title\>**
 >
-> **\<script type=\"text/javascript\"\> alert(\"Hello Earthlings\");**
+> **&lt;script type=&quot;text/javascript&quot;\> alert(&quot;Hello Earthlings&quot;);**
 >
-> **document.write(\'\<h2\>Greetings from Mars!\</h2\>\');**
+> **document.write(&apos;&lt;h2\>Greetings from Mars!&lt;/h2\>&apos;);**
 >
-> **\</script\>**
+> **&lt;/script\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 >
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\<h1\>The Planetary System\</h1\>**
+> **&lt;h1\>The Planetary System&lt;/h1\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 >
-> **\</html\>**
+> **&lt;/html\>**
 >
-> 5\. Double-click on the **index.html** file to execute and open it in
+> 5&period; Double-click on the **index.html** file to execute and open it in
 > the browser. A popup will appear with an alert message.
 
 Click on **OK** to close the alert box and the webpage will be
@@ -18142,10 +18143,10 @@ further detail in *Chapter 11*, *Extending JavaScript and ECMA Script
 
 The term *server-side* means that the control over webpages is handled
 by web servers rather than web pages. Web crossing runs that script and
-sends information in the form of HTML to each user\'s browsers.
+sends information in the form of HTML to each user&apos;s browsers.
 
 **Rhino** and **Node** are both commonly used to create servers.
-Server-side scripting is not downloaded to client\'s browser.
+Server-side scripting is not downloaded to client&apos;s browser.
 
 **Server side**
 
@@ -18173,11 +18174,11 @@ Rhino is used to provide scripting to end users. Basically, Rhino
 converts JavaScript scripts into classes. It is used for server-side
 programming in JavaScript.
 
-MDN mentions the following: \"Scripting Java has many uses. It allows us
+MDN mentions the following: &quot;Scripting Java has many uses. It allows us
 to write powerful scripts quickly by making use of the many Java
-libraries available.\" More information on things such as the **this**
+libraries available.&quot; More information on things such as the **this**
 statement would extend the general statement and give some insight into
-the **this** statement\'s implementation and its purpose.
+the **this** statement&apos;s implementation and its purpose.
 
 We can use Rhino scripting as a shell for acting like a debugger. This
 shell runs code in a batch mode. Batch mode refers to batch processing,
@@ -18227,7 +18228,7 @@ Here are a few functions with their usage and description:
                                                     **load** and executes the
                                                     **f** file in a new thread
 
-  **runCommand**   **runCommand(cmd,\[args..\])**   This runs a system command
+  **runCommand**   **runCommand(cmd,&lbrack;args..&rbrack;)**   This runs a system command
                                                     with zero or more
                                                     command-line args
 
@@ -18239,7 +18240,7 @@ string:
 
 > **Dim strNote**
 >
-> **strNote = \"Welcome to Rhino\" Rhino.printstrNote**
+> **strNote = &quot;Welcome to Rhino&quot; Rhino.printstrNote**
 
 You can find some more useful scripts at
 [**http://www.rhinoscript.org/**](http://www.rhinoscript.org/).
@@ -18252,10 +18253,10 @@ a runtime interface for JavaScript.
 
 Node uses Google V8, which implements ECMAScript 5 standards, meaning
 that there is not much difference between the syntax of JavaScript and
-Node. For example, if you want to print out \"Hello World\" in the
+Node. For example, if you want to print out &quot;Hello World&quot; in the
 console, you will write the following:
 
-> **console.log(\"Hello from Mars!\"); //This is same for JavaScript as
+> **console.log(&quot;Hello from Mars!&quot;); //This is same for JavaScript as
 > well.**
 
 #### Description
@@ -18269,17 +18270,17 @@ Node.js can handle a huge amount of code.
 
 Here is an example or server-side coding in Node.js:
 
-> **var http=require(\"http\");**
+> **var http=require(&quot;http&quot;);**
 >
 > **http.createServer(function(request,response){
-> response.writeHead(200,{\"content-type\":\" text/plain\"});
-> response.write(\"Hello from Mars!\"); response.end();
+> response.writeHead(200,{&quot;content-type&quot;:&quot; text/plain&quot;});
+> response.write(&quot;Hello from Mars!&quot;); response.end();
 > }).listen(8080)**
 
 ## The language syntax
 
 The language syntax is basically a means of communication. In a
-programming language, it\'s a formal way of communicating with
+programming language, it&apos;s a formal way of communicating with
 algorithms, from both algorithms to programmer and programmer to
 machine. This is because a machine works on given instructions.
 
@@ -18302,27 +18303,27 @@ following:
 Similarly, other languages in JavaScript have a unique syntax.
 JavaScript is not a language of Java; these are two different languages
 and the syntaxes for both languages are different. JavaScript is a
-powerful and expressive language. JavaScript\'s statements are separated
+powerful and expressive language. JavaScript&apos;s statements are separated
 by a semicolon at the end.
 
 The JavaScript language syntax is much easy for beginners who have an
 idea of object-oriented programming. JavaScript is contained between the
-**\<scripts\>...\</ script\>** tags. These are treated as HTML tags in
+**&lt;scripts\>...&lt;/ script\>** tags. These are treated as HTML tags in
 any web browser.
 
 You can place your JavaScript code anywhere on your webpage, but I
-prefer the way of defining your script using the **\<head\>** tag. So,
+prefer the way of defining your script using the **&lt;head\>** tag. So,
 the structure of your script will be as follows:
 
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<script\> .................**
+> **&lt;script\> .................**
 >
-> **\</script\>**
+> **&lt;/script\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 
-Basically, the **\<script\>** tag when written writing **\<head\>** tag,
+Basically, the **&lt;script\>** tag when written writing **&lt;head\>** tag,
 tells the browser that this scripts need to be executed first when the
 web page loads. Although, its a good practice to include javaScript is
 to place it at the bottom of a web page. There are two important
@@ -18331,7 +18332,7 @@ attributes of this **script** tag.
 ### Language
 
 The **language** attribute will tell which language attribute you are
-using; typically, it\'s JavaScript. It is the default value if the
+using; typically, it&apos;s JavaScript. It is the default value if the
 attribute is absent.
 
 ### Type
@@ -18340,10 +18341,10 @@ The **type** attribute is the same as the preceding explanation. This is
 not a required attribute. Its value is set as **text/javascript**, which
 shows that this scripting language is in use.
 
-> **\<script language=\" javascript\" type=\"text/javascript\"\> .Script
+> **&lt;script language=&quot; javascript&quot; type=&quot;text/javascript&quot;\> .Script
 > code.**
 >
-> **\</script\>**
+> **&lt;/script\>**
 
 ## The character set
 
@@ -18367,11 +18368,11 @@ following:
 For example, if your frontend page is in Spanish, and you do not use the
 character set property in your page, then it will not show some special
 characters in Spanish clearly. For this, you must declare a character
-set property in the top **\<head\>** tag of your page, as follows:
+set property in the top **&lt;head\>** tag of your page, as follows:
 
-> **\<meta charset=\"utf-8\"\>?**
+> **&lt;meta charset=&quot;utf-8&quot;\>?**
 >
-> For this, you can also change your web server\'s configuration to
+> For this, you can also change your web server&apos;s configuration to
 > serve as UTF-8. Alternatively, we can send a content-type header to
 > our server-side script.
 
@@ -18379,10 +18380,10 @@ In JavaScript, the **charset** property returns the character encoding
 of the current document. The syntax for reading the **characterSet**
 property from the document is **document.characterSet;**.
 
-We can define the **characterSet** attribute in the **\<script\>** tag
+We can define the **characterSet** attribute in the **&lt;script\>** tag
 in the parent page of our website, as follows:
 
-> **\<script type=\"text/javascript\"charset=\"utf-8\"\>\</script\>**
+> **&lt;script type=&quot;text/javascript&quot;charset=&quot;utf-8&quot;\>&lt;/script\>**
 >
 > Another way is to add the UTF-8 character set into the server
 > configuration file (**.htaccess**), as follows:
@@ -18401,13 +18402,13 @@ sensitive languages.
 
 JavaScript is a case-sensitive language. Case sensitivity in JavaScript
 does not only apply to variable names but also to JavaScript keywords
-and JavaScript\'s event handlers. For example, if you have the
+and JavaScript&apos;s event handlers. For example, if you have the
 **firstname** and **firstName** variables, then these will be two
 different variables. In JavaScript, while calling a function, you must
 write its name exactly the same way as it was defined, matching the
 letter case.
 
-A popular convention also used in JavaScript\'s primitive methods is to
+A popular convention also used in JavaScript&apos;s primitive methods is to
 use camel case, in which a phrase is written with the first letter of
 the first word in lowercase and every successive word has an uppercase
 first letter, which makes it easier to read.
@@ -18463,7 +18464,7 @@ sources Windows, Linux, and Mac.
 We have several methods to remove line breaks from any text. For
 example, we have the following:
 
-> **varabc = abc.replace(/(\\r\\n\|\\n\|\\r)/gm,\"\");**
+> **varabc = abc.replace(/(\\r\\n\|\\n\|\\r)/gm,&quot;&quot;);**
 
 In this code, we have used a regular expression for removing line breaks
 from our text. This will remove line breaks **\\r\\n**, then **\\n**,
@@ -18477,7 +18478,7 @@ Expressions, Operators, Statements, and Arrays*.
 Now, there are some spaces between texts; you can remove these
 whitespaces using JavaScript. There are different functions of
 JavaScript for removing all leading spaces from a string; you can use
-the following: **str = str.replace(/\^\\s+\|\\s+\$/g,\'\');**
+the following: **str = str.replace(/\^\\s+\|\\s+\$/g,&apos;&apos;);**
 
 This piece of code uses a regular expression, which checks multiple
 occurrences of white spaces at beginning and end of string.
@@ -18512,20 +18513,20 @@ The JavaScript Unicode escape sequence allows you to place special
 characters in a string. Browsers that support JavaScript can use the
 escape function.
 
-To add the next line within the same string, we can use **\\n**. Let\'s
+To add the next line within the same string, we can use **\\n**. Let&apos;s
 take a look at the following code:
 
-> **alert(\"Welcome to JavaScript. \\n We hope you love it!\")**
+> **alert(&quot;Welcome to JavaScript. \\n We hope you love it!&quot;)**
 
 To add quotes within a string, we can use something like this:
 
-> **var myquote=\"Jinnah said \\\"Impossible is a word unknown to
-> me.\\\"\"**
+> **var myquote=&quot;Jinnah said \\&quot;Impossible is a word unknown to
+> me.\\&quot;&quot;**
 
-This Unicode escape sequence starts with a backslash (**\\**) followed
+This Unicode escape sequence starts with a backslash (**\&ast;*) followed
 by characters. This backslash is the escape sequence character. To
-insert a backslash itself, just add another backslash \"**\\**\" before
-the next one. Also called double backslash (**\\\\**).
+insert a backslash itself, just add another backslash &quot;**\&ast;*&quot; before
+the next one. Also called double backslash (**\\\&ast;*).
 
 You can specify a Unicode character by **\\uaaaa**, where **aaaa** is a
 hexadecimal number. So a Unicode escape character can represent a 16-bit
@@ -18533,7 +18534,7 @@ character.
 
 A Unicode escape sequence represents a Unicode sequence, as follows:
 
--   A backslash (**\\**)
+-   A backslash (**\&ast;*)
 
 -   A character (**u**)
 
@@ -18543,21 +18544,21 @@ For example, the word cat will be represented as **\\u732b**.
 
 A Unicode escape sequence can also be used in comments and literals.
 Consider the following example: **var x =
-\"http\\\\u00253A\\\\u00252F\\\\u00252Fexample.com\";**
+&quot;http\\\\u00253A\\\\u00252F\\\\u00252Fexample.com&quot;;**
 
 > The hexadecimal part of this kind of a character escape is
 > case-insensitive, which means **\\u041a** and **\\u041A** are
 > equivalent.
 
 You can also represent an escape sequence to represent a Unicode
-character \[\"**\\ u03b1**\"\] as \[\"**a**\"\].The Unicode escape for
+character &lbrack;&quot;**\\ u03b1**&quot;&rbrack; as &lbrack;&quot;**a**&quot;&rbrack;.The Unicode escape for
 the character **é**, for example, is **\\u00E9**, and the following two
 JavaScript strings are identical:
 
-> **\"cafn\" === \"caf\\u00e9\" // =\> true**
+> **&quot;cafn&quot; === &quot;caf\\u00e9&quot; // =\> true**
 
 The **==** operator tries to convert the values to the same type before
-testing if they\'re the same; whereas, **===** does not do this. It
+testing if they&apos;re the same; whereas, **===** does not do this. It
 requires objects to be of the same type to be equal.
 
 Here are some examples of the escape sequence for some characters:
@@ -18746,7 +18747,7 @@ JavaScript script:
 We can write multiple lines between the comment boundaries; this block
 of code will not be executed:
 
-> **/\* this is a comment \*/**
+> **/&ast; this is a comment &ast;/**
 
 **One-line comments**
 
@@ -18758,8 +18759,8 @@ compiled. Double forward slash is used to comment one line at a time:
 
 **The HTML comment opening sequence**
 
-JavaScript treats the HTML comment\'s opening sequence, that is,
-**\<!\-- as // comment**. It does not recognize the closing sequence of
+JavaScript treats the HTML comment&apos;s opening sequence, that is,
+**&lt;!\-- as // comment**. It does not recognize the closing sequence of
 HTML comment, that is, **\--\>** HTML styled comments are not usually
 used within JavaScript code blocks as **//** is much handy. It is
 recommended not to use HTML comments in JS as that was an old practice.
@@ -18792,9 +18793,9 @@ Here is an example of an object literal:
 
 > **varbookObj={**
 >
-> **bookName=\"The Kite Runner\", CoverImage=\"KiteRunner1.png\",**
+> **bookName=&quot;The Kite Runner&quot;, CoverImage=&quot;KiteRunner1.png&quot;,**
 >
-> **Author=\"KhaledHoesenni\", bookCategory =\"Bestseller\"**
+> **Author=&quot;KhaledHoesenni&quot;, bookCategory =&quot;Bestseller&quot;**
 >
 > **};**
 
@@ -18806,12 +18807,12 @@ element.
 #### Description
 
 Array literals contain values inside an array. They are placed inside
-array brackets **\[\]** and each element is separated by a comma
+array brackets **&lbrack;&rbrack;** and each element is separated by a comma
 (**,**). Just like an object literal, an array can be empty and contain
 **0** elements. When you create an array literal it is specified values
 as its element and its length is specified as a number of arguments of
 this array. Here is an example of an array literal: **var Planets=
-\[\"Earth\", \"Neptune\", \"Saturn\", \"Mars\"\];**
+&lbrack;&quot;Earth&quot;, &quot;Neptune&quot;, &quot;Saturn&quot;, &quot;Mars&quot;&rbrack;;**
 
 **Boolean literals**
 
@@ -18840,9 +18841,9 @@ Examples of floating point literals are as follows:
 
 > **22.56 -26.35689**
 >
-> **18.4e2 //Equivalent to \[18.4 x 10\^2\]**
+> **18.4e2 //Equivalent to &lbrack;18.4 x 10\^2&rbrack;**
 >
-> **-17.22E3 //Equivalent to \[17.22 x 10\^-3\]**
+> **-17.22E3 //Equivalent to &lbrack;17.22 x 10\^-3&rbrack;**
 
 **String literals**
 
@@ -18859,11 +18860,11 @@ can be inserted in the string. A few special characters are **\\n**,
 
 A few examples of string examples are as follows:
 
-> **strFirstName= \"Jamie\"; strLastName=\"Down\";
-> strMarksObtained=\"200\";**
+> **strFirstName= &quot;Jamie&quot;; strLastName=&quot;Down&quot;;
+> strMarksObtained=&quot;200&quot;;**
 >
-> **strClassesJoined=\"Microprocessors, \"+ \"Microcontrollers\";
-> strAddress= \"Michigan University \\n United States\";**
+> **strClassesJoined=&quot;Microprocessors, &quot;+ &quot;Microcontrollers&quot;;
+> strAddress= &quot;Michigan University \\n United States&quot;;**
 
 ### Statements
 
@@ -18877,16 +18878,16 @@ for all programming languages.
 **Conditional statements**
 
 As the name suggests, conditional statements are based on conditions and
-the **if** and **then** rule. For example, \"if you work hard, you will
-get rewarded\". Here, working hard is the condition of getting rewarded.
+the **if** and **then** rule. For example, &quot;if you work hard, you will
+get rewarded&quot;. Here, working hard is the condition of getting rewarded.
 
 Consider the following example:
 
-> **if (age \< 20 && age \> 12) { person = \"Teen ager\";**
+> **if (age &lt; 20 && age \> 12) { person = &quot;Teen ager&quot;;**
 >
 > **} else {**
 >
-> **person = \"Not a Teenager\";**
+> **person = &quot;Not a Teenager&quot;;**
 >
 > **}**
 
@@ -18909,9 +18910,9 @@ different types of loops in programming languages; they are as follows:
 
 Here is an example that shows how the **while** loop is used:
 
-> **var number = \"\"; var n = 0; while (n \< 10) {**
+> **var number = &quot;&quot;; var n = 0; while (n &lt; 10) {**
 >
-> **number += \"\\nThe number is \" + n; n++;**
+> **number += &quot;\\nThe number is &quot; + n; n++;**
 >
 > **} console.log(number);**
 
@@ -18921,22 +18922,22 @@ Expressions, Operators, Statements, and Arrays*.
 **Object manipulation statements**
 
 Object manipulation statements in JavaScript are used to access the
-object\'s properties and methods at runtime to perform certain
+object&apos;s properties and methods at runtime to perform certain
 functions. JavaScript uses the **for...in** and **with** statements to
 manipulate objects.
 
 Here is an example that shows how the object car can be manipulated:
 
-> **\<script type=\"text/javascript\"\> var x;**
+> **&lt;script type=&quot;text/javascript&quot;\> var x;**
 >
-> **var car = new Object(); car.brand = \"Porche\"; car.model =
-> \"2014\"; car.colour = \"Black\"; for (x in car) {**
+> **var car = new Object(); car.brand = &quot;Porche&quot;; car.model =
+> &quot;2014&quot;; car.colour = &quot;Black&quot;; for (x in car) {**
 >
-> **console,log(x + \" \-\-- \" + car\[x\] + \"\<br /\>\");**
+> **console,log(x + &quot; \-\-- &quot; + car&lbrack;x&rbrack; + &quot;&lt;br /\>&quot;);**
 >
 > **}**
 >
-> **\</script\>**
+> **&lt;/script\>**
 
 Output:
 
@@ -18945,7 +18946,7 @@ Output:
 **Exception handling statements**
 
 The **try**, **catch**, **throw**, and **finally** statements are used
-in JavaScript exception handling. Let\'s take a look at the following
+in JavaScript exception handling. Let&apos;s take a look at the following
 description:
 
 -   The **try** statement tests code for errors.
@@ -18962,30 +18963,30 @@ description:
 Here is an example showing how exceptions are handled using the **try**
 and **catch** block:
 
-> **\<!DOCTYPE html\>**
+> **&lt;!DOCTYPE html\>**
 >
-> **\<html\>**
+> **&lt;html\>**
 >
-> **\<head\>**
+> **&lt;head\>**
 >
-> **\<script type=\"text/javascript\"\>**
+> **&lt;script type=&quot;text/javascript&quot;\>**
 >
-> **\<!\--**
+> **&lt;!\--**
 >
 > **function Calculate() {**
 >
-> **x = document.getElementById(\"Val1\").value; y =
-> document.getElementById(\"Val2\").value;**
+> **x = document.getElementById(&quot;Val1&quot;).value; y =
+> document.getElementById(&quot;Val2&quot;).value;**
 >
 > **try{**
 >
-> **if ( x == 0 \|\|y==0 ) { throw(\"Divide by zero error.\" );**
+> **if ( x == 0 \|\|y==0 ) { throw(&quot;Divide by zero error.&quot; );**
 >
 > **} else { var a = x / y;**
 >
-> **alert(\"The answer is: \" + a ); } catch ( err ) {**
+> **alert(&quot;The answer is: &quot; + a ); } catch ( err ) {**
 >
-> **alert(\"Error: \" + err );**
+> **alert(&quot;Error: &quot; + err );**
 >
 > **}**
 >
@@ -18993,33 +18994,33 @@ and **catch** block:
 >
 > **//\--\>**
 >
-> **\</script\>**
+> **&lt;/script\>**
 >
-> **\</head\>**
+> **&lt;/head\>**
 >
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\<form\>**
+> **&lt;form\>**
 >
-> **\<p\>Enter first value\</p\>**
+> **&lt;p\>Enter first value&lt;/p\>**
 >
-> **\<input id=\"Val1\" type=\"text\"\>**
+> **&lt;input id=&quot;Val1&quot; type=&quot;text&quot;\>**
 >
-> **\<p\>Enter second value\</p\>**
+> **&lt;p\>Enter second value&lt;/p\>**
 >
-> **\<input id=\"Val2\" type=\"text\"\>**
+> **&lt;input id=&quot;Val2&quot; type=&quot;text&quot;\>**
 >
-> **\<p\>\<input type=\"button\" value=\"Calculate\"
-> onclick=\"Calculate();\" /\>\</p\> \</form\>**
+> **&lt;p\>&lt;input type=&quot;button&quot; value=&quot;Calculate&quot;
+> onclick=&quot;Calculate();&quot; /\>&lt;/p\> &lt;/form\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 >
-> **\</html\>**
+> **&lt;/html\>**
 
 ### Optional semicolon
 
 Semicolons in JavaScript are used to separate statements from each
-other. Let\'s say, if you have two different statements and you just
+other. Let&apos;s say, if you have two different statements and you just
 write them, then it will not be understandable. So, JavaScript uses
 semicolons to separate statements. It will make your code clear and
 meaningful. If you do not use semicolon in JavaScript, then it will make
@@ -19044,16 +19045,16 @@ bracket. Similarly, at times, putting a semicolon after round brackets
 **()**is also a bad idea, and importantly, the code will not run.
 
 If there is a **for** loop in your script, then put a semicolon after
-the first and second statements and don\'t put a semicolon after third
+the first and second statements and don&apos;t put a semicolon after third
 statement. It will produce a syntax error. For example, if you have a
 **for** loop like this:
 
-> **for(i=0;i\<5;i++;){}**
+> **for(i=0;i&lt;5;i++;){}**
 
 The preceding code will give you a syntax error. The right way of doing
 this is as follows:
 
-> **for(i=0;i\<5;i++){}**
+> **for(i=0;i&lt;5;i++){}**
 
 Here are some rules for semicolons:
 
@@ -19086,7 +19087,7 @@ types for storing data.
 JavaScript is a dynamic language. This means that if you declare an
 object, then its data type can be changed dynamically, for example:
 
-> **var a=16; a=\"abc\"; a=true;**
+> **var a=16; a=&quot;abc&quot;; a=true;**
 
 In the first statement, the data type is an integer; in the second
 statement, the data type is a character; and in third statement, the
@@ -19108,7 +19109,7 @@ There are six major data types defined in ECMAScript standard.
 -   **Number**
 
 > JavaScript considers integer values and floating point values to be
-> the same. It doesn\'t distinguish between the two. All numbers in
+> the same. It doesn&apos;t distinguish between the two. All numbers in
 > JavaScript are represented as floating point type values.
 
 Here, **Null** and **undefined** are trivial data types in JavaScript
@@ -19142,13 +19143,13 @@ returned as a string. They are **string**, **number**, **object**,
 
 Here are some examples of the **typeof** operator:
 
--   **typeof(\"5\"+\"1\")**: This will return a string
+-   **typeof(&quot;5&quot;+&quot;1&quot;)**: This will return a string
 
 -   **typeof(5+1)**: This will return a number
 
--   **typeof(5+\"1\")**: This will return a string
+-   **typeof(5+&quot;1&quot;)**: This will return a string
 
--   **typeof(5\*\"1\")**: This will return a number
+-   **typeof(5&ast;&quot;1&quot;)**: This will return a number
 
 > The **typeof** operator is not a function. Operands are written in
 > round brackets, so it looks like a function, but these are not
@@ -19192,7 +19193,7 @@ function for which the value is not defined is consider as an
 undefined.
 
 Being a property of a global object, its value is initially undefined.
-We can access it as a global variable, although it\'s a global property.
+We can access it as a global variable, although it&apos;s a global property.
 A simple idea of an undefined type is when a variable is not defined in
 your script, but it does exist and you are considering it as a global
 variable.
@@ -19262,17 +19263,17 @@ Consider the following example:
 
 > **Null===undefined;**
 >
-> **//It\'s a false because identity operator always verify data type**
+> **//It&apos;s a false because identity operator always verify data type**
 >
 > **//equality**
 >
-> **Null==undefined; //It\'s true because of equality operator**
+> **Null==undefined; //It&apos;s true because of equality operator**
 >
-> *\"You may wonder why the typeof operator returns object for a value
+> *&quot;You may wonder why the typeof operator returns object for a value
 > that is null. This was actually an error in the original JavaScript
 > implementation that was then copied in ECMAScript. Today, it is
 > rationalized that null is considered a placeholder for an object, even
-> though, technically, it is a primitive value.\"*
+> though, technically, it is a primitive value.&quot;*
 >
 > *- Professional JS For Web Developers, Wrox Press*
 
@@ -19316,7 +19317,7 @@ be written with or without a decimal point; for example:
 > **A number with decimal var b=10.0123**
 
 If the number is too large or too short, then we use a scientific
-notation\'s exponent for it. Consider the following example:
+notation&apos;s exponent for it. Consider the following example:
 
 > **If we have a number 100000000 var a=1000e5 And 0.00111 var
 > b=111e-5**
@@ -19345,7 +19346,7 @@ Any variable can be assigned a **Boolean** value written as **true** or
 
 In JavaScript, when you declare a **Boolean** data type to a variable,
 then the variable should not have any quote. Here is how you should use
-boolean assignment: **var abc = \"true\"; //string assignment** and
+boolean assignment: **var abc = &quot;true&quot;; //string assignment** and
 **var abc = true; //boolean assignment**. The **Boolean** variables are
 also used in the **if**, **if** then **else**, and **while** loop.
 
@@ -19353,7 +19354,7 @@ Here is an example showing how Boolean variables are used:
 
 > **var x=true; if(x==true) {**
 >
-> **document.write(\"this true\"); }**
+> **document.write(&quot;this true&quot;); }**
 
 The **Boolean** operators are also used when there is a lack of or
 presence of a value. For example, if we have a checkbox in our script,
@@ -19396,7 +19397,7 @@ quotes.
 > then you must define a single character string, for example, the
 > character **a**.
 >
-> An empty string is a zero length string, for example \"\".
+> An empty string is a zero length string, for example &quot;&quot;.
 
 **Description**
 
@@ -19410,8 +19411,8 @@ quotation mark at the beginning and end. This means that a string that
 starts with a single quote must end with a single quote, and the same
 rule applies for double quotation marks. Consider the following example:
 
-> **var x=\"xyz\" //double quotes var y=\'xyz\' //single quotes var
-> z=\"\" //empty string**
+> **var x=&quot;xyz&quot; //double quotes var y=&apos;xyz&apos; //single quotes var
+> z=&quot;&quot; //empty string**
 
 If there is a problem in a string and it cannot show some characters.
 For a representation of these characters, there is a technique in
@@ -19442,16 +19443,16 @@ backslash. Some escape sequences are as follows:
 -   \\t: Horizontal tab control the insertion of text horizontally on
     page. It is inserted usually using the *Tab* key on the keyboard.
 
--   \\\" : Double QuotesA double quotes is preceded with a backslash to
+-   \\&quot; : Double QuotesA double quotes is preceded with a backslash to
     insert it within a string.
 
--   \\\' : Single QuotesA single quotes is preceded with a backslash to
+-   \\&apos; : Single QuotesA single quotes is preceded with a backslash to
     insert it within a string.
 
 -   \\\\: Backslash to insert a backslash within a string we escape it
     with another backslash.
 
-Here is an example of this: **var abc = \"hello \\n Morning\"**
+Here is an example of this: **var abc = &quot;hello \\n Morning&quot;**
 
 Its output will be as follows:
 
@@ -19473,7 +19474,7 @@ The syntax is as follows:
 In JavaScript, objects are written into curly brackets. Each item of an
 object is called a **property**. Property values can be defined as any
 valid data type as well as functions or methods. Consider the following
-example: **varobj= {book_name:\"xyz\", Author:\"abc\"};**
+example: **varobj= {book_name:&quot;xyz&quot;, Author:&quot;abc&quot;};**
 
 We can say that the object is a list of items, and each item in the list
 has some method and function stored as its name-value pair:
@@ -19496,7 +19497,7 @@ The property name of any item can be a string or number. When a property
 is a number, then the way of writing this property is different; we will
 write it as follows:
 
-> **var age = {\"30\": \"abc\"};**
+> **var age = {&quot;30&quot;: &quot;abc&quot;};**
 
 In JavaScript, objects are used to store data and for writing your own
 custom methods and functions. Primitive values are, for example,
@@ -19508,16 +19509,16 @@ page. There is a difference between a method and a function. A function
 is a standalone unit of an object, but a method is attached to an object
 and it is used with **this** keyword:
 
-> **Document.write (\"hello world\");**
+> **Document.write (&quot;hello world&quot;);**
 
 ## Variable, scope, and memory
 
 When we describe a variable in JavaScript, there is no limit to how much
-data this variable holds. The maximum is described by the browser\'s
-capacity depending on how much data it can hold. Let\'s take a look the
+data this variable holds. The maximum is described by the browser&apos;s
+capacity depending on how much data it can hold. Let&apos;s take a look the
 following code:
 
-> **var abc=\"xyz\";**
+> **var abc=&quot;xyz&quot;;**
 
 We can define a variable in JavaScript using the **var** keyword. We can
 define the value of a variable immediately or later. A variable that we
@@ -19533,10 +19534,10 @@ define outside the boundary of a function is a global variable.
 > the same page.
 
 Every function in a script can access a global variable. When you define
-a variable in a function, then its scope is inside that function. Let\'s
+a variable in a function, then its scope is inside that function. Let&apos;s
 take a look at the following code snippet:
 
-> **Function abc() { var xyz=\"abc\"; }**
+> **Function abc() { var xyz=&quot;abc&quot;; }**
 >
 > The scope of a global variable never stops during the execution of the
 > whole page even it is not needed.
@@ -19559,7 +19560,7 @@ There are two ways to save memory:
 The use of the function scope is more appropriate as variables get
 dereferenced when the function ends, thus saving memory:
 
-> **(Function (window, document, undefined) { varabc=\"abc\";**
+> **(Function (window, document, undefined) { varabc=&quot;abc&quot;;**
 >
 > **}**
 >
@@ -19623,10 +19624,10 @@ variable is deleted. In JavaScript, always declare variables before
 using them; failing to do this will throw some exceptions. In a
 function, if you have a local and a global variable with the same name,
 then the local variable will get priority over the global variable. So,
-avoid using the same variable name. Let\'s take a look at the following
+avoid using the same variable name. Let&apos;s take a look at the following
 code snippet:
 
-> **function xyz() { varabc=\"xyz\"; document.write(abc); }**
+> **function xyz() { varabc=&quot;xyz&quot;; document.write(abc); }**
 
 **Global scope variables**
 
@@ -19645,7 +19646,7 @@ variable. When you close a web page, the global variable will be
 deleted. For frontend developers in HTML, the window object is a global
 variable.
 
-> **var abc=\"xyx\"; functionmy Function() {**
+> **var abc=&quot;xyx&quot;; functionmy Function() {**
 >
 > **//some code**
 >
@@ -19752,7 +19753,7 @@ For example:
 >
 > **function evalInContext() {**
 >
-> **console.log(this); // { a: 10, b: 20, c: 30 } eval(\"test()\"); // {
+> **console.log(this); // { a: 10, b: 20, c: 30 } eval(&quot;test()&quot;); // {
 > a: 10, b: 20, c: 30 } inside test()**
 >
 > **} evalInContext.call(eval_context);**
@@ -19789,7 +19790,7 @@ object is already declared, we can reuse it in our script.
 **Arrays**
 
 When you use an array in your script, clear that array after using it.
-Assigning **\[\]** to an array is often used as a shorthand to clear it,
+Assigning **&lbrack;&rbrack;** to an array is often used as a shorthand to clear it,
 but it actually creates a new empty array and garbages the old one. You
 can set the array length to **0**, (**arr.length = 0;**); this will also
 clear the array but while reusing the same array object.
@@ -19848,7 +19849,7 @@ JavaScript can be broadly classified into three types:
 > result in the form of **true** or **false** and have only two values
 > **True** and **False**. If the first condition is **true**, then it
 > will evaluate first, otherwise it will evaluate second, for example:
-> **int age = 20; var flag; if (age\<18) { flag=true;**
+> **int age = 20; var flag; if (age&lt;18) { flag=true;**
 >
 > **} else { flag=false; }**
 
@@ -19883,7 +19884,7 @@ JavaScript is an entity that has a type. Every object has some property
 associated with it. There are functions associated with objects and
 these functions are called **methods**. Objects properties are basically
 JavaScript variables. A property associated with an object tells you
-about the object\'s characteristics.
+about the object&apos;s characteristics.
 
 Object properties can belong to primitive data types such as **int** or
 other data types such as **char**. An object can have an empty property
@@ -19902,7 +19903,7 @@ called **object literals**.
 An object initializer creates an object with a literal notation, for
 example:
 
-> **var studentInfo = { age:24, Name:\"Ali\" };**
+> **var studentInfo = { age:24, Name:&quot;Ali&quot; };**
 
 This is covered in more detail in *Chapter 8*, *JavaScript
 Object-Oriented Programming*.
@@ -19926,7 +19927,7 @@ have the following:
 When a browser thinks of executing a script, a function declaration is a
 pre-executed stage. A function can be declared anywhere in your code:
 
-> **function greetings() { alert(\"Happy New Year\");**
+> **function greetings() { alert(&quot;Happy New Year&quot;);**
 >
 > **} greetings();**
 
@@ -19956,7 +19957,7 @@ pass-by-value.
 
 A function in JavaScript is also a regular value. If you do not want
 your variables to be set in the global scope, then put these variables
-into a function. We do this because it\'s not always a good choice to
+into a function. We do this because it&apos;s not always a good choice to
 set a global variable, as it can be accessed by any function anywhere in
 the program, which may alter the value of the variable and overwrite the
 original value that was supposed to be used. Functions are generally
@@ -19979,7 +19980,7 @@ expressions:
 A bracket notation is also known as an array notation. The syntax for
 writing a bracket notation is as follows:
 
-> **get=abc\[xyz\]; abc\[xyz\]=set; get = abc \[1\]; // get value at
+> **get=abc&lbrack;xyz&rbrack;; abc&lbrack;xyz&rbrack;=set; get = abc &lbrack;1&rbrack;; // get value at
 > array abc index 1**
 
 **The dot notation**
@@ -19987,7 +19988,7 @@ writing a bracket notation is as follows:
 A dot notation is also known as an object notation. The syntax for
 writing a dot notation is as follows:
 
-> **document.write (\"hello world\");**
+> **document.write (&quot;hello world&quot;);**
 
 ### The invocation expression
 
@@ -20027,13 +20028,13 @@ variable:
 
 > **function add(a, b) {**
 >
-> **b = typeof b !== \'undefined\' ? b : 0; // if b not defined set it
+> **b = typeof b !== &apos;undefined&apos; ? b : 0; // if b not defined set it
 > to 0 return a+b; } add(10); // returns 10**
 
 ### The object creation expression
 
 In JavaScript, this expression is used to create an object using the
-constructor method. This method is used to initialize an object\'s
+constructor method. This method is used to initialize an object&apos;s
 properties. This method first creates new objects and then initializes
 the objects using object initializer methods in JavaScript. The
 constructors that are used to initialize the object do not return any
@@ -20056,39 +20057,39 @@ function, we do the following:
 -   If it does not return a value, then it means that there is an error
     in the code, and it will send an exception
 
-> **var x = 10; console.log(eval(\"x \* 5\")); //50**
+> **var x = 10; console.log(eval(&quot;x &ast; 5&quot;)); //50**
 
 There are two ways you can invoke an eval() function:
 
--   Direct: Calls a function directly named \'eval\'. Direct eval()
+-   Direct: Calls a function directly named &apos;eval&apos;. Direct eval()
     executes code in its local scope. For example:
 
-> **var abc = \'global scope\'; function directEval() {**
+> **var abc = &apos;global scope&apos;; function directEval() {**
 >
-> **\'use strict\'; var abc = \'local scope\';**
+> **&apos;use strict&apos;; var abc = &apos;local scope&apos;;**
 >
-> **console.log(eval(\'abc\')); // local scope }**
+> **console.log(eval(&apos;abc&apos;)); // local scope }**
 
 -   Indirect: By calling it through call() function, method of window or
     by storing it with a different name and calling from there, etc.
     Indirect eval() executes code in its global scope. For example:
 
-> **var abc = \'global scope\'; function indirectEval() {**
+> **var abc = &apos;global scope&apos;; function indirectEval() {**
 >
-> **\'use strict\'; var abc = \'local scope\';**
+> **&apos;use strict&apos;; var abc = &apos;local scope&apos;;**
 >
 > **// eval via call()**
 >
-> **console.log(eval.call(null, \'abc\')); // global scope
-> console.log(window.eval(\'abc\')); // global scope console.log((1,
-> eval)(\'abc\')); // global scope**
+> **console.log(eval.call(null, &apos;abc&apos;)); // global scope
+> console.log(window.eval(&apos;abc&apos;)); // global scope console.log((1,
+> eval)(&apos;abc&apos;)); // global scope**
 >
 > **// eval with a different name var abceval = eval;**
 >
-> **console.log(abceval(\'abc\')); // global scope var obj = { eval:
+> **console.log(abceval(&apos;abc&apos;)); // global scope var obj = { eval:
 > eval };**
 >
-> **console.log(obj.eval(\'abc\')); // global scope }**
+> **console.log(obj.eval(&apos;abc&apos;)); // global scope }**
 
 ## Operators
 
@@ -20147,7 +20148,7 @@ This can also be written as:
 The ternary operators require three operands to perform different
 operations; for example:
 
-> **\<condition\> ? \<true\>: \<false\>;**
+> **&lt;condition\> ? &lt;true\>: &lt;false\>;**
 
 In the preceding statement, **?** is the ternary operator.
 
@@ -20161,7 +20162,7 @@ operations are as follows:
 
 -   **-**: Subtraction
 
--   **\***: Multiplication
+-   **&ast;**: Multiplication
 
 -   **/**: Division
 
@@ -20178,7 +20179,7 @@ In JavaScript, operators are the same as those in other programming
 languages; for example, if you want to perform division between
 variables, then you will write the expression as follows:
 
-> **var a=2; a=(2+a)\*1/a;// a=2 console.log(a); // prints 2**
+> **var a=2; a=(2+a)&ast;1/a;// a=2 console.log(a); // prints 2**
 >
 > In JavaScript, arithmetic operators are the most useful and powerful
 > operators.
@@ -20204,7 +20205,7 @@ For example:
 
 > **var a = 3; var b = 4; var c = a + b;**
 >
-> **Document.Write(\"The value of c is \" + c);**
+> **Document.Write(&quot;The value of c is &quot; + c);**
 >
 > **Document.Write(3+1);**
 
@@ -20215,7 +20216,7 @@ The output of this will be:
 > **4**
 >
 > This operator can also be used to append or concat two strings; for
-> example: **document.write(\"Apple \"+\"Banana\");**
+> example: **document.write(&quot;Apple &quot;+&quot;Banana&quot;);**
 >
 > The output will be as follows:
 >
@@ -20243,7 +20244,7 @@ Consider the following example:
 
 > **var a = 6; var b = 4; var c = a - b;**
 >
-> **Document.Write(\"The value of c is \" + c);**
+> **Document.Write(&quot;The value of c is &quot; + c);**
 >
 > **Document.Write(3-1);**
 
@@ -20253,9 +20254,9 @@ The output of this will be as follows:
 >
 > **2**
 
-**The \* operator**
+**The &ast; operator**
 
-The **\*** operator performs a multiplication between two or more
+The **&ast;** operator performs a multiplication between two or more
 numbers.
 
 **Returns**
@@ -20273,11 +20274,11 @@ variables in which numbers are stored.
 
 Consider the following example:
 
-> **var a = 3; var b = 4; var c = a \* b;**
+> **var a = 3; var b = 4; var c = a &ast; b;**
 >
-> **Document.Write(\"The value of c is \" + c);**
+> **Document.Write(&quot;The value of c is &quot; + c);**
 >
-> **Document.Write(3\*1);**
+> **Document.Write(3&ast;1);**
 
 The output of this will be as follows:
 
@@ -20307,7 +20308,7 @@ Consider the following example:
 
 > **var a = 5; var b = 2; var c = a % b;**
 >
-> **Document.Write(\"The value of c is \" + c);**
+> **Document.Write(&quot;The value of c is &quot; + c);**
 >
 > **Document.Write(10%3);**
 
@@ -20336,11 +20337,11 @@ variables in which numbers are stored.
 
 Consider the following example:
 
-> **var a = 3; var b = 4; var c = a \* b;**
+> **var a = 3; var b = 4; var c = a &ast; b;**
 >
-> **Document.Write(\"The value of c is \" + c);**
+> **Document.Write(&quot;The value of c is &quot; + c);**
 >
-> **Document.Write(3\*1);**
+> **Document.Write(3&ast;1);**
 
 The output will be as follows:
 
@@ -20423,7 +20424,7 @@ well as JavaScript:
 
 Arithmetic operators get priority over logical operators.
 
-Let\'s say, if there is an expression and there are logical and
+Let&apos;s say, if there is an expression and there are logical and
 arithmetic operators in it, then the arithmetic operators will be
 evaluated first because of their higher priority. Logical operators work
 from left to right.
@@ -20433,7 +20434,7 @@ result in a Boolean value after evaluation.
 
 **The && Operator**
 
-The **&&** operator is the translation of the English word \"and\". For
+The **&&** operator is the translation of the English word &quot;and&quot;. For
 example, if we have to write apples and oranges, we write *apples &&
 oranges*.
 
@@ -20445,7 +20446,7 @@ value is used, then a non-Boolean value is returned.
 #### Parameter
 
 We normally write an expression or a condition that is to be evaluated
-separated by the \'**&&\'** sign.
+separated by the &apos;**&&&apos;** sign.
 
 #### Description
 
@@ -20458,7 +20459,7 @@ Here is an example of the **&&** operator:
 
 **The \|\| Operator**
 
-This operator is the translation of the English word \"or\". For
+This operator is the translation of the English word &quot;or&quot;. For
 example, if we have to write apples or oranges, we write *apples \|\|
 oranges*.
 
@@ -20470,7 +20471,7 @@ value is used, then a non-Boolean value is returned.
 #### Parameter
 
 We normally write an expression or a condition that is to be evaluated
-separated by the \'**\|\|\'** sign.
+separated by the &apos;**\|\|&apos;** sign.
 
 #### Description
 
@@ -20543,7 +20544,7 @@ It assigns the value of the right side operand to the left side operand.
 
 Consider the following example:
 
-> **var x=2; console.log(\"The value of x is \" + x);**
+> **var x=2; console.log(&quot;The value of x is &quot; + x);**
 
 The output of this will be: **The value of x is 2**
 
@@ -20597,7 +20598,7 @@ Consider the following example:
 
 This is short hand of writing **abc = abc - 2**.
 
-**The \*= Operator**
+**The &ast;= Operator**
 
 This operator is known as multiplication assignment operator.
 
@@ -20617,9 +20618,9 @@ value to another or the same variable in the same operation.
 
 Consider the following example:
 
-> **var abc = 5; abc \*= 5; console.log(abc); //25**
+> **var abc = 5; abc &ast;= 5; console.log(abc); //25**
 
-This is short hand of writing **abc = abc \* 5**.
+This is short hand of writing **abc = abc &ast; 5**.
 
 **The /= Operator**
 
@@ -20669,14 +20670,14 @@ This is short hand of writing **abc = abc % 3**.
 > This is an experimental technology, part of the ECMAScript 2016 (ES7)
 > proposal.
 
-### Exponentiation assignment (\*\*=)
+### Exponentiation assignment (&ast;&ast;=)
 
 This operator returns the result of raising power of left operand to the
 value of second operand.
 
-> **var abc = 5; abc \*\*= 2; console.log(abc); //25**
+> **var abc = 5; abc &ast;&ast;= 2; console.log(abc); //25**
 
-This is short hand of writing **abc = abc \*\* 2**.
+This is short hand of writing **abc = abc &ast;&ast; 2**.
 
 ### Relational operators
 
@@ -20685,9 +20686,9 @@ comparison operators. These operators show the relative order of two
 values. These comparison operators are covered in the following
 sections.
 
-**The \< operator**
+**The &lt; operator**
 
-The **\<** (Less Than) operator operator is used to compare the values
+The **&lt;** (Less Than) operator operator is used to compare the values
 on both sides of the expression and check whether the value of the
 left-hand side is less than the value on the right-hand side of the
 operator.
@@ -20707,15 +20708,15 @@ This is also known as the **less than** operator.
 
 A simple example of the usage of this operator is as follows:
 
-> **if(2\<3) { //returns true**
+> **if(2&lt;3) { //returns true**
 >
 > **//block of code**
 >
 > **}**
 
-**The \<= Operator**
+**The &lt;= Operator**
 
-The **\<=** operator is used to compare the values on both sides of the
+The **&lt;=** operator is used to compare the values on both sides of the
 expression and check whether the value on the left-hand side is less
 than or equal to the value on the right-hand side of the operator.
 
@@ -20734,7 +20735,7 @@ This is also known as the **less than or equal to** operator.
 
 A simple example of the usage of this is as follows:
 
-> **if(2 \<= 3) { //returns true**
+> **if(2 &lt;= 3) { //returns true**
 >
 > **//block of code }**
 
@@ -20873,7 +20874,7 @@ A simple example of the usage of this is as follows:
 >
 > **}**
 >
-> **if(3 === \"3\") { //returns false**
+> **if(3 === &quot;3&quot;) { //returns false**
 >
 > **//block of code**
 >
@@ -20889,7 +20890,7 @@ execute JavaScript code. A statement can return a value that is
 terminated with a semicolon. A statement can be a call for a certain
 action, for example:
 
-> **Document.Write(\"hello world\");**
+> **Document.Write(&quot;hello world&quot;);**
 
 The preceding statement calls the in-built **Write()** function and
 prints the message **hello world** on the screen.
@@ -20897,7 +20898,7 @@ prints the message **hello world** on the screen.
 We can write multiple statements in one line separated by a semicolon;
 for example:
 
-> **var a=20; var b=2;var c=a\*b; document.write(c);**
+> **var a=20; var b=2;var c=a&ast;b; document.write(c);**
 
 A statement can also be terminated with a line break, for example:
 
@@ -20915,9 +20916,9 @@ expression produces that value using a statement.
 An expression is made of literals, variables, operators, and methods.
 The data type of the returned value depends on the variable used in the
 expression. We can create a compound expression from a smaller
-expression\'s group depending on their data type.
+expression&apos;s group depending on their data type.
 
-> **x = Math.PI; cx = Math.cos(x); alert(\"cos(\" + x + \") = \" +
+> **x = Math.PI; cx = Math.cos(x); alert(&quot;cos(&quot; + x + &quot;) = &quot; +
 > cx);**
 
 Statements are basically actions performed in scripts, for example,
@@ -20928,7 +20929,7 @@ expression. But this can not be reversed. We can not write a statement
 where JavaScript is expecting an expression. For instance, if statement
 can not be used as an argument to a function.
 
-To prevent this from happening JavaScript doesn\'t allow us to use
+To prevent this from happening JavaScript doesn&apos;t allow us to use
 function expressions and object literals as statements, that is,
 **expression statement** should not start with:
 
@@ -20947,7 +20948,7 @@ This type of statement is usually used with conditional statements such
 as **if**, **else**, **for**, **while** loop, and so on. Consider the
 following example:
 
-> **if(x\<10) // if x is less than 10 then x is incremented { x++; }**
+> **if(x&lt;10) // if x is less than 10 then x is incremented { x++; }**
 
 An empty statement is the opposite of a compound statement. There is no
 statement in an empty statement but just a semicolon. This semicolon
@@ -20955,7 +20956,7 @@ means that no statement will be executed. Usually, empty statements are
 used when you need to put comments in your code. Consider the following
 example:
 
-> **for(i=0; i\<10; i++) {} /\* Empty \*/**
+> **for(i=0; i&lt;10; i++) {} /&ast; Empty &ast;/**
 
 ### Declaration statements
 
@@ -20979,7 +20980,7 @@ need to declare a variable before using it.
 
 Consider the following example:
 
-> **var a =5; var b = 23.5; var c = \"Good morning\";**
+> **var a =5; var b = 23.5; var c = &quot;Good morning&quot;;**
 
 Here is an example of both **var** and **function**:
 
@@ -20987,7 +20988,7 @@ Here is an example of both **var** and **function**:
 >
 > **}**
 >
-> **var c= Addition(a,b) Document.Write(\"The value of c is \" + c)**
+> **var c= Addition(a,b) Document.Write(&quot;The value of c is &quot; + c)**
 
 The output of the preceding code will be as follows:
 
@@ -21027,7 +21028,7 @@ An **if** statement has two important parts:
 In JavaScript and other languages, the **if** statement makes decisions
 based on the variable and type of data. For example, if you write a
 script asking to be notified on your birthday, then when the time
-arrives, the message \"**It\'s your birthday today**\" will be
+arrives, the message &quot;**It&apos;s your birthday today**&quot; will be
 displayed.
 
 The **if** statement is only executed when the condition is **true**. If
@@ -21048,7 +21049,7 @@ follows:
 
 > **var cAge=25; If (cAge\>18) {**
 >
-> **document.write (\"You must have CNIC\"); }// if age is above 18 it
+> **document.write (&quot;You must have CNIC&quot;); }// if age is above 18 it
 > displays that you must have a CNIC**
 
 **Else if statements**
@@ -21117,21 +21118,21 @@ For example, if you have a web page and you want to check who is
 accessing that web page. You will put two custom messages in your script
 inside the **Else if** statement. You will write these as follows:
 
-> **var person=\"Manager\"; If(person==\"Admin\") {**
+> **var person=&quot;Manager&quot;; If(person==&quot;Admin&quot;) {**
 >
-> **Document.Write(\"I am visiting it\");**
+> **Document.Write(&quot;I am visiting it&quot;);**
 >
 > **}**
 >
-> **Else if(person==\"Manager\") {**
+> **Else if(person==&quot;Manager&quot;) {**
 >
-> **Document.Write(\"I am accessing it\");**
+> **Document.Write(&quot;I am accessing it&quot;);**
 >
 > **}**
 >
 > **Else {**
 >
-> **document.write(\"hello kitty\"); }**
+> **document.write(&quot;hello kitty&quot;); }**
 
 The **Else if** statement is one of the most advanced forms of
 statements in JavaScript. It makes a decision after checking all the
@@ -21172,12 +21173,12 @@ Here is the syntax for a simple **switch** statement in JavaScript:
 
 Following is an example of a valid **switch** statement:
 
-> **Switch (personName) case \"Jack\":**
+> **Switch (personName) case &quot;Jack&quot;:**
 >
-> **alert(\"my name is Jack\"); Break; case \"Ahmed\":**
+> **alert(&quot;my name is Jack&quot;); Break; case &quot;Ahmed&quot;:**
 >
-> **alert(\"my name is Ahmed\"); break; default: alert(\"my name is
-> Talha\"); break;**
+> **alert(&quot;my name is Ahmed&quot;); break; default: alert(&quot;my name is
+> Talha&quot;); break;**
 
 If the preceding code does not find a matching case then it executes the
 default statement. Basically a **switch** statement is an expression
@@ -21246,11 +21247,11 @@ C, C++, and Python. The **for** loop syntax has three important parts:
 
 Consider the following example of a basic counter code in JavaScript:
 
-> **var i; // declares the variable i for(i=1; i \< 5 ; i++) {**
+> **var i; // declares the variable i for(i=1; i &lt; 5 ; i++) {**
 >
-> **Document.Write(\"basic counter:\"+i);**
+> **Document.Write(&quot;basic counter:&quot;+i);**
 >
-> **Document.Write(\"\<br/\>\");**
+> **Document.Write(&quot;&lt;br/\>&quot;);**
 >
 > **}**
 
@@ -21294,9 +21295,9 @@ work. If the condition breaks, then the loop breaks.
 Here is an example of the **while** loop, which will print numbers from
 **1** to **4**:
 
-> **var count= 0; While(count\<5) {**
+> **var count= 0; While(count&lt;5) {**
 >
-> **Document.Write(\"count\"); Document.Write(\"\<br/\>\"); count++; }**
+> **Document.Write(&quot;count&quot;); Document.Write(&quot;&lt;br/\>&quot;); count++; }**
 
 The output will be as follows:
 
@@ -21346,11 +21347,11 @@ to **5**:
 >
 > **Do {**
 >
-> **document.write(\"The value of i is \" + i + \"\</br\>\"); i++;**
+> **document.write(&quot;The value of i is &quot; + i + &quot;&lt;/br\>&quot;); i++;**
 >
 > **}**
 >
-> **While(i\<6);**
+> **While(i&lt;6);**
 
 The output will be as follows:
 
@@ -21395,7 +21396,7 @@ Here is an example of the **for in** loop:
 >
 > **}**
 >
-> **Document.Write(\"The loop ends here\");**
+> **Document.Write(&quot;The loop ends here&quot;);**
 
 ### Jumps and labeled statements
 
@@ -21426,7 +21427,7 @@ Here is the syntax for the **break** statement in JavaScript:
 >
 > **//block of code that will be executed break;**
 >
-> **//block of code that won\'t get executed**
+> **//block of code that won&apos;t get executed**
 >
 > **}**
 
@@ -21436,15 +21437,15 @@ Consider the following simple example:
 
 > **var i=1;**
 >
-> **While(i\<10) { if(i==3) {**
+> **While(i&lt;10) { if(i==3) {**
 >
-> **Document.Write(\"Breaking from if loop\");**
+> **Document.Write(&quot;Breaking from if loop&quot;);**
 >
 > **Break;**
 >
 > **}**
 >
-> **Document.Write(\"The value of i is \" + i); i+=2; }**
+> **Document.Write(&quot;The value of i is &quot; + i); i+=2; }**
 
 The output will be as follows:
 
@@ -21484,15 +21485,15 @@ Consider the following simple example:
 
 > **var i=1;**
 >
-> **While(i\<5) {**
+> **While(i&lt;5) {**
 >
 > **if(i==3) //skip the iteration {**
 >
-> **Document.Write(\"Continue statement encountered\"); continue;**
+> **Document.Write(&quot;Continue statement encountered&quot;); continue;**
 >
 > **}**
 >
-> **Document.Write(\"The value of i is \" + i); i=i+2; }**
+> **Document.Write(&quot;The value of i is &quot; + i); i=i+2; }**
 
 The output will be as follows:
 
@@ -21515,18 +21516,18 @@ Here is the syntax for the **return** statement in JavaScript:
 >
 > **}**
 >
-> **Document.Write(\"The result is \" + myfunc(2, 3));**
+> **Document.Write(&quot;The result is &quot; + myfunc(2, 3));**
 
 #### Example
 
 Consider the following simple example showing the working of a
 **return** statement:
 
-> **Function multiply(a,b) { return a\*B;**
+> **Function multiply(a,b) { return a&ast;B;**
 >
 > **}**
 >
-> **var mul=multiply(2,3); Document.Write(\"The result is \"+ mul);**
+> **var mul=multiply(2,3); Document.Write(&quot;The result is &quot;+ mul);**
 
 The output will be as follows:
 
@@ -21544,7 +21545,7 @@ Here is the syntax for the **throw** statement in JavaScript:
 
 > **try {**
 >
-> **//block of code throw \"error\"; //block of code**
+> **//block of code throw &quot;error&quot;; //block of code**
 >
 > **} catch(error) { //block of code**
 >
@@ -21552,12 +21553,12 @@ Here is the syntax for the **throw** statement in JavaScript:
 
 #### Example
 
-Let\'s take a look at the following code snippet:
+Let&apos;s take a look at the following code snippet:
 
 > **Try {**
 >
-> **document.write( \"hello world);//the code will throw an error due to
-> the missing \"**
+> **document.write( &quot;hello world);//the code will throw an error due to
+> the missing &quot;**
 >
 > **}**
 >
@@ -21617,9 +21618,9 @@ There are two array types in JavaScript:
 > In JavaScript, the length property is not the actual amount of
 > elements in the array, it is last *index+1*. So, in case of a sparse
 > array, this is crucial to deal with the blank indexes. Consider the
-> following example: **var person=\[\]; Person\[1\]=\"Ali\";**
+> following example: **var person=&lbrack;&rbrack;; Person&lbrack;1&rbrack;=&quot;Ali&quot;;**
 >
-> **Person\[20\]=\"Ahmed\";**
+> **Person&lbrack;20&rbrack;=&quot;Ahmed&quot;;**
 >
 > **Alert(person.length);// it will be 21 length**
 
@@ -21653,11 +21654,11 @@ In JavaScript, there are two ways to create arrays:
 You can use either of these two methods.
 
 We have a comma-separated string in brackets in an array initializer;
-for example: **var students= \[\"Ali\",\"Ahmed\",\"Amina\"\];**
+for example: **var students= &lbrack;&quot;Ali&quot;,&quot;Ahmed&quot;,&quot;Amina&quot;&rbrack;;**
 
 In JavaScript, you can also create an array using an array constructor
 using a new keyword, which creates an array and assigns values to it;
-for example: **var students=new Array (\"Ali,\"Ahmed\",\"Amina\");**
+for example: **var students=new Array (&quot;Ali,&quot;Ahmed&quot;,&quot;Amina&quot;);**
 
 > The array initializer method is a quick and good way of initializing
 > an array because its execution speed is higher than that of the
@@ -21674,8 +21675,8 @@ first initialize it.
 In an array initializer, there are comma separated lists of items stored
 in a variable, for example:
 
-> **var a1=\[\]; var a2=\[2\]; var a3=\[1,2,3\]; var a4=\[\'hi\',
-> \[2\]\];**
+> **var a1=&lbrack;&rbrack;; var a2=&lbrack;2&rbrack;; var a3=&lbrack;1,2,3&rbrack;; var a4=&lbrack;&apos;hi&apos;,
+> &lbrack;2&rbrack;&rbrack;;**
 >
 > When you initialize an array using an array initializer, the type does
 > not have to be the same for all items. Also, arrays can have zero
@@ -21702,22 +21703,22 @@ initialize an array with size equal to the number of parameters.
 ### Reading and writing array elements
 
 To read and write elements from an array we use square brackets
-**\[\]**. It works as accessing object properties. Inside the brackets
+**&lbrack;&rbrack;**. It works as accessing object properties. Inside the brackets
 there should be a non-negative number. The syntax for both reading and
 writing in an array is the same. Values are also indexed in an array.
-You read values index by index. The array\'s reference should be on left
+You read values index by index. The array&apos;s reference should be on left
 side of bracket.
 
 Consider the following example:
 
-> **var obj=\[\"abc\"\]; var start=obj\[0\]; //its is for reading
+> **var obj=&lbrack;&quot;abc&quot;&rbrack;; var start=obj&lbrack;0&rbrack;; //its is for reading
 > Document.Write(start);**
 >
-> **var obj\[1\]=\"hello\"; i=\"world\";**
+> **var obj&lbrack;1&rbrack;=&quot;hello&quot;; i=&quot;world&quot;;**
 >
-> **Obj\[i\]=\"hello world\";//writing**
+> **Obj&lbrack;i&rbrack;=&quot;hello world&quot;;//writing**
 >
-> **Document.Write(obj\[i\]);**
+> **Document.Write(obj&lbrack;i&rbrack;);**
 
 The output of this would be as follows:
 
@@ -21737,9 +21738,9 @@ meaning if array is empty, then a better technique to store the
 information is using an associative array. Here is an example of
 creating a multidimensional array in JavaScript:
 
-> **var a=5; var b=2; var c=new array(); For(i=0;i\<5;i++) {**
+> **var a=5; var b=2; var c=new array(); For(i=0;i&lt;5;i++) {**
 >
-> **C\[i\]=new array(); for For(j=0;j\<5;j++) c\[i\]\[j\]; }}**
+> **C&lbrack;i&rbrack;=new array(); for For(j=0;j&lt;5;j++) c&lbrack;i&rbrack;&lbrack;j&rbrack;; }}**
 >
 > **}**
 
@@ -21765,7 +21766,7 @@ of any array using the array length property.
 
 Consider the following example:
 
-> **var num=new Array\[1,2,3\]; Document. write (num.length);**
+> **var num=new Array&lbrack;1,2,3&rbrack;; Document. write (num.length);**
 
 The output will be as follows:
 
@@ -21776,7 +21777,7 @@ The output will be as follows:
 An array contractor is used to initialize an array. An array can contain
 zero or more elements and has the following syntax where array elements
 are separated by a comma inside square brackets. **var fruits =
-\[\"Apple\", \"Banana\"\];**
+&lbrack;&quot;Apple&quot;, &quot;Banana&quot;&rbrack;;**
 
 **Prototype**
 
@@ -21814,11 +21815,11 @@ The **concat()** method takes a string to concatenate with.
 
 This takes two arrays and joins them.
 
-> **var alpha = \[\'a\', \'b\', \'c\'\], var numeric = \[1, 2, 3\]; var
+> **var alpha = &lbrack;&apos;a&apos;, &apos;b&apos;, &apos;c&apos;&rbrack;, var numeric = &lbrack;1, 2, 3&rbrack;; var
 > alphaNumeric = alpha.concat(numeric);**
 >
-> **console.log(alphaNumeric); // Result: \[\'a\', \'b\', \'c\', 1, 2,
-> 3\]**
+> **console.log(alphaNumeric); // Result: &lbrack;&apos;a&apos;, &apos;b&apos;, &apos;c&apos;, 1, 2,
+> 3&rbrack;**
 
 #### every()
 
@@ -21842,9 +21843,9 @@ returns **true**.
 >
 > **}**
 >
-> **\[12, 5, 8, 130, 44\].every(isBigEnough); // false**
+> **&lbrack;12, 5, 8, 130, 44&rbrack;.every(isBigEnough); // false**
 >
-> **\[12, 54, 18, 130, 44\].every(isBigEnough); // true**
+> **&lbrack;12, 54, 18, 130, 44&rbrack;.every(isBigEnough); // true**
 
 #### foreach()
 
@@ -21864,15 +21865,15 @@ A call back function to be called for every element of the array.
 The **foreach()** method calls the functions of each element:
 
 > **function logArrayElements(element, index, array) {
-> console.log(\'a\[\' + index + \'\] = \' + element); }**
+> console.log(&apos;a&lbrack;&apos; + index + &apos;&rbrack; = &apos; + element); }**
 >
-> **// Note elision, there is no member at 2 so it isn\'t visited**
+> **// Note elision, there is no member at 2 so it isn&apos;t visited**
 >
-> **\[2, 5, , 9\].forEach(logArrayElements); // logs:**
+> **&lbrack;2, 5, , 9&rbrack;.forEach(logArrayElements); // logs:**
 >
-> **// a\[0\] = 2 // a\[1\] = 5**
+> **// a&lbrack;0&rbrack; = 2 // a&lbrack;1&rbrack; = 5**
 >
-> **// a\[3\] = 9**
+> **// a&lbrack;3&rbrack; = 9**
 
 #### join()
 
@@ -21890,12 +21891,12 @@ A joined string.
 
 It joins all elements into a string.
 
-> **var a = \[\'One\', \'Two\', \'Three\'\];**
+> **var a = &lbrack;&apos;One&apos;, &apos;Two&apos;, &apos;Three&apos;&rbrack;;**
 >
-> **var var1 = a.join(); // assigns \'One,Two,Three\' to var1 var var2 =
-> a.join(\', \'); // assigns \'One, Two, Three\' to var2 var var3 =
-> a.join(\' + \'); // assigns \'One + Two + Three\' to var3 var var4 =
-> a.join(\'\'); // assigns \'OneTwoThree\' to var4**
+> **var var1 = a.join(); // assigns &apos;One,Two,Three&apos; to var1 var var2 =
+> a.join(&apos;, &apos;); // assigns &apos;One, Two, Three&apos; to var2 var var3 =
+> a.join(&apos; + &apos;); // assigns &apos;One + Two + Three&apos; to var3 var var4 =
+> a.join(&apos;&apos;); // assigns &apos;OneTwoThree&apos; to var4**
 
 #### pop()
 
@@ -21914,12 +21915,12 @@ The **pop()** method takes the **null** parameter.
 
 It removes the last element of an array, just like a stack.
 
-> **var myColours = \[\'Yellow\', \'Black\', \'Blue\', \'Green\'\];
-> console.log(myColours); // \[\'Yellow\', \'Black\', \'Blue\',
-> \'Green\'\] var popped = myColours.pop();**
+> **var myColours = &lbrack;&apos;Yellow&apos;, &apos;Black&apos;, &apos;Blue&apos;, &apos;Green&apos;&rbrack;;
+> console.log(myColours); // &lbrack;&apos;Yellow&apos;, &apos;Black&apos;, &apos;Blue&apos;,
+> &apos;Green&apos;&rbrack; var popped = myColours.pop();**
 >
-> **console.log(myColours); // \[\'Yellow\', \'Black\', \'Blue\' \]
-> console.log(popped); // \'Green\'**
+> **console.log(myColours); // &lbrack;&apos;Yellow&apos;, &apos;Black&apos;, &apos;Blue&apos; &rbrack;
+> console.log(popped); // &apos;Green&apos;**
 
 #### push()
 
@@ -21933,10 +21934,10 @@ It adds elements on the last index on an array.
 
 This adds elements at the last index on an array.
 
-> **var sports = \[\'cricket\', \'baseball\'\]; var total =
-> sports.push(\'football\');**
+> **var sports = &lbrack;&apos;cricket&apos;, &apos;baseball&apos;&rbrack;; var total =
+> sports.push(&apos;football&apos;);**
 >
-> **console.log(sports); // \[\'cricket\', \'baseball\', \'football\'\]
+> **console.log(sports); // &lbrack;&apos;cricket&apos;, &apos;baseball&apos;, &apos;football&apos;&rbrack;
 > console.log(total); // 3**
 
 #### indexOf()
@@ -21955,7 +21956,7 @@ The **indexOf()** method takes an array element as a parameter.
 
 It returns the first index of an array.
 
-> **var array = \[2, 5, 9\]; array.indexOf(9); // 2 array.indexOf(7); //
+> **var array = &lbrack;2, 5, 9&rbrack;; array.indexOf(9); // 2 array.indexOf(7); //
 > -1 if not found**
 
 #### lastIndexOf()
@@ -21973,7 +21974,7 @@ An array element.
 
 ##### Description
 
-> **var array = \[2, 5, 9, 2\]; array.indexOf(2); // 3 array.indexOf(7);
+> **var array = &lbrack;2, 5, 9, 2&rbrack;; array.indexOf(2); // 3 array.indexOf(7);
 > // -1 if not found**
 
 #### reverse()
@@ -21990,8 +21991,8 @@ The array.
 The **reverse()** method reverses the order of the elements in an array.
 The first element becomes the last element and so on.
 
-> **var myArray = \[\'one\', \'two\', \'three\'\]; myArray.reverse();
-> console.log(myArray) // \[\'three\', \'two\', \'one\'\]**
+> **var myArray = &lbrack;&apos;one&apos;, &apos;two&apos;, &apos;three&apos;&rbrack;; myArray.reverse();
+> console.log(myArray) // &lbrack;&apos;three&apos;, &apos;two&apos;, &apos;one&apos;&rbrack;**
 
 #### shift()
 
@@ -22007,12 +22008,12 @@ returns that element.
 In an array, it removes the very first element and returns the removed
 element.
 
-> **var myColours = \[\'Yellow\', \'Black\', \'Blue\', \'Green\'\];
-> console.log(myColours); // \[\'Yellow\', \'Black\', \'Blue\',
-> \'Green\'\] var shifted = myColours.shift();**
+> **var myColours = &lbrack;&apos;Yellow&apos;, &apos;Black&apos;, &apos;Blue&apos;, &apos;Green&apos;&rbrack;;
+> console.log(myColours); // &lbrack;&apos;Yellow&apos;, &apos;Black&apos;, &apos;Blue&apos;,
+> &apos;Green&apos;&rbrack; var shifted = myColours.shift();**
 >
-> **console.log(myColours); // \[\'Black\', \'Blue\', \'Green\'\]
-> console.log(shifted); // \'Green\'**
+> **console.log(myColours); // &lbrack;&apos;Black&apos;, &apos;Blue&apos;, &apos;Green&apos;&rbrack;
+> console.log(shifted); // &apos;Green&apos;**
 
 #### unshift()
 
@@ -22030,9 +22031,9 @@ The element(s) to add in the array.
 This method adds a new element at the beginning of the array and returns
 the new array length:
 
-> **var arr = \[1, 2, 3\];**
+> **var arr = &lbrack;1, 2, 3&rbrack;;**
 >
-> **arr.unshift(0); // arr is \[0, 1, 2, 3\]**
+> **arr.unshift(0); // arr is &lbrack;0, 1, 2, 3&rbrack;**
 
 #### slice()
 
@@ -22050,9 +22051,9 @@ The indices of elements to slice.
 
 This method slices an array into a new array:
 
-> **var fruits = \[\'Banana\', \'Orange\', \'Lemon\', \'Apple\',
-> \'Mango\'\]; var citrus = fruits.slice(1, 3); // citrus contains
-> \[\'Orange\',\'Lemon\'\]**
+> **var fruits = &lbrack;&apos;Banana&apos;, &apos;Orange&apos;, &apos;Lemon&apos;, &apos;Apple&apos;,
+> &apos;Mango&apos;&rbrack;; var citrus = fruits.slice(1, 3); // citrus contains
+> &lbrack;&apos;Orange&apos;,&apos;Lemon&apos;&rbrack;**
 
 #### splice()
 
@@ -22068,14 +22069,14 @@ The new spliced array.
 The indices of elements to remove and the elements to add.
 
 This method is also used to add new elements to an array by removing
-existing elements: **var myCars = \[\'Audi\', \'BMW\', \'Ferrari\',
-\'Volkswagen\'\];**
+existing elements: **var myCars = &lbrack;&apos;Audi&apos;, &apos;BMW&apos;, &apos;Ferrari&apos;,
+&apos;Volkswagen&apos;&rbrack;;**
 
-> **// removes 0 elements from index 2, and inserts \'Toyota\' var
-> removed = myCars.splice(2, 0, \'Toyota\');**
+> **// removes 0 elements from index 2, and inserts &apos;Toyota&apos; var
+> removed = myCars.splice(2, 0, &apos;Toyota&apos;);**
 >
-> **// myCars is \[\'Audi\', \'BMW\', \'Toyota\', \'Volkswagen\'\] //
-> removed is \[\], no elements removed**
+> **// myCars is &lbrack;&apos;Audi&apos;, &apos;BMW&apos;, &apos;Toyota&apos;, &apos;Volkswagen&apos;&rbrack; //
+> removed is &lbrack;&rbrack;, no elements removed**
 
 #### sort()
 
@@ -22090,8 +22091,8 @@ This sorts an array alphabetically.
 Called as an array method, this sorts an array alphabetically (unicode
 characters) and will not work well with numbers:
 
-> **var fruit = \[\'cherries\', \'apples\', \'bananas\'\]; fruit.sort();
-> // \[\'apples\', \'bananas\', \'cherries\'\]**
+> **var fruit = &lbrack;&apos;cherries&apos;, &apos;apples&apos;, &apos;bananas&apos;&rbrack;; fruit.sort();
+> // &lbrack;&apos;apples&apos;, &apos;bananas&apos;, &apos;cherries&apos;&rbrack;**
 
 #### toString()
 
@@ -22108,8 +22109,8 @@ The **toString()** method takes a **null** parameter.
 Converts the array object into a string with its elements separated by
 commas character.
 
-> **var monthNames = \[\'Jan\', \'Feb\', \'Mar\', \'Apr\'\]; var myVar =
-> monthNames.toString(); // \'Jan,Feb,Mar,Apr\' to myVar.**
+> **var monthNames = &lbrack;&apos;Jan&apos;, &apos;Feb&apos;, &apos;Mar&apos;, &apos;Apr&apos;&rbrack;; var myVar =
+> monthNames.toString(); // &apos;Jan,Feb,Mar,Apr&apos; to myVar.**
 
 ### ECMA5 Array methods
 
@@ -22139,11 +22140,11 @@ arguments as the **forEach()** method.
 
 Here is a simple example:
 
-> **var numbers = \[1, 4, 9\]; var roots = numbers.map(Math.sqrt);**
+> **var numbers = &lbrack;1, 4, 9&rbrack;; var roots = numbers.map(Math.sqrt);**
 
 The roots are now as follows:
 
-> **\[1, 2, 3\]**
+> **&lbrack;1, 2, 3&rbrack;**
 
 #### array.prototype.filter()
 
@@ -22165,11 +22166,11 @@ Here is a simple example:
 
 > **function isBigEnough(value) { return value \>= 10;**
 >
-> **} var filtered = \[12, 5, 8, 130, 44\].filter(isBigEnough);**
+> **} var filtered = &lbrack;12, 5, 8, 130, 44&rbrack;.filter(isBigEnough);**
 
 The output is as follows:
 
-> **\[12, 130, 44\]**
+> **&lbrack;12, 130, 44&rbrack;**
 
 #### array.prototype.reduce()
 
@@ -22193,7 +22194,7 @@ callback function.
 
 Here is a simple example:
 
-> **\[0, 1, 2, 3, 4\].reduce(function(previousValue, currentValue,
+> **&lbrack;0, 1, 2, 3, 4&rbrack;.reduce(function(previousValue, currentValue,
 > index, array) {**
 >
 > **return previousValue + currentValue;**
@@ -22206,17 +22207,17 @@ The callbacks are executed as follows:
               **previousValue**   **currentValue**   **index**   **array**          **return
                                                                                     value**
   ----------- ------------------- ------------------ ----------- ------------------ ----------
-  **First     **0**               **1**              **1**       **\[0, 1, 2, 3,    **1**
-  call**                                                         4\]**              
+  **First     **0**               **1**              **1**       **&lbrack;0, 1, 2, 3,    **1**
+  call**                                                         4&rbrack;**              
 
-  **Second    **1**               **2**              **2**       **\[0, 1, 2, 3,    **3**
-  call**                                                         4\]**              
+  **Second    **1**               **2**              **2**       **&lbrack;0, 1, 2, 3,    **3**
+  call**                                                         4&rbrack;**              
 
-  **Third     **3**               **3**              **3**       **\[0, 1, 2, 3,    **6**
-  call**                                                         4\]**              
+  **Third     **3**               **3**              **3**       **&lbrack;0, 1, 2, 3,    **6**
+  call**                                                         4&rbrack;**              
 
-  **Fourth    **6**               **4**              **4**       **\[0, 1, 2, 3,    **10**
-  call**                                                         4\]**              
+  **Fourth    **6**               **4**              **4**       **&lbrack;0, 1, 2, 3,    **10**
+  call**                                                         4&rbrack;**              
   --------------------------------------------------------------------------------------------
 
 #### array.prototype.forEach()
@@ -22238,17 +22239,17 @@ The **array.prototype.forEach()** method calls functions of each
 element. Here is a simple example:
 
 > **function logArrayElements(element, index, array) {
-> console.log(\'a\[\' + index + \'\] = \' + element); }**
+> console.log(&apos;a&lbrack;&apos; + index + &apos;&rbrack; = &apos; + element); }**
 >
-> **// Note elision, there is no member at 2 so it isn\'t visited**
+> **// Note elision, there is no member at 2 so it isn&apos;t visited**
 >
-> **\[2, 5, , 9\].forEach(logArrayElements); // logs:**
+> **&lbrack;2, 5, , 9&rbrack;.forEach(logArrayElements); // logs:**
 >
-> **// a\[0\] = 2**
+> **// a&lbrack;0&rbrack; = 2**
 >
-> **// a\[1\] = 5**
+> **// a&lbrack;1&rbrack; = 5**
 >
-> **// a\[3\] = 9**
+> **// a&lbrack;3&rbrack; = 9**
 
 #### array.prototype.indexOf()
 
@@ -22266,7 +22267,7 @@ An array element.
 The **array.prototype.indexOf()** method returns the first index of an
 array. Here is a simple example:
 
-> **var array = \[2, 5, 9\]; array.indexOf(9); // 2 array.indexOf(7); //
+> **var array = &lbrack;2, 5, 9&rbrack;; array.indexOf(9); // 2 array.indexOf(7); //
 > -1 if not found**
 
 #### array.prototype.lastIndexOf()
@@ -22289,7 +22290,7 @@ As stated in the preceding descriptions, the
 the specified element if found within the array. Here is a simple
 example:
 
-> **var array = \[2, 5, 9, 2\]; array.indexOf(2); // 3 array.indexOf(7);
+> **var array = &lbrack;2, 5, 9, 2&rbrack;; array.indexOf(2); // 3 array.indexOf(7);
 > // -1 if not found**
 
 #### array.prototype.every()
@@ -22315,9 +22316,9 @@ returns **true**. Here is a simple example:
 >
 > **}**
 >
-> **\[12, 5, 8, 130, 44\].every(isBigEnough); // false**
+> **&lbrack;12, 5, 8, 130, 44&rbrack;.every(isBigEnough); // false**
 >
-> **\[12, 54, 18, 130, 44\].every(isBigEnough); // true**
+> **&lbrack;12, 54, 18, 130, 44&rbrack;.every(isBigEnough); // true**
 
 #### array.prototype.some()
 
@@ -22345,9 +22346,9 @@ A simple example is as follows:
 >
 > **}**
 >
-> **\[2, 5, 8, 1, 4\].some(isBiggerThan10); // false**
+> **&lbrack;2, 5, 8, 1, 4&rbrack;.some(isBiggerThan10); // false**
 >
-> **\[12, 5, 8, 1, 4\].some(isBiggerThan10); // true**
+> **&lbrack;12, 5, 8, 1, 4&rbrack;.some(isBiggerThan10); // true**
 
 #### array.prototype.reduceRight()
 
@@ -22368,7 +22369,7 @@ toward the left while accumulating the values.
 
 Here is a simple example:
 
-> **var total = \[0, 1, 2, 3\].reduceRight(function(a, b) { return a +
+> **var total = &lbrack;0, 1, 2, 3&rbrack;.reduceRight(function(a, b) { return a +
 > b; });**
 
 This returns the sum as **6**.
@@ -22399,7 +22400,7 @@ rectangle, or a circle.
 This feature is also supported in JavaScript. It means protecting parts
 of code from external use. It protects part of the code that does not
 concern the end user but is important for running an application, such
-as in an application that stores passwords. Users don\'t have to know
+as in an application that stores passwords. Users don&apos;t have to know
 how their passwords are encrypted. Hence, this code is encapsulated.
 
 ### Inheritance
@@ -22420,7 +22421,7 @@ polymorphism and inheritance.
 
 Objects are the basic key to understand object-oriented programming.
 Programming objects are just like real-world objects. Look around,
-you\'ll see many objects. Your car, mobile phone, desk, laptop, pet dog,
+you&apos;ll see many objects. Your car, mobile phone, desk, laptop, pet dog,
 and DVD player are all objects.
 
 All objects have two characteristics: properties and methods.
@@ -22436,9 +22437,9 @@ Just like these real-world examples, the objects in OOP have the same
 characteristics. So, an object, in terms of programming, can have
 properties (variables in any programming language) and methods
 (functions in any programming language). Hence, we can define an object
-as \"*an entity or a thing that has some properties and methods
+as &quot;*an entity or a thing that has some properties and methods
 associated with it. An object can be individually selected and
-manipulated*\".
+manipulated*&quot;.
 
 All generic properties and methods are combined into a template called a
 **class**. A class is then used as a template to instantiate single or
@@ -22464,7 +22465,7 @@ age:25) pairs enclosed within curly brackets.
 
 Here is an example:
 
-> **var car= { model:\"2014\", company:\"Honda\", color:\"White\" };**
+> **var car= { model:&quot;2014&quot;, company:&quot;Honda&quot;, color:&quot;White&quot; };**
 
 In the preceding example, we have created a **car** object with four
 properties or attributes.
@@ -22483,15 +22484,15 @@ JavaScript contains built-in constructors for the native types.
 
 Here is an example:
 
-> **var car = new Object(); car.model = \"2014\"; car.company =
-> \"Honda\"; car.colour = \"White\";**
+> **var car = new Object(); car.model = &quot;2014&quot;; car.company =
+> &quot;Honda&quot;; car.colour = &quot;White&quot;;**
 
 The preceding example also creates a new **car** object with four
 properties:
 
 > **varempty = new Object(); // An empty object, same as {}. vararr =
-> new Array(); // An empty array, same as \[\]. varcurrdate = new
-> Date(); // Current Date. varregex = new RegExp(\"JavaScript\"); // A
+> new Array(); // An empty array, same as &lbrack;&rbrack;. varcurrdate = new
+> Date(); // Current Date. varregex = new RegExp(&quot;JavaScript&quot;); // A
 > pattern matching object.**
 
 #### The object.create() method
@@ -22499,12 +22500,12 @@ properties:
 The **object.create()** method was originally defined in ECMAScript 5.
 It is also used to create an object. The first argument passed to this
 method is the prototype of that object. The second argument is optional.
-It describes the object\'s properties.
+It describes the object&apos;s properties.
 
 Here is an example:
 
 > **// obj1 inherits properties model, company and colour. varcar =
-> Object.create({model:\"2014\",company:\"Honda\",colour:\"White\"});**
+> Object.create({model:&quot;2014&quot;,company:&quot;Honda&quot;,colour:&quot;White&quot;});**
 >
 > **// car inherits no properties or methods. varcar =
 > Object.create(null);**
@@ -22518,7 +22519,7 @@ However, this object will not inherit anything:
 ### Design patterns
 
 To write scalable code, we need to track down the recurring sections in
-our code and to optimize them in a way that it\'s easy to maintain the
+our code and to optimize them in a way that it&apos;s easy to maintain the
 code. Design patterns help us in doing this.
 
 In a book, *Addison-Wesley Professional* by *Erich Gamma*, *John
@@ -22594,7 +22595,7 @@ reference the new object.
 
 Prototype is a property of functions in JavaScript. Whenever a
 **constructor** function is invoked to create a new object, all of the
-characteristics of that constructor\'s prototype are then associated to
+characteristics of that constructor&apos;s prototype are then associated to
 the new object.
 
 ##### Module pattern
@@ -22623,7 +22624,7 @@ some unexpected errors:
 
 > **varObjectLiteral = { variableKey: Value, functionKey: function() {**
 >
-> **//\...**
+> **//&period;..**
 >
 > **}**
 >
@@ -22637,7 +22638,7 @@ be interpreted as the start of a code block.
 
 We can add new members from the outside object as follows:
 
-> **myModule.property = \'someValue\';**
+> **myModule.property = &apos;someValue&apos;;**
 
 Using modules can help in hiding data members (encapsulation) and
 managing code in an organized way.
@@ -22727,7 +22728,7 @@ pattern:
 
 -   Private members are inaccessible
 
--   It\'s difficult to patch public functions and variables that are
+-   It&apos;s difficult to patch public functions and variables that are
     referred to by some private members
 
 **The singleton pattern**
@@ -22738,7 +22739,7 @@ provides a global access point to the object.
 #### Description
 
 The singleton pattern is implemented by creating a class with a method
-whose object can only be created if it doesn\'t exist already. If the
+whose object can only be created if it doesn&apos;t exist already. If the
 object already existed, the reference will be returned to that object.
 
 It is recommended to delay the initialization of singletons in cases
@@ -22785,12 +22786,12 @@ All observers receive the notification and update them accordingly.
 The book, *Design Patterns: Elements of Reusable Object-Oriented
 Software*, describes the observer pattern as follows:
 
-> *\"One or more observers are interested in the state of a subject and
+> *&quot;One or more observers are interested in the state of a subject and
 > register their interest with the subject by attaching themselves. When
 > something changes in our subject that the observer may be interested
 > in, a notify message is sent which calls the update method in each
-> observer. When the observer is no longer interested in the subject\'s
-> state, they can simply detach themselves.\"*
+> observer. When the observer is no longer interested in the subject&apos;s
+> state, they can simply detach themselves.&quot;*
 
 Here are a few advantages and disadvantages of the observer pattern:
 
@@ -22822,7 +22823,7 @@ The mediator pattern promotes loose coupling by ensuring that, instead
 of objects interacting with each other directly, they communicate across
 a central point.
 
-Let\'s take a real-world example to understand it in a better way.
+Let&apos;s take a real-world example to understand it in a better way.
 Consider an airport traffic-control system. The control tower acts as a
 mediator, while all other planes are communicating with the control
 tower and waiting for the notifications to land or to take off. They do
@@ -22832,9 +22833,9 @@ for this system.
 
 Similarly, the mediator is as important in this pattern.
 
-When we call mediator\'s subscribe method, we pass in a callback, and
+When we call mediator&apos;s subscribe method, we pass in a callback, and
 the mediator queues up these callbacks for when the given event is fired
-and subsequently the decoupled object\'s callback is fired. Mediator
+and subsequently the decoupled object&apos;s callback is fired. Mediator
 triggers the signal for the object to fire, allowing the object to be
 decoupled from any others.
 
@@ -22866,7 +22867,7 @@ existing object through cloning.
 This pattern focuses on creating an object that can be used as a
 template/blueprint for other objects through prototypal inheritance.
 JavaScript has native support for prototypal inheritance. Therefore,
-it\'s easy to work in this pattern.
+it&apos;s easy to work in this pattern.
 
 Here are a few advantages and disadvantages of the prototype pattern:
 
@@ -22936,7 +22937,7 @@ not exposed directly to developers, but they can interact with them
 through this façade. This pattern makes your application secure. jQuery
 is an example of a JavaScript library that uses the façade pattern.
 
-Whenever we use jQuery\'s **\$(this).animate()** or **\$(this).css()**
+Whenever we use jQuery&apos;s **\$(this).animate()** or **\$(this).css()**
 function, we are using a façade. Similarly, **\$(document).ready()**
 implements a façade.
 
@@ -22954,7 +22955,7 @@ Here are a few advantages and disadvantages of the facade pattern:
 
 **Advantages**:
 
--   Improves a web application\'s security
+-   Improves a web application&apos;s security
 
 -   Compatible with other patterns
 
@@ -22988,7 +22989,7 @@ have many common methods and properties.
 
 In this pattern, we do not use the **new** keyword to create an object.
 
-Let\'s take a real-time example that will clarify this pattern:
+Let&apos;s take a real-time example that will clarify this pattern:
 
 Suppose there is a garment factory. We need to create a type of garment.
 Instead of creating this object directly using the **new** keyword, we
@@ -23015,7 +23016,7 @@ Here are a few advantages and disadvantages of the factory pattern:
 
 **Disadvantages**:
 
--   Difficult to test object-creation process as it\'s hidden behind
+-   Difficult to test object-creation process as it&apos;s hidden behind
     factory methods
 
 **The mixin pattern**
@@ -23034,10 +23035,10 @@ another class, **fruit**. Here, **fruit** is a superclass, while
 properties from **fruit**. However, **apple** is able to define its own
 methods and override those defined by **fruit**.
 
-If **apple** needs to call an overridden method in **fruit**, it\'s
+If **apple** needs to call an overridden method in **fruit**, it&apos;s
 called method chaining.
 
-If **apple** needs to call **fruit\'s** constructor, it\'s called
+If **apple** needs to call **fruit&apos;s** constructor, it&apos;s called
 **constructor chaining**.
 
 Mixins let other objects inherit their functionality with a very minimal
@@ -23065,47 +23066,47 @@ Example:
 > found here: http://addyosmani.com/resources/essentialjsdesignpatterns/
 > book/#mixinpatternjavascript**
 >
-> **/\* Car Class \*/ var Car = function(settings) {**
+> **/&ast; Car Class &ast;/ var Car = function(settings) {**
 >
-> **this.model = settings.model \|\| \'no model provided\'; this.colour
-> = settings.colour \|\| \'no colour provided\'; };**
+> **this.model = settings.model \|\| &apos;no model provided&apos;; this.colour
+> = settings.colour \|\| &apos;no colour provided&apos;; };**
 >
-> **/\* Mixin Class \*/ var Mixin = function(){};**
+> **/&ast; Mixin Class &ast;/ var Mixin = function(){};**
 >
-> **Mixin.prototype = { driveForward: function() { console.log(\'drive
-> forward\');**
+> **Mixin.prototype = { driveForward: function() { console.log(&apos;drive
+> forward&apos;);**
 >
 > **},**
 >
 > **driveBackward: function() {**
 >
-> **console.log(\'drive backward\');**
+> **console.log(&apos;drive backward&apos;);**
 >
 > **} };**
 >
-> **/\* Augment existing class with a method from another class \*/**
+> **/&ast; Augment existing class with a method from another class &ast;/**
 >
 > **function augment(receivingClass, givingClass) {**
 >
-> **/\* only provide certain methods \*/**
+> **/&ast; only provide certain methods &ast;/**
 >
-> **if(arguments\[2\]) { var i, len = arguments.length; for (i=2;
-> i\<len; i++) { receivingClass.prototype\[arguments\[i\]\] =
-> givingClass. prototype\[arguments\[i\]\];**
+> **if(arguments&lbrack;2&rbrack;) { var i, len = arguments.length; for (i=2;
+> i&lt;len; i++) { receivingClass.prototype&lbrack;arguments&lbrack;i&rbrack;&rbrack; =
+> givingClass. prototype&lbrack;arguments&lbrack;i&rbrack;&rbrack;;**
 >
 > **} }**
 >
-> **/\* provide all methods \*/**
+> **/&ast; provide all methods &ast;/**
 >
 > **else { var methodName;**
 >
 > **for (methodName in givingClass.prototype) {**
 >
-> **/\* check to make sure the receiving class doesn\'t have a method of
-> the same name as the one currently being processed \*/ if
-> (!receivingClass.prototype\[methodName\]) {
-> receivingClass.prototype\[methodName\] = givingClass.
-> prototype\[methodName\];**
+> **/&ast; check to make sure the receiving class doesn&apos;t have a method of
+> the same name as the one currently being processed &ast;/ if
+> (!receivingClass.prototype&lbrack;methodName&rbrack;) {
+> receivingClass.prototype&lbrack;methodName&rbrack; = givingClass.
+> prototype&lbrack;methodName&rbrack;;**
 >
 > **}**
 >
@@ -23113,17 +23114,17 @@ Example:
 >
 > **} }**
 >
-> **/\* Augment the Car class to have the methods \'driveForward\' and**
+> **/&ast; Augment the Car class to have the methods &apos;driveForward&apos; and**
 >
-> **\'driveBackward\' \*/**
+> **&apos;driveBackward&apos; &ast;/**
 >
-> **augment(Car, Mixin, \'driveForward\', \'driveBackward\');**
+> **augment(Car, Mixin, &apos;driveForward&apos;, &apos;driveBackward&apos;);**
 >
-> **/\* Create a new Car \*/**
+> **/&ast; Create a new Car &ast;/**
 >
-> **var vehicle = new Car({model:\'Ford Escort\', colour:\'blue\'});**
+> **var vehicle = new Car({model:&apos;Ford Escort&apos;, colour:&apos;blue&apos;});**
 >
-> **/\* Test to make sure we now have access to the methods \*/**
+> **/&ast; Test to make sure we now have access to the methods &ast;/**
 >
 > **vehicle.driveForward(); vehicle.driveBackward();**
 
@@ -23171,13 +23172,13 @@ be reassigned to another variable on the same scope. In JavaScript, the
 **delete** operator always returns a Boolean value. Using this keyword,
 you cannot delete objects declared with the **var** keyword.
 
-Let\'s assume we have an object like this:
+Let&apos;s assume we have an object like this:
 
 > **varauthor = {**
 >
-> **\"name\":\"talha\",**
+> **&quot;name&quot;:&quot;talha&quot;,**
 >
-> **\"age\":\"24\"**
+> **&quot;age&quot;:&quot;24&quot;**
 >
 > **};**
 
@@ -23186,7 +23187,7 @@ object that looks like this:
 
 > **{**
 >
-> **\"name\":\"talha\"**
+> **&quot;name&quot;:&quot;talha&quot;**
 >
 > **};**
 
@@ -23195,7 +23196,7 @@ Enter the following command:
 **deleteauthor.age;**
 
 You can also use this command to achieve the same result: **delete
-author\[\"age\"\];**
+author&lbrack;&quot;age&quot;&rbrack;;**
 
 ### Testing properties
 
@@ -23213,9 +23214,9 @@ In JavaScript, there are two methods for property testing:
 
 > **For example:**
 >
-> **samantha = new girls(); samantha.eyecolor = \'brown\';**
+> **samantha = new girls(); samantha.eyecolor = &apos;brown&apos;;**
 >
-> **o.hasOwnProperty(\'eyecolor\'); // returns true**
+> **o.hasOwnProperty(&apos;eyecolor&apos;); // returns true**
 
 -   **propertyIsEnumerable**: This method returns **true**, only if
     **hasOwnProperty** returns **true** and that property is enumerable.
@@ -23225,18 +23226,18 @@ object property has its own value, it will return **true**.
 
 Here is an example:
 
-> **var girls = { name: \'Samantha\', height: \'Tall\', eyecolor:
-> \'brown\', address: null**
+> **var girls = { name: &apos;Samantha&apos;, height: &apos;Tall&apos;, eyecolor:
+> &apos;brown&apos;, address: null**
 >
 > **};**
 >
-> **\'name\' in girls; // true**
+> **&apos;name&apos; in girls; // true**
 >
-> **\'age\' in girls; // false**
+> **&apos;age&apos; in girls; // false**
 
 ### Enumerating properties
 
-In JavaScript, enumeration of an object\'s properties is done using the
+In JavaScript, enumeration of an object&apos;s properties is done using the
 **for-in** loop.
 
 **Description**
@@ -23252,17 +23253,17 @@ these objects are enumerable.
 
 Here is an example:
 
-> **var student = { Name:\"Ali\",**
+> **var student = { Name:&quot;Ali&quot;,**
 >
-> **Age:\"24\",**
+> **Age:&quot;24&quot;,**
 >
-> **Edu:\"Engineering\"**
+> **Edu:&quot;Engineering&quot;**
 >
 > **}**
 >
-> **Sudent.propertyIsEnumerable(\'Name\');**
+> **Sudent.propertyIsEnumerable(&apos;Name&apos;);**
 >
-> **// will return true since object\'s properties are enumerable**
+> **// will return true since object&apos;s properties are enumerable**
 >
 > **for(var property in student) {**
 >
@@ -23312,7 +23313,7 @@ There are three types of object properties in JavaScript:
 >
 > **console.log(x.prop); //its get method**
 >
-> **c.prop=\"xyz\"; //its set method**
+> **c.prop=&quot;xyz&quot;; //its set method**
 
 -   **Named accessor properties**: Functions that are used to get and
     set properties are known as **named accessor properties**. Here is
@@ -23324,7 +23325,7 @@ There are three types of object properties in JavaScript:
 >
 > **}**
 >
-> Here\'s another example:
+> Here&apos;s another example:
 >
 > **var x = { set name(val) { console.log(val);**
 >
@@ -23336,7 +23337,7 @@ There are three types of object properties in JavaScript:
 > language are called **internal properties** in JavaScript. These
 > properties are purely for specification purposes. These properties
 > have special names and are written inside square brackets. All objects
-> have an internal property known as **\[\[Prototype\]\]**. The value of
+> have an internal property known as **&lbrack;&lbrack;Prototype&rbrack;&rbrack;**. The value of
 > this property is either null or an object, which is used for
 > implementing inheritance.
 >
@@ -23371,7 +23372,7 @@ Here is an example:
 >
 > **// creates a JSON String from an array or object**
 >
-> **B=json.parse(A); // parses a JSON Object \'A\' in an object.**
+> **B=json.parse(A); // parses a JSON Object &apos;A&apos; in an object.**
 
 These methods can also retrieve and store objects, **arrays**,
 **strings**, **true** and **false**. Enumerable values are preserved or
@@ -23394,7 +23395,7 @@ native (part of the core language) methods of a string object.
 
 Here is an example using the **toUpperCase()** method:
 
-> **var book = \"JavaScript Reference!\"; var result =
+> **var book = &quot;JavaScript Reference!&quot;; var result =
 > book.toUpperCase();**
 
 The value of the result will be:
@@ -23483,12 +23484,12 @@ pass a value into a function:
 
 > **functionpassingVariables(a, b, c) { a = a + 10;**
 >
-> **b.value = \"changed\"; c = {value: \"changed\"}; }**
+> **b.value = &quot;changed&quot;; c = {value: &quot;changed&quot;}; }**
 >
 > **varnum = 10;**
 >
-> **varvar1 = {value: \"unaffected\"}; varvar2 = {value:
-> \"unaffected\"}; passingVariables (num, var1, var2);**
+> **varvar1 = {value: &quot;unaffected&quot;}; varvar2 = {value:
+> &quot;unaffected&quot;}; passingVariables (num, var1, var2);**
 >
 > **console.log(num); // 20 console.log(var1.value); // changed
 > console.log(var2.value); // unaffected**
@@ -23503,7 +23504,7 @@ functions and properties into that global object, for example:
 > **var stud=student \|\| {}; stud.student=function(name) { this.name
 > ;**
 >
-> **} var s=new stud.student(\"Ali\");**
+> **} var s=new stud.student(&quot;Ali&quot;);**
 
 ### Closure
 
@@ -23514,7 +23515,7 @@ not. Depending on how you use closures in your code, it could be complex
 or easy.
 
 Basically, closures are the inner functions of JavaScript used to access
-the outer function\'s scope. There are three scopes of a closure:
+the outer function&apos;s scope. There are three scopes of a closure:
 
 -   Access of outer function variables
 
@@ -23526,7 +23527,7 @@ Inner functions also have access to outer function variables and
 parameters. In its own scope, variables are defined in curly brackets.
 Here is an example:
 
-> **functionstudentName(name) { varstdName=\"Student Name\";
+> **functionstudentName(name) { varstdName=&quot;Student Name&quot;;
 > functionstdLastName(){ returnstdName+name; } returnstdntLastName();**
 >
 > **}**
@@ -23579,7 +23580,7 @@ can also pass as many arguments you want to use in your script to a
 constructor. The last argument will be the body of the function. It can
 also contain statements separated by commas. Here is an example:
 
-> **varobj = new Function(\'a\', \'b\', \'return a\*b;\');**
+> **varobj = new Function(&apos;a&apos;, &apos;b&apos;, &apos;return a&ast;b;&apos;);**
 
 We cannot pass the same function name in a constructor as an argument,
 as it will create an error in the script. It can also create an unnamed
@@ -23599,7 +23600,7 @@ similar to constructor functions. Here is an example:
 
 > **function student(nameI) {**
 >
-> **This.name=name; this.age=\'18\';**
+> **This.name=name; this.age=&apos;18&apos;;**
 >
 > **}**
 >
@@ -23636,7 +23637,7 @@ sections:
 
 In JavaScript, a class is an object with special types of properties and
 methods. It is used to create instances and define the behavior of
-instances. Instances\' behavior changes dynamically and we have a
+instances. Instances&apos; behavior changes dynamically and we have a
 special syntax to write it in JavaScript. Instances are created when
 special methods are invoked on a class.
 
@@ -23649,7 +23650,7 @@ prototype, we have instances.
 In simpler words, we can say that in JavaScript, a constructor can be
 any function that is responsible for creating an instance. On the other
 hand, a prototype can be any object that has no special methods or
-properties. Prototypes are responsible for an instance\'s behavior.
+properties. Prototypes are responsible for an instance&apos;s behavior.
 
 In JavaScript, the prototype and constructor functions act like a class,
 because a class has a constructor, and to define methods, you have a
@@ -23658,17 +23659,17 @@ prototype:
 Here is an example:
 
 > **//Constructor Function var Cat = function(name) { this.Name = name;
-> this.Meow = function() { console.log(this.Name + \" meow\");**
+> this.Meow = function() { console.log(this.Name + &quot; meow&quot;);**
 >
 > **}; }**
 >
 > **//Prototype object method var Cat = function(name) { this.Name =
 > name; }**
 >
-> **Cat.prototype.Meow = function() { console.log(this.Name + \"
-> meow\"); };**
+> **Cat.prototype.Meow = function() { console.log(this.Name + &quot;
+> meow&quot;); };**
 >
-> **//Both gives same results var cat = new Cat(\"Capri\");
+> **//Both gives same results var cat = new Cat(&quot;Capri&quot;);
 > cat.Meow();**
 
 There are no special properties or objects associated with a prototype.
@@ -23688,14 +23689,14 @@ With a single property of prototype, a constructor is created. If we
 overwrite the prototype property, the reference to the constructor might
 be lost. In JavaScript, we use the **constructor** property to create a
 class from an object that is passed as an object. Here is an example:
-**var color = \'black\';**
+**var color = &apos;black&apos;;**
 
 > **function Cat() {**
 >
-> **// public property this.color = \'\';**
+> **// public property this.color = &apos;&apos;;**
 >
 > **// private constructor var \_\_construct = function(that) {
-> console.log(\"I have a Cat!\"); that.color = \'brown\'; }(this)**
+> console.log(&quot;I have a Cat!&quot;); that.color = &apos;brown&apos;; }(this)**
 >
 > **// getter**
 >
@@ -23706,7 +23707,7 @@ class from an object that is passed as an object. Here is an example:
 > **this.setColor = function(color) { this.color = color; } } var b =
 > new Cat(); console.log(b.getColor()); // should be brown**
 >
-> **b.setColor(\'white\'); console.log(b.getColor()); // should be white
+> **b.setColor(&apos;white&apos;); console.log(b.getColor()); // should be white
 > console.log(color); // should be black**
 
 ### Defining a class
@@ -23732,11 +23733,11 @@ example:
 
 > **Varobj= {};**
 >
-> **Varobj=\[\];**
+> **Varobj=&lbrack;&rbrack;;**
 
 ### Classes in the ECMA5 script
 
-For specific objects\' properties, the ECMA5 script added five methods.
+For specific objects&apos; properties, the ECMA5 script added five methods.
 These methods are used to secure and restrict the extensibility of
 objects in the script. These methods are:
 
@@ -23793,7 +23794,7 @@ We can also store a variable after exporting it. Here is an example:
 
 JavaScript supports prototype inheritance. In other programming
 languages, objects and classes inherit from each other to use each
-other\'s properties and functions. However, in JavaScript, you have an
+other&apos;s properties and functions. However, in JavaScript, you have an
 object-based inheritance, which is called a prototype, in which objects
 use the properties of other objects. For example, if you have a
 **Person** object, then you can use the **\_proto\_** attribute for that
@@ -23823,7 +23824,7 @@ to create objects. Here is an example:
 >
 > **}**
 >
-> **person.prototype= { sayHi:function() { console.log(\"something\");
+> **person.prototype= { sayHi:function() { console.log(&quot;something&quot;);
 > }**
 >
 > **Function student(name) {**
@@ -23836,7 +23837,7 @@ to create objects. Here is an example:
 >
 > **Student.prototype=new Person();**
 >
-> **Varstd=new student(\"Ali\");**
+> **Varstd=new student(&quot;Ali&quot;);**
 >
 > **Std.sayHi();**
 
@@ -23857,11 +23858,11 @@ In constructor stealing, we call a super constructor in a subtype
 constructor. This idea is quite simple and easy. We use the **call()**
 and **apply()** methods for function calling. Here is an example:
 
-> **function super() { this.name=\[\"Ali\"\];**
+> **function super() { this.name=&lbrack;&quot;Ali&quot;&rbrack;;**
 >
 > **} function sub() { super.call(this); }**
 >
-> **varstd=new sub(); std.name.push(\"Ali\"); varstd1= new sub();
+> **varstd=new sub(); std.name.push(&quot;Ali&quot;); varstd1= new sub();
 > console.log(std1.name);**
 
 In this example, we used the **call()** method to call a super
@@ -23887,7 +23888,7 @@ have their own properties. Here is an example:
 
 > **functionSuperType(name) { this.name = name;**
 >
-> **this.colors = \[\'yellow\', \'purple\', \'indigo\'\];**
+> **this.colors = &lbrack;&apos;yellow&apos;, &apos;purple&apos;, &apos;indigo&apos;&rbrack;;**
 >
 > **}**
 >
@@ -23915,19 +23916,19 @@ have their own properties. Here is an example:
 >
 > **};**
 >
-> **varinstance1 = new SubType(\'John Doe\', 26);**
+> **varinstance1 = new SubType(&apos;John Doe&apos;, 26);**
 >
-> **instance1.colors.push(\'white\');**
+> **instance1.colors.push(&apos;white&apos;);**
 >
-> **//console.log(instance1.colors); //\'yellow,purple,indigo,white\'**
+> **//console.log(instance1.colors); //&apos;yellow,purple,indigo,white&apos;**
 >
-> **instance1.sayName(); //\'John Doe\'; instance1.sayAge(); //26**
+> **instance1.sayName(); //&apos;John Doe&apos;; instance1.sayAge(); //26**
 >
-> **varinstance2 = new SubType(\'Kate\', 21);**
+> **varinstance2 = new SubType(&apos;Kate&apos;, 21);**
 >
-> **//console.log(instance2.colors); //\'yellow,purple,indigo\'**
+> **//console.log(instance2.colors); //&apos;yellow,purple,indigo&apos;**
 >
-> **instance2.sayName(); //\'Kate\'; instance2.sayAge(); //21**
+> **instance2.sayName(); //&apos;Kate&apos;; instance2.sayAge(); //21**
 
 In this example, the **SuperType** constructor defines two properties:
 **name** and **colors**. The **SuperType** prototype has a single method
@@ -23935,7 +23936,7 @@ called **sayName()**. The **SubType** constructor calls the
 **SuperType** constructor, passing in the **name** argument, and defines
 its own property called **age**. Additionally, the **SubType** prototype
 is assigned to be an instance of **SuperType**, and then, a new method
-called **sayAge()** is defined. With this code, it\'s then possible to
+called **sayAge()** is defined. With this code, it&apos;s then possible to
 create two separate instances of **SubType** that have their own
 properties, including the **colors** property, but all use the same
 methods. Addressing the downsides of both prototype chaining and
@@ -23964,7 +23965,7 @@ The preceding object has no prototype and is a clone of **null**:
 
 > **var rectangle = { area: function () {**
 >
-> **returnthis.width \* this.height;**
+> **returnthis.width &ast; this.height;**
 >
 > **}**
 >
@@ -23978,7 +23979,7 @@ It can also be written as follows:
 
 > **var rectangle = Object.create(Object.prototype);**
 >
-> **rectangle.area = function () { returnthis.width \* this.height; };**
+> **rectangle.area = function () { returnthis.width &ast; this.height; };**
 
 We can extend the newly created object as follows:
 
@@ -23994,7 +23995,7 @@ for us and will extend it with the **height** and **width** properties:
 >
 > **}, area: function () {**
 >
-> **returnthis.width \* this.height;**
+> **returnthis.width &ast; this.height;**
 >
 > **}**
 >
@@ -24020,7 +24021,7 @@ task:
 >
 > **Var student= {**
 >
-> **Name=\"Ali\";**
+> **Name=&quot;Ali&quot;;**
 >
 > **};**
 >
@@ -24047,11 +24048,11 @@ the subtype **constructor**. This is a very efficient way of creating
 new objects in JavaScript. At the end, the subtype will have all the
 properties of the super type. Here is an example:
 
-> **function super(name) { this.name=\[\"Ali\"\];**
+> **function super(name) { this.name=&lbrack;&quot;Ali&quot;&rbrack;;**
 >
 > **}**
 >
-> **super.prototype.sayHi=function() { console.log(\"something\"); }**
+> **super.prototype.sayHi=function() { console.log(&quot;something&quot;); }**
 >
 > **function sub(age) { this.age=age; super.call(this,name);**
 >
@@ -24086,11 +24087,11 @@ run time, which means dynamically. Here is an example:
 > **this.inheritFrom(); //inherit from method called this.bye = subBye;
 > method 1 overridden in subclass }**
 >
-> **functionsuperHello() { return \"Hello from superClass\"; }**
+> **functionsuperHello() { return &quot;Hello from superClass&quot;; }**
 >
-> **functionsuperBye() { return \"Bye from superClass\"; }**
+> **functionsuperBye() { return &quot;Bye from superClass&quot;; }**
 >
-> **functionsubBye() { return \"Bye from subClass\"; }**
+> **functionsubBye() { return &quot;Bye from subClass&quot;; }**
 
 To run the preceding code execute following method:
 
@@ -24139,10 +24140,10 @@ a number of global objects in your script.
 A global object has a fixed number of properties. Multiple object
 instances can access this global object. Here is an example:
 
-> **varstudentName=\"Ali\" functionmyStd(){ }**
+> **varstudentName=&quot;Ali&quot; functionmyStd(){ }**
 >
-> **student=new Global(\"name\"); student.age=18; person=new
-> Global(\"name\"); post(person.age);**
+> **student=new Global(&quot;name&quot;); student.age=18; person=new
+> Global(&quot;name&quot;); post(person.age);**
 
 ### Date object
 
@@ -24564,7 +24565,7 @@ are:
 This method is used to dynamically construct a string search pattern. A
 regular expression in this method should be written in quotation marks.
 This method has three parameters. Here is an example: **var email=new
-RegExp(\"\\d{2},\"g\");**
+RegExp(&quot;\\d{2},&quot;g&quot;);**
 
 In this example:
 
@@ -24629,7 +24630,7 @@ to update properties in a regular expression.
 
 Here is an example:
 
-> **var str=(\"I have 10 dollars\");**
+> **var str=(&quot;I have 10 dollars&quot;);**
 >
 > **//The pattern below is used to find non-digits in a string var
 > parsestring= str.match(/\\D/g); // Outputs I, ,h,a,v,e, ,
@@ -24658,19 +24659,19 @@ properties.
 
 Here is an example:
 
-**var str1=(\"Apple Pie\"); var parsestring1=str1.replace(\"Pie\",
-\"Cinnamon Roll\");** Here the value of **parsestring1** is **Apple
+**var str1=(&quot;Apple Pie&quot;); var parsestring1=str1.replace(&quot;Pie&quot;,
+&quot;Cinnamon Roll&quot;);** Here the value of **parsestring1** is **Apple
 Cinnamon Roll**.
 
 > Remember here that the search is case sensitive, so if you provide
 >
-> the value **parsestring1=str1.replace(\"piE\", \"Cinnamon Roll\");**
+> the value **parsestring1=str1.replace(&quot;piE&quot;, &quot;Cinnamon Roll&quot;);**
 > then no replacement is done.
 
 Also, only the first occurrence of the pattern is replaced. Hence:
 
-> **var str1=(\"Apple Pie , Banana Pie\", \"Strawberry PIE\"); var
-> parsestring1=str1.replace(\"Pie\", \"Cinnamon Roll\");**
+> **var str1=(&quot;Apple Pie , Banana Pie&quot;, &quot;Strawberry PIE&quot;); var
+> parsestring1=str1.replace(&quot;Pie&quot;, &quot;Cinnamon Roll&quot;);**
 
 Here the value of **parsestring1** is **Apple Cinnamon Roll**, **Banana
 Pie**, **Strawberry PIE**.
@@ -24678,16 +24679,16 @@ Pie**, **Strawberry PIE**.
 To perform a global search and replacement so that all occurrences are
 replaced we use the following code:
 
-> **var str1=(\"Apple Pie , Banana Pie\", \"Strawberry PIE\"); var
-> parsestring1=str1.replace(/Pie/g, \"Cinnamon Roll\");**
+> **var str1=(&quot;Apple Pie , Banana Pie&quot;, &quot;Strawberry PIE&quot;); var
+> parsestring1=str1.replace(/Pie/g, &quot;Cinnamon Roll&quot;);**
 
 Here the value of **parsestring1** is **Apple Cinnamon Roll**, **Banana
 Cinnamon Roll**, **Strawberry PIE**.
 
 For a global insensitive search, use the following code:
 
-> **var str1=(\"Apple Pie , Banana Pie, \"Strawberry PIE\"); var
-> parsestring1=str1.replace(/Pie/gi, \"Cinnamon Roll\");**
+> **var str1=(&quot;Apple Pie , Banana Pie, &quot;Strawberry PIE&quot;); var
+> parsestring1=str1.replace(/Pie/gi, &quot;Cinnamon Roll&quot;);**
 
 Here the value of **parsestring1** is **Apple Cinnamon Roll**, **Banana
 Cinnamon Roll**, **Strawberry Cinnamon Roll**.
@@ -24713,8 +24714,8 @@ treated as a single element in an array. If a null string is passed as a
 parameter, the method causes each letter to be split into different
 characters. For example:
 
-> **var str1 = \"My Car is at the garage in Queens\"; var parseString =
-> str1.split(\"\");**
+> **var str1 = &quot;My Car is at the garage in Queens&quot;; var parseString =
+> str1.split(&quot;&quot;);**
 
 The value of **parseString** will be:
 
@@ -24723,23 +24724,23 @@ The value of **parseString** will be:
 Providing a limit will return a comma separated array of the words
 containing only the specified number of elements. For example:
 
-> **var str1 = \"My Car is at the garage in Queens\"; var parseString =
-> str1.split(\" \", 3);**
+> **var str1 = &quot;My Car is at the garage in Queens&quot;; var parseString =
+> str1.split(&quot; &quot;, 3);**
 
 The value of **parseString** is **My,Car,is**.
 
 Using a letter or letters as a separator will give the following
 results:
 
-**var str1 = \"My Car is at the garage in Queens\"; var parseString =
-str1.split(\"a\");** The value of **parseString** will be:
+**var str1 = &quot;My Car is at the garage in Queens&quot;; var parseString =
+str1.split(&quot;a&quot;);** The value of **parseString** will be:
 
 > **My C,r is ,t the g,r,ge in Queens**
 
 Here is another example:
 
-**var str1 = \"My Car is at the garage in Queens\"; var parseString =
-str1.split(\"ar\");** The value of **parseString** will be:
+**var str1 = &quot;My Car is at the garage in Queens&quot;; var parseString =
+str1.split(&quot;ar&quot;);** The value of **parseString** will be:
 
 > **My C, is at the g,age in Queens**
 
@@ -24766,8 +24767,8 @@ return **-1**. Global flags are not supported by this method.
 
 Here is an example:
 
-**var str1=(\"I have 10 dollars in my pocket\"); var
-parsestring=str1.search(\"i\");** The value of **parseString** here is
+**var str1=(&quot;I have 10 dollars in my pocket&quot;); var
+parsestring=str1.search(&quot;i&quot;);** The value of **parseString** here is
 **18**.
 
 > There are additional string methods available to perform other tasks
@@ -24783,7 +24784,7 @@ An array is a collection of objects.
 To create an array in JavaScript, the elements of the collection are
 enclosed within square brackets and separated by commas, as seen here:
 
-> **varcolors = \[\"red\", \"yellow\", \"blue\"\]**
+> **varcolors = &lbrack;&quot;red&quot;, &quot;yellow&quot;, &quot;blue&quot;&rbrack;**
 
 An array can also be initialized using the **new** keyword or by
 specifying their length between 0 and 232-1:
@@ -24793,7 +24794,7 @@ specifying their length between 0 and 232-1:
 
 To access array elements, we can use an index notation:
 
-> **varlastColor = colors\[2\]; // blue**
+> **varlastColor = colors&lbrack;2&rbrack;; // blue**
 
 Always remember that array elements always start with the zero index.
 Hence, the third element in the preceding array has the index of **2**.
@@ -24820,9 +24821,9 @@ the array are popped out first. This follows the LIFO principle.
 
 Here is an example:
 
-> **var sweets = \[\"Red Velvet\", \"Chocolate Mousse\", \"Strawberry**
+> **var sweets = &lbrack;&quot;Red Velvet&quot;, &quot;Chocolate Mousse&quot;, &quot;Strawberry**
 >
-> **Delight\", \"Pineapple Sundae\", \"Black Forest\"\]; var element=
+> **Delight&quot;, &quot;Pineapple Sundae&quot;, &quot;Black Forest&quot;&rbrack;; var element=
 > sweets.Pop();**
 
 The value of the element here is **Black Forest**.
@@ -24846,10 +24847,10 @@ appear at the end of the array.
 
 Here is an example:
 
-> **var sweets = \[\"Red Velvet\", \"Chocolate Mousse\", \"Strawberry**
+> **var sweets = &lbrack;&quot;Red Velvet&quot;, &quot;Chocolate Mousse&quot;, &quot;Strawberry**
 >
-> **Delight\", \"Pineapple Sundae\", \"Black Forest\"\]; var element=
-> sweets.Push(\"Lemon Meringue\");**
+> **Delight&quot;, &quot;Pineapple Sundae&quot;, &quot;Black Forest&quot;&rbrack;; var element=
+> sweets.Push(&quot;Lemon Meringue&quot;);**
 
 The value of the element here is **6**.
 
@@ -24872,9 +24873,9 @@ The **ToString()** function is used to convert an array into a string.
 The elements of the array appear in the string and are separated by a
 comma:
 
-> **var sweets = \[\"Red Velvet\", \"Chocolate Mousse\", \"Strawberry**
+> **var sweets = &lbrack;&quot;Red Velvet&quot;, &quot;Chocolate Mousse&quot;, &quot;Strawberry**
 >
-> **Delight\", \"Pineapple Sundae\", \"Black Forest\"\]; var StrSweets=
+> **Delight&quot;, &quot;Pineapple Sundae&quot;, &quot;Black Forest&quot;&rbrack;; var StrSweets=
 > sweets.ToString()**
 
 Here the value of **StrSweets** is:
@@ -24900,9 +24901,9 @@ This returns a string containing the elements of the array.
 This is default behaviour of the array and works same as the
 **ToString()** function.
 
-> **var sweets = \[\"Red Velvet\", \"Chocolate Mousse\", \"Strawberry**
+> **var sweets = &lbrack;&quot;Red Velvet&quot;, &quot;Chocolate Mousse&quot;, &quot;Strawberry**
 >
-> **Delight\", \"Pineapple Sundae\", \"Black Forest\"\]; var StrSweets=
+> **Delight&quot;, &quot;Pineapple Sundae&quot;, &quot;Black Forest&quot;&rbrack;; var StrSweets=
 > sweets.ValueOf()**
 
 Here the value of **StrSweets** is:
@@ -24931,16 +24932,16 @@ The **Join()** function is used to convert an array into a string. The
 elements of the array appear in the string and are separated by the
 delimter:
 
-> **var sweets = \[\"Red Velvet\", \"Chocolate Mousse\", \"Strawberry**
+> **var sweets = &lbrack;&quot;Red Velvet&quot;, &quot;Chocolate Mousse&quot;, &quot;Strawberry**
 >
-> **Delight\", \"Pineapple Sundae\", \"Black Forest\"\]; var StrSweets=
-> sweets.Join(\*)**
+> **Delight&quot;, &quot;Pineapple Sundae&quot;, &quot;Black Forest&quot;&rbrack;; var StrSweets=
+> sweets.Join(&ast;)**
 
 Here the value of **StrSweets** is:
 
-> **Red Velvet \* Chocolate Mousse \* Strawberry Delight \* Pineapple**
+> **Red Velvet &ast; Chocolate Mousse &ast; Strawberry Delight &ast; Pineapple**
 >
-> **Sundae \* Black Forest**
+> **Sundae &ast; Black Forest**
 
 #### .Splice()
 
@@ -24968,10 +24969,10 @@ This method is used to remove and add elements in one step. We can
 specify where the new element is to be added and which elements are to
 be removed.
 
-> **var sweets = \[\"Red Velvet\", \"Chocolate Mousse\", \"Strawberry**
+> **var sweets = &lbrack;&quot;Red Velvet&quot;, &quot;Chocolate Mousse&quot;, &quot;Strawberry**
 
-**Delight\", \"Pineapple Sundae\", \"Black Forest\"\]; var StrSweets=
-sweets.splice(2, 0, \"Lemon Meringue\");** Here the value of
+**Delight&quot;, &quot;Pineapple Sundae&quot;, &quot;Black Forest&quot;&rbrack;; var StrSweets=
+sweets.splice(2, 0, &quot;Lemon Meringue&quot;);** Here the value of
 **StrSweets** is:
 
 > **Red Velvet,Chocolate Mousse,Lemon Meringue,Strawberry**
@@ -24996,9 +24997,9 @@ The sort method is used to sort an array, alphabetically.
 
 Here is an example:
 
-> **var sweets = \[\"Red Velvet\", \"Chocolate Mousse\", \"Strawberry**
+> **var sweets = &lbrack;&quot;Red Velvet&quot;, &quot;Chocolate Mousse&quot;, &quot;Strawberry**
 >
-> **Delight\", \"Pineapple Sundae\", \"Black Forest\"\]; var StrSweets=
+> **Delight&quot;, &quot;Pineapple Sundae&quot;, &quot;Black Forest&quot;&rbrack;; var StrSweets=
 > sweets.Sort();**
 
 Here the value of **StrSweets** is:
@@ -25026,9 +25027,9 @@ order.
 
 Here is an example:
 
-> **var sweets = \[\"Red Velvet\", \"Chocolate Mousse\", \"Strawberry**
+> **var sweets = &lbrack;&quot;Red Velvet&quot;, &quot;Chocolate Mousse&quot;, &quot;Strawberry**
 >
-> **Delight\", \"Pineapple Sundae\", \"Black Forest\"\]; var StrSweets=
+> **Delight&quot;, &quot;Pineapple Sundae&quot;, &quot;Black Forest&quot;&rbrack;; var StrSweets=
 > sweets.reverse();**
 
 Here the value of **StrSweets** is:
@@ -25059,9 +25060,9 @@ the array as a string.
 
 Here is an example:
 
-> **var sweets = \[\"Red Velvet\", \"Chocolate Mousse\", \"Strawberry**
+> **var sweets = &lbrack;&quot;Red Velvet&quot;, &quot;Chocolate Mousse&quot;, &quot;Strawberry**
 >
-> **Delight\", \"Pineapple Sundae\", \"Black Forest\"\]; var StrSweets=
+> **Delight&quot;, &quot;Pineapple Sundae&quot;, &quot;Black Forest&quot;&rbrack;; var StrSweets=
 > sweets.slice(3);**
 
 Here the value of **StrSweets** is:
@@ -25088,9 +25089,9 @@ or more arrays.
 
 Here is an example:
 
-> **var greenShades= \[\"Mint\", \"Basil\", \"Pine\", \"Emerald\"\]; var
-> BlueShades=\[\"Azure\", \"Cerulean\", \"Navy\", \"Aegan\"\]; var
-> VioletShades= \[\"Lilac\", \"Orchid\", \"Mauve\", \"Wisteria\"\]; var
+> **var greenShades= &lbrack;&quot;Mint&quot;, &quot;Basil&quot;, &quot;Pine&quot;, &quot;Emerald&quot;&rbrack;; var
+> BlueShades=&lbrack;&quot;Azure&quot;, &quot;Cerulean&quot;, &quot;Navy&quot;, &quot;Aegan&quot;&rbrack;; var
+> VioletShades= &lbrack;&quot;Lilac&quot;, &quot;Orchid&quot;, &quot;Mauve&quot;, &quot;Wisteria&quot;&rbrack;; var
 > CoolShades=greenShades.concat(BlueShades, VioletShades);**
 
 Here the value of **CoolShades** is:
@@ -25120,7 +25121,7 @@ specification guides.
 
 It should be noted that some of the features might not be under
 compliance with their exact specifications. While working in Chrome,
-don\'t forget to enable the Experimental JavaScript flags.
+don&apos;t forget to enable the Experimental JavaScript flags.
 
 > ![](./images/image22.jpg){width="3.574004811898513in"
 > height="6.28120406824147in"}
@@ -25225,12 +25226,12 @@ height="2.8159897200349957in"}
 **Caja**
 ([**https://developers.google.com/caja/**)](https://developers.google.com/caja/)
 is an open source secure subset powered by Google. Caja (which means
-\"**box**\" in Spanish) further defines two subsets:
+&quot;**box**&quot; in Spanish) further defines two subsets:
 
--   **Cajita** (which means \"**small box**\" in Spanish) is a narrow
+-   **Cajita** (which means &quot;**small box**&quot; in Spanish) is a narrow
     subset just like ADsafe and dojox.secure
 
--   **Valija** (which means \"**suitcase**\" in Spanish) is a broader
+-   **Valija** (which means &quot;**suitcase**&quot; in Spanish) is a broader
     subset and is much more similar to ECMAScript in strict mode (with
     the **eval()** method removed)
 
@@ -25251,16 +25252,16 @@ developing an app having the **xyz123** ID, and there is a **foo()**
 function in the code. It will eventually become **xyz123_foo()**. Even
 function calls to **eval()** are redirected to a non-existent function.
 
-#### Microsoft\'s web sandbox
+#### Microsoft&apos;s web sandbox
 
-Microsoft\'s **Web Sandbox**
+Microsoft&apos;s **Web Sandbox**
 ([**http://www.websandbox.org/**](http://www.websandbox.org/)) defines a
 broad secure subset of JavaScript, HTML, and CSS. Sandbox implements
 host virtualization to provide security and extensibility. The untrusted
 code is executed in a virtual machine instead of running directly in a
 browser. A virtual machine quarantines the untrusted code, which
 prevents it from interacting with the elements outside the virtual
-machine. Let\'s take a look at the following block diagram:
+machine. Let&apos;s take a look at the following block diagram:
 
 > ![](./images/image26.jpg){width="5.398747812773403in"
 > height="1.8539424759405074in"}
@@ -25291,16 +25292,16 @@ The **Let** keyword is used for the block scoping of variables. The
 variables are declared at the start of the code instead of at the start
 of functions:
 
-> **var name = \"john\"; console.log(name);**
+> **var name = &quot;john&quot;; console.log(name);**
 
 In the preceding example, the name **john** is the value of name logged
 in console. The declarations in JavaScript are moved to the top. The
 position of the variables declared or initialized in the scope of the
 function does not matter, and they will be hoisted to the top by
-default. JavaScript\'s default conduct is to move variable declarations
+default. JavaScript&apos;s default conduct is to move variable declarations
 to the top.
 
-Hoisting is JavaScript\'s default behavior to move variable declarations
+Hoisting is JavaScript&apos;s default behavior to move variable declarations
 to the top.
 
 Variables in JavaScript are function scoped. This means, variables are
@@ -25308,13 +25309,13 @@ available throughout the function, even if they are declared in a nested
 code block. Here is a short example in which we will log the output in
 the console of our client, that is, Chrome, Firefox, and so on:
 
-> **var name = \"john\";**
+> **var name = &quot;john&quot;;**
 >
 > **(function () {**
 >
 > **// var name = undefined; if (!name)**
 >
-> **{ var name = \"jane\"; } console.log(name); // \"jane\" }());**
+> **{ var name = &quot;jane&quot;; } console.log(name); // &quot;jane&quot; }());**
 
 From the preceding example, the value of name used to log-in into the
 console is **jane**.
@@ -25323,21 +25324,21 @@ ES6 handles this issue with let. Let is very much like **var**. The only
 difference is that **let** is block scoped, and **var** is function
 scoped. We can rewrite the previous example using let, as shown here:
 
-> **var name = \"john\";**
+> **var name = &quot;john&quot;;**
 >
 > **(function () {**
 >
-> **// var name = undefined; if (!name) { let name = \"jane\";**
+> **// var name = undefined; if (!name) { let name = &quot;jane&quot;;**
 >
 > **}**
 >
-> **console.log(name); // \"john\"**
+> **console.log(name); // &quot;john&quot;**
 >
 > **}());**
 
 Notice that although the value of name is **jane** inside the function,
 using the **let** keyword sets its scope to global and the value of name
-defaults to **john**. Hence, **john** is logged in the client\'s
+defaults to **john**. Hence, **john** is logged in the client&apos;s
 console.
 
 > If we declare a variable as a constant, assign it some value, use the
@@ -25377,7 +25378,7 @@ shorthanded by the use of array.
 
 The functions are shorthanded for multiple **try-catch** expressions.
 The thing that is returned is the generated object wrapped in **{}** and
-not in **\[\]**. We use this for multiple values to variables in the
+not in **&lbrack;&rbrack;**. We use this for multiple values to variables in the
 function.
 
 ## Scoped variables and constants
@@ -25388,7 +25389,7 @@ a variable in JavaScript, we can assign a value to it at the time of
 declaration or later. Here is an example:
 
 > **\_xyz123; // variable declared without assigning a value to it
-> varabc = \"Star\"; //variable declared while assigning a value to it**
+> varabc = &quot;Star&quot;; //variable declared while assigning a value to it**
 
 In JavaScript, a variable is defined by a dollar sign the same as in
 query. In JavaScript, we create variables dynamically using the **var**
@@ -25416,16 +25417,16 @@ Constants can be defined using the **const** keyword as shown here:
 > values are read-only.
 
 Here is a working example: **const PI = 3.14159265359;
-console.log(\"value of PI = \" + PI); //value of PI = 3.14159265359 PI =
-3.1415; //\<\-\-\-\-\-\-- Can not re-assign value to PI
-console.log(\"value of PI = \" + PI); //value of PI = 3.14159265359
-const PI = 2.0312; //\<\-\-\-\-\-\-- Can not re-initialize value of PI
-console.log(\"value of PI = \" + PI); //Uncaught TypeError: Identifier
-\'PI\' has already been declared var PI = 9.2144; //\<\-\-\-\-\-\-- Can
+console.log(&quot;value of PI = &quot; + PI); //value of PI = 3.14159265359 PI =
+3.1415; //&lt;\-\-\-\-\-\-- Can not re-assign value to PI
+console.log(&quot;value of PI = &quot; + PI); //value of PI = 3.14159265359
+const PI = 2.0312; //&lt;\-\-\-\-\-\-- Can not re-initialize value of PI
+console.log(&quot;value of PI = &quot; + PI); //Uncaught TypeError: Identifier
+&apos;PI&apos; has already been declared var PI = 9.2144; //&lt;\-\-\-\-\-\-- Can
 not re-declare value of PI**
 
-> **console.log(\"value of PI = \" + PI); //Uncaught TypeError:
-> Identifier \'PI\' has already been declared.**
+> **console.log(&quot;value of PI = &quot; + PI); //Uncaught TypeError:
+> Identifier &apos;PI&apos; has already been declared.**
 
 The **class** variables are declared in the class but not within methods
 of any class, whereas the local variable exits within the methods of any
@@ -25434,7 +25435,7 @@ class.
 ## Shorthand functions
 
 Shorthand function, also known as **expression closure**, is a technique
-to use simple functions in JavaScript. It is used to omit a function\'s
+to use simple functions in JavaScript. It is used to omit a function&apos;s
 curly brackets in the event; it returns a **true** or **false**
 statement. Similarly, if you omit the **return** keyword, it would also
 send you the exact same result.
@@ -25572,10 +25573,10 @@ Here is an example showing the working of multiple **catch** clauses:
 
 > **functionCheckEligibility(Age) { var result; try { //try block**
 >
-> **if (Age \< 16 { //condition to be tested throw new Error(\"Children
+> **if (Age &lt; 16 { //condition to be tested throw new Error(&quot;Children
 > below the age of 16 are not allowed.**
 >
-> **Parent Supervision needed!\"); //incase of false result, an error
+> **Parent Supervision needed!&quot;); //incase of false result, an error
 > will be raised**
 >
 > **} result = age;**
@@ -25592,11 +25593,11 @@ Here is an example showing the working of multiple **catch** clauses:
 > **finally { // finally block - It will run in the end regardless of
 > the try, catch results**
 >
-> **console.log(\"Age doesn\'t matter!\"); }**
+> **console.log(&quot;Age doesn&apos;t matter!&quot;); }**
 >
 > **return result; };**
 
-Let\'s pass 14 as the argument to the function, as shown here:
+Let&apos;s pass 14 as the argument to the function, as shown here:
 
 > **CheckEligibility(14);**
 
@@ -25606,7 +25607,7 @@ The output will be as follows:
 > needed!**
 >
 > In **try-catch** statements, we must have at least one **finally** or
-> **try-catch** block. **Try** doesn\'t necessarily need a **catch**
+> **try-catch** block. **Try** doesn&apos;t necessarily need a **catch**
 > clause. If a **try** statement does not contain at least one **catch**
 > block, it must
 >
@@ -25630,13 +25631,13 @@ XML objects. This technique is used in client-side programming.
 
 Here is an example:
 
-> **varstudent=\<student\>**
+> **varstudent=&lt;student\>**
 >
-> **\<studentInfo\>**
+> **&lt;studentInfo\>**
 >
-> **\<name\>Ali\</name\>\</studentInfo\>**
+> **&lt;name\>Ali&lt;/name\>&lt;/studentInfo\>**
 >
-> **\</student\>**
+> **&lt;/student\>**
 
 If we enter this XML into our JavaScript code, the E4X interpreter will
 handle it as an XML object in your script.
@@ -25682,22 +25683,22 @@ As the name suggests, arrow functions use a shorter syntax, an arrow
 For example, look at the following example:
 
 > **// An empty arrow function returns undefined let empty =()=\>{};
-> (()=\>\"pine\")()// returns \"pine\"**
+> (()=\>&quot;pine&quot;)()// returns &quot;pine&quot;**
 >
 > **var simple = a =\> a \>20?20: a; simple(20);// 20 simple(10);// 10
 > let max =(a, b)=\> a \> b ?a : b; // Easy array filtering, mapping,
-> \...**
+> &period;..**
 >
-> **varsampleArray=\[7,4,1,0,3,5,11\];**
+> **varsampleArray=&lbrack;7,4,1,0,3,5,11&rbrack;;**
 >
 > **var sum =sampleArray.reduce((a, b)=\> a + b);// The answer is 29 var
-> even =sampleArray.filter(v =\> v %2==0);// The answer is \[4, 0\] var
-> odd =sampleArray.filter(v =\> v %2!=0);// The answer is \[7, 1,**
+> even =sampleArray.filter(v =\> v %2==0);// The answer is &lbrack;4, 0&rbrack; var
+> odd =sampleArray.filter(v =\> v %2!=0);// The answer is &lbrack;7, 1,**
 >
-> **3, 5, 11\]**
+> **3, 5, 11&rbrack;**
 >
-> **var double =sampleArray.map(v =\> v \*2);// The answer is\[14, 8, 2,
-> 0, 6, 10, 22\]**
+> **var double =sampleArray.map(v =\> v &ast;2);// The answer is&lbrack;14, 8, 2,
+> 0, 6, 10, 22&rbrack;**
 
 An arrow function expression or a fat arrow function are shorter in
 syntax when compared with function expressions. Arrow function is used
@@ -25705,12 +25706,12 @@ to bind the value of this. (It does not binds its own **arguments**,
 **super**, **this** or **new.target**). Arrow functions are anonymous.
 
 The **yield** keyword is used to **pause** and **resume** a generator
-function (**function\*** function keyword with an asterisk defines a
+function (**function&ast;** function keyword with an asterisk defines a
 **generator** function that returns a **Generator** object).
 
 ### Classes
 
-ES6 classes\' syntax is simpler and easier than that of area syntactical
+ES6 classes&apos; syntax is simpler and easier than that of area syntactical
 sugar over the prototype-based object-oriented pattern. It is a
 syntactical sugar. One-time declaration makes class patterns easier to
 use and simplifies the use of class patterns. Classes support
@@ -25733,18 +25734,18 @@ Here is an example of writing a class in ES6 and ES5:
 > enables us to add new functions to an existing prototype
 > console.log(this.age); }**
 >
-> **varmyInstance = new someES5Class(\'Talha\', 25); //new keyword is
+> **varmyInstance = new someES5Class(&apos;Talha&apos;, 25); //new keyword is
 > used with a constructor function to create new objects from the same
 > prototype**
 >
 > **myInstance.sayName(); //the new method can then be called as a
 > regular member myInstance.sayAge();**
 >
-> **/\*Output:**
+> **/&ast;Output:**
 >
 > **Talha**
 >
-> **25\*/**
+> **25&ast;/**
 >
 > **//ES6**
 >
@@ -25765,17 +25766,17 @@ Here is an example of writing a class in ES6 and ES5:
 >
 > **}**
 >
-> **varmyInstance = new someES6Class(\'Talha\', 25); //new keyword is
+> **varmyInstance = new someES6Class(&apos;Talha&apos;, 25); //new keyword is
 > used to create new objects from the class**
 >
 > **myInstance.sayName(); //functions are the class members and can be
 > called directly myInstance.sayAge();**
 >
-> **/\*Output:**
+> **/&ast;Output:**
 >
 > **Talha**
 >
-> **25\*/**
+> **25&ast;/**
 
 ### Enhanced object literals
 
@@ -25840,7 +25841,7 @@ there.
 
 Here is an example:
 
-> **varcustomer = { name: \"Samantha\", logName: function() {
+> **varcustomer = { name: &quot;Samantha&quot;, logName: function() {
 > console.log(this.name);**
 >
 > **}**
@@ -25851,7 +25852,7 @@ With ECMAScript 6, the syntax became easier to code. Colon and function
 keywords have been removed. The same example can be rewritten as
 follows:
 
-> **varcustomer = { name: \"Samantha\", logName() {**
+> **varcustomer = { name: &quot;Samantha&quot;, logName() {**
 >
 > **console.log(this.name);**
 >
@@ -25865,18 +25866,18 @@ follows:
 >
 > **\_\_prototype\_\_: theProtoTypeObj,**
 >
-> **// Shorthand for \'handler: handler\' handler, // Methods toString()
+> **// Shorthand for &apos;handler: handler&apos; handler, // Methods toString()
 > {**
 >
 > **// Super calls**
 >
-> **return \"x \" + super.toString();**
+> **return &quot;x &quot; + super.toString();**
 >
 > **},**
 >
 > **// Dynamic property names**
 >
-> **\[ \'property\_\' + (() =\> 20)() \]: 20**
+> **&lbrack; &apos;property\_&apos; + (() =\> 20)() &rbrack;: 20**
 >
 > **};**
 
@@ -25905,8 +25906,8 @@ Template strings are enclosed within backticks (**\`**) instead of
 single or double quotes. Here is an example: **letbasic_string = \`Kung
 Fu Panda\`;**
 
-> **console.log(basic_string); // \"Kung Fu Panda\"
-> console.log(typeofbasic_string); // \"string\"
+> **console.log(basic_string); // &quot;Kung Fu Panda&quot;
+> console.log(typeofbasic_string); // &quot;string&quot;
 > console.log(basic_string.length); // 13**
 
 In this example, a **basic_string** variable contains a simple
@@ -25914,9 +25915,9 @@ JavaScript string. The template string syntax is only used to create the
 string value, which is then assigned to **basic_string**.
 
 If there is a need to use a backtick in string, then you can escape it
-using a backslash (**\\**):
+using a backslash (**\&ast;*):
 
-> **letbasic_string = \`\\\`Kung Fu\\\` Panda.\`; // \`Kung Fu\' Panda**
+> **letbasic_string = \`\\\`Kung Fu\\\` Panda.\`; // \`Kung Fu&apos; Panda**
 
 **Multiline strings**
 
@@ -25924,7 +25925,7 @@ In this type of string, we can add multiple lines in a single line of
 code. To insert a new line in a string, we have to include **\\n**
 within the string manually, as follows:
 
-> **letmultiline_string = \"Kung Fu Panda, \\n\\ Releasing in 2016\";
+> **letmultiline_string = &quot;Kung Fu Panda, \\n\\ Releasing in 2016&quot;;
 > console.log(multiline_string);**
 
 The output of this is:
@@ -25946,7 +25947,7 @@ client console.
 
 Fetching data from objects and arrays is very common in JavaScript.
 Object properties are usually stored in local variables for instant
-access. Let\'s take a look at the following code snippet:
+access. Let&apos;s take a look at the following code snippet:
 
 > **var settings = { replay: true, save: false }; // later**
 >
@@ -25962,25 +25963,25 @@ and arrays.
 All variables can be initialized and swapped at once instead of the
 conventional way of creating a temporary variable:
 
-> **var \[ first, last \] = \[\"one\", \"hundred\"\] // initialize
-> console.log(first + \" to \" + last); // one to hundred**
+> **var &lbrack; first, last &rbrack; = &lbrack;&quot;one&quot;, &quot;hundred&quot;&rbrack; // initialize
+> console.log(first + &quot; to &quot; + last); // one to hundred**
 >
-> **\[first, last\] = \[last, first\] // variable swapping
-> console.log(first + \" to \" + last); // hundred to one**
+> **&lbrack;first, last&rbrack; = &lbrack;last, first&rbrack; // variable swapping
+> console.log(first + &quot; to &quot; + last); // hundred to one**
 
 Multiple values from a function are returned with ease using array
-destructuring. We don\'t have to wrap around an object. To skip
+destructuring. We don&apos;t have to wrap around an object. To skip
 variables, you can leave the position of the array element blank:
 
 > **function dob() {**
 >
-> **return \[29, \"November\", 1990, \"Thursday\"\];**
+> **return &lbrack;29, &quot;November&quot;, 1990, &quot;Thursday&quot;&rbrack;;**
 >
 > **}**
 >
-> **var \[date, month, year, day\] = dob();**
+> **var &lbrack;date, month, year, day&rbrack; = dob();**
 >
-> **console.log(\"My date of birth is on \" + date + \" \" + month); //
+> **console.log(&quot;My date of birth is on &quot; + date + &quot; &quot; + month); //
 > My**
 >
 > **date of birth is on 29 November**
@@ -25992,11 +25993,11 @@ that is returned from a function even with deeply nested objects.
 
 Destructuring enables variables to be initialized from an object that is
 returned by a function having deeply nested objects. Just like Array
-destructuring, we can skip the ones not needed. Here\'s the working
+destructuring, we can skip the ones not needed. Here&apos;s the working
 snippet:
 
-> **function dob() { return { date: 29, month: \"November\", year: 1990,
-> time: { hour: 12, // nested minute: 35, meridian: \"AM\"**
+> **function dob() { return { date: 29, month: &quot;November&quot;, year: 1990,
+> time: { hour: 12, // nested minute: 35, meridian: &quot;AM&quot;**
 >
 > **}**
 >
@@ -26007,8 +26008,8 @@ snippet:
 > **var { date: d, month: m, time : { hour: h, meridian: p } } = dob();
 > // h is the nested property while year and minute is skipped**
 >
-> **console.log(\"I was born on \" + d + \" \" + m + \" at \" + h + \"
-> \" +**
+> **console.log(&quot;I was born on &quot; + d + &quot; &quot; + m + &quot; at &quot; + h + &quot;
+> &quot; +**
 >
 > **p); // I was born on 29 November at 12 AM**
 
@@ -26033,9 +26034,9 @@ types of these parameters that could be passed to functions:
 ES6 lets us set default parameters. A parameter with a default value is
 considered optional. It binds trailing parameters to an array:
 
-> **function multiply(x, y) { y = typeofy !== \'undefined\' ? y : 1;**
+> **function multiply(x, y) { y = typeofy !== &apos;undefined&apos; ? y : 1;**
 >
-> **returnx\*y; } multiply(10);**
+> **returnx&ast;y; } multiply(10);**
 
 **Rest parameter**
 
@@ -26067,7 +26068,7 @@ Here is an example showing the spread operator:
 
 > **//Spread Operator functionsum2(a, b, c) { return a + b + c;**
 >
-> **} varargs = \[1, 2\];**
+> **} varargs = &lbrack;1, 2&rbrack;;**
 >
 > **console.log(sum(...args, ...args, 3)); // 6**
 
@@ -26100,7 +26101,7 @@ The **let** keyword is a new **var**. The declaration syntax for the
 **var** with **let** to declare a variable but keep its scope to the
 current code: **functiongetCuisine(condition) {**
 
-> **if (condition) { letcuisine = \"Mediterranean\"; // other code**
+> **if (condition) { letcuisine = &quot;Mediterranean&quot;; // other code**
 >
 > **returncuisine;**
 >
@@ -26120,9 +26121,9 @@ variable has to be initialized:
 >
 > **// Syntax error: missing initialization const ITEM;**
 
-### Iterators and the for\...of operator
+### Iterators and the for&period;..of operator
 
-We use iterators to allow customization of an object\'s iteration
+We use iterators to allow customization of an object&apos;s iteration
 method/behavior, such as CLRIE numerable or Java Iterable. Generalize
 the **for..in** operator to custom iterator-based iteration with
 **for..of**. Iterators are an important feature of ECMAScript 6. When
@@ -26135,9 +26136,9 @@ accompanying whole number succession:
 
 > **let fibonacci = {**
 >
-> **\[Symbol.iterator\]() { let x = 0, y = 1; return { next() {**
+> **&lbrack;Symbol.iterator&rbrack;() { let x = 0, y = 1; return { next() {**
 >
-> **\[x, y\] = \[y, x + y\];**
+> **&lbrack;x, y&rbrack; = &lbrack;y, x + y&rbrack;;**
 >
 > **return { done: false, value: y }**
 >
@@ -26165,11 +26166,11 @@ create an iteration algorithm by writing a single function. This single
 function is able to maintain its own state.
 
 A **generator** is a function that returns an iterator. The
-**generator** functions are denoted by embedding an asterisk (**\***)
+**generator** functions are denoted by embedding an asterisk (**&ast;**)
 after the function keyword. A normal function becomes a generator if it
-contains a yield expression and uses **function\*** syntax.
+contains a yield expression and uses **function&ast;** syntax.
 
-> It doesn\'t matter whether there is space between the **function**
+> It doesn&apos;t matter whether there is space between the **function**
 > keyword and the asterisk.
 
 The **yield** keyword is utilized within the generators function to
@@ -26182,9 +26183,9 @@ shown here:
 
 > **let fibonacci = {**
 >
-> **\*\[Symbol.iterator\]() { let prex = 0, cury = 1 for (;;) {**
+> **&ast;&lbrack;Symbol.iterator&rbrack;() { let prex = 0, cury = 1 for (;;) {**
 >
-> **\[ prex, cury \] = \[ cury, prex+curv \] = \[ yield cury**
+> **&lbrack; prex, cury &rbrack; = &lbrack; cury, prex+curv &rbrack; = &lbrack; yield cury**
 >
 > **}**
 >
@@ -26206,21 +26207,21 @@ The supported Unicode examples are as follows:
 
 > **// same as ECMAScript 5**
 >
-> **\"**𝌆**\".length == 2**
+> **&quot;**𝌆**&quot;.length == 2**
 >
-> **// new RegExpbehaviour, opt-in \'u\'**
+> **// new RegExpbehaviour, opt-in &apos;u&apos;**
 >
-> **\"**𝌆**\".match(/./u)\[0\].length == 2**
+> **&quot;**𝌆**&quot;.match(/./u)&lbrack;0&rbrack;.length == 2**
 >
 > **// new form**
 >
-> **\"\\u{1D306}\"==\"**𝌆**\"==\"\\uD834\\uDF06\"**
+> **&quot;\\u{1D306}&quot;==&quot;**𝌆**&quot;==&quot;\\uD834\\uDF06&quot;**
 >
 > **// new String ops**
 >
-> **\"**𝌆**\".codePointAt(0) == 0x20BB7**
+> **&quot;**𝌆**&quot;.codePointAt(0) == 0x20BB7**
 >
-> **// for-of iterates code points for(var c of \"**𝌆**\") {
+> **// for-of iterates code points for(var c of &quot;**𝌆**&quot;) {
 > console.log(c); }**
 
 ### Modules
@@ -26234,17 +26235,17 @@ processed:
 
 > **export function sum(x, y, { return x + y }**
 >
-> **console.log(\"4π = \" + math.sum(math.pi, math.pi, math.pi,
-> math.pi)); console.log(\"2π = \" + sum(pi, pi));**
+> **console.log(&quot;4π = &quot; + math.sum(math.pi, math.pi, math.pi,
+> math.pi)); console.log(&quot;2π = &quot; + sum(pi, pi));**
 
-Some additional features include export default and export **\***, as
+Some additional features include export default and export **&ast;**, as
 shown in the following code snippet: **exportvar e = 2.71828182846;**
 
 > **export default function(x) { returnMath.log(x);**
 >
 > **}**
 >
-> **console.log(\"2π = \" + ln(e)\*pi\*2);**
+> **console.log(&quot;2π = &quot; + ln(e)&ast;pi&ast;2);**
 
 ### Module loaders
 
@@ -26281,21 +26282,21 @@ We can configure the default module loader, and new loaders can be
 constructed to evaluate and load code in isolated or constrained
 contexts:
 
-> **System.import(\'libraries/math\').then(function(mx) {
-> console.log(\"π = \" + (mx.pi)); });**
+> **System.import(&apos;libraries/math&apos;).then(function(mx) {
+> console.log(&quot;π = &quot; + (mx.pi)); });**
 >
 > **// Create execution sandboxes -- new Loaders var loader = new
 > Loader({ global: fixup(window)**
 >
 > **});**
 >
-> **loader.eval(\"console.log(\'live to code!\');\");**
+> **loader.eval(&quot;console.log(&apos;live to code!&apos;);&quot;);**
 >
 > **// Directly manipulate module cache**
 >
-> **System.get(\'jquery\');**
+> **System.get(&apos;jquery&apos;);**
 >
-> **System.set(\'jquery\', Module({\$: \$}));**
+> **System.set(&apos;jquery&apos;, Module({\$: \$}));**
 
 ### Collections
 
@@ -26332,7 +26333,7 @@ set. Here is an example:
 >
 > **Students.add(10);**
 >
-> **Students.add(\"Ali\");**
+> **Students.add(&quot;Ali&quot;);**
 
 **Maps**
 
@@ -26368,12 +26369,12 @@ wipes out everything.
 
 Here is an example of this method:
 
-> **varmyMap=newMap(); myMap.set(\"pine\",\"apple\");
-> myMap.set(1,\"apple\");**
+> **varmyMap=newMap(); myMap.set(&quot;pine&quot;,&quot;apple&quot;);
+> myMap.set(1,&quot;apple&quot;);**
 >
 > **myMap.size;// 2**
 >
-> **myMap.has(\"cone\");// will return false myMap.has(\"pine\")// will
+> **myMap.has(&quot;cone&quot;);// will return false myMap.has(&quot;pine&quot;)// will
 > return true**
 
 #### Map.prototype.delete()
@@ -26399,10 +26400,10 @@ key (the element to be deleted), and the function returns **true** or
 
 Here is an example of this method:
 
-> **varmyMap=newMap(); myMap.set(\"pine\",\"apple\");**
+> **varmyMap=newMap(); myMap.set(&quot;pine&quot;,&quot;apple&quot;);**
 >
-> **myMap.delete(\"apple\");// Returns true. Successfully removed.
-> myMap.has(\"apple\");// Returns false. The \"apple\" element is no
+> **myMap.delete(&quot;apple&quot;);// Returns true. Successfully removed.
+> myMap.has(&quot;apple&quot;);// Returns false. The &quot;apple&quot; element is no
 > longer present.**
 
 #### Map.prototype.entries()
@@ -26426,13 +26427,13 @@ components on map.
 
 Here is an example of this method:
 
-> **varmyMap=newMap(); myMap.set(\"0\",\"pine\");
-> myMap.set(1,\"apple\"); myMap.set({},\"cone\");
+> **varmyMap=newMap(); myMap.set(&quot;0&quot;,&quot;pine&quot;);
+> myMap.set(1,&quot;apple&quot;); myMap.set({},&quot;cone&quot;);
 > varmapIter=myMap.entries();**
 >
-> **console.log(mapIter.next().value);// \[\"0\", \"pine\"\]
-> console.log(mapIter.next().value);// \[1, \"apple\"\]
-> console.log(mapIter.next().value);// \[Object, \"cone\"\]**
+> **console.log(mapIter.next().value);// &lbrack;&quot;0&quot;, &quot;pine&quot;&rbrack;
+> console.log(mapIter.next().value);// &lbrack;1, &quot;apple&quot;&rbrack;
+> console.log(mapIter.next().value);// &lbrack;Object, &quot;cone&quot;&rbrack;**
 
 #### Map.prototype.forEach()
 
@@ -26457,21 +26458,21 @@ however, they have the value defined.
 
 Here is an example of this method:
 
-> **functionlogMapElements(value, key, map) { console.log(\"m\[\"+ key
-> +\"\] = \"+ value);**
+> **functionlogMapElements(value, key, map) { console.log(&quot;m&lbrack;&quot;+ key
+> +&quot;&rbrack; = &quot;+ value);**
 >
 > **}**
 >
-> **Map(\[\[\"foo\",3\],\[\"apple\",{}\],\[\"cone\",
-> undefined\]\]).forEach(logMapElements);**
+> **Map(&lbrack;&lbrack;&quot;foo&quot;,3&rbrack;,&lbrack;&quot;apple&quot;,{}&rbrack;,&lbrack;&quot;cone&quot;,
+> undefined&rbrack;&rbrack;).forEach(logMapElements);**
 >
 > **// logs:**
 >
-> **// \"m\[pine\] = 3\"**
+> **// &quot;m&lbrack;pine&rbrack; = 3&quot;**
 >
-> **// \"m\[apple\] = \[object Object\]\"**
+> **// &quot;m&lbrack;apple&rbrack; = &lbrack;object Object&rbrack;&quot;**
 >
-> **// \"m\[cone\] = undefined\"**
+> **// &quot;m&lbrack;cone&rbrack; = undefined&quot;**
 
 #### Map.prototype.get()
 
@@ -26493,9 +26494,9 @@ it. It is used when we want to get the value of an element.
 
 Here is an example of this method:
 
-> **varmyMap=newMap(); myMap.set(\"apple\",\"pine\");**
+> **varmyMap=newMap(); myMap.set(&quot;apple&quot;,&quot;pine&quot;);**
 >
-> **myMap.get(\"apple\");// Returns \"apple\". myMap.get(\"cone\");//
+> **myMap.get(&quot;apple&quot;);// Returns &quot;apple&quot;. myMap.get(&quot;cone&quot;);//
 > Returns undefined.**
 
 #### Map.prototype.has()
@@ -26520,9 +26521,9 @@ otherwise, **false** is returned.
 
 An example of this method is shown here:
 
-> **varmyMap=newMap(); myMap.set(\"apple\",\"pine\");**
+> **varmyMap=newMap(); myMap.set(&quot;apple&quot;,&quot;pine&quot;);**
 >
-> **myMap.has(\"apple\");// returns true myMap.has(\"cone\");// returns
+> **myMap.has(&quot;apple&quot;);// returns true myMap.has(&quot;cone&quot;);// returns
 > false**
 
 #### Map.prototype.keys()
@@ -26546,11 +26547,11 @@ insertion order.
 
 An example of this method is shown here:
 
-> **varmyMap=newMap(); myMap.set(\"0\",\"pine\");
-> myMap.set(1,\"apple\"); myMap.set({},\"cone\");
+> **varmyMap=newMap(); myMap.set(&quot;0&quot;,&quot;pine&quot;);
+> myMap.set(1,&quot;apple&quot;); myMap.set({},&quot;cone&quot;);
 > varmapIter=myMap.keys();**
 >
-> **console.log(mapIter.next().value);// \"0\"
+> **console.log(mapIter.next().value);// &quot;0&quot;
 > console.log(mapIter.next().value);// 1
 > console.log(mapIter.next().value);// Object**
 
@@ -26573,10 +26574,10 @@ key and value to a **map** object.
 
 An example of this method is shown here: **varmyMap=newMap();**
 
-> **// Add new elements to the map myMap.set(\"apple\",\"pine\");
-> myMap.set(1,\"pineapple\");**
+> **// Add new elements to the map myMap.set(&quot;apple&quot;,&quot;pine&quot;);
+> myMap.set(1,&quot;pineapple&quot;);**
 >
-> **// Update an element in the map myMap.set(\"apple\",\"custard\");**
+> **// Update an element in the map myMap.set(&quot;apple&quot;,&quot;custard&quot;);**
 
 #### Map.prototype.values()
 
@@ -26601,30 +26602,30 @@ Here is an example of this method:
 
 > **varmyMap = new Map();**
 >
-> **varkeyObj = {}, keyFunc = function () {}, keyString = \"This is a
-> sample string\";**
+> **varkeyObj = {}, keyFunc = function () {}, keyString = &quot;This is a
+> sample string&quot;;**
 >
 > **// setting the values**
 >
-> **myMap.set(keyString, \"value associated to \'This is a sample
-> string\'\");**
+> **myMap.set(keyString, &quot;value associated to &apos;This is a sample
+> string&apos;&quot;);**
 >
-> **myMap.set(keyObj, \"value associated to a keyObj\");
-> myMap.set(keyFunc, \"value associated to a keyFunc\"); myMap.size; //
+> **myMap.set(keyObj, &quot;value associated to a keyObj&quot;);
+> myMap.set(keyFunc, &quot;value associated to a keyFunc&quot;); myMap.size; //
 > 3**
 >
 > **// getting the values**
 >
-> **myMap.get(keyString); // \"value associated to \'This is a sample
-> string\'\"**
+> **myMap.get(keyString); // &quot;value associated to &apos;This is a sample
+> string&apos;&quot;**
 >
-> **myMap.get(keyObj); // \"value associated to a keyObj\"
-> myMap.get(keyFunc); // \"value associated to a keyFunc\"**
+> **myMap.get(keyObj); // &quot;value associated to a keyObj&quot;
+> myMap.get(keyFunc); // &quot;value associated to a keyFunc&quot;**
 >
-> **myMap.get(\"a string\"); // \"value associated to \'This is a sample
-> string\'\"**
+> **myMap.get(&quot;a string&quot;); // &quot;value associated to &apos;This is a sample
+> string&apos;&quot;**
 >
-> **// because keyString === \'a string\'**
+> **// because keyString === &apos;a string&apos;**
 >
 > **myMap.get({}); // undefined, because keyObj !== {}
 > myMap.get(function() {}) // undefined, because keyFunc !==**
@@ -26636,7 +26637,7 @@ Here is an example of this method:
 It is the same as map, but there is some difference in it. It only
 accepts objects as keys. Primitive data types are not allowed in
 **WeakMap**. There is no garbage collection in a **WeakMap** because it
-doesn\'t reference to an object acting like a key. As a result of these
+doesn&apos;t reference to an object acting like a key. As a result of these
 differences, there is no method to access keys in **WeakMap**.
 
 > Keys in **WeakMap** are not enumerable, which means that there is no
@@ -26649,11 +26650,11 @@ Here is an example:
 >
 > **varo1 = {}, o2 = function(){}, o3 = window;**
 >
-> **myWeakMap1.set(o1, 37); myWeakMap1.set(o2, \"pineapple\");
+> **myWeakMap1.set(o1, 37); myWeakMap1.set(o2, &quot;pineapple&quot;);
 > myWeakMap2.set(o1, o2); myWeakMap2.set(o3, undefined);
 > myWeakMap2.set(myWeakMap1, myWeakMap2);**
 >
-> **myWeakMap1.get(o2); // \"pineapple\"**
+> **myWeakMap1.get(o2); // &quot;pineapple&quot;**
 >
 > **myWeakMap2.get(o2); // undefined, because there is no value for o2
 > on myWeakMap2**
@@ -26687,7 +26688,7 @@ Here is an example:
 
 > **varwm = new WeakMap(); varobject = {};**
 >
-> **wm.set(object, \"pine\"); wm.set(window, \"apple\");**
+> **wm.set(object, &quot;pine&quot;); wm.set(window, &quot;apple&quot;);**
 >
 > **wm.has(object); // will return true wm.has(window); // will return
 > true wm.clear();**
@@ -26715,7 +26716,7 @@ object.
 
 Here is an example:
 
-> **varwm = new WeakMap(); wm.set(window, \"pineapple\");
+> **varwm = new WeakMap(); wm.set(window, &quot;pineapple&quot;);
 > wm.delete(window); // Returns true. Successfully removed.**
 >
 > **wm.has(window); // Returns false. The window object is no longer in
@@ -26728,7 +26729,7 @@ This method is used to retrieve a specific object from **WeakMap**.
 ##### Returns
 
 It returns the element associated with the specified key or is undefined
-if the key can\'t be found in the **WeakMap** object.
+if the key can&apos;t be found in the **WeakMap** object.
 
 Parameters
 
@@ -26740,9 +26741,9 @@ The key of the element to return from the **WeakMap** object.
 
 Here is an example:
 
-> **varwm = new WeakMap(); wm.set(window, \"pine\");**
+> **varwm = new WeakMap(); wm.set(window, &quot;pine&quot;);**
 >
-> **wm.get(window); // Returns \"pine\". wm.get(\"apple\"); // Returns
+> **wm.get(window); // Returns &quot;pine&quot;. wm.get(&quot;apple&quot;); // Returns
 > undefined.**
 
 #### WeakMap.prototype.has()
@@ -26767,9 +26768,9 @@ with the specified key exists in the **WeakMap** object or not.
 
 Here is an example:
 
-> **varwm = new WeakMap(); wm.set(window, \"pine\");**
+> **varwm = new WeakMap(); wm.set(window, &quot;pine&quot;);**
 >
-> **wm.has(window); // returns true wm.has(\"apple\"); // returns
+> **wm.has(window); // returns true wm.has(&quot;apple&quot;); // returns
 > false**
 
 #### WeakMap.prototype.set()
@@ -26797,13 +26798,13 @@ Here is an example:
 >
 > **// Add new elements to the WeakMap**
 >
-> **wm.set(object, \"pine\").set(window, \"apple\"); // chainable**
+> **wm.set(object, &quot;pine&quot;).set(window, &quot;apple&quot;); // chainable**
 >
-> **// Update an element in the WeakMap wm.set(object, \"cone\");**
+> **// Update an element in the WeakMap wm.set(object, &quot;cone&quot;);**
 
 **Weakset**
 
-This is a collection of objects that don\'t stop its elements from being
+This is a collection of objects that don&apos;t stop its elements from being
 garbage collected. There is no looping, iteration, and learning in
 **WeakSet**. It has three methods.
 
@@ -26889,10 +26890,10 @@ collector. These objects are not enumerable.
 
 Here is an example:
 
-> **// Sets varmySet = new Set(); mySet.add(\"apple\").add(\"candy\");
-> mySet.size === 2; mySet.has(\"hello\") === false;**
+> **// Sets varmySet = new Set(); mySet.add(&quot;apple&quot;).add(&quot;candy&quot;);
+> mySet.size === 2; mySet.has(&quot;hello&quot;) === false;**
 >
-> **// Maps varmyMap = new Map(); myMap.set(\"boy\", 27); myMap.set(f,
+> **// Maps varmyMap = new Map(); myMap.set(&quot;boy&quot;, 27); myMap.set(f,
 > 25); myMap.get(f) == 25;**
 >
 > **// Weak Maps**
@@ -26921,23 +26922,23 @@ Here is an example:
 > **};**
 >
 > **varproxyObject = new Proxy(target, handler); proxyObject.world ===
-> \'Lahore!\';**
+> &apos;Lahore!&apos;;**
 >
 > **// Proxying a function object**
 >
-> **vartargetObject = function () { return \'Target, I am\'; };**
+> **vartargetObject = function () { return &apos;Target, I am&apos;; };**
 >
 > **varhandlerObject = {**
 >
-> **apply: function (receiver, \...args) {**
+> **apply: function (receiver, &period;..args) {**
 >
-> **return \'Le proxy\';**
+> **return &apos;Le proxy&apos;;**
 >
 > **}**
 >
 > **};**
 >
-> **var p = new Proxy(target, handler); p() === \'Le proxy\';**
+> **var p = new Proxy(target, handler); p() === &apos;Le proxy&apos;;**
 
 ### Symbols
 
@@ -26953,12 +26954,12 @@ Here is how you can create a new primitive symbol:
 
 OR
 
-> **var symb = Symbol(\'abc\');**
+> **var symb = Symbol(&apos;abc&apos;);**
 
-The preceding code creates two new symbols. **Symbol(\'abc\')** does not
+The preceding code creates two new symbols. **Symbol(&apos;abc&apos;)** does not
 force converts **abc** into an object but creates a new separate object.
 
-> **Symbol(\'abc\') === Symbol(\'abc\'); //false**
+> **Symbol(&apos;abc&apos;) === Symbol(&apos;abc&apos;); //false**
 
 Using **Symbol()** with new keyword will throw a type error.
 
@@ -26973,20 +26974,20 @@ still be created for legacy reasons.
 And if it is necessary to create Symbol wrapper object, you can use the
 **Object()** function:
 
-> **var symb = Symbol(\"abc\"); typeof symb; // \"symbol\" var symbObj =
-> Object(symb); typeof symbObj; // \"object\"**
+> **var symb = Symbol(&quot;abc&quot;); typeof symb; // &quot;symbol&quot; var symbObj =
+> Object(symb); typeof symbObj; // &quot;object&quot;**
 
 The **Object.getOwnPropertySymbols()** method returns an array of
 symbols and lets you find symbol properties on a given object.
 
 Here is an example:
 
-> **varSomeClass = (function() { var key = Symbol(\"key\");**
+> **varSomeClass = (function() { var key = Symbol(&quot;key&quot;);**
 >
-> **functionSomeClass(privateData) { this\[key\] = privateData; }**
+> **functionSomeClass(privateData) { this&lbrack;key&rbrack; = privateData; }**
 >
-> **SomeClass.prototype = { doStuff: function() { \... this\[key\]
-> \...**
+> **SomeClass.prototype = { doStuff: function() { &period;.. this&lbrack;key&rbrack;
+> &period;..**
 >
 > **}**
 >
@@ -26994,7 +26995,7 @@ Here is an example:
 >
 > **returnSomeClass; })();**
 >
-> **var c = new SomeClass(\"bye\") c\[\"key\"\] === undefined**
+> **var c = new SomeClass(&quot;bye&quot;) c&lbrack;&quot;key&quot;&rbrack; === undefined**
 >
 > The ECMAScript 6 standard uses a special notation to indicate symbols,
 > prefixing the identifier with **@@**, such as **@@create**.
@@ -27005,7 +27006,7 @@ In ECMAScript 6, built-ins such as Date, Array, and DOM elements can be
 subclassed. Object construction for a function named **Ctor** now uses
 two phases:
 
--   Call **Ctor\[@@create\]** to allocate the object and install any
+-   Call **Ctor&lbrack;@@create&rbrack;** to allocate the object and install any
     special behavior
 
 -   Invoke constructor on new instance to initialize it
@@ -27017,21 +27018,21 @@ Here is an example:
 
 > **// Pseudo-code of Array classSomeArray {**
 >
-> **constructor(\...args) { /\* \... \*/ } static \[Symbol.create\]()
+> **constructor(&period;..args) { /&ast; &period;.. &ast;/ } static &lbrack;Symbol.create&rbrack;()
 > {**
 >
 > **} }**
 >
 > **// User code of Array subclass classSomeArray extends Array {
-> constructor(\...args) { super(\...args); } }**
+> constructor(&period;..args) { super(&period;..args); } }**
 >
-> **// Two-phase \'new\':**
+> **// Two-phase &apos;new&apos;:**
 >
 > **// 1) Call @@create to allocate object**
 >
 > **// 2) Invoke constructor on new instance**
 >
-> **vararr = new SomeArray(); arr\[1\] = 123; arr.length == 1**
+> **vararr = new SomeArray(); arr&lbrack;1&rbrack; = 123; arr.length == 1**
 
 ### Promises
 
@@ -27071,10 +27072,10 @@ An example of this method is shown here:
 >
 > **varprom2 = new Promise(function(resolve, reject) {**
 >
-> **setTimeout(resolve, 100, \"Here\"); });**
+> **setTimeout(resolve, 100, &quot;Here&quot;); });**
 >
-> **Promise.all(\[prom1, prom2\]).then(function(values) {
-> console.log(values); // \[6000, \"Here\"\] });**
+> **Promise.all(&lbrack;prom1, prom2&rbrack;).then(function(values) {
+> console.log(values); // &lbrack;6000, &quot;Here&quot;&rbrack; });**
 
 #### Promise.prototype.catch()
 
@@ -27098,21 +27099,21 @@ onRejected)**.
 
 An example of this method is as follows:
 
-> **varprom1= new Promise(function(resolve, reject) { resolve(\'This was
-> Successful!!\'); });**
+> **varprom1= new Promise(function(resolve, reject) { resolve(&apos;This was
+> Successful!!&apos;); });**
 >
 > **prom1.then(function(value) {**
 >
-> **console.log(value); // \"This was Successful!!\" throw \'oh,
-> no!\';**
+> **console.log(value); // &quot;This was Successful!!&quot; throw &apos;oh,
+> no!&apos;;**
 >
-> **}).catch(function(e) { console.log(e); // \"Error found\"**
+> **}).catch(function(e) { console.log(e); // &quot;Error found&quot;**
 >
-> **}).then(function() { console.log(\'Catch Done!\');**
+> **}).then(function() { console.log(&apos;Catch Done!&apos;);**
 >
 > **}, function () {**
 >
-> **console.log(\'Not fired due to the catch\'); });**
+> **console.log(&apos;Not fired due to the catch&apos;); });**
 
 #### Promise.resolve(value)
 
@@ -27128,7 +27129,7 @@ The **promise** object that is resolved with the given value.
 
 ##### Parameter
 
-Let\'s take a look at the following parameters and their use:
+Let&apos;s take a look at the following parameters and their use:
 
 -   **onFulfilled**: A **function** called when the **Promise** is
     fulfilled
@@ -27151,12 +27152,12 @@ instances of the **Promise**.
 
 An example of this method is as follows:
 
-> **varprom1=newPromise(function(resolve, reject) { resolve(\"This was a
-> Success!\");**
+> **varprom1=newPromise(function(resolve, reject) { resolve(&quot;This was a
+> Success!&quot;);**
 >
 > **// or**
 >
-> **// reject (\"Error Found Try Again!\");**
+> **// reject (&quot;Error Found Try Again!&quot;);**
 >
 > **});**
 >
@@ -27182,8 +27183,8 @@ API on top of another such function:
 
 > **functionfetch_current_data() {**
 >
-> **returnfetch(\"current-data.json\").then((response)=\> {
-> if(response.headers.get(\"content-type\")!=\"application/json\") {
+> **returnfetch(&quot;current-data.json&quot;).then((response)=\> {
+> if(response.headers.get(&quot;content-type&quot;)!=&quot;application/json&quot;) {
 > thrownewTypeError();**
 >
 > **}**
@@ -27222,15 +27223,15 @@ mistake finding, it is helpful to make the reason an instance of error.
 
 An example of this method is shown here:
 
-> **Promise.reject(\"Testing Promise reject\").then(function(reason) {**
+> **Promise.reject(&quot;Testing Promise reject&quot;).then(function(reason) {**
 >
 > **// not called**
 >
 > **},function(reason) {**
 >
-> **console.log(reason);// \"Testing Promise reject\" });**
+> **console.log(reason);// &quot;Testing Promise reject&quot; });**
 >
-> **Promise.reject(newError(\"fail\")).then(function(error) {**
+> **Promise.reject(newError(&quot;fail&quot;)).then(function(error) {**
 >
 > **// not called**
 >
@@ -27261,15 +27262,15 @@ rejects, whichever happens first.
 An example of this method is as follows:
 
 > **varmyPromise1=newPromise(function(resolve, reject) {
-> setTimeout(resolve,800,\"first\");**
+> setTimeout(resolve,800,&quot;first&quot;);**
 >
 > **});**
 >
 > **varmyPromise2=newPromise(function(resolve, reject) {
-> setTimeout(resolve,300,\"second\"); });**
+> setTimeout(resolve,300,&quot;second&quot;); });**
 >
-> **Promise.race(\[myPromise1,myPromise2\]).then(function(value) {
-> console.log(value);// \"second\"**
+> **Promise.race(&lbrack;myPromise1,myPromise2&rbrack;).then(function(value) {
+> console.log(value);// &quot;second&quot;**
 >
 > **// Both resolve, but myPromise2 is faster**
 >
@@ -27293,7 +27294,7 @@ An example of using the Core Math Library APIs is as follows:
 >
 > **Number.isInteger(Infinity) // will return false**
 >
-> **Number.isNaN(\"NaN\") // will return false**
+> **Number.isNaN(&quot;NaN&quot;) // will return false**
 >
 > **Math.acosh(3) // 1.762747174039086**
 >
@@ -27301,29 +27302,29 @@ An example of using the Core Math Library APIs is as follows:
 >
 > **Math.imul(Math.pow(2, 32) - 1, Math.pow(2, 32) - 2) // 2**
 >
-> **\"Neptune\".includes(\"cd\") // This will return false**
+> **&quot;Neptune&quot;.includes(&quot;cd&quot;) // This will return false**
 >
-> **\"Mars\".repeat(4) // This will be \"MarsMarsMarsMars\"**
+> **&quot;Mars&quot;.repeat(4) // This will be &quot;MarsMarsMarsMars&quot;**
 >
-> **Array.from(document.querySelectorAll(\'\*\')) // Returns a real
+> **Array.from(document.querySelectorAll(&apos;&ast;&apos;)) // Returns a real
 > Array**
 >
-> **Array.of(1, 2, 3) // Similar to new Array(\...), but without**
+> **Array.of(1, 2, 3) // Similar to new Array(&period;..), but without**
 >
 > **special one-arg behavior**
 >
-> **\[0, 0, 0\].fill(2, 1) // \[0,2,2\]**
+> **&lbrack;0, 0, 0&rbrack;.fill(2, 1) // &lbrack;0,2,2&rbrack;**
 >
-> **\[24, 14, 23, 57, 89, 75, 33\].find(x =\> x == 33) // 33**
+> **&lbrack;24, 14, 23, 57, 89, 75, 33&rbrack;.find(x =\> x == 33) // 33**
 >
-> **\[24, 14, 23, 57, 89, 75, 33\].findIndex(x =\> x == 14) // 1**
+> **&lbrack;24, 14, 23, 57, 89, 75, 33&rbrack;.findIndex(x =\> x == 14) // 1**
 >
-> **\[1, 2, 3, 4, 5\].copyWithin(3, 0) // \[1, 2, 3, 1, 2\]**
+> **&lbrack;1, 2, 3, 4, 5&rbrack;.copyWithin(3, 0) // &lbrack;1, 2, 3, 1, 2&rbrack;**
 >
-> **\[\"x\", \"y\", \"z\"\].entries() // iterator \[0, \"x\"\],
-> \[1,\"y\"\], \[2,\"z\"\]**
+> **&lbrack;&quot;x&quot;, &quot;y&quot;, &quot;z&quot;&rbrack;.entries() // iterator &lbrack;0, &quot;x&quot;&rbrack;,
+> &lbrack;1,&quot;y&quot;&rbrack;, &lbrack;2,&quot;z&quot;&rbrack;**
 >
-> **\[\"x\", \"y\", \"z\"\].keys() // iterator 0, 1, 2**
+> **&lbrack;&quot;x&quot;, &quot;y&quot;, &quot;z&quot;&rbrack;.keys() // iterator 0, 1, 2**
 
 ### Binary and octal literals
 
@@ -27334,7 +27335,7 @@ hexadecimal literal notation for prepending 0x or 0X to a value.
 The new octal literal format begins with **0o** or **0O**, while the new
 binary literal format begins with **0b** or **0B**. Each literal type
 must be followed by one or more digits; 0-7 for octal and 0-1 for
-binary. Here\'s an example:
+binary. Here&apos;s an example:
 
 > **// ECMAScript 6**
 >
@@ -27359,10 +27360,10 @@ Reflect API is known to be the inverse of Proxy API.
 
 Here is a list of methods a **reflect** object has.
 
-#### Reflect.get(target, prop, \[receiver\])
+#### Reflect.get(target, prop, &lbrack;receiver&rbrack;)
 
 This method allows you to get the property of an object. This method is
-similar to property accessors syntax (**object\[propertyKey\]**).
+similar to property accessors syntax (**object&lbrack;propertyKey&rbrack;**).
 
 **Returns**
 
@@ -27376,32 +27377,32 @@ property, and the value.
 ##### Description
 
 The static **Reflect.get()** method works like getting a property from
-an object (**target\[propertyKey\]**) as a function.
+an object (**target&lbrack;propertyKey&rbrack;**) as a function.
 
 An example of the get method is as follows:
 
-> **// Object varobject={a:4,b:5}; Reflect.get(object,\"b\");// 5**
+> **// Object varobject={a:4,b:5}; Reflect.get(object,&quot;b&quot;);// 5**
 >
 > **// Array**
 >
-> **Reflect.get(\[\"first\",\"second\"\],1);// \"second\", since array
+> **Reflect.get(&lbrack;&quot;first&quot;,&quot;second&quot;&rbrack;,1);// &quot;second&quot;, since array
 > starts with 0 index**
 >
 > **// Proxy with a get handler var x ={p:9}; varobject=newProxy(x, {
-> get(a,b,c){returnb +\"meow\";}**
+> get(a,b,c){returnb +&quot;meow&quot;;}**
 >
 > **});**
 >
-> **Reflect.get(object,\"woof\");// \"woofbar\"**
+> **Reflect.get(object,&quot;woof&quot;);// &quot;woofbar&quot;**
 
-#### Reflect.set(target, prop, value, \[receiver\])
+#### Reflect.set(target, prop, value, &lbrack;receiver&rbrack;)
 
 This method allows you to set a property of an object. This method is
 also similar to property accessor syntax.
 
 ##### Returns
 
-The **Reflect.set(target, prop, value, \[receiver\]** returns a Boolean
+The **Reflect.set(target, prop, value, &lbrack;receiver&rbrack;** returns a Boolean
 value indicating whether property was successful or not.
 
 **Parameter**
@@ -27418,27 +27419,27 @@ An example of this method is shown here:
 
 > **// Object varobject={};**
 >
-> **Reflect.set(object,\"property\",\"value\");// will return true
-> object.property;// \"value\"**
+> **Reflect.set(object,&quot;property&quot;,&quot;value&quot;);// will return true
+> object.property;// &quot;value&quot;**
 >
 > **// Array**
 >
-> **vararr=\[\"cow\",\"cow\",\"cow\"\];**
+> **vararr=&lbrack;&quot;cow&quot;,&quot;cow&quot;,&quot;cow&quot;&rbrack;;**
 >
-> **Reflect.set(arr,1,\"goat\");// will return true arr\[1\];//
-> \"goat\"**
+> **Reflect.set(arr,1,&quot;goat&quot;);// will return true arr&lbrack;1&rbrack;;//
+> &quot;goat&quot;**
 >
 > **// It can truncate an array.**
 >
-> **Reflect.set(arr,\"length\",1);// will return true arr;//
-> \[\"goat\"\];**
+> **Reflect.set(arr,&quot;length&quot;,1);// will return true arr;//
+> &lbrack;&quot;goat&quot;&rbrack;;**
 >
-> **// With just one argument, propertyKey and value are \"undefined\".
+> **// With just one argument, propertyKey and value are &quot;undefined&quot;.
 > varobject={};**
 >
 > **Reflect.set(object);// will return true**
 >
-> **Reflect.getOwnPropertyDescriptor(object,\"undefined\");**
+> **Reflect.getOwnPropertyDescriptor(object,&quot;undefined&quot;);**
 >
 > **// { value: undefined, writable: true, enumerable: true,
 > configurable: true }**
@@ -27465,23 +27466,23 @@ function.
 
 An example of this method is shown here:
 
-> **Reflect.has({a:0},\"a\");// will return true**
+> **Reflect.has({a:0},&quot;a&quot;);// will return true**
 >
-> **Reflect.has({a:0},\"b\");// will return false**
+> **Reflect.has({a:0},&quot;b&quot;);// will return false**
 >
 > **// returns true for properties in the prototype chain**
 >
-> **Reflect.has({a:0},\"toString\");**
+> **Reflect.has({a:0},&quot;toString&quot;);**
 >
 > **// Proxy with .has() handler method object=newProxy({}, {**
 >
-> **has(s,d){returns.startsWith(\"cat\");}**
+> **has(s,d){returns.startsWith(&quot;cat&quot;);}**
 >
 > **});**
 >
-> **Reflect.has(object,\"catastrophe\");// will return true**
+> **Reflect.has(object,&quot;catastrophe&quot;);// will return true**
 >
-> **Reflect.has(object,\"camel\");// will return false**
+> **Reflect.has(object,&quot;camel&quot;);// will return false**
 
 #### Reflect.apply(target, receiver, args)
 
@@ -27504,19 +27505,19 @@ with specified arguments.
 
 An example of this method is shown here:
 
-> **Reflect.apply(Math.floor, undefined,\[3.999\]);**
+> **Reflect.apply(Math.floor, undefined,&lbrack;3.999&rbrack;);**
 >
 > **// 3;**
 >
-> **Reflect.apply(String.fromCharCode, undefined,\[80, 97, 107, 105,**
+> **Reflect.apply(String.fromCharCode, undefined,&lbrack;80, 97, 107, 105,**
 >
-> **115, 116, 97, 110\]);**
+> **115, 116, 97, 110&rbrack;);**
 >
-> **// \"Pakistan\"**
+> **// &quot;Pakistan&quot;**
 >
-> **Reflect.apply(\"\".charAt,\"stars\",\[2\]);**
+> **Reflect.apply(&quot;&quot;.charAt,&quot;stars&quot;,&lbrack;2&rbrack;);**
 >
-> **// \"a\"**
+> **// &quot;a&quot;**
 
 #### Reflect.construct(target, args)
 
@@ -27543,13 +27544,13 @@ An example of this method is shown here:
 
 Using **Reflect.construct()**:
 
-> **var d =Reflect.construct(Date,\[2015,1,5\]); dinstanceofDate;// will
+> **var d =Reflect.construct(Date,&lbrack;2015,1,5&rbrack;); dinstanceofDate;// will
 > return true**
 
 **d.getFullYear();// 2015** Using **newTarget**:
 
 > **functionmyConstructor(){} var result
-> =Reflect.construct(Array,\[\],myConstructor);**
+> =Reflect.construct(Array,&lbrack;&rbrack;,myConstructor);**
 >
 > **Reflect.getPrototypeOf(result);// myConstructor.prototype**
 >
@@ -27582,16 +27583,16 @@ An example of this method is shown here:
 
 Using **Reflect.getOwnPropertyDescriptor()**:
 
-> **Reflect.getOwnPropertyDescriptor({a:\"bye\"},\"a\");**
+> **Reflect.getOwnPropertyDescriptor({a:&quot;bye&quot;},&quot;a&quot;);**
 >
-> **// {value: \"bye\", writable: true, enumerable: true, configurable:
+> **// {value: &quot;bye&quot;, writable: true, enumerable: true, configurable:
 > true}**
 >
-> **Reflect.getOwnPropertyDescriptor({x:\"bye\"},\"y\");**
+> **Reflect.getOwnPropertyDescriptor({x:&quot;bye&quot;},&quot;y&quot;);**
 >
 > **// undefined**
 >
-> **Reflect.getOwnPropertyDescriptor(\[\],\"length\");**
+> **Reflect.getOwnPropertyDescriptor(&lbrack;&rbrack;,&quot;length&quot;);**
 >
 > **// {value: 0, writable: true, enumerable: false, configurable:
 > false}**
@@ -27603,13 +27604,13 @@ then it will cause a **TypeError**. With
 **Object.getOwnPropertyDescriptor**, a non-object first argument will be
 coerced to an object at first:
 
-> **Reflect.getOwnPropertyDescriptor(\"woof\",0);**
+> **Reflect.getOwnPropertyDescriptor(&quot;woof&quot;,0);**
 >
-> **// TypeError: \"woof\" is not non-null object**
+> **// TypeError: &quot;woof&quot; is not non-null object**
 >
-> **Object.getOwnPropertyDescriptor(\"dummy\",0);**
+> **Object.getOwnPropertyDescriptor(&quot;dummy&quot;,0);**
 >
-> **// { value: \"d\", writable: false, enumerable: true, configurable:
+> **// { value: &quot;d&quot;, writable: false, enumerable: true, configurable:
 > false }**
 
 #### Reflect.defineProperty(target, prop, desc)
@@ -27648,16 +27649,16 @@ Using **Reflect.defineProperty()**:
 
 > **http://haseeb.deeurl.com/client-demos/everydayadvice/v3/={};**
 >
-> **Reflect.defineProperty(object,\"x\",{value:7});// will return true
+> **Reflect.defineProperty(object,&quot;x&quot;,{value:7});// will return true
 > object.x;// 7**
 
 Checking if property definition has been successful:
 
 With **Object.defineProperty**, which returns an object if successful or
-throws a **TypeError** otherwise, you would use a **try\...catch** block
+throws a **TypeError** otherwise, you would use a **try&period;..catch** block
 to catch any error that occurred while defining a property. As
 **Reflect.defineProperty** returns a Boolean success status, you can
-just use an **if\...else** block here:
+just use an **if&period;..else** block here:
 
 > **if(Reflect.defineProperty(target, property, attributes)) {**
 >
@@ -27688,7 +27689,7 @@ parameter.
 
 The static **Reflect.getPrototypeOf()** method is the same technique as
 **Object. getPrototypeOf()**. It gives back the model (that is, the
-estimation of the inside **\[\[Prototype\]\]** property) of the
+estimation of the inside **&lbrack;&lbrack;Prototype&rbrack;&rbrack;** property) of the
 predetermined item.
 
 An example of this method is shown here:
@@ -27716,7 +27717,7 @@ The target object and prototype are parameters.
 ##### Description
 
 The **Reflect.setPrototypeOf** method changes the prototype (that is,
-the value of the internal **\[\[Prototype\]\]** property) of the
+the value of the internal **&lbrack;&lbrack;Prototype&rbrack;&rbrack;** property) of the
 specified object.
 
 An example of this method is shown here:
@@ -27759,21 +27760,21 @@ An example of this method is shown here:
 
 > **varobject={a:11,b:12};**
 >
-> **Reflect.deleteProperty(object,\"a\");// will return true object;// {
+> **Reflect.deleteProperty(object,&quot;a&quot;);// will return true object;// {
 > y: 12 }**
 >
-> **vararr=\[11,12,13,14,15\];**
+> **vararr=&lbrack;11,12,13,14,15&rbrack;;**
 >
-> **Reflect.deleteProperty(arr,\"3\");// will return true arr;// \[11,
-> 12, 13, , 15\]**
+> **Reflect.deleteProperty(arr,&quot;3&quot;);// will return true arr;// &lbrack;11,
+> 12, 13, , 15&rbrack;**
 >
 > **// Returns true if no such property exists**
 >
-> **Reflect.deleteProperty({},\"bar\");// will return true**
+> **Reflect.deleteProperty({},&quot;bar&quot;);// will return true**
 >
 > **// Returns false if a property is unconfigurable**
 >
-> **Reflect.deleteProperty(Object.freeze({bar:1}),\"bar\");// will
+> **Reflect.deleteProperty(Object.freeze({bar:1}),&quot;bar&quot;);// will
 > return false**
 
 #### Reflect.enumerate(target)
@@ -27799,7 +27800,7 @@ An example of this method is shown here: **varobject={a:98,b:99};**
 >
 > **}**
 >
-> **// logs \"a\" and \"b\"**
+> **// logs &quot;a&quot; and &quot;b&quot;**
 
 #### Reflect.preventExtensions(target)
 
@@ -27858,7 +27859,7 @@ The preceding function will return **true**.
 
 #### Reflect.ownKeys(target)
 
-This method returns the object\'s own property keys.
+This method returns the object&apos;s own property keys.
 
 **Returns**
 
@@ -27878,18 +27879,18 @@ Here is an example of this method:
 
 > **Reflect.ownKeys({a:5,b:6,c:7});**
 >
-> **Reflect.ownKeys(\[\]);**
+> **Reflect.ownKeys(&lbrack;&rbrack;);**
 >
-> **varsymbol=Symbol.for(\"dirt\"); varsymbolb=Symbol.for(\"sky\");**
+> **varsymbol=Symbol.for(&quot;dirt&quot;); varsymbolb=Symbol.for(&quot;sky&quot;);**
 >
-> **varobject={\[symbol\]:0,\"string\":0,\"99\":0,\"4\":0,
-> \[symbolb\]:0,\"100\":0,\"-7\":0,\"second string\":0};**
+> **varobject={&lbrack;symbol&rbrack;:0,&quot;string&quot;:0,&quot;99&quot;:0,&quot;4&quot;:0,
+> &lbrack;symbolb&rbrack;:0,&quot;100&quot;:0,&quot;-7&quot;:0,&quot;second string&quot;:0};**
 >
 > **Reflect.ownKeys(object);**
 
 ### Tail calls
 
-Calls in tail position won\'t be able to grow the stack without any
+Calls in tail position won&apos;t be able to grow the stack without any
 limits. It helps in making recursive algorithms safe and secure in the
 safe of unbounded inputs.
 
@@ -27904,8 +27905,8 @@ If the output is out of range, it will simply display infinity:
 
 > **function factorial(n, acc) {**
 >
-> **\'use strict\'; if (n \<= 1) return acc; return factorial(n - 1, n
-> \* acc);**
+> **&apos;use strict&apos;; if (n &lt;= 1) return acc; return factorial(n - 1, n
+> &ast; acc);**
 >
 > **}**
 >
@@ -28032,7 +28033,7 @@ the path can be a core module (a module packaged with Node.js),
 directory, file, or module (a project that you or someone else has
 built). As a result, it is very versatile. The **require()** function
 will try to resolve the passed-in path in this order: the core module,
-the directory or file if the path begins with \"./\", \"/\", \"../\",
+the directory or file if the path begins with &quot;./&quot;, &quot;/&quot;, &quot;../&quot;,
 and then the module, take a look at the following description for more
 information. You then need to check the require function in different
 locations for all of this to work:
@@ -28042,7 +28043,7 @@ locations for all of this to work:
     cover the most prolifically used modules in this chapter.
 
 -   Next, require would load the path as a file if the string begins
-    with \"./\" ,\"/\", or \"../\". These are current directory, root
+    with &quot;./&quot; ,&quot;/&quot;, or &quot;../&quot;. These are current directory, root
     directory, and parent directory, respectively.
 
 -   If the filename is not found, require will then try appending
@@ -28054,7 +28055,7 @@ locations for all of this to work:
     **package.json**. Require will then either use **index.js** or
     **package.json** to load as a file.
 
--   Finally, if the path does not start with \"./\", \"/\", or \"../\"
+-   Finally, if the path does not start with &quot;./&quot;, &quot;/&quot;, or &quot;../&quot;
     and it is not a core module, require will search for a
     **node_modules** folder. The first directory will be the **current**
     directory. After that, each directory will be a parent directory,
@@ -28075,21 +28076,21 @@ As a quick summary, here is the order that require will use:
 Here are some examples of how the require function is used to load core
 modules, files, or modules:
 
-> **var http = require(\'http\'); //loads a core module**
+> **var http = require(&apos;http&apos;); //loads a core module**
 
 As you can see from the comment, this example will load the HTTP core
 module:
 
-> **var data = require(\'./data\'); //loads a directory**
+> **var data = require(&apos;./data&apos;); //loads a directory**
 
 This example shows you how to load a directory:
 
-> **var dataModels = require(\'./data/models\'); //loads the file
+> **var dataModels = require(&apos;./data/models&apos;); //loads the file
 > models.js**
 
 This one will load a file:
 
-> **var redis = require(\'redis\'); //loads a module**
+> **var redis = require(&apos;redis&apos;); //loads a module**
 
 Finally, this one will load a module.
 
@@ -28102,11 +28103,11 @@ Here is a simple example that demonstrates require and how it works with
 Here is the file that will be loaded with require, **requireTest.js**,
 and it will be loaded from a relative path:
 
-> **module.exports = \'This value is from requireTest\';**
+> **module.exports = &apos;This value is from requireTest&apos;;**
 
 Here is how to load this value in a Node.js script:
 
-> **var requireTest = require(\'./requireTest\');
+> **var requireTest = require(&apos;./requireTest&apos;);
 > console.log(requireTest);**
 
 **module.exports**
@@ -28134,7 +28135,7 @@ type: string, integer, function, object, and many others. Functions
 allow us to either pass in values or create a **constructor()**
 function. Objects can be created and then used to overwrite the exports
 object or can be added to the exports object as properties. We have all
-of JavaScript\'s function- and object-creation tricks at our disposal.
+of JavaScript&apos;s function- and object-creation tricks at our disposal.
 
 > A quick note is that require will cache output. This means consecutive
 > calls to the same module will return the same instance of an object.
@@ -28160,7 +28161,7 @@ operating system. This is important as we may need to know the hostname
 or how many CPUs are currently available.
 
 All the functions that we will look at now assume that **var os =
-require(\'os\')** is already in the file.
+require(&apos;os&apos;)** is already in the file.
 
 #### hostname()
 
@@ -28255,7 +28256,7 @@ write to the console what is happening.
 As an example, this writes to the **stderr** stream. By default this
 will write to the console.
 
-> **process.stderr.write(\"Something seems to have gone wrong.\");**
+> **process.stderr.write(&quot;Something seems to have gone wrong.&quot;);**
 
 **stdin**
 
@@ -28277,7 +28278,7 @@ the stream section.
 For instance, this example takes the data that is sent in through
 **stdin** and sends it to **stdout** using the readable event:
 
-> **process.stdin.on(\'readable\', function() { var data =
+> **process.stdin.on(&apos;readable&apos;, function() { var data =
 > process.stdin.read();**
 >
 > **if(data !== null) process.stdout.write(data); });**
@@ -28298,7 +28299,7 @@ filename of the current script.
 
 Here is an example:
 
-> **process.argv.forEach(function(val){ if(val === \'debug\'){ debug();
+> **process.argv.forEach(function(val){ if(val === &apos;debug&apos;){ debug();
 > } });**
 
 **Signal events**
@@ -28336,7 +28337,7 @@ Windows signals. Here is the list of signals:
 Here is an example of listening for **SIGINT**, which recognizes that
 *Ctrl* + *C* was pressed:
 
-> **process.on(\'SIGINT\', function(){**
+> **process.on(&apos;SIGINT&apos;, function(){**
 >
 > **//ctrl+c was pressed });**
 
@@ -28359,7 +28360,7 @@ even to just store the configuration settings.
 Here is an example of checking for environment and setting a value from
 the environment:
 
-> **if(process.env.NODE_ENV !== \'production\')**
+> **if(process.env.NODE_ENV !== &apos;production&apos;)**
 >
 > **//do test stuff**
 
@@ -28367,7 +28368,7 @@ the environment:
 
 This will send a signal event to a process:
 
-> **process.kill(pid, \[signal\])**
+> **process.kill(pid, &lbrack;signal&rbrack;)**
 
 #### Description
 
@@ -28381,7 +28382,7 @@ the kill signal.
 
 Here is an example of killing the specific process ID **4634**:
 
-> **process.kill(4634, \'SIGTERM\');**
+> **process.kill(4634, &apos;SIGTERM&apos;);**
 
 **pid**
 
@@ -28396,7 +28397,7 @@ It is the **pid** (process ID) of the process.
 This is an example of **process.kill** and **process.pid** used
 together:
 
-> **process.kill(process.pid, \'SIGTERM\');**
+> **process.kill(process.pid, &apos;SIGTERM&apos;);**
 
 **cwd**
 
@@ -28438,7 +28439,7 @@ This is a string of the current directory:
 ##### Description
 
 Much like **\_\_filename**, this will return the currently executing
-file\'s directory. The **\_\_dirname** command is used many times when a
+file&apos;s directory. The **\_\_dirname** command is used many times when a
 relative path needs to be created.
 
 > Both the **\_\_filename** and **\_\_dirname** variables are available
@@ -28449,7 +28450,7 @@ This example assumes Express has been loaded as express:
 
 > **//express is loaded**
 >
-> **app.use(express.static(\_\_dirname + \'/static\'));**
+> **app.use(express.static(\_\_dirname + &apos;/static&apos;));**
 
 #### The file module
 
@@ -28483,7 +28484,7 @@ should be used.
 
 Each example is under the assumption that the **fs** variable already
 exists. Here is the code that sets the **fs** variable to the **fs**
-module: **var fs = require(\'fs\');**
+module: **var fs = require(&apos;fs&apos;);**
 
 **stat**
 
@@ -28513,15 +28514,15 @@ of a path.
 Here is an example that loads a file named **test.txt** in the same
 directory as the code file and logs the **fs.Stats** object:
 
-> **fs.stat(\_\_dirname + \'\\test.txt\', function(err, stats){
+> **fs.stat(\_\_dirname + &apos;\\test.txt&apos;, function(err, stats){
 > console.log(stats); });**
 
 **open**
 
 This returns a file descriptor of the path passed in:
 
-> **fs.open(path, flags, \[mode\], callback) fs.openSync(path, flags,
-> \[mode\])**
+> **fs.open(path, flags, &lbrack;mode&rbrack;, callback) fs.openSync(path, flags,
+> &lbrack;mode&rbrack;)**
 
 ##### Description
 
@@ -28532,7 +28533,7 @@ can be passed. They are described here:
 
 -   **r+**: Read and write, errors when file does not exist
 
--   **rs**: Read synchronous, here, \"synchronous\" only refers to the
+-   **rs**: Read synchronous, here, &quot;synchronous&quot; only refers to the
     filesystem caching data and not synchronous such as **openSync**
 
 -   **rs+**: Read and write synchronous
@@ -28563,7 +28564,7 @@ read or written using **fs.read** or **fs.write**.
 
 This is an example of opening the file **test.txt**:
 
-> **fs.open(\_\_dirname + \'\\file.txt\', \'r\', function(err, fd){**
+> **fs.open(\_\_dirname + &apos;\\file.txt&apos;, &apos;r&apos;, function(err, fd){**
 >
 > **//fd is available to be read from });**
 
@@ -28582,12 +28583,12 @@ In the example, we used **fs.stat** to get the file size.
 
 Here is a full example of opening a file and reading from it:
 
-> **fs.stat(\_\_dirname + \'/test.txt\', function(error, stats) {
-> fs.open(\_\_dirname + \'/test.txt\', \'r\', function(err, fd){ var
+> **fs.stat(\_\_dirname + &apos;/test.txt&apos;, function(error, stats) {
+> fs.open(\_\_dirname + &apos;/test.txt&apos;, &apos;r&apos;, function(err, fd){ var
 > buffer = new Buffer(stats.size);**
 >
 > **fs.read(fd, buffer, 0, stats.size, null, function(err, bytesRead,
-> buffer){ console.log(buffer.toString(\'utf8\'));**
+> buffer){ console.log(buffer.toString(&apos;utf8&apos;));**
 >
 > **});**
 >
@@ -28599,8 +28600,8 @@ Here is a full example of opening a file and reading from it:
 
 This is a simplified version for reading a file:
 
-> **fs.readFile(filename, \[options\], callback)
-> fs.readFileSync(filename, \[options\])**
+> **fs.readFile(filename, &lbrack;options&rbrack;, callback)
+> fs.readFileSync(filename, &lbrack;options&rbrack;)**
 
 ##### Description
 
@@ -28617,12 +28618,12 @@ in the callback.
 
 Here is an example that demonstrates how much easier it is to load a
 file with **readFile**. The example is also using the **optional
-options** parameter: **var filename = \_\_dirname + \'/test.txt\';**
+options** parameter: **var filename = \_\_dirname + &apos;/test.txt&apos;;**
 
-> **fs.readFile(filename, {flag: \'r\', encoding: \'utf8\'},
+> **fs.readFile(filename, {flag: &apos;r&apos;, encoding: &apos;utf8&apos;},
 > function(err, data){**
 >
-> **console.log(data.toString(\'utf8\')); });**
+> **console.log(data.toString(&apos;utf8&apos;)); });**
 
 **close**
 
@@ -28666,23 +28667,23 @@ position in the file.
 Just like read, write can be complex. Here is a full example of reading
 from one file and writing to another:
 
-> **var fs = require(\'fs\'); var filename = \_\_dirname +
-> \'/test.txt\'; var writeFile = \_\_dirname + \'/test2.txt\';**
+> **var fs = require(&apos;fs&apos;); var filename = \_\_dirname +
+> &apos;/test.txt&apos;; var writeFile = \_\_dirname + &apos;/test2.txt&apos;;**
 >
-> **fs.stat(filename, function(error, stats) { fs.open(filename, \'r\',
+> **fs.stat(filename, function(error, stats) { fs.open(filename, &apos;r&apos;,
 > function(err, fd) { var buffer = new Buffer(stats.size);**
 >
 > **fs.read(fd, buffer, 0, stats.size, null, function(err, bytesRead,
 > buffer) {**
 >
-> **fs.open(writeFile, \'w\', function(err, writeFD) {**
+> **fs.open(writeFile, &apos;w&apos;, function(err, writeFD) {**
 >
 > **//will create a file named test2.txt with the contents from
 > test.txt**
 >
 > **fs.write(writeFD, buffer, 0, buffer.length, null, function(err,
 > bytesWritten, writeBuffer) {
-> console.log(writeBuffer.toString(\'utf8\'));**
+> console.log(writeBuffer.toString(&apos;utf8&apos;));**
 >
 > **});**
 >
@@ -28698,8 +28699,8 @@ from one file and writing to another:
 
 This is a simplified function to write to a file:
 
-> **fs.writeFile(filename, data, \[options\], callback)
-> fs.writeFileSync(filename, data, \[options\])**
+> **fs.writeFile(filename, data, &lbrack;options&rbrack;, callback)
+> fs.writeFileSync(filename, data, &lbrack;options&rbrack;)**
 
 ##### Description
 
@@ -28719,10 +28720,10 @@ write an entire file.
 
 Here is an example of **writeFile**:
 
-> **var filename = \_\_dirname + \'/write.txt\';**
+> **var filename = \_\_dirname + &apos;/write.txt&apos;;**
 >
-> **var buffer = new Buffer(\'Write this to a file.\', \'utf8\');
-> fs.writeFile(filename, buffer, {encoding: \'utf8\', flag: \'w\'},
+> **var buffer = new Buffer(&apos;Write this to a file.&apos;, &apos;utf8&apos;);
+> fs.writeFile(filename, buffer, {encoding: &apos;utf8&apos;, flag: &apos;w&apos;},
 > function(err){ if(null !== null){ //do something**
 >
 > **}**
@@ -28733,8 +28734,8 @@ Here is an example of **writeFile**:
 
 This function allows us to append a file:
 
-> **fs.appendFile(filename, data, \[options\], callback)
-> fs.appendFileSync(filename, data, \[options\])**
+> **fs.appendFile(filename, data, &lbrack;options&rbrack;, callback)
+> fs.appendFileSync(filename, data, &lbrack;options&rbrack;)**
 
 ##### Description
 
@@ -28746,10 +28747,10 @@ of the file. This is effectively appending the file:
 
 Here is an example of **appendFile**:
 
-> **var filename = \_\_dirname + \'/write.txt\';**
+> **var filename = \_\_dirname + &apos;/write.txt&apos;;**
 >
-> **var buffer = new Buffer(\'Append this to a file.\', \'utf8\');
-> fs.appendFile(filename, buffer, {encoding: \'utf8\', flag: \'w\'},
+> **var buffer = new Buffer(&apos;Append this to a file.&apos;, &apos;utf8&apos;);
+> fs.appendFile(filename, buffer, {encoding: &apos;utf8&apos;, flag: &apos;w&apos;},
 > function(err){ if(null !== null){ //do something**
 >
 > **}**
@@ -28771,7 +28772,7 @@ is what the path module is for:
 > of a path.
 
 Just like the other modules, the example assumes that the path module
-has been loaded: **var path = require(\'path\');**
+has been loaded: **var path = require(&apos;path&apos;);**
 
 **normalize**
 
@@ -28794,14 +28795,14 @@ passed in.
 Here is an example of using Unix slashes on a Windows system. This
 example will change all the slashes to backslashes:
 
-> **var pathString = \"/unix/style/path/separators\";
+> **var pathString = &quot;/unix/style/path/separators&quot;;
 > console.log(path.normalize(pathString));**
 
 **join**
 
 This returns a string of all the paths joined together:
 
-> **path.join(\[pathString1\],\[...\])**
+> **path.join(&lbrack;pathString1&rbrack;,&lbrack;...&rbrack;)**
 
 #### Description
 
@@ -28812,13 +28813,13 @@ all be in the correct spots.
 
 Here is an example of **join**. The example will take all the parameters
 and join them together with the correct slash for your system:
-**console.log(path.join(\'path\', \'separators\', \'added\'));**
+**console.log(path.join(&apos;path&apos;, &apos;separators&apos;, &apos;added&apos;));**
 
 **resolve**
 
 This returns the string of the path based on the parameters:
 
-> **path.resolve(\[pathString\], \[...\])**
+> **path.resolve(&lbrack;pathString&rbrack;, &lbrack;...&rbrack;)**
 
 #### Description
 
@@ -28829,12 +28830,12 @@ to the returned path, and a full path will be used whole.
 Here are two examples:
 
 -   Relative paths, will return **/home/josh/test**:
-    **console.log(path.resolve(\'/home/josh/node\', \'..\',
-    \'test\'));**
+    **console.log(path.resolve(&apos;/home/josh/node&apos;, &apos;..&apos;,
+    &apos;test&apos;));**
 
 -   A full path will return **/home/brian/node**:
-    **console.log(path.resolve(\'/home/josh/node\',
-    \'/home/brian/node\'));**
+    **console.log(path.resolve(&apos;/home/josh/node&apos;,
+    &apos;/home/brian/node&apos;));**
 
 **relative**
 
@@ -28851,7 +28852,7 @@ Here is an example that will return **../../brian/node**, because you
 must go up two parent folders and over to **brian/node** to get from one
 to the other:
 
-> **var from = \'/home/josh/node\'; var to = \'/home/brian/node\';
+> **var from = &apos;/home/josh/node&apos;; var to = &apos;/home/brian/node&apos;;
 > console.log(path.relative(from, to));**
 
 **dirname**
@@ -28868,7 +28869,7 @@ example will return **/home/users/jjohanan/node**:
 **basename**
 
 This returns a string of the final part of a path:
-**path.basename(pathString, \[ext\])**
+**path.basename(pathString, &lbrack;ext&rbrack;)**
 
 #### Description
 
@@ -28879,10 +28880,10 @@ from the return value if it exists.
 Here are two examples, one involving a file and the other a directory:
 
 -   This will return **test**:
-    **console.log(path.basename(\'/home/josh/test.js\', \'.js\'));**
+    **console.log(path.basename(&apos;/home/josh/test.js&apos;, &apos;.js&apos;));**
 
 -   This will return **josh**:
-    **console.log(path.basename(\'/home/josh\'));**
+    **console.log(path.basename(&apos;/home/josh&apos;));**
 
 **extname**
 
@@ -28894,10 +28895,10 @@ extension, a blank string is returned:
 Here are two examples:
 
 -   This example will return **.js**:
-    **console.log(path.extname(\'/home/josh/test.js\'));**
+    **console.log(path.extname(&apos;/home/josh/test.js&apos;));**
 
 -   This example will return a blank string:
-    **console.log(path.extname(\'/home/josh\'));**
+    **console.log(path.extname(&apos;/home/josh&apos;));**
 
 ### REPL
 
@@ -28927,7 +28928,7 @@ to get a prompt and then run the command:
 
 > **node**
 >
-> **//wait for \> console.log(\'hey this REPL!\');**
+> **//wait for \> console.log(&apos;hey this REPL!&apos;);**
 
 ### Handling errors
 
@@ -28957,12 +28958,12 @@ These errors can be planned for and handled gracefully.
 Next is programmer errors, which are errors in the literal sense. For
 example, a piece of code is malformed or an unexpected condition has
 come up. These are very hard to plan for (if we had planned for them,
-then they wouldn\'t be errors!). These will almost always break the
+then they wouldn&apos;t be errors!). These will almost always break the
 server, so we can come back through the logs to find what went wrong.
 
 **Error design patterns**
 
-Now that we know the two different types of errors, let\'s look at the
+Now that we know the two different types of errors, let&apos;s look at the
 three ways of alerting an application that has an error. The three ways
 are throwing the error, asynchronous callback, and emitting an error
 event:
@@ -29018,7 +29019,7 @@ one simple pass, so events are set up. One of those events is an error
 event. To handle this, we just need to listen for that event. Here is an
 example of listening for the error event of a socket:
 
-> **socket.on(\'error\', function(error){**
+> **socket.on(&apos;error&apos;, function(error){**
 >
 > **//handle error here**
 >
@@ -29038,7 +29039,7 @@ when to start executing. This is especially true in the asynchronous
 world of Node.js. Anytime we use the **on** function of an object, it
 means that it has inherited from **EventEmitter**. All of the examples
 will assume that the events variable is already created as follows:
-**var events = require(\'events\');**
+**var events = require(&apos;events&apos;);**
 
 **EventEmitter**
 
@@ -29057,16 +29058,16 @@ function in the rest of this section available.
 Here is an example of setting up a custom the **EventEmitter**
 parameter:
 
-> **var util = require(\'util\'); var events = require(\'events\');**
+> **var util = require(&apos;util&apos;); var events = require(&apos;events&apos;);**
 >
 > **function MyEventEmitter(){ events.EventEmitter.call(this); this.test
-> = function (emitThis) { this.emit(\'testEvent\', emitThis);**
+> = function (emitThis) { this.emit(&apos;testEvent&apos;, emitThis);**
 >
 > **}**
 >
 > **} util.inherits(MyEventEmitter, events.EventEmitter); var myEE = new
-> MyEventEmitter(); myEE.on(\'testEvent\', function (data) {
-> console.log(data) }); myEE.test(\'test\');**
+> MyEventEmitter(); myEE.on(&apos;testEvent&apos;, function (data) {
+> console.log(data) }); myEE.test(&apos;test&apos;);**
 
 **on**
 
@@ -29090,12 +29091,12 @@ listener at a later time.
 
 Here is an example based on our new **MyEventEmitter** class:
 
-> **var quickLog = function (data) { console.log(\'quickLog: \' +
+> **var quickLog = function (data) { console.log(&apos;quickLog: &apos; +
 > data);**
 >
 > **}**
 >
-> **myEE.on(\'testEvent\', quickLog);**
+> **myEE.on(&apos;testEvent&apos;, quickLog);**
 
 **once**
 
@@ -29116,14 +29117,14 @@ When we are done listening for this event, we will want to remove our
 listener. This will help prevent memory leaks. If we added an anonymous
 function as the listener, then we cannot remove it as we do not have a
 reference to it. Using our previous example from **on**, we will remove
-the listener: **myEE.removeListener(\'testEvent\', quickLog);**
+the listener: **myEE.removeListener(&apos;testEvent&apos;, quickLog);**
 
 **removeAllListeners**
 
 This function will remove every listener for all events or a specific
 event:
 
-> **emitter.removeAllListeners(\[event\])**
+> **emitter.removeAllListeners(&lbrack;event&rbrack;)**
 
 #### Description
 
@@ -29133,7 +29134,7 @@ even remove listeners we did not add. Use this as a last resort.
 
 An example that removes all the listeners from this event is shown here.
 If the event was left blank, it would remove all listeners for all
-events: **myEE.removeAllListeners(\'testEvent\');**
+events: **myEE.removeAllListeners(&apos;testEvent&apos;);**
 
 **setMaxListeners**
 
@@ -29163,7 +29164,7 @@ Here is an example of setting the max listeners to **50**:
 
 This is how we fire off an event:
 
-> **emitter.emit(eventName, \[argument\], \[...\])**
+> **emitter.emit(eventName, &lbrack;argument&rbrack;, &lbrack;...&rbrack;)**
 
 If we have extended an object to be an event emitter, then we will want
 to emit some events! This is the function to do that. It will execute
@@ -29173,8 +29174,8 @@ based on **eventName**.
 Here is an example that shows a listener being added and then emitting
 an event:
 
-> **myEE.on(\'testEvent\', function (data) { console.log(data) });
-> myEE.emit(\'testEvent\', \'Emit This!\', \'Another Argument!\');**
+> **myEE.on(&apos;testEvent&apos;, function (data) { console.log(data) });
+> myEE.emit(&apos;testEvent&apos;, &apos;Emit This!&apos;, &apos;Another Argument!&apos;);**
 
 ### Crypto
 
@@ -29186,7 +29187,7 @@ check passwords.
 
 In the same way as the other modules, we will require the **crypto**
 module and have it available for use in our examples. Here is what we
-will need: **var crypto = require(\'crypto\');**
+will need: **var crypto = require(&apos;crypto&apos;);**
 
 **createHash**
 
@@ -29205,13 +29206,13 @@ The return object from this function is a **crypto.Hash** object, which
 is covered in the next section.
 
 Here is an example that creates an MD5 hash: **var md5 =
-crypto.createHash(\'md5\');**
+crypto.createHash(&apos;md5&apos;);**
 
 **The hash object**
 
 This is the object that is returned from **crypto.createHash**:
 
-> **hash.update(data, \[encoding\]) hash.digest(\[encoding\])**
+> **hash.update(data, &lbrack;encoding&rbrack;) hash.digest(&lbrack;encoding&rbrack;)**
 
 #### Description
 
@@ -29227,11 +29228,11 @@ function can be hex, binary, or BASE64.
 Here is a full example of reading data from a file and then calculating
 the MD5 hash of the file.
 
-> **var f = file.readFileSync(\_\_dirname + \'/test.txt\');**
+> **var f = file.readFileSync(\_\_dirname + &apos;/test.txt&apos;);**
 >
-> **var md5 = crypto.createHash(\'md5\');**
+> **var md5 = crypto.createHash(&apos;md5&apos;);**
 >
-> **md5.update(f); console.log(md5.digest(\'base64\'));**
+> **md5.update(f); console.log(md5.digest(&apos;base64&apos;));**
 >
 > Do not use hashing for passwords. The next function we will cover is
 > much more secure than a simple hash. A digest hash is great for
@@ -29286,14 +29287,14 @@ These are the parameters used:
 Here is an example of creating a derived key for the string **password**
 and **salt**:
 
-> **crypto.pbkdf2(\'password\', \'salt\', 10000, 32, function (err, key)
-> { console.log(key.toString(\'base64\')); });**
+> **crypto.pbkdf2(&apos;password&apos;, &apos;salt&apos;, 10000, 32, function (err, key)
+> { console.log(key.toString(&apos;base64&apos;)); });**
 
 **randomBytes**
 
 This returns cryptographically strong pseudo-random data:
 
-> **crypto.randomBytes(length, \[callback\])**
+> **crypto.randomBytes(length, &lbrack;callback&rbrack;)**
 
 **Return type**
 
@@ -29317,16 +29318,16 @@ compare this example to the previous one, you will see that this example
 outputs a unique string each time, while the previous one does not:
 **var random = crypto.randomBytes(256);**
 
-> **crypto.pbkdf2(\'password\', random.toString(\'base64\'), 10000, 32,
+> **crypto.pbkdf2(&apos;password&apos;, random.toString(&apos;base64&apos;), 10000, 32,
 > function (err, key) {**
 >
-> **console.log(key.toString(\'base64\')); });**
+> **console.log(key.toString(&apos;base64&apos;)); });**
 
 **pseudoRandomBytes**
 
 This returns pseudo-random data:
 
-> **crypto.pseudoRandomBytes(length, \[calback\])
+> **crypto.pseudoRandomBytes(length, &lbrack;calback&rbrack;)
 > crypto.pseudoRandomBytes(length)**
 
 **Return Type**
@@ -29345,7 +29346,7 @@ a cache key for example.
 Here is a simple example of executing this function asynchronously:
 
 > **crypto.pseudoRandomBytes(256, function (err, randomData) {
-> console.log(randomData.toString(\'base64\')); });**
+> console.log(randomData.toString(&apos;base64&apos;)); });**
 
 ### Buffer
 
@@ -29361,7 +29362,7 @@ section. Second, buffers cannot be resized. When they are created, we
 must give a length, and that will always be the length of that buffer.
 We can, of course, create a new buffer that is larger and then copy over
 the data. Finally, a buffer is a global. We do not need to have **var
-buffer = require(\'buffer\')**. Also, it can be utilized in any file at
+buffer = require(&apos;buffer&apos;)**. Also, it can be utilized in any file at
 any time.
 
 **Buffer creation**
@@ -29369,7 +29370,7 @@ any time.
 The initialization function of a buffer is as shown in the following
 code snippet:
 
-> **new Buffer(size) new Buffer(array) new Buffer(str, \[encoding\])**
+> **new Buffer(size) new Buffer(array) new Buffer(str, &lbrack;encoding&rbrack;)**
 
 **Return value**
 
@@ -29385,14 +29386,14 @@ it defaults to UFT8.
 This example demonstrates initializing using an array with the **hello**
 string in ASCII:
 
-> **var hello = \[72, 101, 108, 108, 111\]; var buffer = new
-> Buffer(hello); console.log(buffer.toString(\'ascii\'));**
+> **var hello = &lbrack;72, 101, 108, 108, 111&rbrack;; var buffer = new
+> Buffer(hello); console.log(buffer.toString(&apos;ascii&apos;));**
 
 **index**
 
 This gets the value at the specific index in the buffer:
 
-> **buffer\[index\]**
+> **buffer&lbrack;index&rbrack;**
 
 **Return Value**
 
@@ -29403,12 +29404,12 @@ This returns the value at the index.
 This works much like an array. Here is an example of getting the first
 index in the buffer:
 
-> **var buffer = new Buffer(\'Hello!\'); console.log(buffer\[0\]);**
+> **var buffer = new Buffer(&apos;Hello!&apos;); console.log(buffer&lbrack;0&rbrack;);**
 
 **toString**
 
 This returns the buffer as a string based on the encoding:
-**buffer.toString(\[encoding\], \[start\], \[end\])**
+**buffer.toString(&lbrack;encoding&rbrack;, &lbrack;start&rbrack;, &lbrack;end&rbrack;)**
 
 **Return Value**
 
@@ -29439,8 +29440,8 @@ default values. Encoding is defaulted to UTF8, **start** is **0**, and
 Here is an example of creating a buffer and retrieving the data out of
 it. It explicitly defines each of the parameters:
 
-> **var buffer = new Buffer(\'Hello this is a buffer\');
-> console.log(buffer.toString(\'utf8\', 0, buffer.length));**
+> **var buffer = new Buffer(&apos;Hello this is a buffer&apos;);
+> console.log(buffer.toString(&apos;utf8&apos;, 0, buffer.length));**
 
 **toJSON**
 
@@ -29457,7 +29458,7 @@ This returns an array with the contents of the buffer.
 This will return contents of the buffer mapped to an array. This example
 is similar to the previous example, but with **toJSON**:
 
-> **var buffer = new Buffer(\'Hello this is a buffer\');
+> **var buffer = new Buffer(&apos;Hello this is a buffer&apos;);
 > console.log(buffer.toJSON());**
 
 **isBuffer**
@@ -29476,14 +29477,14 @@ This returns a Boolean value.
 Remember that this is a class method, so it can be executed without a
 new instance of buffer. Here is an example of using the function:
 
-> **var buffer = new Buffer(\'Hello this is a buffer\');
+> **var buffer = new Buffer(&apos;Hello this is a buffer&apos;);
 > console.log(Buffer.isBuffer(buffer));**
 
 **write**
 
 The following code writes to the buffer.
 
-> **buffer.write(stringToWrite, \[offset\], \[length\], \[encoding\])**
+> **buffer.write(stringToWrite, &lbrack;offset&rbrack;, &lbrack;length&rbrack;, &lbrack;encoding&rbrack;)**
 
 **Return value**
 
@@ -29501,8 +29502,8 @@ first write to append the second string:
 
 > **var buffer = new Buffer(12);**
 >
-> **var written = buffer.write(\'Buffer \', 0, 7, \'utf8\');
-> console.log(written); buffer.write(\'time.\', written);
+> **var written = buffer.write(&apos;Buffer &apos;, 0, 7, &apos;utf8&apos;);
+> console.log(written); buffer.write(&apos;time.&apos;, written);
 > console.log(buffer.toString());**
 
 **byteLength**
@@ -29510,7 +29511,7 @@ first write to append the second string:
 This function will get the length of a string in bytes based on the
 encoding:
 
-> **buffer.byteLength(string, \[encoding\])**
+> **buffer.byteLength(string, &lbrack;encoding&rbrack;)**
 
 **Return value**
 
@@ -29524,20 +29525,20 @@ big a string is beforehand. This is where **byteLength** comes in.
 Here is an example that determines the size of a string and then writes
 it to the buffer:
 
-> **var byteLength = Buffer.byteLength(\'Buffer time.\', \'utf8\'); var
+> **var byteLength = Buffer.byteLength(&apos;Buffer time.&apos;, &apos;utf8&apos;); var
 > buffer = new Buffer(byteLength);**
 >
-> **var written = buffer.write(\'Buffer time.\', 0, buffer.length,
-> \'utf8\'); console.log(buffer.toString());**
+> **var written = buffer.write(&apos;Buffer time.&apos;, 0, buffer.length,
+> &apos;utf8&apos;); console.log(buffer.toString());**
 
 **readUInt**
 
 This will get an unsigned integer at a certain spot in the buffer:
 
-> **buffer.readUInt8(offset, \[noAssert\]) buffer.readUInt16LE(offset,
-> \[noAssert\]) buffer.readUInt16BE(offset, \[noAssert\])
-> buffer.readUInt32LE(offset, \[noAssert\]) buffer.readUInt32BE(offset,
-> \[noAssert\])**
+> **buffer.readUInt8(offset, &lbrack;noAssert&rbrack;) buffer.readUInt16LE(offset,
+> &lbrack;noAssert&rbrack;) buffer.readUInt16BE(offset, &lbrack;noAssert&rbrack;)
+> buffer.readUInt32LE(offset, &lbrack;noAssert&rbrack;) buffer.readUInt32BE(offset,
+> &lbrack;noAssert&rbrack;)**
 
 **Return Value**
 
@@ -29558,7 +29559,7 @@ default, it is **false**.
 Here is an example of setting data and then reading the data out with
 **readUInt16**:
 
-> **var buffer = new Buffer(2); buffer\[0\] = 0x1; buffer\[1\] = 0x2;**
+> **var buffer = new Buffer(2); buffer&lbrack;0&rbrack; = 0x1; buffer&lbrack;1&rbrack; = 0x2;**
 >
 > **console.log(buffer.readUInt16LE(0));
 > console.log(buffer.readUInt16BE(0));**
@@ -29567,11 +29568,11 @@ Here is an example of setting data and then reading the data out with
 
 This writes an unsigned integer to a buffer:
 
-> **buffer.writeUInt8(value, offset, \[noAssert\])
-> buffer.writeUInt16LE(value, offset, \[noAssert\])
-> buffer.writeUInt16BE(value, offset, \[noAssert\])
-> buffer.writeUInt32LE(value, offset, \[noAssert\])
-> buffer.writeUInt32BE(value, offset, \[noAssert\])**
+> **buffer.writeUInt8(value, offset, &lbrack;noAssert&rbrack;)
+> buffer.writeUInt16LE(value, offset, &lbrack;noAssert&rbrack;)
+> buffer.writeUInt16BE(value, offset, &lbrack;noAssert&rbrack;)
+> buffer.writeUInt32LE(value, offset, &lbrack;noAssert&rbrack;)
+> buffer.writeUInt32BE(value, offset, &lbrack;noAssert&rbrack;)**
 
 #### Description
 
@@ -29598,14 +29599,14 @@ Here is an example of writing **UInt16** to the buffer:
 ### Console 
 
 This is much like the console that is present in most modern browsers.
-The console essentially maps to **stdout** and **stderr**. This isn\'t a
-module, and each function is not very complex, so let\'s jump right in.
+The console essentially maps to **stdout** and **stderr**. This isn&apos;t a
+module, and each function is not very complex, so let&apos;s jump right in.
 
 **log**
 
 This writes to **stdout**:
 
-> **console.log(message, \[...\])**
+> **console.log(message, &lbrack;...&rbrack;)**
 
 #### Description
 
@@ -29615,7 +29616,7 @@ for a history. The multiple parameters create a string-like function.
 
 Here is an example of using multiple parameters:
 
-> **console.log(\'Multiple parameters in %s\', \'console.log\');**
+> **console.log(&apos;Multiple parameters in %s&apos;, &apos;console.log&apos;);**
 
 **dir**
 
@@ -29646,15 +29647,15 @@ milliseconds.
 
 Here is an example that uses **setTimeout**:
 
-> **console.time(\'simple-timer\'); setTimeout(function () {**
+> **console.time(&apos;simple-timer&apos;); setTimeout(function () {**
 >
-> **console.timeEnd(\'simple-timer\'); }, 500);**
+> **console.timeEnd(&apos;simple-timer&apos;); }, 500);**
 
 **trace**
 
 This logs to the console and includes a stack trace:
 
-> **console.trace(message, \[...\])**
+> **console.trace(message, &lbrack;...&rbrack;)**
 
 #### Description
 
@@ -29665,11 +29666,11 @@ include a stack trace when it logs to the console.
 
 Here is a simple example:
 
-> **console.trace(\'This should be the first line.\');**
+> **console.trace(&apos;This should be the first line.&apos;);**
 
 ### npm (Node Package Manager)
 
-npm is not a Node.js module like. We will look at some of npm\'s
+npm is not a Node.js module like. We will look at some of npm&apos;s
 features and uses, as almost every Node.js project will use npm.
 
 Most modern platforms have a way of grouping together code that serves a
@@ -29710,8 +29711,8 @@ go through all the settings their uses.
 
 This is the command to install a package:
 
-**npm install npm install \[package\] \[@version\] \[\--save \|
-\--save-dev\]**
+**npm install npm install &lbrack;package&rbrack; &lbrack;@version&rbrack; &lbrack;\--save \|
+\--save-dev&rbrack;**
 
 #### Description
 
@@ -29732,7 +29733,7 @@ the most used list.
 
 This will update a package to the newest version:
 
-> **npm update \[package\]**
+> **npm update &lbrack;package&rbrack;**
 
 #### Description
 
@@ -29750,7 +29751,7 @@ This will explicitly define all the dependencies for a project:
 This is different from the basic list of dependencies in
 **package.json**. Most packages have requirements of their own. When a
 package is installed, npm will go out and find the newest version that
-matches the dependency\'s specified version. This can lead to different
+matches the dependency&apos;s specified version. This can lead to different
 versions of packages installed when run at different times. This is
 something that most developers want to avoid.
 
@@ -29764,7 +29765,7 @@ package versions will get installed.
 
 This will run an arbitrary command:
 
-**npm run \[script\]**
+**npm run &lbrack;script&rbrack;**
 
 #### Description
 
@@ -29779,9 +29780,9 @@ test, start, and stop the scripts object, respectively.
 Here is an example for a scripts object from **package.json** and the
 way to call it from **npm**:
 
-**package.json: \"scripts\": {**
+**package.json: &quot;scripts&quot;: {**
 
-**\"hey\": \"echo hey\" } npm run hey**
+**&quot;hey&quot;: &quot;echo hey&quot; } npm run hey**
 
 ### Stream
 
@@ -29831,16 +29832,16 @@ Here is a list of events:
 Here are two examples, one that uses flowing and one that uses
 non-flowing:
 
-> **var fs = require(\'fs\');**
+> **var fs = require(&apos;fs&apos;);**
 >
-> **var readable = fs.createReadStream(\'test.txt\');**
+> **var readable = fs.createReadStream(&apos;test.txt&apos;);**
 >
-> **readable.on(\'data\', function (chunk) {
+> **readable.on(&apos;data&apos;, function (chunk) {
 > console.log(chunk.toString());**
 >
 > **});**
 >
-> **var fs = require(\'fs\'); readable.on(\'readable\', function () {
+> **var fs = require(&apos;fs&apos;); readable.on(&apos;readable&apos;, function () {
 > var chunk;**
 >
 > **while (chunk = readable.read()) { console.log(chunk.toString());**
@@ -29851,7 +29852,7 @@ non-flowing:
 
 Use with a non-flowing readable stream:
 
-> **readable.read(\[size\])**
+> **readable.read(&lbrack;size&rbrack;)**
 
 ##### Return value
 
@@ -29867,7 +29868,7 @@ stream.
 
 Here is a simple example that reads a file:
 
-> **readable.on(\'readable\', function () { var chunk;**
+> **readable.on(&apos;readable&apos;, function () { var chunk;**
 >
 > **while (chunk = readable.read()) { console.log(chunk.toString());**
 >
@@ -29886,7 +29887,7 @@ encoding of the buffer, so a string is returned.
 
 Here is the opening example with **setEncoding** used:
 
-> **readable.setEncoding(\'utf8\'); readable.on(\'readable\', function
+> **readable.setEncoding(&apos;utf8&apos;); readable.on(&apos;readable&apos;, function
 > () { var chunk;**
 >
 > **while (chunk = readable.read()) { console.log(chunk);**
@@ -29913,7 +29914,7 @@ reading it:
 
 > **readable.pause();**
 >
-> **readable.on(\'data\', function (chunk) {
+> **readable.on(&apos;data&apos;, function (chunk) {
 > console.log(chunk.toString());**
 >
 > **});**
@@ -29925,7 +29926,7 @@ reading it:
 This allows you to take the output of a readable stream and send it to
 the input of a writable stream:
 
-> **readable.pipe(writable, \[options\])**
+> **readable.pipe(writable, &lbrack;options&rbrack;)**
 
 Return Value
 
@@ -29943,7 +29944,7 @@ pipe the output of the compression to a socket.
 
 Here is a simple example of piping output to **stdout**:
 
-> **var readable = fs.createReadStream(\'test.txt\');
+> **var readable = fs.createReadStream(&apos;test.txt&apos;);
 > readable.pipe(process.stdout);**
 
 **writable**
@@ -29970,7 +29971,7 @@ Here are the events and details of when they fire:
 
 This function writes to the stream:
 
-> **writable.write(chunk, \[encoding\], \[callback\])**
+> **writable.write(chunk, &lbrack;encoding&rbrack;, &lbrack;callback&rbrack;)**
 
 Return value
 
@@ -29984,17 +29985,17 @@ current chunk of data has been written.
 
 Here is a simple example:
 
-> **var fs = require(\'fs\');**
+> **var fs = require(&apos;fs&apos;);**
 >
-> **var writable = fs.createWriteStream(\'WriteStream.txt\');**
+> **var writable = fs.createWriteStream(&apos;WriteStream.txt&apos;);**
 >
-> **var hasWritten = writable.write(\'Write this!\', \'utf8\', function
-> () { console.log(\'The buffer has written\');**
+> **var hasWritten = writable.write(&apos;Write this!&apos;, &apos;utf8&apos;, function
+> () { console.log(&apos;The buffer has written&apos;);**
 >
 > **}); end**
 
 This will close the stream, and no more data can be written:
-**writable.end(\[chunk\], \[encoding\], \[callback\])**
+**writable.end(&lbrack;chunk&rbrack;, &lbrack;encoding&rbrack;, &lbrack;callback&rbrack;)**
 
 ##### Description
 
@@ -30005,10 +30006,10 @@ callback will be attached to the finish event.
 
 Here is an example to end a writable stream:
 
-> **var fs = require(\'fs\'); var writable =
-> fs.createWriteStream(\'WriteStream.txt\');**
+> **var fs = require(&apos;fs&apos;); var writable =
+> fs.createWriteStream(&apos;WriteStream.txt&apos;);**
 >
-> **writable.end(\'Last data written.\', \'utf8\', function () {**
+> **writable.end(&apos;Last data written.&apos;, &apos;utf8&apos;, function () {**
 >
 > **//this runs when everything has been written.**
 >
@@ -30025,11 +30026,11 @@ next section.
 All the functions assume that the **net** module has been loaded like
 this:
 
-**var net = require(\'net\'); createServer**
+**var net = require(&apos;net&apos;); createServer**
 
 This function will create a TCP server:
 
-> **net.createServer(\[options\], \[listener\])**
+> **net.createServer(&lbrack;options&rbrack;, &lbrack;listener&rbrack;)**
 
 **Return value**
 
@@ -30045,16 +30046,16 @@ shortly.
 Here is a simple example that shows us how to listen and write to a
 socket. Each connection will have to be manually closed:
 
-> **var net = require(\'net\');**
+> **var net = require(&apos;net&apos;);**
 >
 > **var server = net.createServer(function (connection) {**
 >
-> **connection.write(\'You connected!\');**
+> **connection.write(&apos;You connected!&apos;);**
 >
 > **});**
 >
-> **server.listen(5000, function () { console.log(\'Listening on port
-> 5000\');**
+> **server.listen(5000, function () { console.log(&apos;Listening on port
+> 5000&apos;);**
 >
 > **});**
 
@@ -30078,24 +30079,24 @@ one:
 
 Here is an example that uses all of the events:
 
-> **var net = require(\'net\'); var server = net.createServer();
-> server.on(\'listening\', function () { console.log(\'I am
-> listening\');**
+> **var net = require(&apos;net&apos;); var server = net.createServer();
+> server.on(&apos;listening&apos;, function () { console.log(&apos;I am
+> listening&apos;);**
 >
 > **});**
 >
-> **server.on(\'connection\', function (socket) { console.log(socket);
+> **server.on(&apos;connection&apos;, function (socket) { console.log(socket);
 > socket.end(); server.close();**
 >
 > **});**
 >
-> **server.on(\'error\', function (err) { console.log(err);**
+> **server.on(&apos;error&apos;, function (err) { console.log(err);**
 >
 > **});**
 >
-> **server.on(\'close\', function () {**
+> **server.on(&apos;close&apos;, function () {**
 >
-> **console.log(\'The server has stopped listening\');**
+> **console.log(&apos;The server has stopped listening&apos;);**
 >
 > **});**
 >
@@ -30105,7 +30106,7 @@ Here is an example that uses all of the events:
 
 This starts accepting connections:
 
-> **server.listen(port, \[host\], \[backlog\], \[callback\])**
+> **server.listen(port, &lbrack;host&rbrack;, &lbrack;backlog&rbrack;, &lbrack;callback&rbrack;)**
 
 ##### Description
 
@@ -30120,10 +30121,10 @@ being used by another process.
 
 Here is an example that defines all the parameters:
 
-**server.listen(5000, \'127.0.0.1\', 500, function () {
-console.log(\'Listening on port 5000\'); }); close**
+**server.listen(5000, &apos;127.0.0.1&apos;, 500, function () {
+console.log(&apos;Listening on port 5000&apos;); }); close**
 
-This closes the current server: **server.close(\[callback\])**
+This closes the current server: **server.close(&lbrack;callback&rbrack;)**
 
 ##### Description
 
@@ -30158,8 +30159,8 @@ connections. The callback function will need to be in the form of
 
 This easily creates a connection to the specified address:
 
-> **net.connect(port, \[host\], \[connectListener\])
-> net.createConnection(port, \[host\], \[connectListener\])**
+> **net.connect(port, &lbrack;host&rbrack;, &lbrack;connectListener&rbrack;)
+> net.createConnection(port, &lbrack;host&rbrack;, &lbrack;connectListener&rbrack;)**
 
 **Return value**
 
@@ -30177,25 +30178,25 @@ the newly formed **net.Socket** object.
 Here is an example that will connect to a server we just created and
 send data every second:
 
-> **var net = require(\'net\'); var server = net.createServer();
-> server.on(\'listening\', function () { console.log(\'I am
-> listening\');**
+> **var net = require(&apos;net&apos;); var server = net.createServer();
+> server.on(&apos;listening&apos;, function () { console.log(&apos;I am
+> listening&apos;);**
 >
 > **});**
 >
-> **server.on(\'connection\', function (socket) { socket.on(\'data\',
-> function (d) { console.log(\'from client: \' + d);**
+> **server.on(&apos;connection&apos;, function (socket) { socket.on(&apos;data&apos;,
+> function (d) { console.log(&apos;from client: &apos; + d);**
 >
 > **});**
 >
 > **}); server.listen(5000);**
 >
-> **var client = net.connect({ port: 5000, host: \'localhost\' },
+> **var client = net.connect({ port: 5000, host: &apos;localhost&apos; },
 > function**
 >
 > **() {**
 >
-> **setInterval(function () { client.write(\'hey!\');**
+> **setInterval(function () { client.write(&apos;hey!&apos;);**
 >
 > **}, 1000);**
 >
@@ -30232,30 +30233,30 @@ will have to listen for the data event to the get the data.
 
 Here is an example of using a socket to connect to a local server:
 
-> **var server = net.createServer(); server.on(\'listening\', function
-> () { console.log(\'I am listening\');**
+> **var server = net.createServer(); server.on(&apos;listening&apos;, function
+> () { console.log(&apos;I am listening&apos;);**
 >
 > **});**
 >
-> **server.on(\'connection\', function (socket) { socket.on(\'data\',
-> function (d) { console.log(\'from client: \' + d);**
+> **server.on(&apos;connection&apos;, function (socket) { socket.on(&apos;data&apos;,
+> function (d) { console.log(&apos;from client: &apos; + d);**
 >
 > **});**
 >
 > **}); server.listen(5000);**
 >
-> **var client = new net.Socket(); client.on(\'connect\', function () {
-> setInterval(function () { client.write(\'Hey!\');**
+> **var client = new net.Socket(); client.on(&apos;connect&apos;, function () {
+> setInterval(function () { client.write(&apos;Hey!&apos;);**
 >
 > **}, 1000);**
 >
-> **}); client.connect(5000, \'localhost\');**
+> **}); client.connect(5000, &apos;localhost&apos;);**
 
 #### connect
 
 This creates a connection:
 
-> **socket.connect(port, \[host\], \[listener\])**
+> **socket.connect(port, &lbrack;host&rbrack;, &lbrack;listener&rbrack;)**
 
 ##### Description
 
@@ -30266,18 +30267,18 @@ event.
 
 Here is an example that connects locally and writes to the connection:
 
-> **var client = new net.Socket(); client.on(\'connect\', function () {
-> setInterval(function () { client.write(\'Hey!\');**
+> **var client = new net.Socket(); client.on(&apos;connect&apos;, function () {
+> setInterval(function () { client.write(&apos;Hey!&apos;);**
 >
 > **}, 1000);**
 >
-> **}); client.connect(5000, \'localhost\');**
+> **}); client.connect(5000, &apos;localhost&apos;);**
 
 #### write
 
 This sends data out on the socket:
 
-> **socket.write(data, \[encoding\], \[callback\])**
+> **socket.write(data, &lbrack;encoding&rbrack;, &lbrack;callback&rbrack;)**
 
 ##### Description
 
@@ -30292,21 +30293,21 @@ has been written over the socket.
 
 Here is an example with all of the parameters defined:
 
-> **var client = new net.Socket(); client.on(\'connect\', function ()
+> **var client = new net.Socket(); client.on(&apos;connect&apos;, function ()
 > {**
 >
-> **client.write(\'This is the data\', \'utf8\', function(){**
+> **client.write(&apos;This is the data&apos;, &apos;utf8&apos;, function(){**
 >
-> **console.log(\'Data has been sent\');**
+> **console.log(&apos;Data has been sent&apos;);**
 >
 > **});**
 >
-> **}); client.connect(5000, \'localhost\');**
+> **}); client.connect(5000, &apos;localhost&apos;);**
 
 #### end
 
-This starts the closing process of the socket: **socket.end(\[data\],
-\[encoding\])**
+This starts the closing process of the socket: **socket.end(&lbrack;data&rbrack;,
+&lbrack;encoding&rbrack;)**
 
 ##### Description
 
@@ -30319,9 +30320,9 @@ optional parameters are for:
 
 > **Here is an example that closes a socket.**
 >
-> **var client = new net.Socket(); client.on(\'connect\', function () {
-> client.end(\'I am closing\', \'utf8\'); }); client.connect(5000,
-> \'localhost\');**
+> **var client = new net.Socket(); client.on(&apos;connect&apos;, function () {
+> client.end(&apos;I am closing&apos;, &apos;utf8&apos;); }); client.connect(5000,
+> &apos;localhost&apos;);**
 
 ## The HTTP module
 
@@ -30338,11 +30339,11 @@ The only difference is that for the options of **createServer** and
 
 All of the following examples assume that the module has been loaded:
 
-**var http = require(\'http\'); createServer**
+**var http = require(&apos;http&apos;); createServer**
 
 This creates an HTTP server:
 
-> **http.createServer(\[requestListener\])**
+> **http.createServer(&lbrack;requestListener&rbrack;)**
 
 **Return Value**
 
@@ -30357,7 +30358,7 @@ Here is a simple example that just logs to the console any time a
 request is made:
 
 > **var server = http.createServer(function (req, res) {
-> console.log(\'Someone made a request!\'); res.end();**
+> console.log(&apos;Someone made a request!&apos;); res.end();**
 >
 > **});**
 >
@@ -30376,15 +30377,15 @@ the events are important to handling requests.
 This tells the server to listen on the supplied port, path, or file
 descriptor:
 
-> **server.listen(port, \[host\], \[callback\]) server.listen(path,
-> \[callback\]) server.listen(fd, \[callback\])**
+> **server.listen(port, &lbrack;host&rbrack;, &lbrack;callback&rbrack;) server.listen(path,
+> &lbrack;callback&rbrack;) server.listen(fd, &lbrack;callback&rbrack;)**
 
 #### Description
 
 Although this function has three different ways to execute, you will
 most likely only use the network listener. In fact, the other two
 listeners are difficult, if not impossible, to even execute on Windows.
-Let\'s cover the last two quickly.
+Let&apos;s cover the last two quickly.
 
 The path listener will use a local socket server, and the file
 descriptor will need a handle. If this sounds foreign, it means you will
@@ -30397,14 +30398,14 @@ callback will be attached to the listening event.
 Here is an example of listening on a network port with all the
 parameters defined:
 
-> **var server = http.createServer(); server.listen(8080, \'localhost\',
-> function(){ console.log(\'The server is listening\'); });**
+> **var server = http.createServer(); server.listen(8080, &apos;localhost&apos;,
+> function(){ console.log(&apos;The server is listening&apos;); });**
 
 **close**
 
 This closes the server:
 
-> **server.close(\[callback\])**
+> **server.close(&lbrack;callback&rbrack;)**
 
 #### Description
 
@@ -30413,9 +30414,9 @@ to the close event.
 
 Here is a simple example:
 
-> **var server = http.createServer(); server.listen(8080, \'localhost\',
-> function () { server.close(function () { console.log(\'Server has
-> closed\');**
+> **var server = http.createServer(); server.listen(8080, &apos;localhost&apos;,
+> function () { server.close(function () { console.log(&apos;Server has
+> closed&apos;);**
 >
 > **});**
 >
@@ -30428,12 +30429,12 @@ are also where the majority of work will be done. **request**
 
 This event fires when a request comes in:
 
-> **server.on(\'request\', function (req, res) { });**
+> **server.on(&apos;request&apos;, function (req, res) { });**
 
 ##### Description
 
 If you only listen to one event, this is the event to listen for. It has
-the **request** and the server\'s response. The **req** attribute will
+the **request** and the server&apos;s response. The **req** attribute will
 be **http.IncomingMessage**, and the **res** attribute will be
 **http.ServerResponse**. We will look at both of these objects in this
 section. In addition to this, **req** implements a readable stream
@@ -30441,21 +30442,21 @@ interface, and **res** implements a writable stream interface.
 
 Here is an example of listening for a request:
 
-> **server.on(\'request\', function (req, res) {**
+> **server.on(&apos;request&apos;, function (req, res) {**
 >
 > **res.end();**
 
-**console.log(\'A request was received\'); }); close**
+**console.log(&apos;A request was received&apos;); }); close**
 
 This event fires when the server closes:
 
-> **server.on(\'close\', function () { });**
+> **server.on(&apos;close&apos;, function () { });**
 
 #### upgrade
 
 This event fires when the client sends an HTTP upgrade:
 
-> **server.on(\'upgrade\', function (req, socket, buffer) { });**
+> **server.on(&apos;upgrade&apos;, function (req, socket, buffer) { });**
 
 ##### Description
 
@@ -30483,7 +30484,7 @@ Sometimes, you will want to make decisions based on the information in
 the headers. Here is an example using headers to check for basic
 authentication:
 
-> **server.on(\'request\', function (req, res) { if
+> **server.on(&apos;request&apos;, function (req, res) { if
 > (req.headers.authorization !== undefined)**
 >
 > **//do a check here res.end();**
@@ -30501,8 +30502,8 @@ This gets the HTTP method of the request:
 This returns the method as a string in uppercase. Here is an example for
 **GET**:
 
-> **server.on(\'request\', function (req, res) { if (req.method ===
-> \'GET\') res.write(req.method); res.end(); });**
+> **server.on(&apos;request&apos;, function (req, res) { if (req.method ===
+> &apos;GET&apos;) res.write(req.method); res.end(); });**
 
 **url**
 
@@ -30513,15 +30514,15 @@ This is the URL that was requested:
 #### Description
 
 This will be a string of the URL, including any query parameters. You
-can parse the string yourself or use Node\'s query string module and use
+can parse the string yourself or use Node&apos;s query string module and use
 the **parse** function.
 
 Here is a simple example that will serve any files in the current
 directory. Remember that this is only an example and does no error
 checking:
 
-> **server.on(\'request\', function (req, res) { var file =
-> fs.createReadStream(\'.\' + req.url); file.pipe(res); });**
+> **server.on(&apos;request&apos;, function (req, res) { var file =
+> fs.createReadStream(&apos;.&apos; + req.url); file.pipe(res); });**
 
 **data**
 
@@ -30536,12 +30537,12 @@ exhausted, the end event will fire.
 
 Here is an example that creates listeners for the data and end event:
 
-> **var data = \'\';**
+> **var data = &apos;&apos;;**
 >
-> **response.on(\'data\', function (chunk) { console.log(chunk); data +=
+> **response.on(&apos;data&apos;, function (chunk) { console.log(chunk); data +=
 > chunk; });**
 >
-> **response.on(\'end\', function () { console.log(data); });**
+> **response.on(&apos;end&apos;, function () { console.log(data); });**
 
 ### ServerResponse
 
@@ -30553,7 +30554,7 @@ writable interface.
 
 This will write the HTTP response header:
 
-> **response.WriteHead(statusCode, \[headers\])**
+> **response.WriteHead(statusCode, &lbrack;headers&rbrack;)**
 
 #### Description
 
@@ -30567,8 +30568,8 @@ value.
 
 Here is an example that writes the header:
 
-> **server.on(\'request\', function (req, res) { res.writeHead(200, {
-> \'Content-Type\': \'text/html\' }); res.end(); });**
+> **server.on(&apos;request&apos;, function (req, res) { res.writeHead(200, {
+> &apos;Content-Type&apos;: &apos;text/html&apos; }); res.end(); });**
 
 **statusCode**
 
@@ -30584,7 +30585,7 @@ header. It must be called instead of it.
 
 Here is an example that uses **statusCode**:
 
-> **server.on(\'request\', function (req, res) { res.statusCode = 404;
+> **server.on(&apos;request&apos;, function (req, res) { res.statusCode = 404;
 > res.end(); });**
 
 **setHeader**
@@ -30601,16 +30602,16 @@ This can be called multiple times to set multiple headers.
 
 Here is an example of using **statusCode** and **setHeader** together:
 
-> **server.on(\'request\', function (req, res) { res.statusCode = 200;**
+> **server.on(&apos;request&apos;, function (req, res) { res.statusCode = 200;**
 >
-> **res.setHeader(\'Content-Type\', \'text/html\');
-> res.setHeader(\'Custom-Header\', \'Custom-Value\'); res.end(); });**
+> **res.setHeader(&apos;Content-Type&apos;, &apos;text/html&apos;);
+> res.setHeader(&apos;Custom-Header&apos;, &apos;Custom-Value&apos;); res.end(); });**
 
 **write**
 
 This is the function that writes the response body:
 
-> **response.write(chunk, \[encoding\])**
+> **response.write(chunk, &lbrack;encoding&rbrack;)**
 
 #### Description
 
@@ -30619,17 +30620,17 @@ can be used. A chunk can be a buffer or string. The encoding is optional
 as it will default to UTF8. Here is an example that writes a simple HTML
 page as the response:
 
-> **server.on(\'request\', function (req, res) { res.statusCode = 200;**
+> **server.on(&apos;request&apos;, function (req, res) { res.statusCode = 200;**
 >
-> **res.setHeader(\'Content-Type\', \'text/html\');
-> res.write(\'\<html\>\<body\>\<h1\>Hello!\</h1\>\</body\>\</html\>\');
+> **res.setHeader(&apos;Content-Type&apos;, &apos;text/html&apos;);
+> res.write(&apos;&lt;html\>&lt;body\>&lt;h1\>Hello!&lt;/h1\>&lt;/body\>&lt;/html\>&apos;);
 > res.end(); });**
 
 **end**
 
 This ends the response:
 
-> **response.end(\[data\], \[encoding\])**
+> **response.end(&lbrack;data&rbrack;, &lbrack;encoding&rbrack;)**
 
 #### Description
 
@@ -30641,7 +30642,7 @@ browser will wait for a response from the server. **http.request**
 
 This makes a request using HTTP:
 
-> **http.request(options, \[callback\])**
+> **http.request(options, &lbrack;callback&rbrack;)**
 
 **Return value**
 
@@ -30680,13 +30681,13 @@ The callback will be attached to the response event. The request object
 is a writable stream so that data can be sent to the server. Here is an
 example that makes a request to Packt Publishing:
 
-**var request = http.request({ host: \'www.packtpub.com\', port: 80,
-path: \'/\', method: \'GET\' }, function (res) { console.log(res); });
+**var request = http.request({ host: &apos;www.packtpub.com&apos;, port: 80,
+path: &apos;/&apos;, method: &apos;GET&apos; }, function (res) { console.log(res); });
 request.end(); http.get**
 
 This is the convenience method for a **GET** request:
 
-> **http.get(options, \[callback\])**
+> **http.get(options, &lbrack;callback&rbrack;)**
 
 **Return value**
 
@@ -30700,7 +30701,7 @@ are only making a **GET** request, this can save some boilerplate code.
 
 Here is an example that requests Packt Publishing:
 
-> **http.get(\'http://www.packtpub.com\', function (res) {
+> **http.get(&apos;http://www.packtpub.com&apos;, function (res) {
 > console.log(res); });**
 
 ### http.clientRequest
@@ -30710,7 +30711,7 @@ This is the object that is returned from **http.request**.
 **write**
 
 This writes to the server in the request: **request.write(data,
-\[encoding\])**
+&lbrack;encoding&rbrack;)**
 
 #### Description
 
@@ -30725,7 +30726,7 @@ or string, and encoding will default to UTF8.
 
 This ends the request:
 
-> **request.end(\[data\], \[encoding\])**
+> **request.end(&lbrack;data&rbrack;, &lbrack;encoding&rbrack;)**
 
 #### Description
 
@@ -30739,7 +30740,7 @@ default to UTF8.
 This is the response event. It lets you know that the remote server has
 responded:
 
-> **request.on(\'response\', function(response){})**
+> **request.on(&apos;response&apos;, function(response){})**
 
 #### Description
 
@@ -30753,15 +30754,15 @@ server to crash.
 
 Here is an example listener that reads the data from the response:
 
-> **var request = http.request({host: \'www.google.com\', path: \'/\',
-> port: 80, method: \'GET\'});**
+> **var request = http.request({host: &apos;www.google.com&apos;, path: &apos;/&apos;,
+> port: 80, method: &apos;GET&apos;});**
 >
-> **request.on(\'response\', function (response) { var data = \'\';**
+> **request.on(&apos;response&apos;, function (response) { var data = &apos;&apos;;**
 >
-> **response.on(\'data\', function (chunk) { console.log(chunk); data +=
+> **response.on(&apos;data&apos;, function (chunk) { console.log(chunk); data +=
 > chunk; });**
 >
-> **response.on(\'end\', function () { console.log(data);**
+> **response.on(&apos;end&apos;, function () { console.log(data);**
 >
 > **});**
 >
@@ -30778,12 +30779,12 @@ developing websites and applications using HTML and CSS.
 and Jacob Thornton developed Bootstrap and used Twitter as the framework
 for consistency. According to Twitter developer Mark Otto:
 
-> *\"A super small group of developers and I got together to design and
+> *&quot;A super small group of developers and I got together to design and
 > build a new internal tool and saw an opportunity to do something more.
 > Through that process, we saw ourselves build something much more
 > substantial than another internal tool. Months later, we ended up with
 > an early version of Bootstrap as a way to document and share common
-> design patterns and assets within the company.\"*
+> design patterns and assets within the company.&quot;*
 
 The first official release of Bootstrap was August 19, 2011. There are
 currently three
@@ -30802,34 +30803,34 @@ Safari browsers.
 To get started with Bootstrap, the following piece of code for HTML5
 doctype must be included in every bootstrap project:
 
-> **\<!DOCTYPE html\>**
+> **&lt;!DOCTYPE html\>**
 >
-> **\<html lang=\"en\"\> \...**
+> **&lt;html lang=&quot;en&quot;\> &period;..**
 >
-> **\</html\>**
+> **&lt;/html\>**
 
 ### Mobile first
 
 Bootstrap is very mobile friendly. Mobile First styles are all included
 in a library and not scattered among various files. For accurate
-rendering and touch zooming, add the viewport meta tag to **\<head\>**:
+rendering and touch zooming, add the viewport meta tag to **&lt;head\>**:
 
-> **\<meta name=\"viewport\" content=\"width=device-width, initial-
-> scale=1.0\"\>**
+> **&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-
+> scale=1.0&quot;\>**
 
 Zooming can be disabled by setting the property user-scalable to no in
 the viewport meta tag, as shown here:
 
-> **\<meta name=\"viewport\" content=\"width=device-width, initial-
-> scale=1.0, maximum-scale=1.0, user-scalable=no\"\>**
+> **&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-
+> scale=1.0, maximum-scale=1.0, user-scalable=no&quot;\>**
 
 **Responsive images**
 
 Images can be made to respond to various screen sizes using a simple
 class, as follows:
 
-> **\<img src=\"\...\" class=\"img-responsive\" alt=\"Responsive
-> image\"\>**
+> **&lt;img src=&quot;&period;..&quot; class=&quot;img-responsive&quot; alt=&quot;Responsive
+> image&quot;\>**
 
 **Containers**
 
@@ -30840,15 +30841,15 @@ There are two types of containers, they are as follows:
 
 -   Responsive fixed width container, for example:
 
-> **\<div class=\"container\"\>\</div\>**
+> **&lt;div class=&quot;container&quot;\>&lt;/div\>**
 
 -   Responsive full width container, for example:
 
-> **\<div class=\"container-fluid\"\>\</div\>**
+> **&lt;div class=&quot;container-fluid&quot;\>&lt;/div\>**
 
 ## Getting started
 
-It\'s now time to get started with your first Bootstrap project or
+It&apos;s now time to get started with your first Bootstrap project or
 website. You can get Bootstrap from various sources. For a kick start,
 here are a few sources for you to get your hands on Bootstrap.
 
@@ -30914,15 +30915,15 @@ customization.
 In fixed layout, column widths are fixed and cannot be changed. The
 syntax for declaring fixed layouts for your website is as follows:
 
-> **\<body\>**
+> **&lt;body\>**
 >
-> **\<div class=\"container\"\> \<!\--This line is for declaring fixed**
+> **&lt;div class=&quot;container&quot;\> &lt;!\--This line is for declaring fixed**
 >
 > **layouts\--\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 
 Everything inside the **container** class in the preceding code will be
 fixed for every device in which this code is executed.
@@ -30931,7 +30932,7 @@ fixed for every device in which this code is executed.
 
 A fluid layout acts just like a liquid and adjusts itself according to
 the screen resolution of the user at runtime. The components of such
-layouts mainly contain percentage widths and thus adjust to the user\'s
+layouts mainly contain percentage widths and thus adjust to the user&apos;s
 screen effectively. Such layouts are more user friendly and make the
 website look better. It also improves accessibility and interface.
 
@@ -30941,29 +30942,29 @@ Fluid layouts adjust themselves according to the screen resolution they
 receive using predefined percentage widths. The syntax for declaring
 fluid layouts for your website is shown here:
 
-> **\<div class=\"container-fluid\"\> \<!\--declaration of a fluid**
+> **&lt;div class=&quot;container-fluid&quot;\> &lt;!\--declaration of a fluid**
 >
 > **container\--\>**
 >
-> **\<div class=\"row-fluid\"\>**
+> **&lt;div class=&quot;row-fluid&quot;\>**
 >
-> **\<div class=\"span3\"\> \<!\--spans 3 columns \--\>**
+> **&lt;div class=&quot;span3&quot;\> &lt;!\--spans 3 columns \--\>**
 >
-> **\<!\--Sidebar content\--\>**
+> **&lt;!\--Sidebar content\--\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<div class=\"span5\"\> \<!\--spans 5 columns \--\>**
+> **&lt;div class=&quot;span5&quot;\> &lt;!\--spans 5 columns \--\>**
 >
-> **\<!\--Body content\--\>**
+> **&lt;!\--Body content\--\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
-Bootstrap\'s grid system allows up to 12 columns across the page.
+Bootstrap&apos;s grid system allows up to 12 columns across the page.
 
 In the preceding example, **span3** combines three columns and **span5**
 combines five columns, and together they complete the whole page
@@ -30985,9 +30986,9 @@ less hassles in customization and implementation.
 The following example code shows how you can include responsive features
 using meta tags along with a Bootstrap stylesheet:
 
-> **\<meta name=\"viewport\" content=\"width=device-width, initial-
-> scale=1.0\"\> \<link href=\"assets/css/bootstrap-responsive.css\"
-> rel=\"stylesheet\"\>**
+> **&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-
+> scale=1.0&quot;\> &lt;link href=&quot;assets/css/bootstrap-responsive.css&quot;
+> rel=&quot;stylesheet&quot;\>**
 
 **Supported devices**
 
@@ -31096,158 +31097,158 @@ source:
 Media queries help the website to adjust the styles according to the
 screen size. We can use the media queries in our **LESS** files in order
 to create the key breakpoints in our grid system. Observing the cheat
-sheet, we can write media queries. Let\'s take a look at the following
+sheet, we can write media queries. Let&apos;s take a look at the following
 code snippet:
 
-> **/\* Large Device (\>=1200 px) \*/**
+> **/&ast; Large Device (\>=1200 px) &ast;/**
 >
-> **\@media (min-width: \@screen-lg-min) { \... }**
+> **&commat;media (min-width: &commat;screen-lg-min) { &period;.. }**
 >
-> **/\*Medium Devices (\>=992 px)\*/**
+> **/&ast;Medium Devices (\>=992 px)&ast;/**
 >
-> **\@media (min-width: \@screen-md-min) { \... }**
+> **&commat;media (min-width: &commat;screen-md-min) { &period;.. }**
 >
-> **/\* Small Devices such as Tablets (\>=768px) \*/ \@media (min-width:
-> \@screen-sm-min) { \... }**
+> **/&ast; Small Devices such as Tablets (\>=768px) &ast;/ &commat;media (min-width:
+> &commat;screen-sm-min) { &period;.. }**
 >
-> **/\* Extra small devices such as Phones (\<768px)\*/ /\* No media
-> query as this is the default\*/**
+> **/&ast; Extra small devices such as Phones (&lt;768px)&ast;/ /&ast; No media
+> query as this is the default&ast;/**
 
 We occasionally expand on these media queries to include a max width to
 limit CSS to a narrower set of devices:
 
-> **/\* Large Device (\>=1200 px) \*/**
+> **/&ast; Large Device (\>=1200 px) &ast;/**
 >
-> **\@media (min-width: \@screen-lg-min) { \... }**
+> **&commat;media (min-width: &commat;screen-lg-min) { &period;.. }**
 >
-> **/\*Medium Devices (\>=992 px)\*/**
+> **/&ast;Medium Devices (\>=992 px)&ast;/**
 >
-> **\@media (min-width: \@screen-md-min) and (max-width:
-> \@screen-md-max)**
+> **&commat;media (min-width: &commat;screen-md-min) and (max-width:
+> &commat;screen-md-max)**
 >
-> **{ \... }**
+> **{ &period;.. }**
 >
-> **/\* Small Devices such as Tablets (\>=768px) \*/**
+> **/&ast; Small Devices such as Tablets (\>=768px) &ast;/**
 >
-> **\@media (min-width: \@screen-sm-min) and (max-width:
-> \@screen-sm-max)**
+> **&commat;media (min-width: &commat;screen-sm-min) and (max-width:
+> &commat;screen-sm-max)**
 >
-> **{ \... }**
+> **{ &period;.. }**
 >
-> **/\* Extra small devices such as Phones (\<768px)\*/**
+> **/&ast; Extra small devices such as Phones (&lt;768px)&ast;/**
 >
-> **\@media (max-width: \@screen-xs-max) { \... }**
+> **&commat;media (max-width: &commat;screen-xs-max) { &period;.. }**
 
 **Responsive column resets**
 
 We need these types of columns because sometimes in a grid, not all the
 columns end with the same alignment due to a varying amount of data in
 it. However, responsive columns will ensure that everything is perfectly
-aligned. Let\'s take a look at the following code snippet:
+aligned. Let&apos;s take a look at the following code snippet:
 
-> **\<div class=\"row\"\>**
+> **&lt;div class=&quot;row&quot;\>**
 >
-> **\<div class=\"col-xs-6 col-sm-3\" style=\"background-color:pink\"\>.
-> col-xs-6 .col-sm-3\</div\>**
+> **&lt;div class=&quot;col-xs-6 col-sm-3&quot; style=&quot;background-color:pink&quot;\>.
+> col-xs-6 .col-sm-3&lt;/div\>**
 >
-> **\<div class=\"col-xs-6 col-sm-3\" style=\"background-
-> color:brown;\"\>.col-xs-6 .col-sm-3\</div\>\</div\> \<!\-- Add the
+> **&lt;div class=&quot;col-xs-6 col-sm-3&quot; style=&quot;background-
+> color:brown;&quot;\>.col-xs-6 .col-sm-3&lt;/div\>&lt;/div\> &lt;!\-- Add the
 > extra clearfix for only the required viewport \--\>**
 >
-> **\<div class=\"clearfix visible-xs-block\"\>\</div\>**
+> **&lt;div class=&quot;clearfix visible-xs-block&quot;\>&lt;/div\>**
 >
-> **\<div class=\"col-xs-6 col-sm-3\" style=\"background-
-> color:orange;\>.col-xs-6 .col-sm-3\</div\>**
+> **&lt;div class=&quot;col-xs-6 col-sm-3&quot; style=&quot;background-
+> color:orange;\>.col-xs-6 .col-sm-3&lt;/div\>**
 >
-> **\<div class=\"col-xs-6 col-sm-3\" style=\"background-
-> color:black;\>.col-xs-6 .col-sm-3\</div\> \</div\>**
+> **&lt;div class=&quot;col-xs-6 col-sm-3&quot; style=&quot;background-
+> color:black;\>.col-xs-6 .col-sm-3&lt;/div\> &lt;/div\>**
 
 **Offsetting columns**
 
 Sometimes, we need to place a column or start a column with some free
 space offset. So, we set an offset from where the column needs to begin:
 
-> **\<div class=\"row\"\>**
+> **&lt;div class=&quot;row&quot;\>**
 >
-> **\<div class=\"col-md-4\"\>.col-md-4\</div\>**
+> **&lt;div class=&quot;col-md-4&quot;\>.col-md-4&lt;/div\>**
 >
-> **\<div class=\"col-md-4 col-md-offset-4\"\>.col-md-4
+> **&lt;div class=&quot;col-md-4 col-md-offset-4&quot;\>.col-md-4
 > .col-md-offset-**
 >
-> **4\</div\>**
+> **4&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<div class=\"row\"\>**
+> **&lt;div class=&quot;row&quot;\>**
 >
-> **\<div class=\"col-md-3 col-md-offset-3\"\>.col-md-3
+> **&lt;div class=&quot;col-md-3 col-md-offset-3&quot;\>.col-md-3
 > .col-md-offset-**
 >
-> **3\</div\>**
+> **3&lt;/div\>**
 >
-> **\<div class=\"col-md-3 col-md-offset-3\"\>.col-md-3
+> **&lt;div class=&quot;col-md-3 col-md-offset-3&quot;\>.col-md-3
 > .col-md-offset-**
 >
-> **3\</div\>**
+> **3&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<div class=\"row\"\>**
+> **&lt;div class=&quot;row&quot;\>**
 >
-> **\<div class=\"col-md-6 col-md-offset-3\"\>.col-md-6
+> **&lt;div class=&quot;col-md-6 col-md-offset-3&quot;\>.col-md-6
 > .col-md-offset-**
 >
-> **3\</div\>**
+> **3&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **Nesting columns**
 
 As the name suggests, nesting columns are an embedment of a column
-within a column. Let\'s take a look at the following code snippet:
+within a column. Let&apos;s take a look at the following code snippet:
 
-> **\<div class=\"row\"\>**
+> **&lt;div class=&quot;row&quot;\>**
 >
-> **\<div class=\"col-md-9\"\>**
+> **&lt;div class=&quot;col-md-9&quot;\>**
 >
 > **Level 1: .col-md-9**
 >
-> **\<div class=\"row\"\>**
+> **&lt;div class=&quot;row&quot;\>**
 >
-> **\<div class=\"col-md-6\"\>**
->
-> **Level 2: .col-md-6**
->
-> **\</div\>**
->
-> **\<div class=\"col-md-6\"\>**
+> **&lt;div class=&quot;col-md-6&quot;\>**
 >
 > **Level 2: .col-md-6**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;div class=&quot;col-md-6&quot;\>**
 >
-> **\</div\>**
+> **Level 2: .col-md-6**
 >
-> **\</div\>**
+> **&lt;/div\>**
+>
+> **&lt;/div\>**
+>
+> **&lt;/div\>**
+>
+> **&lt;/div\>**
 
 **Column ordering**
 
 Column ordering can also be changed by moving columns to right or left.
 The following code shows how columns can be moved:
 
-> **\<div class=\"row\"\>**
+> **&lt;div class=&quot;row&quot;\>**
 >
-> **\<div class=\"col-md-9 col-md-push-3\"\>.col-md-9 .col-md-push-**
+> **&lt;div class=&quot;col-md-9 col-md-push-3&quot;\>.col-md-9 .col-md-push-**
 >
-> **3\</div\>**
+> **3&lt;/div\>**
 >
-> **\<div class=\"col-md-3 col-md-pull-9\"\>.col-md-3 .col-md-pull-**
+> **&lt;div class=&quot;col-md-3 col-md-pull-9&quot;\>.col-md-3 .col-md-pull-**
 >
-> **9\</div\>**
+> **9&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **LESS variables and mixins**
 
@@ -31271,7 +31272,7 @@ example shows the **make-row()** mixin:
 > **}**
 
 The **make-row()** mixin generates styles for the wrapper element, which
-contains all the columns. It uses the value from the **\@gutter**
+contains all the columns. It uses the value from the **&commat;gutter**
 parameter to calculate the left and right margins for a row.
 
 **Variables**
@@ -31291,13 +31292,13 @@ mixins as default values:
 
 > **//Number of columns in the grid.**
 >
-> **\@grid-columns: 12;**
+> **&commat;grid-columns: 12;**
 >
 > **//padding between columns. Divided in half for left and right.**
 >
-> **\@grid-gutter-width: 30px; //point at which the navbar collapses.**
+> **&commat;grid-gutter-width: 30px; //point at which the navbar collapses.**
 >
-> **\@grid-float-breakpoint: 768px;**
+> **&commat;grid-float-breakpoint: 768px;**
 
 ## Typography
 
@@ -31311,24 +31312,24 @@ and so on.
 In Bootstrap, all headings from **h1** to **h6** are available from
 HTML. Headings are mainly used to highlight the main topics under
 discussion. The heading text should be included between proper HTML
-heading tags, for example, **\<h1\> Here is the heading text**
-**\</h1\>**. The heading size decreases as the heading number increases,
+heading tags, for example, **&lt;h1\> Here is the heading text**
+**&lt;/h1\>**. The heading size decreases as the heading number increases,
 providing the facility to highlight the main topics and subtopics. This
 technique helps in managing a proper design for the website.
 
 Here are a few examples of how headings can be used:
 
-> **\<h1\> This is a Bootstrap heading H1\</h1\>**
+> **&lt;h1\> This is a Bootstrap heading H1&lt;/h1\>**
 >
-> **\<h2\> This is a Bootstrap heading H2\</h2\>**
+> **&lt;h2\> This is a Bootstrap heading H2&lt;/h2\>**
 >
-> **\<h3\> This is a Bootstrap heading H3\</h3\>**
+> **&lt;h3\> This is a Bootstrap heading H3&lt;/h3\>**
 >
-> **\<h4\> This is a Bootstrap heading H4\</h4\>**
+> **&lt;h4\> This is a Bootstrap heading H4&lt;/h4\>**
 >
-> **\<h5\> This is a Bootstrap heading H5\</h5\>**
+> **&lt;h5\> This is a Bootstrap heading H5&lt;/h5\>**
 >
-> **\<h6\> This is a Bootstrap heading H6\</h6\>**
+> **&lt;h6\> This is a Bootstrap heading H6&lt;/h6\>**
 
 **Body**
 
@@ -31337,14 +31338,14 @@ within the body tags, for example, text, hyperlinks, images, tables,
 lists, and so on. The following code shows a paragraph tag, which shows
 the text in a paragraph:
 
-> **\<p\>\...\</p\>**
+> **&lt;p\>&period;..&lt;/p\>**
 
 **Lead body**
 
 The lead class helps make the text inside the tags stand out. The method
 of its declaration is as stated here:
 
-> **\<p class=\"lead\"\>\...\</p\>**
+> **&lt;p class=&quot;lead&quot;\>&period;..&lt;/p\>**
 
 **Emphasis**
 
@@ -31359,7 +31360,7 @@ The text within the **small** tags is mainly reduced to 85% of the
 original size. This technique is mainly used to lessen the importance of
 the text:
 
-> **\<small\>\...\</small\>**
+> **&lt;small\>&period;..&lt;/small\>**
 
 **Bold text**
 
@@ -31367,39 +31368,39 @@ The text within the **strong** tags is made more visible by making it
 larger and bolder. This helps in increasing the emphasis of the text in
 the document:
 
-> **\<strong\>\...\</strong\>**
+> **&lt;strong\>&period;..&lt;/strong\>**
 
 **Italics text**
 
 The text within the **em** tags is italicized. This technique is mainly
 used to denote references, among many other uses:
 
-> **\<em\>\...\</em\>**
+> **&lt;em\>&period;..&lt;/em\>**
 
 **Alignment**
 
 Alignment is a basic technique used to align a paragraph to the left,
 right, or center of the screen, regardless of the screen resolution:
 
-> **\<p class=\"text-left\"\>Text here will be left-aligned\</p\>**
+> **&lt;p class=&quot;text-left&quot;\>Text here will be left-aligned&lt;/p\>**
 >
-> **\<p class=\"text-center\"\> Text here will be center-aligned
-> \</p\>**
+> **&lt;p class=&quot;text-center&quot;\> Text here will be center-aligned
+> &lt;/p\>**
 >
-> **\<p class=\"text-right\"\> Text here will be right-aligned \</p\>**
+> **&lt;p class=&quot;text-right&quot;\> Text here will be right-aligned &lt;/p\>**
 
 **Abbreviations**
 
-The customized **\<abbr\>** element of HTML can be used with the
+The customized **&lt;abbr\>** element of HTML can be used with the
 following syntax as shown in the following code snippet.
 
 **Basic**
 
-The **\<abbr\>** tag shows a smaller version of text and is expanded
+The **&lt;abbr\>** tag shows a smaller version of text and is expanded
 when the mouse is hovered over it:
 
-> **\<abbr title=\"attribute\"\>Here is an example of an attribute
-> tag\</abbr\>**
+> **&lt;abbr title=&quot;attribute&quot;\>Here is an example of an attribute
+> tag&lt;/abbr\>**
 
 The output of this code will show the attr abbreviation.
 
@@ -31408,36 +31409,36 @@ The output of this code will show the attr abbreviation.
 **Initialism** has the same functionality as the basic abbreviation but
 with smaller text:
 
-> **\<abbr title=\"HyperText Markup Language\"
-> class=\"initialism\"\>HTML using Initialism\</abbr\>**
+> **&lt;abbr title=&quot;HyperText Markup Language&quot;
+> class=&quot;initialism&quot;\>HTML using Initialism&lt;/abbr\>**
 
 **Addresses**
 
 Address tags are used to accommodate all text related to an address. The
 following example shows the format:
 
-> **\<address\> ...**
+> **&lt;address\> ...**
 >
-> **\<strong\>Packt PublishingPublishing.\</strong\>\<br\>**
+> **&lt;strong\>Packt PublishingPublishing.&lt;/strong\>&lt;br\>**
 >
-> **Berwick House, \<br\>**
+> **Berwick House, &lt;br\>**
 >
-> **35 Livery St, \<br\>**
+> **35 Livery St, &lt;br\>**
 >
-> **Birmingham B3 2PB,\<br\>**
+> **Birmingham B3 2PB,&lt;br\>**
 >
-> **United Kingdom \<br\>**
+> **United Kingdom &lt;br\>**
 >
-> **\<abbr title=\"Phone\"\>P:\</abbr\> +44 121 265 6484**
+> **&lt;abbr title=&quot;Phone&quot;\>P:&lt;/abbr\> +44 121 265 6484**
 >
-> **\</address\>**
+> **&lt;/address\>**
 
 **Blockquotes**
 
 **Blockquotes** are mainly used for quoting text from another source.
 They are used with paragraph tags for quoting a paragraph:
 
-> **\<blockquotes\> ... \</blockquotes\>**
+> **&lt;blockquotes\> ... &lt;/blockquotes\>**
 
 ## Tables
 
@@ -31459,7 +31460,7 @@ that data is easily accessible and readable.
 In the preceding table, is the basic version of a Bootstrap table with
 light padding and horizontal dividers only. The syntax is as follows:
 
-> **\<table class=\"table\"\> \... \</table\>**
+> **&lt;table class=&quot;table&quot;\> &period;.. &lt;/table\>**
 
 **Striped rows**
 
@@ -31467,28 +31468,28 @@ The structure of striped rows is the same as that of the basic table,
 its style is similar to the strips of zebra crossing, that is, lighter
 and darker alternative rows:
 
-> **\<table class=\"table table-striped\"\> \... \</table\>**
+> **&lt;table class=&quot;table table-striped&quot;\> &period;.. &lt;/table\>**
 
 **Bordered table**
 
 This class converts a table into equal divisions with visible
 boundaries. Each division contains a single value:
 
-> **\<table class=\"table table-bordered\"\> \... \</table\>**
+> **&lt;table class=&quot;table table-bordered&quot;\> &period;.. &lt;/table\>**
 
 **Hover rows**
 
 This class adds the feature that highlights the row on which the mouse
 hovers:
 
-> **\<table class=\"table table-hover\"\> \... \</table\>**
+> **&lt;table class=&quot;table table-hover&quot;\> &period;.. &lt;/table\>**
 
 **Condensed rows**
 
 A more squeezed and smaller version of a table can be achieved by
 decreasing the padding between rows:
 
-> **\<table class=\"table table-condensed\"\> \... \</table\>**
+> **&lt;table class=&quot;table table-condensed&quot;\> &period;.. &lt;/table\>**
 
 **Contextual classes**
 
@@ -31509,37 +31510,37 @@ We can set entire rows or individual cells to display a certain color to
 denote a particular message. Here is an example of how this can be
 achieved:
 
-> **\<!\-- Contextual classes when applied on rows \--\>**
+> **&lt;!\-- Contextual classes when applied on rows \--\>**
 >
-> **\<tr class=\"active\"\>\...\</tr\>**
+> **&lt;tr class=&quot;active&quot;\>&period;..&lt;/tr\>**
 >
-> **\<tr class=\"success\"\>\...\</tr\>**
+> **&lt;tr class=&quot;success&quot;\>&period;..&lt;/tr\>**
 >
-> **\<tr class=\"warning\"\>\...\</tr\>**
+> **&lt;tr class=&quot;warning&quot;\>&period;..&lt;/tr\>**
 >
-> **\<tr class=\"danger\"\>\...\</tr\>**
+> **&lt;tr class=&quot;danger&quot;\>&period;..&lt;/tr\>**
 >
-> **\<!\-- Contextual classes when applied on cells (\`td\` or \`th\`)
+> **&lt;!\-- Contextual classes when applied on cells (\`td\` or \`th\`)
 > \--\>**
 >
-> **\<tr\> \<td class=\"active\"\>\...\</td\>**
+> **&lt;tr\> &lt;td class=&quot;active&quot;\>&period;..&lt;/td\>**
 >
-> **\<td class=\"success\"\>\...\</td\>**
+> **&lt;td class=&quot;success&quot;\>&period;..&lt;/td\>**
 >
-> **\<td class=\"warning\"\>\...\</td\>**
+> **&lt;td class=&quot;warning&quot;\>&period;..&lt;/td\>**
 >
-> **\<td class=\"danger\"\>\...\</td\> \</tr\>**
+> **&lt;td class=&quot;danger&quot;\>&period;..&lt;/td\> &lt;/tr\>**
 
 **Responsive tables**
 
 Responsive tables adjust themselves to scroll horizontally on small
 devices. The difference is only visible on small devices:
 
-> **\<div class=\"table-responsive\"\>**
+> **&lt;div class=&quot;table-responsive&quot;\>**
 >
-> **\<table class=\"table\"\> \... \</table\>**
+> **&lt;table class=&quot;table&quot;\> &period;.. &lt;/table\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 ## Lists
 
@@ -31563,26 +31564,26 @@ Lists can be of the following types:
 An unordered list is a collection of items in which the order does not
 matter. Here is the syntax of an unordered list:
 
-> **\<ul\>**
+> **&lt;ul\>**
 >
-> **\<li\>\...\</li\>**
+> **&lt;li\>&period;..&lt;/li\>**
 >
-> **\<li\>\...\</li\>**
+> **&lt;li\>&period;..&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
 **Ordered lists**
 
 An ordered list is a collection of items where the order does matter.
 Here is the syntax of an ordered list:
 
-> **\<ol\>**
+> **&lt;ol\>**
 >
-> **\<li\>\...\</li\>**
+> **&lt;li\>&period;..&lt;/li\>**
 >
-> **\<li\>\...\</li\>**
+> **&lt;li\>&period;..&lt;/li\>**
 >
-> **\</ol\>**
+> **&lt;/ol\>**
 
 **Unstyled lists**
 
@@ -31590,39 +31591,39 @@ Unstyled lists can be ordered or unordered with the removal of the left
 margin and the default list style. Here is the syntax of an unstyled
 list:
 
-> **\<ul class=\"list-unstyled\"\>**
+> **&lt;ul class=&quot;list-unstyled&quot;\>**
 >
-> **\<li\>\...\</li\>**
+> **&lt;li\>&period;..&lt;/li\>**
 >
-> **\<li\>\...\</li\>**
+> **&lt;li\>&period;..&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
 **Inline lists**
 
 Inline lists arrange all items of a list into a single line or row. Here
 is the syntax of an inline list:
 
-> **\<ul class=\"list-inline\"\>**
+> **&lt;ul class=&quot;list-inline&quot;\>**
 >
-> **\<li\>\...\</li\>**
+> **&lt;li\>&period;..&lt;/li\>**
 >
-> **\<li\>\...\</li\>**
+> **&lt;li\>&period;..&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
 **Description lists**
 
 A description list contains the list items along with their
 descriptions. Here is the syntax of a description list:
 
-> **\<dl\>**
+> **&lt;dl\>**
 >
-> **\<dt\>\...\</dt\>**
+> **&lt;dt\>&period;..&lt;/dt\>**
 >
-> **\<dd\>\...\</dd\>**
+> **&lt;dd\>&period;..&lt;/dd\>**
 >
-> **\</dl\>**
+> **&lt;/dl\>**
 
 **Horizontal description**
 
@@ -31631,13 +31632,13 @@ list class with the only difference being the placement of the
 corresponding description of the list item in the same line. Here is the
 syntax of an horizontal description list:
 
-> **\<dl class=\"dl-horizontal\"\>**
+> **&lt;dl class=&quot;dl-horizontal&quot;\>**
 >
-> **\<dt\>\...\</dt\>**
+> **&lt;dt\>&period;..&lt;/dt\>**
 >
-> **\<dd\>\...\</dd\>**
+> **&lt;dd\>&period;..&lt;/dd\>**
 >
-> **\</dl\>**
+> **&lt;/dl\>**
 
 ## Forms in Bootstrap
 
@@ -31660,16 +31661,16 @@ used here is **role** and the value of it is set to **form** to provide
 better accessibility and automatic and default styling for the form. The
 syntax for this is as follows:
 
-> **\<form role=\"form\"\> ... \</form\>**
+> **&lt;form role=&quot;form&quot;\> ... &lt;/form\>**
 
 **Inline forms**
 
 Many a time, we also come across forms in which the elements of the
 forms are present inline and in a single line and left aligned. Inline
 forms are required to have the **form-inline** class for the
-**\<form\>** element. The syntax for this as follows:
+**&lt;form\>** element. The syntax for this as follows:
 
-> **\<form class=\"form-inline\" role=\"form\"\> ... \</form\>**
+> **&lt;form class=&quot;form-inline&quot; role=&quot;form&quot;\> ... &lt;/form\>**
 
 **Horizontal forms**
 
@@ -31680,11 +31681,11 @@ two types of forms. This form aligns labels and groups of form controls
 in a horizontal layout.
 
 Horizontal forms are required to have the **form-horizontal** class for
-the **\<form\>** element. Additionally, labels are to have the
-**control-label** class for the **\<label\>** element. The syntax is as
+the **&lt;form\>** element. Additionally, labels are to have the
+**control-label** class for the **&lt;label\>** element. The syntax is as
 follows:
 
-> **\<form class=\"form-horizontal\" role=\"form\"\> ... \</form\>**
+> **&lt;form class=&quot;form-horizontal&quot; role=&quot;form&quot;\> ... &lt;/form\>**
 
 **Inputs for forms in Bootstrap**
 
@@ -31695,24 +31696,24 @@ and many more are supported in Bootstrap.
 
 The syntax for a simple text box as a means of input is as follows:
 
-> **\<input type=\"text\" class=\"form-control\" placeholder=\"Text
-> input\"**
+> **&lt;input type=&quot;text&quot; class=&quot;form-control&quot; placeholder=&quot;Text
+> input&quot;**
 >
-> **id =\"txtName\"\>**
+> **id =&quot;txtName&quot;\>**
 
 If we want the text altered to not show the actual letters being typed
 in, then we can use the **input** type as **password**. The syntax for
 using the **input** type as **password** is as follows:
 
-> **\<input type=\"password\" class=\"form-control\" placeholder=\"Text
-> input\" id=\"txtPassword\"\>**
+> **&lt;input type=&quot;password&quot; class=&quot;form-control&quot; placeholder=&quot;Text
+> input&quot; id=&quot;txtPassword&quot;\>**
 
 **Textarea**
 
 The textarea is an area that holds text entered by the user; it can hold
 small words to large paragraphs. The syntax for textarea is as follows:
 
-> **\<textarea class=\"form-control\" rows=\"44\"\>\</textarea\>**
+> **&lt;textarea class=&quot;form-control&quot; rows=&quot;44&quot;\>&lt;/textarea\>**
 
 The preceding line tells the control that the textarea must span four
 rows.
@@ -31721,7 +31722,7 @@ rows.
 
 The **help** block provides block-level help text for form controls:
 
-> **\<span class=\"help-block\"\> \</span\>**
+> **&lt;span class=&quot;help-block&quot;\> &lt;/span\>**
 
 **Checkbox**
 
@@ -31730,11 +31731,11 @@ options that can be selected by clicking on the box. This feature is
 used when the user is required to select only from the given options.
 The syntax for adding a checkbox is as follows:
 
-> **\<div class=\"checkbox\"\> \</div\>**
+> **&lt;div class=&quot;checkbox&quot;\> &lt;/div\>**
 
 Here is the syntax to add a checkbox that is disabled:
 
-> **\<div class=\"checkbox disabled\"\> \</div\>**
+> **&lt;div class=&quot;checkbox disabled&quot;\> &lt;/div\>**
 
 **Select list**
 
@@ -31742,7 +31743,7 @@ The **select** class control triggers a dropdown menu that contains a
 group of options from which only one can be selected at a time. Its
 syntax is as follows:
 
-> **\<select class=\"form-control\"\> ... \</form\>**
+> **&lt;select class=&quot;form-control&quot;\> ... &lt;/form\>**
 
 **Radio button**
 
@@ -31750,39 +31751,39 @@ The **radio** class control does the same as the **checkbox** except
 that the user can choose only one option at a time. Its syntax is as
 follows:
 
-> **\<div class=\"radio\"\> ... \</div\>**
+> **&lt;div class=&quot;radio&quot;\> ... &lt;/div\>**
 
 Here is the syntax to add a **radio** class that is disabled:
 
-> **\<div class=\"radio disabled\"\> \</div\>**
+> **&lt;div class=&quot;radio disabled&quot;\> &lt;/div\>**
 
 **Static control**
 
 The **static** class control allows the user to insert text in a
 horizontal form next to its corresponding label. Text can be added next
 to a form label in a horizontal form using the
-**\"form-control-static\"** class within paragraph tags. The
+**&quot;form-control-static&quot;** class within paragraph tags. The
 **form-staticcontrol** class must be used.
 
-The following example inserts the static text---**Web Developer\'s
+The following example inserts the static text---**Web Developer&apos;s
 Reference Guide**:
 
-> **\<p class=\"form-control-static\"\>Web Developer\'s Reference
-> Guide\<p\>**
+> **&lt;p class=&quot;form-control-static&quot;\>Web Developer&apos;s Reference
+> Guide&lt;p\>**
 
 **Input focus**
 
 The **input** class lets an input field automatically focus when the
 page loads. Its syntax is as follows:
 
-> **\<input class=\"form-control\" id=\"focusedInput\" type=\"text\"
-> value=\"\...\"\>**
+> **&lt;input class=&quot;form-control&quot; id=&quot;focusedInput&quot; type=&quot;text&quot;
+> value=&quot;&period;..&quot;\>**
 
 **Disabled input**
 
 The **disabled** attribute disables input in a particular text box, it
 cannot be clicked on or used. To use this, the **disabled** attribute
-can be added to a **\<fieldset\>** tag to disable all of its controls.
+can be added to a **&lt;fieldset\>** tag to disable all of its controls.
 
 **Validation states**
 
@@ -31794,11 +31795,11 @@ Validation states can be used by adding **.has-success**,
 **.has-warning**, or **.haserror** in a class. This is shown in the
 following code:
 
-> **\<div class=\"form-group has-success\"\> ... \</div\>**
+> **&lt;div class=&quot;form-group has-success&quot;\> ... &lt;/div\>**
 >
-> **\<div class=\"form-group has-warning\"\> ... \</div\>**
+> **&lt;div class=&quot;form-group has-warning&quot;\> ... &lt;/div\>**
 >
-> **\<div class=\"form-group has-error\"\> ... \</div\>**
+> **&lt;div class=&quot;form-group has-error&quot;\> ... &lt;/div\>**
 
 **Control sizing**
 
@@ -31806,21 +31807,21 @@ Users can easily set the height of various columns as per their
 requirement.
 
 We can easily set heights and widths using classes such as **.input-lg**
-and **.col-lg-\***:
+and **.col-lg-&ast;**:
 
-> **\<input class=\"form-control input-lg\" type=\"text\"
-> placeholder=\".input-lg\"\> \<div class=\"col-xs-2\"\> ... \</div\>**
+> **&lt;input class=&quot;form-control input-lg&quot; type=&quot;text&quot;
+> placeholder=&quot;.input-lg&quot;\> &lt;div class=&quot;col-xs-2&quot;\> ... &lt;/div\>**
 
 ## Images
 
-We can add classes to an **\<img\>** element for image manipulation
+We can add classes to an **&lt;img\>** element for image manipulation
 using built-in CSS styles:
 
-> **\<img src=\"\...\" alt=\"\...\" class=\"img-rounded\"\>**
+> **&lt;img src=&quot;&period;..&quot; alt=&quot;&period;..&quot; class=&quot;img-rounded&quot;\>**
 >
-> **\<img src=\"\...\" alt=\"\...\" class=\"img-circle\"\>**
+> **&lt;img src=&quot;&period;..&quot; alt=&quot;&period;..&quot; class=&quot;img-circle&quot;\>**
 >
-> **\<img src=\"\...\" alt=\"\...\" class=\"img-thumbnail\"\>**
+> **&lt;img src=&quot;&period;..&quot; alt=&quot;&period;..&quot; class=&quot;img-thumbnail&quot;\>**
 
 The preceding code will create the following images:
 
@@ -31840,7 +31841,7 @@ are shown in the following diagram:
 More than 250 Glyphicons in font format are present in the **Glyphicon
 Halflings** set. Here is how to add Glyphicons in Bootstrap:
 
-> **\<span class=\"glyphicon glyphicon-search\"\>\</span\>**
+> **&lt;span class=&quot;glyphicon glyphicon-search&quot;\>&lt;/span\>**
 >
 > All the available Glyphicons can be found at [**http://getbootstrap.**
 > **com/components/**](http://getbootstrap.com/components/).
@@ -31855,7 +31856,7 @@ as described in the following code:
 The **tab** class creates small tabs on the navigation bar, and each tab
 provides a link to different pages:
 
-> **\<ul class=\"nav nav-tabs\"\> ... \</ul\>**
+> **&lt;ul class=&quot;nav nav-tabs&quot;\> ... &lt;/ul\>**
 
 The tabs basically are links to other pages or websites; thus, the
 **tab** class should be declared within the link tags, as shown in the
@@ -31866,7 +31867,7 @@ preceding code.
 The **pill** class has the same functionality as the **tab** class, with
 the only difference being the styling. The tabs now appear like pills:
 
-> **\<ul class=\"nav nav-pills\"\> ... \</ul\>**
+> **&lt;ul class=&quot;nav nav-pills&quot;\> ... &lt;/ul\>**
 
 ### Justified
 
@@ -31874,19 +31875,19 @@ Adding an additional class of **nav-justified** would allow tabs or
 pills to automatically adjust themselves according to the screen
 resolution. The tabs or pills are given equal widths:
 
-> **\<ul class=\"nav nav-tabs nav-justified\"\> ... \</ul\>**
+> **&lt;ul class=&quot;nav nav-tabs nav-justified&quot;\> ... &lt;/ul\>**
 
 **Disabled links**
 
 Adding a **disabled** class to a tab or pill in a navigation bar would
 remove the hover state, disabling the access to the link:
 
-> **\<ul class=\"nav nav-pills\"\> \...**
+> **&lt;ul class=&quot;nav nav-pills&quot;\> &period;..**
 >
-> **\<li class=\"disabled\"\>\<a href=\"#\"\>Disabled link\</a\>\</li\>
-> \...**
+> **&lt;li class=&quot;disabled&quot;\>&lt;a href=&quot;#&quot;\>Disabled link&lt;/a\>&lt;/li\>
+> &period;..**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
 Remember to place the actual link in place of **\#**.
 
@@ -31900,65 +31901,65 @@ allows quick access to the links a user visits often.
 The **navbar** class is used to create a simple navigation bar by
 including **.navbar** and **.navbar-default** in the navigation tab:
 
-> **\<nav class=\"navbar navbar-default\" role=\"navigation\"\>**
+> **&lt;nav class=&quot;navbar navbar-default&quot; role=&quot;navigation&quot;\>**
 
 To make a scalable, responsive menu bar that collapses to a dropdown
 when displaying on mobile devices, use the following class to wrap the
 bar:
 
-> **\<div class=\"navbar-header\"\>**
+> **&lt;div class=&quot;navbar-header&quot;\>**
 
 **Forms**
 
 You can also put forms within a navigation bar by adding the
 **.navbar-form** class:
 
-> **\<form class=\"navbar-form navbar-left\" role=\"search\"\>**
+> **&lt;form class=&quot;navbar-form navbar-left&quot; role=&quot;search&quot;\>**
 
 **Buttons**
 
 Similar to the **navbar** class, **.navbar-btn** adds a button to the
 bar that can perform many useful functions:
 
-> **\<button type=\"button\" class=\"btn btn-default navbar-btn\"\>
+> **&lt;button type=&quot;button&quot; class=&quot;btn btn-default navbar-btn&quot;\>
 > ...**
 >
-> **\</button\>**
+> **&lt;/button\>**
 
 **Text**
 
 By adding the **.navbar-text** class, we can also add text to the
 navigation bar:
 
-> **\<p class=\"navbar-text\"\> ... \</p\>**
+> **&lt;p class=&quot;navbar-text&quot;\> ... &lt;/p\>**
 
 **Non-nav links**
 
 The **navbar-link** class allows us to add standard links that are not
 in the **navbar** navigation component:
 
-> **\<p class=\"navbar-text navbar-right\"\>**
+> **&lt;p class=&quot;navbar-text navbar-right&quot;\>**
 >
-> **\<a href=\"#\" class=\"navbar-link\"\>\</a\>**
+> **&lt;a href=&quot;#&quot; class=&quot;navbar-link&quot;\>&lt;/a\>**
 >
-> **\</p\>**
+> **&lt;/p\>**
 
 **Fixed to top**
 
-Adding the **navbar-fixed-top** class within the **\<nav\>** tabs allows
+Adding the **navbar-fixed-top** class within the **&lt;nav\>** tabs allows
 **navbar** to dynamically position itself at the top of the page. Here
 is its syntax:
 
-> **\<nav class=\"navbar navbar-default navbar-fixed-top\"
-> role=\"navigation\"\>**
+> **&lt;nav class=&quot;navbar navbar-default navbar-fixed-top&quot;
+> role=&quot;navigation&quot;\>**
 
 **Fixed to bottom**
 
 The **navbar-fixed-bottom** class allows the navigation bar to sit right
 at the bottom of the page. Here is its syntax:
 
-> **\<nav class=\"navbar navbar-default navbar-fixed-bottom\"
-> role=\"navigation\"\>**
+> **&lt;nav class=&quot;navbar navbar-default navbar-fixed-bottom&quot;
+> role=&quot;navigation&quot;\>**
 
 **Static top**
 
@@ -31966,8 +31967,8 @@ The **navbar-static-top** class adds a new feature to the navigation bar
 that allows the element to scroll along with the page. Here is its
 syntax:
 
-> **\<nav class=\"navbar navbar-default navbar-static-top\"
-> role=\"navigation\"\>**
+> **&lt;nav class=&quot;navbar navbar-default navbar-static-top&quot;
+> role=&quot;navigation&quot;\>**
 
 **Inverted navbar**
 
@@ -31975,7 +31976,7 @@ The **navbar-inverse** class only changes the color of the navigation
 bar and turns it into the opposite color. For example, **navbar** gets a
 black background with white text:
 
-> **\<nav class=\"navbar navbar-inverse\" role=\"navigation\"\>**
+> **&lt;nav class=&quot;navbar navbar-inverse&quot; role=&quot;navigation&quot;\>**
 
 ## Panels
 
@@ -31987,7 +31988,7 @@ in order to present important information in a visually favorable way.
 A basic panel consists of a single box containing some text. The method
 of its declaration is shown here:
 
-> **\<div class=\"panel panel-default\"\> ... \</div\>**
+> **&lt;div class=&quot;panel panel-default&quot;\> ... &lt;/div\>**
 
 **Heading**
 
@@ -31995,21 +31996,21 @@ The **panel-heading** class adds an additional box above the basic
 panel, which contains its heading or title. Both boxes are of different
 colors by default. Here is the syntax:
 
-> **\<div class=\"panel-heading\"\>This is a Panel Heading\</div\>**
+> **&lt;div class=&quot;panel-heading&quot;\>This is a Panel Heading&lt;/div\>**
 
 **Footer**
 
 The **panel-footer** class adds a box beneath a basic panel which also
 contains text of some sort. Here is the syntax:
 
-> **\<div class=\"panel-footer\"\>This is a Panel Footer\</div\>**
+> **&lt;div class=&quot;panel-footer&quot;\>This is a Panel Footer&lt;/div\>**
 
 **Group**
 
 Panels under the **panel-group** class are grouped together. Here is the
 syntax:
 
-> **\<div class=\"panel-group\"\>**
+> **&lt;div class=&quot;panel-group&quot;\>**
 
 ## Breadcrumbs
 
@@ -32017,20 +32018,20 @@ Breadcrumbs serve as a helping tool that keeps track of the path you
 take to visit different pages. Using breadcrumbs, you can know the
 current location of a page on a website.
 
-Breadcrumbs are used to find out the current page\'s path in a
+Breadcrumbs are used to find out the current page&apos;s path in a
 navigation hierarchy.
 
 Here is a sample code:
 
-> **\<ol class=\"breadcrumb\"\>**
+> **&lt;ol class=&quot;breadcrumb&quot;\>**
 >
-> **\<li\>\<a href=\"#\"\>Home\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>Home&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>Library\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>Library&lt;/a\>&lt;/li\>**
 >
-> **\<li class=\"active\"\>Data\</li\>**
+> **&lt;li class=&quot;active&quot;\>Data&lt;/li\>**
 >
-> **\</ol\>**
+> **&lt;/ol\>**
 
 ## Labels and badges
 
@@ -32045,18 +32046,18 @@ Labels are associated with different headings or titles which help in
 keeping records of counts or give tips among other things. Labels can be
 declared as follows:
 
-> **\<h3\>This is an example Heading\<span class=\"label label-
-> default\"\>This is an example label\</span\>\</h3\>**
+> **&lt;h3\>This is an example Heading&lt;span class=&quot;label label-
+> default&quot;\>This is an example label&lt;/span\>&lt;/h3\>**
 
 **Badges**
 
 Badges are the same as labels with the only difference being the shape.
 Badges have more curved shapes than labels. They are mainly used to
-notify the user of the new changes, unseen e-mails, and so on. Let\'s
+notify the user of the new changes, unseen e-mails, and so on. Let&apos;s
 take a look at the following code snippet:
 
-> **\<a href=\"#\"\>Check EMailsEMails \<span
-> class=\"badge\"\>4545\</span\>\</a\>**
+> **&lt;a href=&quot;#&quot;\>Check EMailsEMails &lt;span
+> class=&quot;badge&quot;\>4545&lt;/span\>&lt;/a\>**
 
 ## Pagination
 
@@ -32072,48 +32073,48 @@ paginating search results.
 
 Following is a basic example of bootstrap pagination:
 
-> **\<ul class=\"pagination\"\>**
+> **&lt;ul class=&quot;pagination&quot;\>**
 >
-> **\<li\>**
+> **&lt;li\>**
 >
-> **\<a href=\"#\" aria-label=\"Previous\"\>**
+> **&lt;a href=&quot;#&quot; aria-label=&quot;Previous&quot;\>**
 >
-> **\<span aria-hidden=\"true\"\>&laquo;\</span\>**
+> **&lt;span aria-hidden=&quot;true&quot;\>&laquo;&lt;/span\>**
 >
-> **\</a\>**
+> **&lt;/a\>**
 >
-> **\</li\>**
+> **&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>1\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>1&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>2\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>2&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>3\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>3&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>4\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>4&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>5\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>5&lt;/a\>&lt;/li\>**
 >
-> **\<li\>**
+> **&lt;li\>**
 >
-> **\<a href=\"#\" aria-label=\"Next\"\>**
+> **&lt;a href=&quot;#&quot; aria-label=&quot;Next&quot;\>**
 >
-> **\<span aria-hidden=\"true\"\>&raquo;\</span\>**
+> **&lt;span aria-hidden=&quot;true&quot;\>&raquo;&lt;/span\>**
 >
-> **\</a\>**
+> **&lt;/a\>**
 >
-> **\</li\>**
+> **&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
-Adding **.active** to **\<li\>** will highlight the current page link:
+Adding **.active** to **&lt;li\>** will highlight the current page link:
 
-> **\<li class=\'active\'\>\<a href=\"#\"\>3\</a\>\</li\>**
+> **&lt;li class=&apos;active&apos;\>&lt;a href=&quot;#&quot;\>3&lt;/a\>&lt;/li\>**
 
-Adding **.disabled** to **\<li\>** will disable the page link and make
+Adding **.disabled** to **&lt;li\>** will disable the page link and make
 it unclickable:
 
-> **\<li class=\'disabled\'\>\<a href=\"#\"\>3\</a\>\</li\>**
+> **&lt;li class=&apos;disabled&apos;\>&lt;a href=&quot;#&quot;\>3&lt;/a\>&lt;/li\>**
 
 **Pager**
 
@@ -32121,7 +32122,7 @@ The next and previous links are used in pagination for quick access.
 Pagers are mainly used by simple sites such as magazines, newspapers, or
 blogs, and so on. Here is the syntax:
 
-> **\<ul class=\"pager\"\> ... \</ul\>**
+> **&lt;ul class=&quot;pager&quot;\> ... &lt;/ul\>**
 
 ## Progress bars
 
@@ -32131,16 +32132,16 @@ of showing current progress regarding an action.
 
 Here is the code to create progress bars:
 
-> **\<div class=\"progress\"\>**
+> **&lt;div class=&quot;progress&quot;\>**
 >
-> **\<div class=\"progress-bar\" role=\"progressbar\" aria-
-> valuenow=\"505\"**
+> **&lt;div class=&quot;progress-bar&quot; role=&quot;progressbar&quot; aria-
+> valuenow=&quot;505&quot;**
 >
-> **aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width:505%\"\>**
+> **aria-valuemin=&quot;0&quot; aria-valuemax=&quot;100&quot; style=&quot;width:505%&quot;\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
 > For more types visit: [**http://www.w3schools.com/bootstrap/**
 > **bootstrap_progressbars.asp**](http://www.w3schools.com/bootstrap/bootstrap_progressbars.asp).
@@ -32161,71 +32162,71 @@ Buttons in Bootstrap can be used under various combinations.
 The **btn-group** class generates a default grey button with curved
 edges that can trigger any function when clicked on by the user:
 
-> **\<div class=\"btn-group\"\> ... \</div\>**
+> **&lt;div class=&quot;btn-group&quot;\> ... &lt;/div\>**
 
 **Button toolbar**
 
 The **btn-toolbar** class groups together all buttons that are included
 in the **btn-toolbar** class:
 
-> **\<div class=\"btn-toolbar\" role=\"toolbar\"\> ... \</div\>**
+> **&lt;div class=&quot;btn-toolbar&quot; role=&quot;toolbar&quot;\> ... &lt;/div\>**
 
 **Sizing**
 
 The **sizing** class is used to size groups of buttons at once by just
-adding **btngroup-\***.
+adding **btngroup-&ast;**.
 
 The declaration is shown here:
 
-> **\<div class=\"btn-group btn-group-lg\"\>\...\</div\> //large**
+> **&lt;div class=&quot;btn-group btn-group-lg&quot;\>&period;..&lt;/div\> //large**
 >
-> **\<div class=\"btn-group\"\>\...\</div\> //normal**
+> **&lt;div class=&quot;btn-group&quot;\>&period;..&lt;/div\> //normal**
 >
-> **\<div class=\"btn-group btn-group-sm\"\>\...\</div\> //small**
+> **&lt;div class=&quot;btn-group btn-group-sm&quot;\>&period;..&lt;/div\> //small**
 >
-> **\<div class=\"btn-group btn-group-xs\"\>\...\</div\> //extra small**
+> **&lt;div class=&quot;btn-group btn-group-xs&quot;\>&period;..&lt;/div\> //extra small**
 
 **Nesting**
 
 Creating drop-down menus with a series of buttons can be done by placing
 a **btn-group** within a **btn-group** as shown here:
 
-> **\<div class=\"btn-group\" role=\"group\" aria-label=\"\...\"\>**
+> **&lt;div class=&quot;btn-group&quot; role=&quot;group&quot; aria-label=&quot;&period;..&quot;\>**
 >
-> **\<button type=\"button\" class=\"btn
-> btn-default\"\>Alpha\</button\>**
+> **&lt;button type=&quot;button&quot; class=&quot;btn
+> btn-default&quot;\>Alpha&lt;/button\>**
 >
-> **\<button type=\"button\" class=\"btn
-> btn-default\"\>Beta\</button\>**
+> **&lt;button type=&quot;button&quot; class=&quot;btn
+> btn-default&quot;\>Beta&lt;/button\>**
 >
-> **\<button type=\"button\" class=\"btn btn-default\"\>Gamma\</button**
+> **&lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot;\>Gamma&lt;/button**
 >
-> **\<div class=\"btn-group\" role=\"group\"\>**
+> **&lt;div class=&quot;btn-group&quot; role=&quot;group&quot;\>**
 >
-> **\<button type=\"button\" class=\"btn btn-default dropdown-toggle\"
-> data-toggle =\"dropdown\"\> List of Top Publishers\</button\>**
+> **&lt;button type=&quot;button&quot; class=&quot;btn btn-default dropdown-toggle&quot;
+> data-toggle =&quot;dropdown&quot;\> List of Top Publishers&lt;/button\>**
 >
-> **\<ul class=\"Top Publishers\"\>**
+> **&lt;ul class=&quot;Top Publishers&quot;\>**
 >
-> **\<li\>\<a href=\"https://www.packtpub.com/\"\> Packt**
+> **&lt;li\>&lt;a href=&quot;https://www.packtpub.com/&quot;\> Packt**
 >
-> **Publishing\</a\>\</li\>**
+> **Publishing&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"http://www.oreilly.com/\"\>
-> O\'Reilly\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;http://www.oreilly.com/&quot;\>
+> O&apos;Reilly&lt;/a\>&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **Vertical variation**
 
 The **btn-group-vertical** class arranges a group of buttons in a
 vertical fashion. Here is the syntax:
 
-> **\<div class=\"btn-group-vertical\"\> \... \</div\>**
+> **&lt;div class=&quot;btn-group-vertical&quot;\> &period;.. &lt;/div\>**
 
 ### Justified link variation
 
@@ -32233,7 +32234,7 @@ The **btn-group-justified** class allows the button groups to adjust
 themselves according to any screen resolution and provides equal widths
 to the buttons. Here is the syntax:
 
-> **\<div class=\"btn-group btn-group-justified\"\> \... \</div\>**
+> **&lt;div class=&quot;btn-group btn-group-justified&quot;\> &period;.. &lt;/div\>**
 
 **Dropdowns**
 
@@ -32245,12 +32246,12 @@ the user. Dropdowns are mainly used to access additional related links.
 The **btn btn-default dropdown-toggle** class changes a button into a
 simple dropdown menu. Its declaration is shown in the following code:
 
-> **\<button type=\"button\" class=\"btn btn-default dropdown-toggle\"
-> data-toggle=\"dropdown\"\>**
+> **&lt;button type=&quot;button&quot; class=&quot;btn btn-default dropdown-toggle&quot;
+> data-toggle=&quot;dropdown&quot;\>**
 >
-> **\<span class=\"caret\"\>\</span\>**
+> **&lt;span class=&quot;caret&quot;\>&lt;/span\>**
 >
-> **\</button\>**
+> **&lt;/button\>**
 
 **Split button**
 
@@ -32258,34 +32259,34 @@ The **btn btn-danger** class does not change the button entirely into a
 dropdown, rather it splits a button into two parts where one performs a
 simple button function and the other becomes a dropdown menu:
 
-> **\<div class=\"btn-group\"\>**
+> **&lt;div class=&quot;btn-group&quot;\>**
 >
-> **\<button type=\"button\" class=\"btn
-> btn-danger\"\>Action\</button\>**
+> **&lt;button type=&quot;button&quot; class=&quot;btn
+> btn-danger&quot;\>Action&lt;/button\>**
 >
-> **\<button type=\"button\" class=\"btn btn-danger dropdown-toggle\"
-> data- toggle=\"dropdown\"\>**
+> **&lt;button type=&quot;button&quot; class=&quot;btn btn-danger dropdown-toggle&quot;
+> data- toggle=&quot;dropdown&quot;\>**
 >
-> **\<span class=\"caret\"\>\</span\>**
+> **&lt;span class=&quot;caret&quot;\>&lt;/span\>**
 >
-> **\<span class=\"sr-only\"\>Toggle for Dropdown\</span\>**
+> **&lt;span class=&quot;sr-only&quot;\>Toggle for Dropdown&lt;/span\>**
 >
-> **\</button\>**
+> **&lt;/button\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **Tooltips**
 
 Tooltips are small boxes that pop up when the pointer is hovered over an
 element.
 
-To create a tooltip, add the **data-toggle=\"tooltip\"** attribute to an
-element. Add the **data-toggle=\"tooltip\"** attribute to an element to
+To create a tooltip, add the **data-toggle=&quot;tooltip&quot;** attribute to an
+element. Add the **data-toggle=&quot;tooltip&quot;** attribute to an element to
 create a tooltip. To specify the text that is displayed inside a
 tooltip, use the **title** attribute:
 
-> **\<a href=\"#\" data-toggle=\"tooltip\"
-> title=\"Tooltip\"\>...\</a\>**
+> **&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot;
+> title=&quot;Tooltip&quot;\>...&lt;/a\>**
 
 **Positioning**
 
@@ -32295,23 +32296,23 @@ right of an element:
 
 Here is the syntax for positioning it at the top:
 
-> **\<a href=\"#\" data-toggle=\"tooltip\" data- placement=\"top\"
-> title=\"Tooltip\"\>Tooltip at the top\</a\>**
+> **&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data- placement=&quot;top&quot;
+> title=&quot;Tooltip&quot;\>Tooltip at the top&lt;/a\>**
 
 Here is the syntax for positioning it at the bottom:
 
-> **\<a href=\"#\" data-toggle=\"tooltip\" data- placement=\"bottom\"
-> title=\"Tooltip\"\> Tooltip at the bottom\</a\>**
+> **&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data- placement=&quot;bottom&quot;
+> title=&quot;Tooltip&quot;\> Tooltip at the bottom&lt;/a\>**
 
 Here is the syntax for positioning it on the left of the element:
 
-> **\<a href=\"#\" data-toggle=\"tooltip\" data- placement=\"left\"
-> title=\"Tooltip\"\>Tooltip at the left\</a\>**
+> **&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data- placement=&quot;left&quot;
+> title=&quot;Tooltip&quot;\>Tooltip at the left&lt;/a\>**
 
 Here is the syntax for positioning it on the right of the element:
 
-> **\<a href=\"#\" data-toggle=\"tooltip\" data- placement=\"right\"
-> title=\"Tooltip\"\> Tooltip at the right\</a\>**
+> **&lt;a href=&quot;#&quot; data-toggle=&quot;tooltip&quot; data- placement=&quot;right&quot;
+> title=&quot;Tooltip&quot;\> Tooltip at the right&lt;/a\>**
 
 Remember to place the actual link in place of **\#**.
 
@@ -32326,9 +32327,9 @@ regarding the element.
 
 Popovers can be generated using the following piece of code:
 
-> **\<a href=\"#\" data-toggle=\"popover\" title=\"Popover Header\"
-> data- content=\"Some content inside the popover\"\>Toggle
-> popover\</a\>**
+> **&lt;a href=&quot;#&quot; data-toggle=&quot;popover&quot; title=&quot;Popover Header&quot;
+> data- content=&quot;Some content inside the popover&quot;\>Toggle
+> popover&lt;/a\>**
 
 **Positioning**
 
@@ -32337,28 +32338,28 @@ of the element using the following code.
 
 Here is the syntax for positioning the popovers at the top:
 
-> **\<a href=\"#\" title=\"Header\" data-toggle=\"popover\" data-
-> placement=\"top\" data-Content=\"Content\"\> Popover at the top
-> \</a\>**
+> **&lt;a href=&quot;#&quot; title=&quot;Header&quot; data-toggle=&quot;popover&quot; data-
+> placement=&quot;top&quot; data-Content=&quot;Content&quot;\> Popover at the top
+> &lt;/a\>**
 
 Here is the syntax for positioning it at the bottom:
 
-> **\<a href=\"#\" title=\"Header\" data-toggle=\"popover\" data-
-> placement=\"bottom\" data-content=\"Content\"\> Popover at the bottom
-> \</a\>**
+> **&lt;a href=&quot;#&quot; title=&quot;Header&quot; data-toggle=&quot;popover&quot; data-
+> placement=&quot;bottom&quot; data-content=&quot;Content&quot;\> Popover at the bottom
+> &lt;/a\>**
 
 Here is the syntax for positioning it on the left:
 
-> **\<a href=\"#\" title=\"Header\" data-toggle=\"popover\" data-
-> placement=\"left\" data-content=\"Content\"\> Popover at the
-> leftleft\</a\>**
+> **&lt;a href=&quot;#&quot; title=&quot;Header&quot; data-toggle=&quot;popover&quot; data-
+> placement=&quot;left&quot; data-content=&quot;Content&quot;\> Popover at the
+> leftleft&lt;/a\>**
 
 Here is the syntax for positioning it on the right:
 
-> **\<a href=\"#\" title=\"Header\" data-toggle=\"popover\" data-
-> placement=\"right\" data-content=\"Content\"\>PopoverPopover at the**
+> **&lt;a href=&quot;#&quot; title=&quot;Header&quot; data-toggle=&quot;popover&quot; data-
+> placement=&quot;right&quot; data-content=&quot;Content&quot;\>PopoverPopover at the**
 >
-> **right \</a\>**
+> **right &lt;/a\>**
 
 Remember to place the actual link in place of **\#**.
 
@@ -32367,9 +32368,9 @@ Remember to place the actual link in place of **\#**.
 The **popover** class allows the popover to close when you click
 elsewhere:
 
-> **\<a href=\"#\" title=\"Dismissible popover\" data-toggle=\"popover\"
-> data-trigger=\"focus\" data-content=\"Click anywhere in the document
-> to close the popover\"\>Click here to close popover\</a\>**
+> **&lt;a href=&quot;#&quot; title=&quot;Dismissible popover&quot; data-toggle=&quot;popover&quot;
+> data-trigger=&quot;focus&quot; data-content=&quot;Click anywhere in the document
+> to close the popover&quot;\>Click here to close popover&lt;/a\>**
 
 **Alerts**
 
@@ -32377,11 +32378,11 @@ Bootstrap provides the utility of displaying alert messages. The code
 for its declaration is shown here. Bootstrap also allows you to assign
 different colors to alert messages to signify different situations.
 Bootstrap requires jQuery, and **\$** in this syntax means we are
-invoking jQuery. Let\'s take a look at the following code:
+invoking jQuery. Let&apos;s take a look at the following code:
 
-> **\<button type=\"button\" class=\"close\" data-dismiss=\"alert\" aria
-> label=\"Close\"\> \<span aria-hidden=\"true\"\>&times;\</span\>
-> \</button\>**
+> **&lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot; aria
+> label=&quot;Close&quot;\> &lt;span aria-hidden=&quot;true&quot;\>&times;&lt;/span\>
+> &lt;/button\>**
 
 The syntax of an alert is as follows:
 
@@ -32390,7 +32391,7 @@ The syntax of an alert is as follows:
 This listens for click events on its elements having data-dismiss-alert.
 The syntax is as follows:
 
-> **\$().alert(\'close\'):**
+> **\$().alert(&apos;close&apos;):**
 
 This removes an alert from the DOM. The element will fade out if it
 includes the **.fade** and **.in** classes.
@@ -32400,49 +32401,49 @@ includes the **.fade** and **.in** classes.
 Tabs are used in navigation bars to provide quick access to different
 links or pages. Tabs need to be individually activated, as follows:
 
-> **\<div class=\"container\"\>**
+> **&lt;div class=&quot;container&quot;\>**
 >
-> **\<h1\>Alpha Zoo\</h1\>**
+> **&lt;h1\>Alpha Zoo&lt;/h1\>**
 >
-> **\<ul class=\"nav nav-tabs\"\>**
+> **&lt;ul class=&quot;nav nav-tabs&quot;\>**
 >
-> **\<li class=\"active\"\>**
+> **&lt;li class=&quot;active&quot;\>**
 >
-> **\<li\>\<a href=\"#\"\>Exhibit A to Exhibit H\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>Exhibit A to Exhibit H&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>Exhibit I to Exhibit M\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>Exhibit I to Exhibit M&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>Exhibit N to Exhibit Y\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>Exhibit N to Exhibit Y&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>Mini Aquarium\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>Mini Aquarium&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>Alpha Aviary\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>Alpha Aviary&lt;/a\>&lt;/li\>**
 >
-> **\<li\>\<a href=\"#\"\>Adopt an animal for just \$4\</a\>\</li\>**
+> **&lt;li\>&lt;a href=&quot;#&quot;\>Adopt an animal for just \$4&lt;/a\>&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 >
-> **\<br\>**
+> **&lt;br\>**
 >
-> **\<p\>Welcome to our Zoo! We take pride in the happy animals we
-> house.\</p\> \</div\>**
+> **&lt;p\>Welcome to our Zoo! We take pride in the happy animals we
+> house.&lt;/p\> &lt;/div\>**
 
 We can use the **fade** class to fade the content of tabs after viewing
 them:
 
-> **\<div class=\"tab-content\"\>**
+> **&lt;div class=&quot;tab-content&quot;\>**
 >
-> **\<div role=\"tabpanel\" class=\"tab-pane fade in active\"
-> id=\"homepage\"\>\...\</div\>**
+> **&lt;div role=&quot;tabpanel&quot; class=&quot;tab-pane fade in active&quot;
+> id=&quot;homepage&quot;\>&period;..&lt;/div\>**
 >
-> **\<div role=\"tabpanel\" class=\"tab-pane fade\"
-> id=\"profile\"\>\...\</div\>**
+> **&lt;div role=&quot;tabpanel&quot; class=&quot;tab-pane fade&quot;
+> id=&quot;profile&quot;\>&period;..&lt;/div\>**
 >
-> **\<div role=\"tabpanel\" class=\"tab-pane fade\"
-> id=\"posts\"\>\...\</div\>**
+> **&lt;div role=&quot;tabpanel&quot; class=&quot;tab-pane fade&quot;
+> id=&quot;posts&quot;\>&period;..&lt;/div\>**
 >
-> **\<div role=\"tabpanel\" class=\"tab-pane fade\"
-> id=\"settings\"\>\...\</div\> \</div\>**
+> **&lt;div role=&quot;tabpanel&quot; class=&quot;tab-pane fade&quot;
+> id=&quot;settings&quot;\>&period;..&lt;/div\> &lt;/div\>**
 
 **Accordions**
 
@@ -32458,62 +32459,62 @@ accordions.
 
 This code creates an accordion with panel components:
 
-> **\<div class=\"panel-group\" id=\"accordion\"\> \<H1\> Welcome to
-> Alpha Zoo \</H1\>**
+> **&lt;div class=&quot;panel-group&quot; id=&quot;accordion&quot;\> &lt;H1\> Welcome to
+> Alpha Zoo &lt;/H1\>**
 >
-> **\<p\>Welcome to our Zoo! We take pride in the happy animals we
-> house.\</p\>**
+> **&lt;p\>Welcome to our Zoo! We take pride in the happy animals we
+> house.&lt;/p\>**
 >
-> **\<div class=\"panel panel-default\"\>**
+> **&lt;div class=&quot;panel panel-default&quot;\>**
 >
-> **\<div class=\"panel-heading\"\> \<h4 class=\"panel-title\"\>**
+> **&lt;div class=&quot;panel-heading&quot;\> &lt;h4 class=&quot;panel-title&quot;\>**
 >
-> **\<a data-toggle=\"collapse\" data-parent=\"#accordion\"
-> href=\"#collapse1\"\>**
+> **&lt;a data-toggle=&quot;collapse&quot; data-parent=&quot;#accordion&quot;
+> href=&quot;#collapse1&quot;\>**
 >
-> **Exhibit A to Exhibit H\</a\>**
+> **Exhibit A to Exhibit H&lt;/a\>**
 >
-> **\</h4\> \</div\>**
+> **&lt;/h4\> &lt;/div\>**
 >
-> **\<!\--Data for Panel 1\--\>**
+> **&lt;!\--Data for Panel 1\--\>**
 >
-> **\<div id=\"collapse1\" class=\"panel-collapse collapse in\"\> \<div
-> class=\"panel-body\"\>**
+> **&lt;div id=&quot;collapse1&quot; class=&quot;panel-collapse collapse in&quot;\> &lt;div
+> class=&quot;panel-body&quot;\>**
 >
 > **These exhibits are for animals from the tropical regions of the
 > planet. Take a guided tour through Exhibit A, our largest exhibit
 > housing our bengal tigers Uri and Kayla with their cubs at exhibit A
-> or simply feed our talking toucan Charlie in Exhibit D. \<a
-> href=\'#\'\> See more\</a\>**
+> or simply feed our talking toucan Charlie in Exhibit D. &lt;a
+> href=&apos;#&apos;\> See more&lt;/a\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\> \</div\>**
+> **&lt;/div\> &lt;/div\>**
 >
-> **\<!\--Data for Panel 2\--\>**
+> **&lt;!\--Data for Panel 2\--\>**
 >
-> **\<div class=\"panel panel-default\"\>**
+> **&lt;div class=&quot;panel panel-default&quot;\>**
 >
-> **\<div class=\"panel-heading\"\> \<h4 class=\"panel-title\"\>**
+> **&lt;div class=&quot;panel-heading&quot;\> &lt;h4 class=&quot;panel-title&quot;\>**
 >
-> **\<a data-toggle=\"collapse\" data-parent=\"#accordion\"
-> href=\"#collapse2\"\>**
+> **&lt;a data-toggle=&quot;collapse&quot; data-parent=&quot;#accordion&quot;
+> href=&quot;#collapse2&quot;\>**
 >
-> **Exhibit I to Exhibit M\</a\>**
+> **Exhibit I to Exhibit M&lt;/a\>**
 >
-> **\</h4\> \</div\>**
+> **&lt;/h4\> &lt;/div\>**
 >
-> **\<div id=\"collapse2\" class=\"panel-collapse collapse\"\> \<div
-> class=\"panel-body\"\>**
+> **&lt;div id=&quot;collapse2&quot; class=&quot;panel-collapse collapse&quot;\> &lt;div
+> class=&quot;panel-body&quot;\>**
 >
 > **This is the second panel. The content for the second panel will go
 > in here.**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\> \</div\>**
+> **&lt;/div\> &lt;/div\>**
 
 **Modals**
 
@@ -32531,14 +32532,14 @@ large datasets.
 The **modal-dialog modal-sm** class creates a small modal. Here is the
 syntax:
 
-> **\<div class=\"modal-dialog modal-sm\"\>**
+> **&lt;div class=&quot;modal-dialog modal-sm&quot;\>**
 
 #### Large
 
 The **modal-dialog modal-lg** class creates a large modal. Here is the
 syntax:
 
-> **\<div class=\"modal-dialog modal-lg\"\>**
+> **&lt;div class=&quot;modal-dialog modal-lg&quot;\>**
 
 **Media objects**
 
@@ -32550,47 +32551,47 @@ blog comments or other descriptive thumbnails:
 
 -   **.media-list**: This class forms an unordered list of items:
 
-> **\<div class=\"media\"\>**
+> **&lt;div class=&quot;media&quot;\>**
 >
-> **\<a class=\"pull-left\" href=\"#\"\>**
+> **&lt;a class=&quot;pull-left&quot; href=&quot;#&quot;\>**
 >
-> **\<img class=\"media-object\" data-src=\"holder.js/64x64\"\>**
+> **&lt;img class=&quot;media-object&quot; data-src=&quot;holder.js/64x64&quot;\>**
 >
-> **\</a\>**
+> **&lt;/a\>**
 >
-> **\<div class=\"media-body\"\>**
+> **&lt;div class=&quot;media-body&quot;\>**
 >
-> **\<h4 class=\"media-heading\"\>This is the Main Media**
+> **&lt;h4 class=&quot;media-heading&quot;\>This is the Main Media**
 >
-> **heading \</h4\>**
+> **heading &lt;/h4\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<div\>**
+> **&lt;div\>**
 >
-> **\<ul class=\"media-list\"\>**
+> **&lt;ul class=&quot;media-list&quot;\>**
 >
-> **\<li class=\"media\"\>**
+> **&lt;li class=&quot;media&quot;\>**
 >
-> **\<a class=\"pull-left\" href=\"#\"\>**
+> **&lt;a class=&quot;pull-left&quot; href=&quot;#&quot;\>**
 >
-> **\<img class=\"media-object\" data-src=\"holder.js/64x64\"\>**
+> **&lt;img class=&quot;media-object&quot; data-src=&quot;holder.js/64x64&quot;\>**
 >
-> **\</a\>**
+> **&lt;/a\>**
 >
-> **\<div class=\"media-body\"\>**
+> **&lt;div class=&quot;media-body&quot;\>**
 >
-> **\<h4 class=\"media-heading\"\>This is a Media heading**
+> **&lt;h4 class=&quot;media-heading&quot;\>This is a Media heading**
 >
-> **\</h4\>**
+> **&lt;/h4\>**
 >
-> **\<!\-- Nested media object \--\>**
+> **&lt;!\-- Nested media object \--\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</li\>**
+> **&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
 **Carousels**
 
@@ -32601,70 +32602,70 @@ Carousels show components by cycling through them. This can be done
 using the following code, which creates a carousel of animal
 photographs:
 
-> **\<div id=\"myCarousel\" class=\"carousel slide\"
-> data-ride=\"carousel\"\>**
+> **&lt;div id=&quot;myCarousel&quot; class=&quot;carousel slide&quot;
+> data-ride=&quot;carousel&quot;\>**
 >
-> **\<!\-- Indicators \--\>**
+> **&lt;!\-- Indicators \--\>**
 >
-> **\<ol class=\"carousel-indicators\"\>**
+> **&lt;ol class=&quot;carousel-indicators&quot;\>**
 >
-> **\<li data-target=\"#myCarousel\" data-slide-to=**
+> **&lt;li data-target=&quot;#myCarousel&quot; data-slide-to=**
 >
-> **\"0\" class=\"active\"\>\</li\>**
+> **&quot;0&quot; class=&quot;active&quot;\>&lt;/li\>**
 >
-> **\<li data-target=\"#myCarousel\" data-slide-to=\"1\"\>\</li\> \<li
-> data-target=\"#myCarousel\" data-slide-to=\"2\"\>\</li\>**
+> **&lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;1&quot;\>&lt;/li\> &lt;li
+> data-target=&quot;#myCarousel&quot; data-slide-to=&quot;2&quot;\>&lt;/li\>**
 >
-> **\<li data-target=\"#myCarousel\" data-slide-to=\"3\"\>\</li\>
-> \</ol\>**
+> **&lt;li data-target=&quot;#myCarousel&quot; data-slide-to=&quot;3&quot;\>&lt;/li\>
+> &lt;/ol\>**
 >
-> **\<!\-- Wrapper for slides \--\>**
+> **&lt;!\-- Wrapper for slides \--\>**
 >
-> **\<div class=\"carousel-inner\" role=\"listbox\"\> \<div class=\"item
-> active\"\>**
+> **&lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;\> &lt;div class=&quot;item
+> active&quot;\>**
 >
-> **\<img src=\"Emperor_Penguin.jpg\" alt=\"Emperor Penguin\"\>
-> \</div\>**
+> **&lt;img src=&quot;Emperor_Penguin.jpg&quot; alt=&quot;Emperor Penguin&quot;\>
+> &lt;/div\>**
 >
-> **\<div class=\"item\"\>**
+> **&lt;div class=&quot;item&quot;\>**
 >
-> **\<img src=\"bengal_tiger.jpg\" alt=\"Tiger\"\> \</div\>**
+> **&lt;img src=&quot;bengal_tiger.jpg&quot; alt=&quot;Tiger&quot;\> &lt;/div\>**
 >
-> **\<div class=\"item\"\>**
+> **&lt;div class=&quot;item&quot;\>**
 >
-> **\<img src=\"african_elephant.jpg\" alt=\"Elephant\"\> \</div\>**
+> **&lt;img src=&quot;african_elephant.jpg&quot; alt=&quot;Elephant&quot;\> &lt;/div\>**
 >
-> **\<div class=\"item\"\>**
+> **&lt;div class=&quot;item&quot;\>**
 >
-> **\<img src=\"australian_kiwi.jpg\" alt=\"Kiwi\"\>**
+> **&lt;img src=&quot;australian_kiwi.jpg&quot; alt=&quot;Kiwi&quot;\>**
 >
-> **\</div\> \</div\>**
+> **&lt;/div\> &lt;/div\>**
 >
-> **\<!\-- Left and right controls \--\>**
+> **&lt;!\-- Left and right controls \--\>**
 >
-> **\<a class=\"left carousel-**
+> **&lt;a class=&quot;left carousel-**
 >
-> **control\" href=\"#myCarousel\" role=\"button\"
-> data-slide=\"prev\"\>**
+> **control&quot; href=&quot;#myCarousel&quot; role=&quot;button&quot;
+> data-slide=&quot;prev&quot;\>**
 >
-> **\<span class=\"glyphicon glyphicon-chevron-left\" aria-
-> hidden=\"true\"\>\</span\>**
+> **&lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-
+> hidden=&quot;true&quot;\>&lt;/span\>**
 >
-> **\<span class=\"sr-only\"\>Previous\</span\> \</a\>**
+> **&lt;span class=&quot;sr-only&quot;\>Previous&lt;/span\> &lt;/a\>**
 >
-> **\<a class=\"right carousel-**
+> **&lt;a class=&quot;right carousel-**
 >
-> **control\" href=\"#myCarousel\" role=\"button\"
-> data-slide=\"next\"\>**
+> **control&quot; href=&quot;#myCarousel&quot; role=&quot;button&quot;
+> data-slide=&quot;next&quot;\>**
 >
-> **\<span class=\"glyphicon glyphicon-chevron-right\" aria-
-> hidden=\"true\"\>\</span\>**
+> **&lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-
+> hidden=&quot;true&quot;\>&lt;/span\>**
 >
-> **\<span class=\"sr-only\"\>Next\</span\>**
+> **&lt;span class=&quot;sr-only&quot;\>Next&lt;/span\>**
 >
-> **\</a\>**
+> **&lt;/a\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **Typehead**
 
@@ -32679,13 +32680,13 @@ like this if programmed to type ahead the states of the US:
 
 The following code shows how you can create a simple typehead textbox:
 
-> **\<input type=\"text\" data-provide=\"typeahead\"\>**
+> **&lt;input type=&quot;text&quot; data-provide=&quot;typeahead&quot;\>**
 
 **Usage of typehead via JavaScript**
 
 We can call the typehead using the following code:
 
-> **\$(\'.typeahead\').typeahead()**
+> **\$(&apos;.typeahead&apos;).typeahead()**
 
 For a complete implementation, visit
 [**https://twitter.github.io/typeahead.js/**
@@ -32704,16 +32705,16 @@ which we will see now.
 **Activating Scrollspy via a data attribute**
 
 The data attribute allows spying on a particular element by adding
-**\<data-spy =\"scroll\"** to the element:
+**&lt;data-spy =&quot;scroll&quot;** to the element:
 
-> **\<body data-spy=\"scroll\" data-target=\".navbar\"\>\...\</body\>**
+> **&lt;body data-spy=&quot;scroll&quot; data-target=&quot;.navbar&quot;\>&period;..&lt;/body\>**
 
 **Activating Scrollspy via JavaScript**
 
 Scrollspy can also be triggered by JavaScript by selecting the element
 and executing the **scrollspy()** function:
 
-> **\$(\'#navbar\').scrollspy()**
+> **\$(&apos;#navbar&apos;).scrollspy()**
 
 ### Affix
 
@@ -32725,15 +32726,15 @@ locked in one place so that they can be accessed by the user any time.
 
 ### Activating the affix plugin via a data attribute
 
-Use the following method to activate the **affix** tool: **\<div
-data-spy=\"affix\" data-offset-top=\"200\"\>\...\</div\>**
+Use the following method to activate the **affix** tool: **&lt;div
+data-spy=&quot;affix&quot; data-offset-top=&quot;200&quot;\>&period;..&lt;/div\>**
 
 ### Activating the affix plugin via JavaScript
 
 We can also activate the **affix** tool via JavaScript manually using
 the following code:
 
-> **\$(\'#navbar\').affix()**
+> **\$(&apos;#navbar&apos;).affix()**
 
 ## Customizing Bootstrap
 
@@ -32750,7 +32751,7 @@ of code.
 ## Websites built with Bootstrap
 
 WordPress is out there, and a lot of big websites and companies are
-using it. Twitter\'s website itself is made with Bootstrap. Take a look
+using it. Twitter&apos;s website itself is made with Bootstrap. Take a look
 at some famous websites built with the Bootstrap framework:
 
 > ![](./images/image34.jpg){width="4.796351706036745in"
@@ -32824,7 +32825,7 @@ foundation:
 -   **Mozilla**:
     ([**http://www.mozilla.org/**)](http://www.mozilla.org/)
 
--   **Intel\'s Open Source Technology Center**:
+-   **Intel&apos;s Open Source Technology Center**:
     ([**http://software.intel.com/**
     **en-us/oss**](http://software.intel.com/en-us/oss))
 
@@ -32889,15 +32890,15 @@ sample pieces of code to give you a head start on your next project.
 
 If you have downloaded the jQuery library to your hard disk and plan to
 use it from there, then you can include the following code in your HTML
-**\<head\>** tag:
+**&lt;head\>** tag:
 
-> **\<script src=\"js/jquery.min.js\"\>\</script\>**
+> **&lt;script src=&quot;js/jquery.min.js&quot;\>&lt;/script\>**
 
 Here, **js** is a folder in the root directory of your project.
 
 > To avoid longer loading time and performance issues, scripts should be
-> added to the end of the **\<body\>** tag because when the browser
-> loads the web page (let\'s say, **sample1.html**) and the scripts are
+> added to the end of the **&lt;body\>** tag because when the browser
+> loads the web page (let&apos;s say, **sample1.html**) and the scripts are
 > at the end of the body tag, the browser can render the content of the
 > page (the body) and only start loading scripts afterward.
 
@@ -32906,8 +32907,8 @@ provide faster rendering to your pages and jQuery code than using your
 own hosted jQuery libraries. You can use the Google developer hosted
 libraries with the following piece of code:
 
-> **\<script src=\"https://ajax.googleapis.com/ajax/libs/
-> jquery/2.1.3/jquery.min.js\"\> \</script\>**
+> **&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/
+> jquery/2.1.3/jquery.min.js&quot;\> &lt;/script\>**
 
 The jQuery syntax is used to perform any specific action on elements of
 HTML.
@@ -32938,10 +32939,10 @@ Selectors begin with a **\$** sign followed by parentheses: **\$()**
 ### Element selectors
 
 Element selectors select elements using their name. For example, if a
-paragraph is written in the tags **\<p\>**, you can select this
+paragraph is written in the tags **&lt;p\>**, you can select this
 paragraph using its name, that is, **p**:
 
-> **\$(\"p\")**
+> **\$(&quot;p&quot;)**
 
 **Parameters**
 
@@ -32954,7 +32955,7 @@ The element selectors returns the element.
 **Description**
 
 The element selectors select elements using their name. For example, if
-a paragraph is written in the tags **\<p\>**, you can select this
+a paragraph is written in the tags **&lt;p\>**, you can select this
 paragraph using its name.
 
 ### ID selectors
@@ -32964,7 +32965,7 @@ can have its own identifying ID and it can be accessed using **\#**. For
 example, to access the element with the ID text, we can use the
 following syntax:
 
-> **\$(\"#text\")**
+> **\$(&quot;#text&quot;)**
 
 **Parameters**
 
@@ -32986,7 +32987,7 @@ Javascript or the hash sign.
 Class selectors select the elements using the class name. For example, a
 class named sample can be accessed by the following syntax:
 
-> **\$(\".sample\")**
+> **\$(&quot;.sample&quot;)**
 
 **Parameters**
 
@@ -33036,14 +33037,14 @@ Here is an example of its usage.
 
 **HTML Code**:
 
-> **\<div id=\"clicked\"\>**
+> **&lt;div id=&quot;clicked&quot;\>**
 >
 > **//function to be called after clicked**
 
-**\</div\> jQuery Code**:
+**&lt;/div\> jQuery Code**:
 
-> **\$( \"#clicked\" ).click(function() { alert( \"Function for .click()
-> called.\" ); });**
+> **\$( &quot;#clicked&quot; ).click(function() { alert( &quot;Function for .click()
+> called.&quot; ); });**
 
 #### .dblclick()
 
@@ -33068,16 +33069,16 @@ Here is an example of its usage.
 
 **HTML Code**:
 
-> **\<div id=\"clicked\"\>**
+> **&lt;div id=&quot;clicked&quot;\>**
 >
 > **// function to be called after clicked**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **jQuery Code**:
 
-> **\$( \"#clicked\" ).dblclick(function() { alert( \"Function for
-> .dblclick() called.\" ); });**
+> **\$( &quot;#clicked&quot; ).dblclick(function() { alert( &quot;Function for
+> .dblclick() called.&quot; ); });**
 
 #### .hover()
 
@@ -33101,26 +33102,26 @@ Here is an example of its usage.
 
 **HTML Code**:
 
-> **\<ul\>**
+> **&lt;ul\>**
 >
-> **\<li\>Lahore\</li\>**
+> **&lt;li\>Lahore&lt;/li\>**
 >
-> **\<li\>Karachi\</li\>**
+> **&lt;li\>Karachi&lt;/li\>**
 >
-> **\<li\>Peshawar\</li\>**
+> **&lt;li\>Peshawar&lt;/li\>**
 >
-> **\<li\>Sialkot\</li\>**
+> **&lt;li\>Sialkot&lt;/li\>**
 
-**\</ul\> jQuery Code**:
+**&lt;/ul\> jQuery Code**:
 
-> **\$( \"li\" ).hover( function() {**
+> **\$( &quot;li&quot; ).hover( function() {**
 >
-> **\$( this ).append( \$( \"\<span\> (\*)\</span\>\" ) ); // \"this\"
+> **\$( this ).append( \$( &quot;&lt;span\> (&ast;)&lt;/span\>&quot; ) ); // &quot;this&quot;
 > is used to access the current object itself**
 >
 > **}, function() {**
 >
-> **\$( this ).find( \"span:first\" ).remove();**
+> **\$( this ).find( &quot;span:first&quot; ).remove();**
 >
 > **}**
 >
@@ -33149,14 +33150,14 @@ Here is an example of its usage.
 
 **HTML Code**:
 
-> **\<div id=\"myTarget\"\>**
+> **&lt;div id=&quot;myTarget&quot;\>**
 >
 > **Click here**
 
-**\</div\> jQuery Code**:
+**&lt;/div\> jQuery Code**:
 
-> **\$( \"#myTarget\" ).mousedown(function() { alert( \"Function for
-> .mousedown() called.\" ); });**
+> **\$( &quot;#myTarget&quot; ).mousedown(function() { alert( &quot;Function for
+> .mousedown() called.&quot; ); });**
 
 #### .mouseenter()
 
@@ -33184,24 +33185,24 @@ Here is an example of its usage.
 
 **HTML Code**:
 
-> **\<div id=\"external\"\>**
+> **&lt;div id=&quot;external&quot;\>**
 >
 > **External**
 >
-> **\<div id=\"internal\"\>**
+> **&lt;div id=&quot;internal&quot;\>**
 >
 > **Internal**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
-**\<div id=\"myLog\"\>\</div\> jQuery Code**:
+**&lt;div id=&quot;myLog&quot;\>&lt;/div\> jQuery Code**:
 
-> **\$( \"#external\" ).mouseenter(function() {**
+> **\$( &quot;#external&quot; ).mouseenter(function() {**
 >
-> **\$( \"#myLog\" ).append( \"\<p\>Function for .mouseenter()
-> called.\</p\>\" ); });**
+> **\$( &quot;#myLog&quot; ).append( &quot;&lt;p\>Function for .mouseenter()
+> called.&lt;/p\>&quot; ); });**
 
 #### .mouseleave()
 
@@ -33226,24 +33227,24 @@ Here is an example of its usage.
 
 **HTML Code**:
 
-> **\<div id=\"external\"\>**
+> **&lt;div id=&quot;external&quot;\>**
 >
 > **External**
 >
-> **\<div id=\"internal\"\>**
+> **&lt;div id=&quot;internal&quot;\>**
 >
 > **Internal**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
-**\<div id=\"myLog\"\>\</div\> jQuery Code**:
+**&lt;div id=&quot;myLog&quot;\>&lt;/div\> jQuery Code**:
 
-> **\$( \"#external\" ).mouseleave(function() {**
+> **\$( &quot;#external&quot; ).mouseleave(function() {**
 >
-> **\$( \"#myLog\" ).append( \"\<p\> Function for .mouseleave()
-> called.\</p\>\" ); });**
+> **\$( &quot;#myLog&quot; ).append( &quot;&lt;p\> Function for .mouseleave()
+> called.&lt;/p\>&quot; ); });**
 
 #### .mousemove()
 
@@ -33267,31 +33268,31 @@ Here is an example of its usage.
 
 **HTML Code**:
 
-> **\<div id=\"myTarget\"\>**
+> **&lt;div id=&quot;myTarget&quot;\>**
 >
 > **Move here**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<div id=\"other\"\>**
+> **&lt;div id=&quot;other&quot;\>**
 >
 > **Trigger the Function**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<div id=\"myLog\"\>\</div\>**
+> **&lt;div id=&quot;myLog&quot;\>&lt;/div\>**
 
 **jQuery Code**:
 
-> **\$( \"#myTarget\" ).mousemove(function( event ) {**
+> **\$( &quot;#myTarget&quot; ).mousemove(function( event ) {**
 >
 > **// the event keyword identifies the mousemove event in the case of
 > this example**
 >
-> **var msg = \"Function for .mousemove() called at \"; msg +=
-> event.pageX + \", \" + event.pageY;**
+> **var msg = &quot;Function for .mousemove() called at &quot;; msg +=
+> event.pageX + &quot;, &quot; + event.pageY;**
 >
-> **\$( \"#myLog\" ).append( \"\<div\>\" + msg + \"\</div\>\" );**
+> **\$( &quot;#myLog&quot; ).append( &quot;&lt;div\>&quot; + msg + &quot;&lt;/div\>&quot; );**
 >
 > **});**
 
@@ -33318,32 +33319,32 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"external\"\>**
+> **&lt;div id=&quot;external&quot;\>**
 >
 > **External**
 >
-> **\<div id=\"internal\"\>**
+> **&lt;div id=&quot;internal&quot;\>**
 >
 > **Internal**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<div id=\"other\"\>**
+> **&lt;div id=&quot;other&quot;\>**
 >
 > **Trigger the Function**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<div id=\"myLog\"\>\</div\>**
+> **&lt;div id=&quot;myLog&quot;\>&lt;/div\>**
 
 Required jQuery Code:
 
-> **\$( \"#external\" ).mouseout(function() {**
+> **\$( &quot;#external&quot; ).mouseout(function() {**
 >
-> **\$( \"#myLog\" ).append( \"\<p\>Function for .mouseout()
-> called.\</p\>\"**
+> **\$( &quot;#myLog&quot; ).append( &quot;&lt;p\>Function for .mouseout()
+> called.&lt;/p\>&quot;**
 >
 > **);**
 >
@@ -33385,25 +33386,25 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<ul\>**
+> **&lt;ul\>**
 >
-> **\<li\>Mercury\</li\>**
+> **&lt;li\>Mercury&lt;/li\>**
 >
-> **\<li\>Venus\</li\>**
+> **&lt;li\>Venus&lt;/li\>**
 >
-> **\<li\>Earth\</li\>**
+> **&lt;li\>Earth&lt;/li\>**
 >
-> **\<li\>Mars\</li\>**
+> **&lt;li\>Mars&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
 Required jQuery Code:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"ul\").click(function() {**
+> **\$(&quot;ul&quot;).click(function() {**
 >
-> **\$(\"li\").toggle(\"slow\", function() {**
+> **\$(&quot;li&quot;).toggle(&quot;slow&quot;, function() {**
 >
 > **});**
 >
@@ -33422,13 +33423,13 @@ The only practical difference between **KeyDown** and **KeyPress** is
 that **KeyPress** relays the character resulting from a **KeyPress**
 event and is only called if there is one.
 
-For example, if you press *A* on your keyboard, you\'ll get this
+For example, if you press *A* on your keyboard, you&apos;ll get this
 sequence of events:
 
 -   **KeyDown**: **KeyCode=Keys.A**, **KeyData=Keys.A**,
     **Modifiers=Keys.None**
 
--   **KeyPress**: **KeyChar=\'a\'**
+-   **KeyPress**: **KeyChar=&apos;a&apos;**
 
 -   **KeyUp**: **KeyCode=Keys.A**
 
@@ -33454,16 +33455,16 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<form\>**
+> **&lt;form\>**
 >
-> **\<input id=\"myTarget\" type=\"text\" value=\"KeyPress\"\>**
+> **&lt;input id=&quot;myTarget&quot; type=&quot;text&quot; value=&quot;KeyPress&quot;\>**
 >
-> **\</form\>**
+> **&lt;/form\>**
 
 Required jQuery Code:
 
-> **\$( \"#myTarget\" ).keydown(function() { alert( \"Function for
-> .keydown() called.\" ); });**
+> **\$( &quot;#myTarget&quot; ).keydown(function() { alert( &quot;Function for
+> .keydown() called.&quot; ); });**
 
 The preceding sample code selects the **div** element with the
 **myTarget** ID and triggers the alert function when a key is pressed
@@ -33491,21 +33492,21 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<form\>**
+> **&lt;form\>**
 >
-> **\<fieldset\>**
+> **&lt;fieldset\>**
 >
-> **\<input id=\"myTarget\" type=\"text\" value=\"Tomato\"\>**
+> **&lt;input id=&quot;myTarget&quot; type=&quot;text&quot; value=&quot;Tomato&quot;\>**
 >
-> **\</fieldset\>**
+> **&lt;/fieldset\>**
 >
-> **\</form\>**
+> **&lt;/form\>**
 
 Required jQuery Code:
 
-> **\$( \"#myTarget\" ).keypress(function() {**
+> **\$( &quot;#myTarget&quot; ).keypress(function() {**
 >
-> **console.myLog( \"Function for .keypress() called.\" );**
+> **console.myLog( &quot;Function for .keypress() called.&quot; );**
 >
 > **});**
 
@@ -33534,16 +33535,16 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<form\>**
+> **&lt;form\>**
 >
-> **\<input id=\"myTarget\" type=\"text\" value=\"Hello there\"\>**
+> **&lt;input id=&quot;myTarget&quot; type=&quot;text&quot; value=&quot;Hello there&quot;\>**
 >
-> **\</form\>**
+> **&lt;/form\>**
 
 Required jQuery Code:
 
-> **\$( \"#myTarget\" ).keyup(function() { alert( \"Function for
-> .keyup() called.\" ); });**
+> **\$( &quot;#myTarget&quot; ).keyup(function() { alert( &quot;Function for
+> .keyup() called.&quot; ); });**
 
 The preceding sample code selects the **div** with the **myTarget** ID
 and triggers the alert function when a key is released.
@@ -33552,7 +33553,7 @@ and triggers the alert function when a key is released.
 
 Form events are when elements inside a form are bound to jQuery. These
 events are helpful when it comes to processing data entered via forms.
-These events can be used on elements inside the **\<form\>** tags. We
+These events can be used on elements inside the **&lt;form\>** tags. We
 will now cover the description of each form event.
 
 #### submit()
@@ -33579,21 +33580,21 @@ submitted.
 
 Required HTML Code:
 
-> **\<form action=\"\"\>**
+> **&lt;form action=&quot;&quot;\>**
 >
-> **User ID: \<input type=\"text\" name=\"UsrID\"
-> value=\"KA112\"\>\<br\> Password: \<input type=\"password\"
-> name=\"password\" value=\"Password\"\>\<br\>**
+> **User ID: &lt;input type=&quot;text&quot; name=&quot;UsrID&quot;
+> value=&quot;KA112&quot;\>&lt;br\> Password: &lt;input type=&quot;password&quot;
+> name=&quot;password&quot; value=&quot;Password&quot;\>&lt;br\>**
 >
-> **\<input type=\"submit\" value=\"Submit\"\>**
+> **&lt;input type=&quot;submit&quot; value=&quot;Submit&quot;\>**
 >
-> **\</form\>**
+> **&lt;/form\>**
 
 Required JQuery Code:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"form\").submit(function() { alert(\"Form Submitted!\");**
+> **\$(&quot;form&quot;).submit(function() { alert(&quot;Form Submitted!&quot;);**
 >
 > **});**
 >
@@ -33619,28 +33620,28 @@ This event does not return anything.
 
 This event is used to bind the event to a function that needs to be
 called whenever a value inside a form element changes. This function
-works only on the **\<input\>**, **\<textarea\>**, and **\<select\>**
+works only on the **&lt;input\>**, **&lt;textarea\>**, and **&lt;select\>**
 elements.
 
 Required HTML Code:
 
-> **\<select name=\"ShadesOfGreen\"\>**
+> **&lt;select name=&quot;ShadesOfGreen&quot;\>**
 >
-> **\<option value=\"Jade\"\>Jade\</option\>**
+> **&lt;option value=&quot;Jade&quot;\>Jade&lt;/option\>**
 >
-> **\<option value=\"Mint\"\>Mint\</option\>**
+> **&lt;option value=&quot;Mint&quot;\>Mint&lt;/option\>**
 >
-> **\<option value=\"Emerald\"\>Emerald\</option\>**
+> **&lt;option value=&quot;Emerald&quot;\>Emerald&lt;/option\>**
 >
-> **\<option value=\"Moss\"\>Moss\</option\>**
+> **&lt;option value=&quot;Moss&quot;\>Moss&lt;/option\>**
 >
-> **\</select\>**
+> **&lt;/select\>**
 
 Required JQuery Code:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"select\").change(function() { alert(\"Option Changed\");**
+> **\$(&quot;select&quot;).change(function() { alert(&quot;Option Changed&quot;);**
 >
 > **});**
 >
@@ -33669,20 +33670,20 @@ its focus.
 
 Required HTML Code:
 
-> **User ID: \<input type=\"text\"\>**
+> **User ID: &lt;input type=&quot;text&quot;\>**
 >
-> **Gender: \<select name=\"Gender\"\>**
+> **Gender: &lt;select name=&quot;Gender&quot;\>**
 >
-> **\<option value=\"Male\"\>Male\</option\>**
+> **&lt;option value=&quot;Male&quot;\>Male&lt;/option\>**
 >
-> **\<option value=\"Female\"\>Female\</option\>**
+> **&lt;option value=&quot;Female&quot;\>Female&lt;/option\>**
 >
-> **\</select\>**
+> **&lt;/select\>**
 
 Required JQuery Code:
 
-> **\$(document).ready(function() { \$(\"input\").blur(function() {
-> alert(\"User ID lost foucs\");**
+> **\$(document).ready(function() { \$(&quot;input&quot;).blur(function() {
+> alert(&quot;User ID lost foucs&quot;);**
 >
 > **});**
 >
@@ -33709,30 +33710,30 @@ This event does not return anything.
 The **focus** event is used to call a function whenever an element is in
 focus. An element is generally *in focus* when we select it with the
 mouse or use the *Tab* key to navigate to it. This event is triggered
-only when the specified element is in focus and not the element\'s
+only when the specified element is in focus and not the element&apos;s
 children.
 
 The focus event is generally used with the **blur** event.
 
 Required HTML Code:
 
-> **User ID: \<input type=\"text\" name=\"UsrID\"\>\<br\>**
+> **User ID: &lt;input type=&quot;text&quot; name=&quot;UsrID&quot;\>&lt;br\>**
 >
-> **Email ID: \<input type=\"text\" name=\"emailID\"\>**
+> **Email ID: &lt;input type=&quot;text&quot; name=&quot;emailID&quot;\>**
 
 Required JQuery Code:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"input\").focus(function() {**
+> **\$(&quot;input&quot;).focus(function() {**
 >
-> **\$(this).css(\"background-color\", \"#cccccc\");**
+> **\$(this).css(&quot;background-color&quot;, &quot;#cccccc&quot;);**
 >
 > **});**
 >
-> **\$(\"input\").blur(function() {**
+> **\$(&quot;input&quot;).blur(function() {**
 >
-> **\$(this).css(\"background-color\", \"#ffffff\");**
+> **\$(this).css(&quot;background-color&quot;, &quot;#ffffff&quot;);**
 >
 > **});**
 >
@@ -33761,21 +33762,21 @@ focus.
 
 Required HTML Code:
 
-> **\<div\>**
+> **&lt;div\>**
 >
-> **Name: \<input type=\"text\" name=\"fullname\"\>\<br\>**
+> **Name: &lt;input type=&quot;text&quot; name=&quot;fullname&quot;\>&lt;br\>**
 >
-> **Email: \<input type=\"text\" name=\"email\"\>**
+> **Email: &lt;input type=&quot;text&quot; name=&quot;email&quot;\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 Required JQuery Code:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"div\").focusin(function() {**
+> **\$(&quot;div&quot;).focusin(function() {**
 >
-> **\$(this).css(\"background-color\", \"#cccccc\");**
+> **\$(this).css(&quot;background-color&quot;, &quot;#cccccc&quot;);**
 >
 > **});**
 >
@@ -33804,27 +33805,27 @@ This event is generally used along with the **focusin** event.
 
 Required HTML Code:
 
-> **\<div\>**
+> **&lt;div\>**
 >
-> **Name: \<input type=\"text\" name=\"fullname\"\>\<br\>**
+> **Name: &lt;input type=&quot;text&quot; name=&quot;fullname&quot;\>&lt;br\>**
 >
-> **Email: \<input type=\"text\" name=\"email\"\>**
+> **Email: &lt;input type=&quot;text&quot; name=&quot;email&quot;\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 Required JQuery Code:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"div\").focusin(function() {**
+> **\$(&quot;div&quot;).focusin(function() {**
 >
-> **\$(this).css(\"background-color\", \"#cccccc\");**
+> **\$(this).css(&quot;background-color&quot;, &quot;#cccccc&quot;);**
 >
 > **});**
 >
-> **\$(\"div\").focusout(function() {**
+> **\$(&quot;div&quot;).focusout(function() {**
 >
-> **\$(this).css(\"background-color\", \"#ffffff\");**
+> **\$(this).css(&quot;background-color&quot;, &quot;#ffffff&quot;);**
 >
 > **});**
 >
@@ -33859,7 +33860,7 @@ the window.
 
 Required HTML Code:
 
-> **\<p\>\</p\>**
+> **&lt;p\>&lt;/p\>**
 
 Required JQuery Code:
 
@@ -33867,7 +33868,7 @@ Required JQuery Code:
 >
 > **\$(window).resize(function() {**
 >
-> **\$(\"p\").text(\"Window resized!!\");**
+> **\$(&quot;p&quot;).text(&quot;Window resized!!&quot;);**
 >
 > **});**
 >
@@ -33896,9 +33897,9 @@ The **scroll** event is fired whenever the user scrolls in an element.
 
 Required HTML Code:
 
-> **\<div style=\"border:1px solid**
+> **&lt;div style=&quot;border:1px solid**
 >
-> **black;width:200px;height:100px;overflow:scroll;\"\>Lorem ipsum dolor
+> **black;width:200px;height:100px;overflow:scroll;&quot;\>Lorem ipsum dolor
 > sit amet, consectetur adipiscing elit. Curabitur vehicula ultrices
 > nulla vel facilisis. Curabitur elementum lorem non massa porttitor
 > accumsan. Cras eu leo tincidunt, pulvinar neque et, tempus dolor. Nam
@@ -33909,17 +33910,17 @@ Required HTML Code:
 >
 > **Phasellus sed ligula augue.**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<p\>\</p\>**
+> **&lt;p\>&lt;/p\>**
 
 Required JQuery Code:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"div\").scroll(function() {**
+> **\$(&quot;div&quot;).scroll(function() {**
 >
-> **\$(\"p\").text( \"Text Scrolled!\");**
+> **\$(&quot;p&quot;).text( &quot;Text Scrolled!&quot;);**
 >
 > **});**
 >
@@ -33990,22 +33991,22 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
-> **\<img id=\"sample\" src=\"myImage.png\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;sample&quot; src=&quot;myImage.png&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).hover(function() {**
+> **\$( &quot;#sample&quot; ).hover(function() {**
 >
-> **\$( this ).find( \"img\" ).stop( true, true ).fadeOut();**
+> **\$( this ).find( &quot;img&quot; ).stop( true, true ).fadeOut();**
 >
 > **}, function() {**
 >
-> **\$( this ).find( \"img\" ).stop( true, true ).fadeIn();**
+> **\$( this ).find( &quot;img&quot; ).stop( true, true ).fadeIn();**
 >
 > **});**
 
@@ -34050,19 +34051,19 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.jpeg\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.jpeg&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).hide( \"slow\", function() { alert( \"Animation
-> complete.\" );**
+> **\$( &quot;#myImage&quot; ).hide( &quot;slow&quot;, function() { alert( &quot;Animation
+> complete.&quot; );**
 >
 > **});**
 >
@@ -34102,19 +34103,19 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.jpeg\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.jpeg&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).Show( \"slow\", function() { alert( \"Animation
-> complete.\" );**
+> **\$( &quot;#myImage&quot; ).Show( &quot;slow&quot;, function() { alert( &quot;Animation
+> complete.&quot; );**
 >
 > **});**
 >
@@ -34155,19 +34156,19 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.jpeg\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.jpeg&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).Show( \"slow\", function() { alert( \"Animation
-> complete.\" );**
+> **\$( &quot;#myImage&quot; ).Show( &quot;slow&quot;, function() { alert( &quot;Animation
+> complete.&quot; );**
 >
 > **});**
 >
@@ -34207,20 +34208,20 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
 > **Click here**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.png\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.png&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).fadeIn( \"slow\", function() {**
+> **\$( &quot;#myImage&quot; ).fadeIn( &quot;slow&quot;, function() {**
 >
 > **// Animation complete**
 >
@@ -34261,20 +34262,20 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
 > **Click here**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.png\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.png&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).fadeOut( \"fast\", function() {**
+> **\$( &quot;#myImage&quot; ).fadeOut( &quot;fast&quot;, function() {**
 >
 > **// Animation complete**
 >
@@ -34284,7 +34285,7 @@ Required jQuery Code:
 
 #### fadeToggle()
 
-The **fadeToggle()** function automatically toggles an element\'s
+The **fadeToggle()** function automatically toggles an element&apos;s
 display property from **none** to **block**, **inline**, and so on.
 
 Here is an example of its syntax:
@@ -34313,20 +34314,20 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
 > **Click here**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.png\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.png&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).fadeToggle( 2000, function() {**
+> **\$( &quot;#myImage&quot; ).fadeToggle( 2000, function() {**
 >
 > **// Animation complete**
 >
@@ -34341,9 +34342,9 @@ the given value.
 
 Its syntax is as follows:
 
-> **\$(selector).fadeTo( duration, opacity \[, complete \] )**
+> **\$(selector).fadeTo( duration, opacity &lbrack;, complete &rbrack; )**
 >
-> **\$(selector).fadeTo( duration, opacity \[, easing \] \[, complete \]
+> **\$(selector).fadeTo( duration, opacity &lbrack;, easing &rbrack; &lbrack;, complete &rbrack;
 > )**
 
 ##### Parameters
@@ -34371,20 +34372,20 @@ user can specify the target opacity here. For example, set an element to
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
 > **Click here**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.png\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.png&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).fadeTo( \"Fast\", 0.5, function() {**
+> **\$( &quot;#myImage&quot; ).fadeTo( &quot;Fast&quot;, 0.5, function() {**
 >
 > **// Animation complete**
 >
@@ -34431,20 +34432,20 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
 > **Click here**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.png\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.png&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).slideDown( \"slow\", function() { // Animation
+> **\$( &quot;#myImage&quot; ).slideDown( &quot;slow&quot;, function() { // Animation
 > complete.**
 >
 > **});**
@@ -34484,20 +34485,20 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
 > **Click here**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.png\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.png&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).slideUp( \"fast\", function() { // Animation
+> **\$( &quot;#myImage&quot; ).slideUp( &quot;fast&quot;, function() { // Animation
 > complete.**
 >
 > **});**
@@ -34537,20 +34538,20 @@ Here is an example of its usage.
 
 Required HTML Code:
 
-> **\<div id=\"sample\"\>**
+> **&lt;div id=&quot;sample&quot;\>**
 >
 > **Click here**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<img id=\"myImage\" src=\"myImage.png\" alt=\"\" width=\"1\"
-> height=\"2\"\>**
+> **&lt;img id=&quot;myImage&quot; src=&quot;myImage.png&quot; alt=&quot;&quot; width=&quot;1&quot;
+> height=&quot;2&quot;\>**
 
 Required jQuery Code:
 
-> **\$( \"#sample\" ).click(function() {**
+> **\$( &quot;#sample&quot; ).click(function() {**
 >
-> **\$( \"#myImage\" ).slideToggle( \"fast\", function() { // Animation
+> **\$( &quot;#myImage&quot; ).slideToggle( &quot;fast&quot;, function() { // Animation
 > complete.**
 >
 > **});**
@@ -34584,7 +34585,7 @@ This takes flags as strings as its parameters.
 
 **Returns**
 
-This method returns the callback\'s object to which it is associated
+This method returns the callback&apos;s object to which it is associated
 with, (this).
 
 **Description**
@@ -34600,14 +34601,14 @@ Required jQuery Code:
 >
 > **function myFunc2( value ) {**
 >
-> **console.myLog( \"myFunc2 says: \" + value ); return false; }**
+> **console.myLog( &quot;myFunc2 says: &quot; + value ); return false; }**
 >
 > **var callbacks = \$.Callbacks(); callbacks.add( myFunc1 );**
 >
-> **// Outputs: meow! callbacks.fire( \"meow!\" ); callbacks.add(
+> **// Outputs: meow! callbacks.fire( &quot;meow!&quot; ); callbacks.add(
 > myFunc2 );**
 >
-> **// Outputs: woof!, myFunc2 says: woof! callbacks.fire( \"woof!\"
+> **// Outputs: woof!, myFunc2 says: woof! callbacks.fire( &quot;woof!&quot;
 > );**
 
 ### callbacks.fire()
@@ -34669,10 +34670,10 @@ The execution of the next function in the array is prevented using the
 >
 > **// Add the above function to the list callbacks.add( sound );**
 >
-> **// Fire the items on the list callbacks.fire( \"Woof!\" );**
+> **// Fire the items on the list callbacks.fire( &quot;Woof!&quot; );**
 >
 > **// Disable further calls being possible callbacks.disable();
-> callbacks.fire( \"Meow\" );**
+> callbacks.fire( &quot;Meow&quot; );**
 
 ## Chaining
 
@@ -34683,17 +34684,17 @@ The value returned from each chained action is a new jQuery object.
 Chaining can be done by appending one action to the previous action; for
 example:
 
-> **\$(\"#p1\").css(\"color\", \"blue\").slideDown(100).slideUp(35);**
+> **\$(&quot;#p1&quot;).css(&quot;color&quot;, &quot;blue&quot;).slideDown(100).slideUp(35);**
 
 Here, the actions **slideUp()** and **slideDown()** are performed one
 after the other. **jQuery and the document object model**
 
 The DOM defines a standard for accessing HTML and XML documents:
 
-> *\"The W3C Document Object Model (DOM) is a platform and
+> *&quot;The W3C Document Object Model (DOM) is a platform and
 > language-neutral interface that allows programs and scripts to
 > dynamically access and update the content, structure, and style of a
-> document.\"*
+> document.&quot;*
 
 The following are some ways of DOM manipulation in jQuery:
 
@@ -34713,32 +34714,32 @@ traverse them starting from the root.
 > Elements are not *combined* per se, but they are rather structured or
 > modeled within the document object.
 
-Let\'s take a look at the following image:
+Let&apos;s take a look at the following image:
 
 > ![](./images/image40.png){width="3.625in" height="1.71875in"}
 
-Let\'s take a look at the following description:
+Let&apos;s take a look at the following description:
 
--   The **\<div\>** element is the parent of **\<ul\>** and an ancestor
+-   The **&lt;div\>** element is the parent of **&lt;ul\>** and an ancestor
     of everything inside it
 
--   The **\<ul\>** element is the parent of both the **\<li\>** elements
-    and a child of **\<div\>**
+-   The **&lt;ul\>** element is the parent of both the **&lt;li\>** elements
+    and a child of **&lt;div\>**
 
--   The left **\<li\>** element is the parent of **\<span\>**, child of
-    **\<ul\>**, and a descendant of **\<div\>**
+-   The left **&lt;li\>** element is the parent of **&lt;span\>**, child of
+    **&lt;ul\>**, and a descendant of **&lt;div\>**
 
--   The **\<span\>** element is a child of the left **\<li\>** and a
-    descendant of **\<ul\>** and **\<div\>**
+-   The **&lt;span\>** element is a child of the left **&lt;li\>** and a
+    descendant of **&lt;ul\>** and **&lt;div\>**
 
--   The two **\<li\>** elements are siblings (they share the same
+-   The two **&lt;li\>** elements are siblings (they share the same
     parent)
 
--   The right **\<li\>** element is the parent of **\<b\>**, child of
-    **\<ul\>**, and a descendant of **\<div\>**
+-   The right **&lt;li\>** element is the parent of **&lt;b\>**, child of
+    **&lt;ul\>**, and a descendant of **&lt;div\>**
 
--   The **\<b\>** element is a child of the right **\<li\>** and a
-    descendant of **\<ul\>** and **\<div\>**
+-   The **&lt;b\>** element is a child of the right **&lt;li\>** and a
+    descendant of **&lt;ul\>** and **&lt;div\>**
 
 ### Ancestors
 
@@ -34766,7 +34767,7 @@ This function returns the parent of the selected element:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"span\").parent(); });**
+> **\$(&quot;span&quot;).parent(); });**
 
 **parents():**
 
@@ -34789,7 +34790,7 @@ element till root:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"span\").parents();**
+> **\$(&quot;span&quot;).parents();**
 >
 > **});**
 
@@ -34819,7 +34820,7 @@ This function returns the parents between two selected elements:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"span\").parentsUntil(\"div\");**
+> **\$(&quot;span&quot;).parentsUntil(&quot;div&quot;);**
 >
 > **});**
 
@@ -34851,7 +34852,7 @@ This function returns the children of the selected element:
 
 > **\$(document).ready(function(){**
 >
-> **\$(\"div\").children(); });**
+> **\$(&quot;div&quot;).children(); });**
 
 #### find()
 
@@ -34872,7 +34873,7 @@ This function returns an array of children up to the leaf of the tree:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"div\").find(\"span\");**
+> **\$(&quot;div&quot;).find(&quot;span&quot;);**
 >
 > **});**
 
@@ -34906,7 +34907,7 @@ This function returns all the siblings of the selected element using the
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"span\").siblings(\"div\"); });**
+> **\$(&quot;span&quot;).siblings(&quot;div&quot;); });**
 
 #### next()
 
@@ -34931,7 +34932,7 @@ the **filter** parameter:
 
 > **\$(document).ready(function(){**
 >
-> **\$(\"span\").next(); });**
+> **\$(&quot;span&quot;).next(); });**
 
 #### nextAll()
 
@@ -34956,7 +34957,7 @@ element using the parameter:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"span\").nextAll(); });**
+> **\$(&quot;span&quot;).nextAll(); });**
 
 #### nextUntil()
 
@@ -34984,7 +34985,7 @@ between two elements:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"span\").nextUntil(\'H4\'); });**
+> **\$(&quot;span&quot;).nextUntil(&apos;H4&apos;); });**
 
 #### prev()
 
@@ -35007,7 +35008,7 @@ using the **filter** parameter:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"span\").prev(); });**
+> **\$(&quot;span&quot;).prev(); });**
 
 #### prevAll()
 
@@ -35033,7 +35034,7 @@ element using the parameter:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"span\").prevAll(); });**
+> **\$(&quot;span&quot;).prevAll(); });**
 
 #### prevUntil()
 
@@ -35053,7 +35054,7 @@ element and the parameter:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"span\").prevUntil(\"Div\");**
+> **\$(&quot;span&quot;).prevUntil(&quot;Div&quot;);**
 >
 > **});**
 
@@ -35080,11 +35081,11 @@ from an array of items matching the provided selector string.
 
 This function outputs the first element of the selected elements. The
 following example outputs the first **H1** heading inside the
-**\<div\>** tag:
+**&lt;div\>** tag:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"div H1\").first(); });**
+> **\$(&quot;div H1&quot;).first(); });**
 
 #### last()
 
@@ -35100,12 +35101,12 @@ from an array of items matching the provided selector string.
 ##### Description
 
 This function outputs the last element of the selected elements. The
-following example outputs the last **H1** heading inside the **\<div\>**
+following example outputs the last **H1** heading inside the **&lt;div\>**
 tag:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"div H1\").last(); });**
+> **\$(&quot;div H1&quot;).last(); });**
 
 #### eq()
 
@@ -35130,7 +35131,7 @@ number. The following example returns the fifth **div** element:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"div\").eq(4);**
+> **\$(&quot;div&quot;).eq(4);**
 
 #### }); filter()
 
@@ -35149,12 +35150,12 @@ This returns a list of elements that satisfy a specified condition.
 
 The **filter()** function is useful for searching and obtaining a list
 of elements that satisfy a specified condition. In the following
-example, we will search and obtain a list of all the **\<div\>**
+example, we will search and obtain a list of all the **&lt;div\>**
 elements that have their class named as **Feedback**:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"div\").filter(\".Feedback\");**
+> **\$(&quot;div&quot;).filter(&quot;.Feedback&quot;);**
 >
 > **});**
 >
@@ -35208,9 +35209,9 @@ The data from the URL is placed in the selected element.
 
 The **load()** method loads data from a server and puts the returned
 data into the selected element. The following example loads the
-**Sample.txt** file into the specified **\<div\>** tag:
+**Sample.txt** file into the specified **&lt;div\>** tag:
 
-> **\$(\"#div1\").load(\"Sample.txt\" , function(responseTxt, statusTxt,
+> **\$(&quot;#div1&quot;).load(&quot;Sample.txt&quot; , function(responseTxt, statusTxt,
 > xhr);**
 
 ### jQuery Ajax Get
@@ -35238,11 +35239,11 @@ The **Get** request returns the data fetched from the URL.
 The **Get** request gets the data from the server with an HTTP **GET**
 request:
 
-> **\$.get(\"Sample.html\", myfunction(data)**
+> **\$.get(&quot;Sample.html&quot;, myfunction(data)**
 
 The required HTML file is as follows:
 
-> **\<p\> This is the data from the Sample.html file\</p\>**
+> **&lt;p\> This is the data from the Sample.html file&lt;/p\>**
 
 The preceding code will fetch the data from the html file and the line
 **This is the data from the Sample.html** will be displayed in an alert
@@ -35270,11 +35271,11 @@ This returns the data fetched from the URL.
 
 This gets data from the server with an HTTP **POST** request:
 
-> **\$.post(\"Sample.html\", myfunction(data)**
+> **\$.post(&quot;Sample.html&quot;, myfunction(data)**
 
 The required HTML file is as follows:
 
-> **\<p\> This is the data from the Sample.html file\</p\>**
+> **&lt;p\> This is the data from the Sample.html file&lt;/p\>**
 
 The preceding code will fetch the data from the HTML file and **This is
 the data from the Sample.html** will be displayed in an alert box when
@@ -35296,7 +35297,7 @@ Its syntax is as follows:
 **Parameters**
 
 An optional parameter for this method is **removeAll**. This parameter
-is used to release the control over all jQuery variables. It\'s a
+is used to release the control over all jQuery variables. It&apos;s a
 Boolean value. If present, it indicates that the control over all values
 must be released.
 
@@ -35316,9 +35317,9 @@ is in process:
 > **\$.noConflict();**
 >
 > **jQuery(document).ready(function() {
-> jQuery(\"button\").click(function() {**
+> jQuery(&quot;button&quot;).click(function() {**
 >
-> **jQuery(\"p\").text(\"jQuery is still working!\");**
+> **jQuery(&quot;p&quot;).text(&quot;jQuery is still working!&quot;);**
 >
 > **});**
 >
@@ -35354,15 +35355,15 @@ student object:
 >
 > **StudentObj = new Object();**
 >
-> **StudentObj.name = \"Kate\";**
+> **StudentObj.name = &quot;Kate&quot;;**
 >
 > **StudentObj.age = 21;**
 >
-> **StudentObj.class = \"Micro-Processors\";**
+> **StudentObj.class = &quot;Micro-Processors&quot;;**
 >
-> **\$(\"button\").click(function() {**
+> **\$(&quot;button&quot;).click(function() {**
 >
-> **\$(\"div\").text(\$.param(StudentObj));**
+> **\$(&quot;div&quot;).text(\$.param(StudentObj));**
 >
 > **});**
 >
@@ -35397,7 +35398,7 @@ returns its index in an alert box:
 
 > **\$(document).ready(myfunction() {**
 >
-> **\$(\"div\").click(myfunction() { alert(\$(this).index());**
+> **\$(&quot;div&quot;).click(myfunction() { alert(\$(this).index());**
 >
 > **});**
 >
@@ -35426,13 +35427,13 @@ This method does not return anything.
 
 The **each()** function runs the specified function for each and every
 element that matches the criteria. In the following example, an alert is
-created every time the **\<div\>** tag is encountered:
+created every time the **&lt;div\>** tag is encountered:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"button\").click(function() {**
+> **\$(&quot;button&quot;).click(function() {**
 >
-> **\$(\"div\").each(function() { alert(\$(this).text())**
+> **\$(&quot;div&quot;).each(function() { alert(\$(this).text())**
 >
 > **});**
 >
@@ -35461,19 +35462,19 @@ This returns data from the selected element.
 **Description**
 
 The **data()** function is used to attach data to or from an element. In
-the following example, we first attach the data to the **\<div\>**
+the following example, we first attach the data to the **&lt;div\>**
 element:
 
 > **\$(document).ready(function() {**
 >
-> **\$(\"#btnAttach\").click(function() {**
+> **\$(&quot;#btnAttach&quot;).click(function() {**
 >
-> **\$(\"div\").data(\"greetingmsg\", \"Welcome To Alpha Zoo\");**
+> **\$(&quot;div&quot;).data(&quot;greetingmsg&quot;, &quot;Welcome To Alpha Zoo&quot;);**
 >
 > **});**
 >
-> **\$(\"#btnGetAttached\").click(function() {
-> alert(\$(\"div\").data(\"greetingmsg\"));**
+> **\$(&quot;#btnGetAttached&quot;).click(function() {
+> alert(\$(&quot;div&quot;).data(&quot;greetingmsg&quot;));**
 >
 > **});**
 >
@@ -35498,14 +35499,14 @@ This does not return anything.
 
 As the name suggests, the **removeData()** method is used to remove data
 that was already set. The following example removes data that was set on
-the **\<div\>** tag:
+the **&lt;div\>** tag:
 
-> **\$(\"#btnRemoveData\").click(function() {**
+> **\$(&quot;#btnRemoveData&quot;).click(function() {**
 >
-> **\$(\"div\").removeData(\"greetingmsg\");**
+> **\$(&quot;div&quot;).removeData(&quot;greetingmsg&quot;);**
 >
-> **alert(\"Message from the site\" +
-> \$(\"div\").data(\"greetingmsg\")); });**
+> **alert(&quot;Message from the site&quot; +
+> \$(&quot;div&quot;).data(&quot;greetingmsg&quot;)); });**
 
 ## jQuery plugins
 
@@ -35515,8 +35516,8 @@ demonstration:
 
 > **(function( \$ ) {**
 >
-> **\$.myFunc.showLinkLocation = function() { this.filter( \"a\"
-> ).append(function() { return \" (\" + this.href + \")\";**
+> **\$.myFunc.showLinkLocation = function() { this.filter( &quot;a&quot;
+> ).append(function() { return &quot; (&quot; + this.href + &quot;)&quot;;**
 >
 > **}); return this;**
 >
@@ -35550,7 +35551,7 @@ options too. The following are some great jQuery plugins:
     implementation.
 
 -   **Tubular**: This plugin lets you set a YouTube video as your web
-    page\'s background.
+    page&apos;s background.
 
 -   **Arc Text**: This plugin converts your text into arc shapes. You
     can use your mouse to push and pull the text to shape them in arcs.
@@ -35562,7 +35563,7 @@ website called **jQuery Rain** at
 3500 jQuery plugins and tutorials with working demonstrations and sample
 codes.
 
-# AngularJS -- Google\'s In-Demand Framework
+# AngularJS -- Google&apos;s In-Demand Framework
 
 Angular is an application framework that helps you create web
 applications. It builds off of HTML and JavaScript to make the creation
@@ -35586,7 +35587,7 @@ top with containers that hold other parts and objects and end functions
 that can be used across many objects. We will also touch upon testing,
 as it is a core part of how Angular is built.
 
-Let\'s not waste any more time and jump right to it.
+Let&apos;s not waste any more time and jump right to it.
 
 All of the examples assume that you have loaded Angular so that the
 **angular** object is available.
@@ -35604,7 +35605,7 @@ be under the controller section. **module**
 
 Modules are the first basic building block of an Angular application:
 
-> **angular.module(moduleName, \[dependencies\], \[configFunction\])
+> **angular.module(moduleName, &lbrack;dependencies&rbrack;, &lbrack;configFunction&rbrack;)
 > angular.module(moduleName)**
 
 **Parameters**
@@ -35639,14 +35640,14 @@ it.
 Here are a few examples of creating modules:
 
 -   This creates a new module: **var firstModule = angular.
-    module(\'firstModule\', \[\]);**
+    module(&apos;firstModule&apos;, &lbrack;&rbrack;);**
 
 -   This retrieves a module named **firstModule**: **var firstModule =
-    angular.module(\'firstModule\');**
+    angular.module(&apos;firstModule&apos;);**
 
 -   This creates a module that relies on **firstModule**: **var
-    secondModule = angular.module(\'secondModule\',
-    \[\'firstModule\'\]);**
+    secondModule = angular.module(&apos;secondModule&apos;,
+    &lbrack;&apos;firstModule&apos;&rbrack;);**
 
 ### config
 
@@ -35681,11 +35682,11 @@ Here are a couple of examples using providers:
 
 > **firstModule.config(function (\$provide) {**
 >
-> **\$provide.provider(\'firstProvider\', function () {**
+> **\$provide.provider(&apos;firstProvider&apos;, function () {**
 >
 > **this.\$get = function () {**
 >
-> **return function () { alert(\'First!\'); }**
+> **return function () { alert(&apos;First!&apos;); }**
 >
 > **}**
 >
@@ -35696,10 +35697,10 @@ Here are a couple of examples using providers:
 -   This example creates a provider first. It is injected as
     **firstProvider** in **config** and used later:
 
-> **firstModule.provider(\'first\', function () { this.\$get = function
+> **firstModule.provider(&apos;first&apos;, function () { this.\$get = function
 > () {**
 >
-> **return function () { alert(\'First!\'); }**
+> **return function () { alert(&apos;First!&apos;); }**
 >
 > **} });**
 
@@ -35730,7 +35731,7 @@ available in the module in later functions:
 
 > **firstModule.run(function (\$rootScope) {**
 >
-> **\$rootScope.test = \'test\';**
+> **\$rootScope.test = &apos;test&apos;;**
 >
 > **});**
 
@@ -35750,9 +35751,9 @@ controller and template. It uses **ngView**, **\$routeProvider**, and
 
 This works with the **\$route** service as a spot for content:
 
-> **\<ng-view \[onload=\'\'\] \[autoscroll=\'\'\]/\>**
+> **&lt;ng-view &lbrack;onload=&apos;&apos;&rbrack; &lbrack;autoscroll=&apos;&apos;&rbrack;/\>**
 >
-> **\<element ng-view \[onload=\'\'\] \[autoscroll=\'\'\]/\>**
+> **&lt;element ng-view &lbrack;onload=&apos;&apos;&rbrack; &lbrack;autoscroll=&apos;&apos;&rbrack;/\>**
 
 **Parameters**
 
@@ -35787,7 +35788,7 @@ This is a provider that lets you configure routes:
 
 -   **path(string)**: This is what the location will be matched against.
     It can contain named groups by using a colon (**:group**), can
-    include a star to match multiple parts (**:group\***), and can be
+    include a star to match multiple parts (**:group&ast;**), and can be
     optional (**:group?**).
 
 -   **route(object)**: This object tells Angular what to do when the
@@ -35843,7 +35844,7 @@ These events can be listened for the **\$route** object:
 This is a service that can be injected into each controller. The
 controller can then look at the properties to get information about the
 route that was matched. The routing matching will happen without your
-intervention and then you can update your controller\'s scope when the
+intervention and then you can update your controller&apos;s scope when the
 route is loaded.
 
 ### \$routeParams
@@ -35858,35 +35859,35 @@ Here is an example using all of the directives and services in
 inline template named **main.html**. This template will echo out the
 **\$route** and **\$routeParams** objects:
 
-> **\<body ng-app=\"firstModule\"\> \<div ng-view\>\</div\>**
+> **&lt;body ng-app=&quot;firstModule&quot;\> &lt;div ng-view\>&lt;/div\>**
 >
-> **\<a href=\"#/main/1\"\>Main\</a\>**
+> **&lt;a href=&quot;#/main/1&quot;\>Main&lt;/a\>**
 >
-> **\<script type=\"text/ng-template\" id=\"main.html\"\>**
+> **&lt;script type=&quot;text/ng-template&quot; id=&quot;main.html&quot;\>**
 >
-> **\<pre\>\$routeParams = {{\$routeParams}}\</pre\>**
+> **&lt;pre\>\$routeParams = {{\$routeParams}}&lt;/pre\>**
 >
-> **\<pre\>\$route = {{\$route}}\</pre\>**
+> **&lt;pre\>\$route = {{\$route}}&lt;/pre\>**
 >
-> **\</script\>**
+> **&lt;/script\>**
 >
-> **\</body\>**
+> **&lt;/body\>**
 
 Here is the script that will execute this. First is the creation of the
 module, then the configuration of **\$routeProvider** and, finally, the
 definition of a controller for the provider to use: **var firstModule =
-angular.module(\'firstModule\', \[\'ngRoute\'\]);**
+angular.module(&apos;firstModule&apos;, &lbrack;&apos;ngRoute&apos;&rbrack;);**
 
 > **firstModule.config(function (\$routeProvider) {**
 >
-> **\$routeProvider.when(\'/main/:id\', { controller:
-> \'MainController\', templateUrl: \'main.html\'**
+> **\$routeProvider.when(&apos;/main/:id&apos;, { controller:
+> &apos;MainController&apos;, templateUrl: &apos;main.html&apos;**
 >
 > **});**
 >
 > **});**
 >
-> **firstModule.controller(\'MainController\', function (\$scope,
+> **firstModule.controller(&apos;MainController&apos;, function (\$scope,
 > \$route,**
 >
 > **\$routeParams) {**
@@ -35914,14 +35915,14 @@ it works but, most likely, you will not need to use these functions.
 
 We will quickly cover the common ways that objects are injected into
 functions in Angular. Using a controller as an example, we will cover
-the two most common methods. Both of these are using Angular\'s
+the two most common methods. Both of these are using Angular&apos;s
 injection behind the scenes:
 
 -   **Defining the variables in a function**: You just have to pass the
     name of the object you need injected. Here is an example that uses
     **\$scope** and a service:
 
-> **firstModule.controller(\'DIController\', function (\$scope,
+> **firstModule.controller(&apos;DIController&apos;, function (\$scope,
 > customService) {**
 >
 > **//\$scope and customService are available here console.log(\$scope);
@@ -35934,12 +35935,12 @@ injection behind the scenes:
     rename the variable if needed. Here is the same example in the array
     format:
 
-> **firstModule.controller(\'DIController\', \[\'\$scope\',**
+> **firstModule.controller(&apos;DIController&apos;, &lbrack;&apos;\$scope&apos;,**
 >
-> **\'customService\', function (newScope, custom) {**
+> **&apos;customService&apos;, function (newScope, custom) {**
 >
 > **// newScope and custom are available here console.log(newScope);
-> console.log(custom); }\]);**
+> console.log(custom); }&rbrack;);**
 >
 > Only the array format is minification safe. The first function will
 > not work once the source has been minified.
@@ -35961,12 +35962,12 @@ This returns an injector object. See **\$injector** section.
 
 **Description**
 
-You can create this object to use Angular\'s injector object. List out
+You can create this object to use Angular&apos;s injector object. List out
 the references you want and then invoke your function.
 
 Here is an example that gets a reference to the **\$http** service:
 
-> **var injector = angular.injector(\[\'ng\'\]);**
+> **var injector = angular.injector(&lbrack;&apos;ng&apos;&rbrack;);**
 >
 > **var injectTest = function (\$http) { console.log(\$http); };
 > injector.invoke(injectTest);**
@@ -36027,27 +36028,27 @@ and services, respectively.
 Controllers are created from a module reference, so they are tied to
 modules. Here is an example of creating a simple controller:
 
-> **firstModule.controller(\'SimpleController\', \[\'\$scope\',
+> **firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;,
 > function**
 >
 > **(\$scope) {**
 >
-> **\$scope.hey = \"HEY!\"; console.log(\$scope); }\]);**
+> **\$scope.hey = &quot;HEY!&quot;; console.log(\$scope); }&rbrack;);**
 
 This module can then be attached to a DOM element with **ngController**:
 
-> **\<div ng-controller=\"SimpleController\"\>**
+> **&lt;div ng-controller=&quot;SimpleController&quot;\>**
 >
 > **{{ hey }}**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 ### ngController
 
 This is a core part of how Angular maps to the model-view-controller
 pattern.
 
-> **\<element ng-controller /\>**
+> **&lt;element ng-controller /\>**
 
 **Parameters**
 
@@ -36066,11 +36067,11 @@ correct element.
 Here is an example of using **ngcontroller** to create an alias for the
 controller:
 
-> **\<div ng-controller=\"SimpleController as simple\"\>**
+> **&lt;div ng-controller=&quot;SimpleController as simple&quot;\>**
 >
 > **{{ simple.hey }}**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 ### \$scope
 
@@ -36088,32 +36089,32 @@ Here is an example of a controller that defines one property, **hey**,
 and a function, **changeHey**. It is important to note that there are no
 references to DOM references at all in this function:
 
-> **firstModule.controller(\'SimpleController\', \[\'\$scope\',
+> **firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;,
 > function**
 >
 > **(\$scope) {**
 >
-> **\$scope.hey = \"HEY!\";**
+> **\$scope.hey = &quot;HEY!&quot;;**
 >
 > **\$scope.changeHey = function () {**
 >
-> **\$scope.hey = \$scope.hey === \'HEY!\' ? \'OK!\' : \'HEY!\';**
+> **\$scope.hey = \$scope.hey === &apos;HEY!&apos; ? &apos;OK!&apos; : &apos;HEY!&apos;;**
 >
 > **};**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 Here is the template with all the data binding in the HTML document:
 
-> **\<div ng-controller=\"SimpleController\"\>**
+> **&lt;div ng-controller=&quot;SimpleController&quot;\>**
 >
 > **{{ hey }}**
 >
-> **\<input type=\"text\" ng-model=\"hey\"/\>**
+> **&lt;input type=&quot;text&quot; ng-model=&quot;hey&quot;/\>**
 >
-> **\<button ng-click=\"changeHey()\"\>{{hey}}\</button\>**
+> **&lt;button ng-click=&quot;changeHey()&quot;\>{{hey}}&lt;/button\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 Angular will know what **hey** is in this element because it is scoped
 to just **SimpleController**.
@@ -36121,7 +36122,7 @@ to just **SimpleController**.
 ### Data binding and templates
 
 A controller uses HTML as its templating language. You can bind a value
-from the controller\'s scope just by surrounding it in double brackets
+from the controller&apos;s scope just by surrounding it in double brackets
 **({{ }})**. That is really all there is to it!
 
 For some elements such as **input**, **select**, and **textarea**, you
@@ -36154,7 +36155,7 @@ function. Take binding a scope variable to the template with
 **{{variable}}**. The digest cycle will now watch this variable and,
 anytime it changes, it will update the template. If the variable is
 bound anywhere else, it will be updated as well. This is how Angular
-\"magically\" makes values auto update.
+&quot;magically&quot; makes values auto update.
 
 A few things to keep in mind is that not everything in the scope is
 watched. The easiest way to have it watched is to bind it. You can also
@@ -36217,12 +36218,12 @@ watches to see whether the value of **hey** has three or more
 characters. It will only fire when this threshold has been crossed and
 not fire again until it is crossed in the opposite direction:
 
-> **\$scope.\$watch(\'hey\', function (newVal, oldVal, scope) {
-> alert(\'Hey was changed from \' + oldVal + \' to \' + newVal); });**
+> **\$scope.\$watch(&apos;hey&apos;, function (newVal, oldVal, scope) {
+> alert(&apos;Hey was changed from &apos; + oldVal + &apos; to &apos; + newVal); });**
 >
 > **\$scope.\$watch(function (scope) { return scope.hey.length \>= 3;**
 >
-> **}, function (newVal, oldVal, scope) { console.log(\'Hey listener\');
+> **}, function (newVal, oldVal, scope) { console.log(&apos;Hey listener&apos;);
 > });**
 
 ### \$apply
@@ -36251,7 +36252,7 @@ has a reference to a scope value. The update happens outside of the
 digest loop and Angular does not know as it did not use any Angular
 methods.
 
-This leads to a best practice to always use Angular\'s services and
+This leads to a best practice to always use Angular&apos;s services and
 functions. If you do so, you should never have to run **\$apply**.
 
 Another best practice is to run your function inside **\$apply**.
@@ -36264,8 +36265,8 @@ unless **\$apply** is called:
 
 > **setTimeout(function () {**
 >
-> **\$scope.\$apply(function () { \$scope.hey = \'Updated from
-> setTimeout\'; }); }, 2000);**
+> **\$scope.\$apply(function () { \$scope.hey = &apos;Updated from
+> setTimeout&apos;; }); }, 2000);**
 
 ### Hierarchies
 
@@ -36310,11 +36311,11 @@ All of the functions listed can be called from the module or off the
 Factory, service, and provider will all rely on an HTML template of
 this:
 
-> **\<div ng-controller=\"SimpleController\"\>**
+> **&lt;div ng-controller=&quot;SimpleController&quot;\>**
 >
 > **{{ service }}**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 ### Factory
 
@@ -36343,14 +36344,14 @@ object will be the same each time it is injected.
 Here is a simple example that will return the name of the service. The
 example also creates a dependency on **\$http**:
 
-> **firstModule.factory(\'firstFactory\', \[\'\$http\', function
-> (\$http) { var serviceName = \'firstFactory\'; return {**
+> **firstModule.factory(&apos;firstFactory&apos;, &lbrack;&apos;\$http&apos;, function
+> (\$http) { var serviceName = &apos;firstFactory&apos;; return {**
 >
 > **getName: function(){return serviceName;}**
 >
 > **};**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 ### Service
 
@@ -36373,7 +36374,7 @@ This is an Angular module object.
 The key distinction between a service and a factory is that it can be
 initialized with **new**. Here is an example that depends on **\$http**:
 
-> **firstModule.service(\'firstService\', \[\'\$http\', function
+> **firstModule.service(&apos;firstService&apos;, &lbrack;&apos;\$http&apos;, function
 > (\$http) { return function (name) { var serviceName = name;**
 >
 > **this.getName = function () { return serviceName;**
@@ -36382,19 +36383,19 @@ initialized with **new**. Here is an example that depends on **\$http**:
 >
 > **};**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 Here is the controller that will initialize the service:
 
-> **firstModule.controller(\'SimpleController\', \[\'\$scope\',**
+> **firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;,**
 >
-> **\'firstService\', function (\$scope, firstService) { var first = new
-> firstService(\'First Service Name\'); var second = new
-> firstService(\'Second Service Name\');**
+> **&apos;firstService&apos;, function (\$scope, firstService) { var first = new
+> firstService(&apos;First Service Name&apos;); var second = new
+> firstService(&apos;Second Service Name&apos;);**
 >
 > **\$scope.service = second.getName();**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 ### Provider
 
@@ -36418,12 +36419,12 @@ This is the final and most complex way to build a service. It must
 return an object with a **\$get** method. You should use this when you
 must have this object ready for configuration. This is the only provider
 that can be injected during the configuration phase of application
-startup. The word \"provider\" will be appended to the name of this. For
+startup. The word &quot;provider&quot; will be appended to the name of this. For
 example, if you named your provider **my**, it will be injected using
 **myProvider**. Here is an example provider that has its name injected
 during configuration. First up is the provider definition:
 
-> **firstModule.provider(\'first\', function () { var serviceName;**
+> **firstModule.provider(&apos;first&apos;, function () { var serviceName;**
 >
 > **return {**
 >
@@ -36446,17 +36447,17 @@ during configuration. First up is the provider definition:
 Next is the configuration. Notice how it is injected using
 **firstProvider**:
 
-> **firstModule.config(\[\'firstProvider\', function (firstProvider) {
-> firstProvider.configSet(\'firstProvider123\'); }\]);**
+> **firstModule.config(&lbrack;&apos;firstProvider&apos;, function (firstProvider) {
+> firstProvider.configSet(&apos;firstProvider123&apos;); }&rbrack;);**
 
 Finally, here is the controller:
 
-> **firstModule.controller(\'SimpleController\', \[\'\$scope\',
-> \'first\', function (\$scope, firstProvider) {**
+> **firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;,
+> &apos;first&apos;, function (\$scope, firstProvider) {**
 >
 > **\$scope.test = firstProvider.getName();**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 ### Value
 
@@ -36480,7 +36481,7 @@ configuration.
 
 Here is a simple example of value:
 
-> **firstModule.value(\'appTitle\', \'First App\');**
+> **firstModule.value(&apos;appTitle&apos;, &apos;First App&apos;);**
 
 ### Constant
 
@@ -36505,7 +36506,7 @@ This is very similar to value, except that this can be used in the
 
 Here is a simple example of constant:
 
-> **firstModule.constant(\'appTitle\', \'First App\');**
+> **firstModule.constant(&apos;appTitle&apos;, &apos;First App&apos;);**
 
 ### \$http
 
@@ -36545,8 +36546,8 @@ A promise will be returned.
 
 **Description**
 
-If you are familiar with jQuery\'s AJAX function, then you are familiar
-with this. This is Angular\'s way of making any **XMLHttpRequests**. For
+If you are familiar with jQuery&apos;s AJAX function, then you are familiar
+with this. This is Angular&apos;s way of making any **XMLHttpRequests**. For
 most things, you will use one of the convenience methods that make using
 **\$http** easier.
 
@@ -36557,7 +36558,7 @@ You can use all of the HTTP methods as functions: **GET**, **POST**,
 **GET**, **POST**, and **JSONP** closely.
 
 > **GET**, **POST**, and **JSONP** will cover most, if not all, of many
-> people\'s needs for **\$http**. If this does not, view the **\$http**
+> people&apos;s needs for **\$http**. If this does not, view the **\$http**
 > documentation at [**https://docs.angularjs.org/api/ng/**
 > **service/\$http**](https://docs.angularjs.org/api/ng/service/$http).
 
@@ -36577,27 +36578,27 @@ that uses **\$http.get**:
 
 Here is the factory:
 
-> **firstModule.factory(\'httpService\', \[\'\$http\', function (\$http)
-> { return { test: function () { return \$http.get(\'test\', {params:**
+> **firstModule.factory(&apos;httpService&apos;, &lbrack;&apos;\$http&apos;, function (\$http)
+> { return { test: function () { return \$http.get(&apos;test&apos;, {params:**
 >
-> **\'test\'}); }**
+> **&apos;test&apos;}); }**
 >
 > **}**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 This returns a promise that the controller can then use:
 
-> **firstModule.controller(\'SimpleController\', \[\'\$scope\',**
+> **firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;,**
 >
-> **\'httpService\', function (\$scope, httpService) {
+> **&apos;httpService&apos;, function (\$scope, httpService) {
 > httpService.test().success(function (data, status) {
 > console.log(data);**
 >
 > **})**
 >
-> **.error(function (data, status) { console.log(\'An error
-> occured\');}); }\]);**
+> **.error(function (data, status) { console.log(&apos;An error
+> occured&apos;);}); }&rbrack;);**
 
 **POST**
 
@@ -36611,16 +36612,16 @@ This will make a **POST** request. Here is a factory that makes a
 **POST** and an example that uses localhost. Remember that you must be
 running a server that responds to **POST** requests for this to work:
 
-> **firstModule.factory(\'httpService\', \[\'\$http\', function (\$http)
+> **firstModule.factory(&apos;httpService&apos;, &lbrack;&apos;\$http&apos;, function (\$http)
 > { return {**
 >
-> **test: function () { return \$http.post(\'http://localhost/post\',**
+> **test: function () { return \$http.post(&apos;http://localhost/post&apos;,**
 >
-> **{ data: \'HEY\' }); }**
+> **{ data: &apos;HEY&apos; }); }**
 >
 > **}**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 #### jsonp
 
@@ -36642,7 +36643,7 @@ blurb about each:
 
 -   **\$http**: See **\$http**
 
--   **\$interval**: This uses Angular\'s way to call **setInterval**
+-   **\$interval**: This uses Angular&apos;s way to call **setInterval**
 
 -   **\$location**: This gets the information about **window.location**
 
@@ -36652,7 +36653,7 @@ blurb about each:
 
 -   **\$q**: This allows promises to be added in our project
 
--   **\$timeout**: This uses Angular\'s way to call **setTimout**
+-   **\$timeout**: This uses Angular&apos;s way to call **setTimout**
 
 This is not a comprehensive list as Angular has many services and can
 create and include more. These are the ones that you will most likely
@@ -36710,7 +36711,7 @@ the console, whether it succeeded or failed. Note that the function is
 created in the controller, but a utility function like this should be
 put a service into production:
 
-> **firstModule.controller(\'SimpleController\', \[\'\$scope\', \'\$q\',
+> **firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;, &apos;\$q&apos;,
 > function (\$scope, \$q) { function qTest(number) { console.log(\$q);
 > var defer = \$q.defer();**
 >
@@ -36728,17 +36729,17 @@ put a service into production:
 >
 > **qTest(2)**
 >
-> **.then(function (n) { console.log(\'succeeded!\'); }, function**
+> **.then(function (n) { console.log(&apos;succeeded!&apos;); }, function**
 >
-> **(n) { console.log(\'failed!\'); });**
+> **(n) { console.log(&apos;failed!&apos;); });**
 >
 > **qTest(3)**
 >
-> **.then(function (n) { console.log(\'succeeded!\'); }, function**
+> **.then(function (n) { console.log(&apos;succeeded!&apos;); }, function**
 >
-> **(n) { console.log(\'failed!\'); });**
+> **(n) { console.log(&apos;failed!&apos;); });**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 ## Expressions
 
@@ -36790,7 +36791,7 @@ directives to change the DOM.
 
 When using directives, Angular must parse the DOM and figure out what
 directives apply to it. This is done by normalizing all the elements and
-tags. Normalization will remove any \";\" \",\" \" -\", or\" \_\". It
+tags. Normalization will remove any &quot;;&quot; &quot;,&quot; &quot; -&quot;, or&quot; \_&quot;. It
 will also remove **x-** and **data-** from the beginning of any
 attributes. For example, when looking for **ngModel**, all of the
 following will match:
@@ -36812,12 +36813,12 @@ Scopes inside directives can become very confusing. We will look at a
 few examples of the different ways to use scope.
 
 First up is just inheriting the scope. This means that the directive
-will use whatever value the variable has in the controller\'s scope. In
-this example, **test** will have to be set in the controller\'s scope:
+will use whatever value the variable has in the controller&apos;s scope. In
+this example, **test** will have to be set in the controller&apos;s scope:
 
-> **firstModule.directive(\'firstTest\', function () { return {**
+> **firstModule.directive(&apos;firstTest&apos;, function () { return {**
 >
-> **template: \'This is the test directive. Test: {{test}}\'**
+> **template: &apos;This is the test directive. Test: {{test}}&apos;**
 >
 > **};**
 >
@@ -36833,16 +36834,16 @@ next section). What you use here will change how the scope is built. An
 of the attribute used after them.
 
 For example, to bind one way to the attribute scope-test, use:
-**\@scopeTest**. Here is an example that does that:
+**&commat;scopeTest**. Here is an example that does that:
 
-> **firstModule.directive(\'firstTest\', function () { return {
-> restrict: \'AE\', scope: {**
+> **firstModule.directive(&apos;firstTest&apos;, function () { return {
+> restrict: &apos;AE&apos;, scope: {**
 >
-> **test: \'@scopeTest\'**
+> **test: &apos;@scopeTest&apos;**
 >
 > **},**
 >
-> **template: \'This is the test directive. Test: {{test}}\'**
+> **template: &apos;This is the test directive. Test: {{test}}&apos;**
 >
 > **};**
 >
@@ -36850,19 +36851,19 @@ For example, to bind one way to the attribute scope-test, use:
 
 This can be used like this:
 
-> **\<div first-test scope-test=\"Scope Test Value\"\>\</div\>**
+> **&lt;div first-test scope-test=&quot;Scope Test Value&quot;\>&lt;/div\>**
 
 **= binding**
 
 Here is the example using **=**. The controller will need to have a
 variable in scope to pass to the directive. Here is the directive:
 
-> **firstModule.directive(\'firstTest\', function () { return {
-> restrict: \'AE\', scope: { test: \'=\'**
+> **firstModule.directive(&apos;firstTest&apos;, function () { return {
+> restrict: &apos;AE&apos;, scope: { test: &apos;=&apos;**
 >
 > **},**
 >
-> **template: \'This is the test directive. Test: {{test}}\'**
+> **template: &apos;This is the test directive. Test: {{test}}&apos;**
 >
 > **};**
 >
@@ -36870,7 +36871,7 @@ variable in scope to pass to the directive. Here is the directive:
 
 The directive is then used like this:
 
-> **\<div first-test test=\"fromControllerScope\"\>\</div\>**
+> **&lt;div first-test test=&quot;fromControllerScope&quot;\>&lt;/div\>**
 
 Notice that the attribute used to connect the scope was called **test**.
 This is because we only used **=**, instead of **=nameOfVariable**.
@@ -36885,13 +36886,13 @@ pass in the reference to a function and have the directive execute it.
 
 Here is an example directive:
 
-> **firstModule.directive(\'firstTest\', function () { return {
-> restrict: \'AE\', scope: { testAction: \'&\'**
+> **firstModule.directive(&apos;firstTest&apos;, function () { return {
+> restrict: &apos;AE&apos;, scope: { testAction: &apos;&&apos;**
 >
 > **},**
 >
-> **template: \'\<button
-> ng-click=\"testAction()\"\>Action!\</button\>\'**
+> **template: &apos;&lt;button
+> ng-click=&quot;testAction()&quot;\>Action!&lt;/button\>&apos;**
 >
 > **};**
 >
@@ -36899,12 +36900,12 @@ Here is an example directive:
 
 The template now has a button that will call **testAction** when
 clicked. The **testAction** parameter that will execute is passed in
-from the controller and lives in the directive\'s scope.
+from the controller and lives in the directive&apos;s scope.
 
 Here is the DOM of this directive:
 
-> **\<div first-test
-> test-action=\"functionFromController()\"\>\</div\>**
+> **&lt;div first-test
+> test-action=&quot;functionFromController()&quot;\>&lt;/div\>**
 
 Another situation comes up where you will need to pass information from
 the directive to the controller, for example, the event object or a
@@ -36913,19 +36914,19 @@ the **\$event** object available in functions.
 
 Here is the directive:
 
-> **firstModule.directive(\'firstTest\', function () { return {
-> restrict: \'AE\', scope: { testAction: \'&\'**
+> **firstModule.directive(&apos;firstTest&apos;, function () { return {
+> restrict: &apos;AE&apos;, scope: { testAction: &apos;&&apos;**
 >
 > **},**
 >
-> **template: \'\<button\>Action!\</button\>\', link: function (\$scope,
-> element) { element.on(\'click\', function (e) {**
+> **template: &apos;&lt;button\>Action!&lt;/button\>&apos;, link: function (\$scope,
+> element) { element.on(&apos;click&apos;, function (e) {**
 >
 > **\$scope.\$apply(function () {**
 >
-> **\$scope.testAction({ \$e: e, \$fromDirective: \'From**
+> **\$scope.testAction({ \$e: e, \$fromDirective: &apos;From**
 >
-> **Directive\' });**
+> **Directive&apos; });**
 >
 > **});**
 >
@@ -36948,9 +36949,9 @@ will be available in the function in the controller.
 
 Here is what the directive will look like in the DOM:
 
-> **\<div first-test test-action=\"functionFromController(\$e,**
+> **&lt;div first-test test-action=&quot;functionFromController(\$e,**
 >
-> **\$fromDirective)\"\>\</div\>**
+> **\$fromDirective)&quot;\>&lt;/div\>**
 
 The two variables, **\$e** and **\$fromDirective**, need to be called
 the same thing as you defined in the directive.
@@ -36967,20 +36968,20 @@ have any knowledge of what elements are in the DOM. When a DOM
 modification needs to be made, it should be the directive that does it.
 
 Angular includes a jQuery-like library called jQLite. It has many of
-jQuery\'s DOM manipulation functions. If you know jQuery, you already
+jQuery&apos;s DOM manipulation functions. If you know jQuery, you already
 know jQLite.
 
 Here is a simple example of a directive that adds a **div** element when
-a button is clicked. The example uses jQLite\'s **append** function:
+a button is clicked. The example uses jQLite&apos;s **append** function:
 
-> **firstModule.directive(\'firstTest\', function () { return {
-> restrict: \'AE\', scope: { testAction: \'&\'**
+> **firstModule.directive(&apos;firstTest&apos;, function () { return {
+> restrict: &apos;AE&apos;, scope: { testAction: &apos;&&apos;**
 >
 > **},**
 >
-> **template: \'\<button\>Add a DIV!\</button\>\', link: function
-> (\$scope, element) { element.on(\'click\', function (e) {
-> element.append(\'\<div\>I was added!\</div\>\');**
+> **template: &apos;&lt;button\>Add a DIV!&lt;/button\>&apos;, link: function
+> (\$scope, element) { element.on(&apos;click&apos;, function (e) {
+> element.append(&apos;&lt;div\>I was added!&lt;/div\>&apos;);**
 >
 > **});**
 >
@@ -36999,13 +37000,13 @@ handlers reside.
 Here is an example that binds to the click event of the element and logs
 to the console:
 
-> **firstModule.directive(\'firstTest\', function () { return {
-> restrict: \'AE\', scope: { testAction: \'&\'**
+> **firstModule.directive(&apos;firstTest&apos;, function () { return {
+> restrict: &apos;AE&apos;, scope: { testAction: &apos;&&apos;**
 >
 > **},**
 >
-> **template: \'\<button\>Add a DIV!\</button\>\', link: function
-> (\$scope, element) { element.on(\'click\', function (e) {
+> **template: &apos;&lt;button\>Add a DIV!&lt;/button\>&apos;, link: function
+> (\$scope, element) { element.on(&apos;click&apos;, function (e) {
 > console.log(e);**
 >
 > **});**
@@ -37038,7 +37039,7 @@ Here are the most used properties and a quick overview of what they do:
 -   **controller**: This can be confusing, but controller is used to
     share logic between directives. Another directive can share the code
     in the controller by using require and listing the name of the
-    required directive. That directive\'s controller will be injected
+    required directive. That directive&apos;s controller will be injected
     into the **link** function. The function will have the following
     definition: **function(\$scope, \$element, \$attrs, \$transclude)**.
 
@@ -37089,7 +37090,7 @@ Here are some of the most often used directives.
 
 This is the root of your Angular application:
 
-> **\<element ng-app\>\</element\>**
+> **&lt;element ng-app\>&lt;/element\>**
 
 **Parameters**
 
@@ -37107,8 +37108,8 @@ defined in **ng-app**.
 
 This binds data from the scope to elements:
 
-> **\<input ng-model \[ng-required ng-minlength ng-maxlength ng-pattern
-> ng-change ng-trim\]\>\</input\>**
+> **&lt;input ng-model &lbrack;ng-required ng-minlength ng-maxlength ng-pattern
+> ng-change ng-trim&rbrack;\>&lt;/input\>**
 
 #### Parameters
 
@@ -37130,19 +37131,19 @@ This binds data from the scope to elements:
 
 #### Description
 
-This is used to bind variables in the controller\'s scope to input
+This is used to bind variables in the controller&apos;s scope to input
 elements (text, select, or textarea). This will be a two-way binding, so
 any changes in the variable will update all occurrences of it.
 
 Here is a simple example with text input:
 
-> **\<input ng-model=\"test\" type=\"text\"/\> {{test}}**
+> **&lt;input ng-model=&quot;test&quot; type=&quot;text&quot;/\> {{test}}**
 
 **ngDisabled**
 
 This can disable an element:
 
-> **\<input ng-disabled\>\</input\>**
+> **&lt;input ng-disabled\>&lt;/input\>**
 
 #### Parameters
 
@@ -37156,13 +37157,13 @@ can bind to a scope variable or just evaluate what is in the expression.
 
 Here is a simple example that disables a text input:
 
-> **\<input ng-disabled=\"true\" type=\"text\"/\>**
+> **&lt;input ng-disabled=&quot;true&quot; type=&quot;text&quot;/\>**
 
 **ngChecked**
 
 This can make an element checked:
 
-> **\<input ng-checked\>\</input\>**
+> **&lt;input ng-checked\>&lt;/input\>**
 
 #### Parameters
 
@@ -37176,13 +37177,13 @@ something in the controller.
 
 Here is an example:
 
-> **\<input ng-checked=\"true\" type=\"checkbox\"/\>**
+> **&lt;input ng-checked=&quot;true&quot; type=&quot;checkbox&quot;/\>**
 
 **ngClass**
 
 This sets the class of an element:
 
-> **\<element ng-class\>\</element\>**
+> **&lt;element ng-class\>&lt;/element\>**
 
 **Parameters**
 
@@ -37202,21 +37203,21 @@ that will be applied:
 
 Here is the code to apply it:
 
-> **\<div ng-class=\"classString\"\>Text\</div\>**
+> **&lt;div ng-class=&quot;classString&quot;\>Text&lt;/div\>**
 >
-> **\<input type=\"text\" ng-model=\"classString\" /\>**
+> **&lt;input type=&quot;text&quot; ng-model=&quot;classString&quot; /\>**
 
 The class is tied to the value of the **classString** variable. The
 input is bound so that any change will update the class on **div**. Once
 you type in double, it will apply the style.
 
-Here is an example using an object map. The object\'s property name is
+Here is an example using an object map. The object&apos;s property name is
 the class that will be applied and the value must be **true**. Here is a
 similar example utilizing the same class:
 
-> **\<div ng-class=\"{double: classString}\"\>Text\</div\>**
+> **&lt;div ng-class=&quot;{double: classString}&quot;\>Text&lt;/div\>**
 >
-> **\<input type=\"text\" ng-model=\"classString\" /\>**
+> **&lt;input type=&quot;text&quot; ng-model=&quot;classString&quot; /\>**
 
 You will notice that once you type anything into the input, the class
 will be applied. This is because a non-blank string will be **true**.
@@ -37227,9 +37228,9 @@ properties.
 
 These set the class of an odd or even element, respectively:
 
-> **\<element ng-class-odd\>\</element\>**
+> **&lt;element ng-class-odd\>&lt;/element\>**
 >
-> **\<element ng-class-even\>\</element\>**
+> **&lt;element ng-class-even\>&lt;/element\>**
 
 #### Parameters
 
@@ -37255,22 +37256,22 @@ Here are the elements. The **ul** attribute creates the data to be
 repeated, and each **span** parameter statically sets the class to
 either odd or even. You can use variables in scope as well:
 
-> **\<ul ng-init=\"numbers=\[1,2,3,4\]\"\>**
+> **&lt;ul ng-init=&quot;numbers=&lbrack;1,2,3,4&rbrack;&quot;\>**
 >
-> **\<li ng-repeat=\"number in numbers\"\>**
+> **&lt;li ng-repeat=&quot;number in numbers&quot;\>**
 >
-> **\<span ng-class-even=\"\'even\'\" ng-class-
-> odd=\"\'odd\'\"\>{{number}}\</span\>**
+> **&lt;span ng-class-even=&quot;&apos;even&apos;&quot; ng-class-
+> odd=&quot;&apos;odd&apos;&quot;\>{{number}}&lt;/span\>**
 >
-> **\</li\>**
+> **&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 
 **ngRepeat**
 
 This is a template that can be repeated:
 
-> **\<element ng-repeat\>\</element\>**
+> **&lt;element ng-repeat\>&lt;/element\>**
 
 #### Parameters
 
@@ -37306,40 +37307,40 @@ expressions:
 
 Here is an example using an unordered list. Here is the controller:
 
-> **firstModule.controller(\'SimpleController\', \[\'\$scope\', function
+> **firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;, function
 > (\$scope) {**
 >
-> **\$scope.items = \[{id: 1, name: \'First\' }, {id: 2, name:**
+> **\$scope.items = &lbrack;{id: 1, name: &apos;First&apos; }, {id: 2, name:**
 >
-> **\'Second\'}\];**
+> **&apos;Second&apos;}&rbrack;;**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 Here is the HTML for the controller:
 
-> **\<div ng-controller=\"SimpleController\"\>**
+> **&lt;div ng-controller=&quot;SimpleController&quot;\>**
 >
-> **\<ul\>**
+> **&lt;ul\>**
 >
-> **\<li ng-repeat=\"item in items track by item.id\"\>**
+> **&lt;li ng-repeat=&quot;item in items track by item.id&quot;\>**
 >
 > **ID: {{item.id}}**
 >
 > **Name: {{item.name}}**
 >
-> **\</li\>**
+> **&lt;/li\>**
 >
-> **\</ul\>**
+> **&lt;/ul\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **ngShow and ngHide**
 
 These can show or hide elements, respectively:
 
-> **\<element ng-show\>\</element\>**
+> **&lt;element ng-show\>&lt;/element\>**
 >
-> **\<element ng-hide\>\</element\>**
+> **&lt;element ng-hide\>&lt;/element\>**
 
 #### Parameters
 
@@ -37355,7 +37356,7 @@ the scope.
 Here is an example that uses a counter to show or hide elements. You can
 use **ng-hide** and use the opposite logic. Here is the controller:
 
-> **firstModule.controller(\'SimpleController\', \[\'\$scope\',
+> **firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;,
 > function**
 >
 > **(\$scope) {**
@@ -37364,33 +37365,33 @@ use **ng-hide** and use the opposite logic. Here is the controller:
 >
 > **\$scope.increase = function () { \$scope.count++; };**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 Next is the HTML:
 
-> **\<div ng-controller=\"SimpleController\"\>**
+> **&lt;div ng-controller=&quot;SimpleController&quot;\>**
 >
-> **\<div ng-show=\"count == 0\"\>Count is zero: {{count}}\</div\>**
+> **&lt;div ng-show=&quot;count == 0&quot;\>Count is zero: {{count}}&lt;/div\>**
 >
-> **\<div ng-show=\"count \> 0\"\>Count is greater than zero:**
+> **&lt;div ng-show=&quot;count \> 0&quot;\>Count is greater than zero:**
 >
-> **{{count}}\</div\>**
+> **{{count}}&lt;/div\>**
 >
-> **\<button ng-click=\"increase()\"\>Increase Count\</button\>**
+> **&lt;button ng-click=&quot;increase()&quot;\>Increase Count&lt;/button\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **ngSwitch**
 
 This creates a switch statement:
 
-> **\<element ng-switch\>**
+> **&lt;element ng-switch\>**
 >
-> **\<element ng-switch-when\>\</element\>**
+> **&lt;element ng-switch-when\>&lt;/element\>**
 >
-> **\<element ng-switch-default\>\</element\>**
+> **&lt;element ng-switch-default\>&lt;/element\>**
 >
-> **\</element\>**
+> **&lt;/element\>**
 
 #### Parameters
 
@@ -37412,7 +37413,7 @@ none of the cases match, then a default element is used.
 Here is an example that jumps between even and odd. Here is the
 controller:
 
-> **firstModule.controller(\'SimpleController\', \[\'\$scope\',
+> **firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;,
 > function**
 >
 > **(\$scope) {**
@@ -37421,29 +37422,29 @@ controller:
 >
 > **\$scope.increase = function () { \$scope.count++; };**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 Then comes the HTML:
 
-> **\<div ng-controller=\"SimpleController\"\>**
+> **&lt;div ng-controller=&quot;SimpleController&quot;\>**
 >
-> **\<div ng-switch=\"count % 2\"\>**
+> **&lt;div ng-switch=&quot;count % 2&quot;\>**
 >
-> **\<div ng-switch-when=\"0\"\>Count is Even: {{count}}\</div\>**
+> **&lt;div ng-switch-when=&quot;0&quot;\>Count is Even: {{count}}&lt;/div\>**
 >
-> **\<div ng-switch-when=\"1\"\>Count is Odd: {{count}}\</div\>**
+> **&lt;div ng-switch-when=&quot;1&quot;\>Count is Odd: {{count}}&lt;/div\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 >
-> **\<button ng-click=\"increase()\"\>Increase Count\</button\>**
+> **&lt;button ng-click=&quot;increase()&quot;\>Increase Count&lt;/button\>**
 >
-> **\</div\>**
+> **&lt;/div\>**
 
 **ngClick**
 
 This is used to define the click handler:
 
-> **\<element ng-click\>\</element\>**
+> **&lt;element ng-click\>&lt;/element\>**
 
 #### Parameters
 
@@ -37459,7 +37460,7 @@ This directive allows you to run JavaScript on the click of an element.
 Usually, this is used with a function that is in the scope.
 
 Here is an example that will increment a **scope** variable. First, here
-are the controller\'s scope variables:
+are the controller&apos;s scope variables:
 
 > **\$scope.counter = 0;**
 >
@@ -37471,9 +37472,9 @@ Next, this is the element with the **ng-click** directive. In this
 example, you do not use the event object, but it demonstrates how to get
 it to the controller function:
 
-> **\<button ng-click=\"functionFromController(\$event)\"\>Click**
+> **&lt;button ng-click=&quot;functionFromController(\$event)&quot;\>Click**
 >
-> **Me!\</button\>**
+> **Me!&lt;/button\>**
 >
 > **{{counter}}**
 
@@ -37481,7 +37482,7 @@ it to the controller function:
 
 This is used to define the double-click handler:
 
-> **\<element ng-dblclick\>\</element\>**
+> **&lt;element ng-dblclick\>&lt;/element\>**
 
 #### Parameters
 
@@ -37496,7 +37497,7 @@ This directive is very similar to **ngClick**. When the element is
 double-clicked, the expression will be evaluated.
 
 This is an example of a div that will increment a counter when
-double-clicked. Here are the controller\'s variables:
+double-clicked. Here are the controller&apos;s variables:
 
 > **\$scope.counter = 0;**
 >
@@ -37506,10 +37507,10 @@ double-clicked. Here are the controller\'s variables:
 
 Here is the element and directive:
 
-> **\<div ng-dblclick=\"functionFromController(\$event)\"\>Double
+> **&lt;div ng-dblclick=&quot;functionFromController(\$event)&quot;\>Double
 > Click**
 >
-> **Me!\</div\>**
+> **Me!&lt;/div\>**
 >
 > **{{counter}}**
 
@@ -37517,19 +37518,19 @@ Here is the element and directive:
 
 These are used to define the mouse event handlers:
 
-> **\<element ng-mousedown\>\</element\>**
+> **&lt;element ng-mousedown\>&lt;/element\>**
 >
-> **\<element ng-mouseup\>\</element\>**
+> **&lt;element ng-mouseup\>&lt;/element\>**
 >
-> **\<element ng-mouseover\>\</element\>**
+> **&lt;element ng-mouseover\>&lt;/element\>**
 >
-> **\<element ng-mouseenter\>\</element\>**
+> **&lt;element ng-mouseenter\>&lt;/element\>**
 >
-> **\<element ng-mouseleave\>\</element\>**
+> **&lt;element ng-mouseleave\>&lt;/element\>**
 
 #### Parameters
 
-> • In the **ng-mouse\*(expression)** function, a statement or function
+> • In the **ng-mouse&ast;(expression)** function, a statement or function
 > can be used, and the event object is available using the
 > **function(\$event)** function definition. Any other variables in the
 > scope can be passed as well, for example, **\$index** in a repeater.
@@ -37551,14 +37552,14 @@ events. Here is the relevant portion of the controller:
 
 Here are the directives:
 
-> **\<div ng-mousedown=\"functionFromController(\$event)\" ng-
-> mouseup=\"functionFromController(\$event)\"
-> ng-mouseenter=\"functionFromController(\$event)\" ng-
-> mouseleave=\"functionFromController(\$event)\"**
+> **&lt;div ng-mousedown=&quot;functionFromController(\$event)&quot; ng-
+> mouseup=&quot;functionFromController(\$event)&quot;
+> ng-mouseenter=&quot;functionFromController(\$event)&quot; ng-
+> mouseleave=&quot;functionFromController(\$event)&quot;**
 >
-> **ng-mouseover=\"functionFromController(\$event)\"\>Mouse Over**
+> **ng-mouseover=&quot;functionFromController(\$event)&quot;\>Mouse Over**
 >
-> **Me!\</div\>**
+> **Me!&lt;/div\>**
 >
 > **{{counter}}**
 
@@ -37566,7 +37567,7 @@ Here are the directives:
 
 This is used to define the mouse move handler:
 
-> **\<element ng-mousemove\</element\>**
+> **&lt;element ng-mousemove&lt;/element\>**
 
 #### Parameters
 
@@ -37580,7 +37581,7 @@ This is used to define the mouse move handler:
 This fires when the mouse moves. Unless the directive is on the entire
 page, the event will be limited to only the element it is applied to.
 
-Here is an example that will display the mouse\'s *x* and *y*
+Here is an example that will display the mouse&apos;s *x* and *y*
 coordinates. Here are the relevant scope variables:
 
 > **\$scope.x = 0;**
@@ -37597,8 +37598,8 @@ coordinates. Here are the relevant scope variables:
 
 Then comes the directive:
 
-> **\<div ng-mousemove=\"functionFromController(\$event)\"\>Move the
-> mouse to see the x and y coordinates!\</div\>**
+> **&lt;div ng-mousemove=&quot;functionFromController(\$event)&quot;\>Move the
+> mouse to see the x and y coordinates!&lt;/div\>**
 >
 > **{{x}}**
 >
@@ -37608,15 +37609,15 @@ Then comes the directive:
 
 These are used to define the key press handlers:
 
-> **\<element ng-keydown\>\</element\>**
+> **&lt;element ng-keydown\>&lt;/element\>**
 >
-> **\<element ng-keyup\>\</element\>**
+> **&lt;element ng-keyup\>&lt;/element\>**
 >
-> **\<element ng-keypress\>\</element\>**
+> **&lt;element ng-keypress\>&lt;/element\>**
 
 #### Parameters
 
-> • In the **ng-key\*(expression)** function, a statement or function
+> • In the **ng-key&ast;(expression)** function, a statement or function
 > can be used, and the event object is available using the
 > **function(\$event)** function definition. Any other variables in the
 > scope can be passed as well, for example, **\$index** in a repeater.
@@ -37638,15 +37639,15 @@ pressed down. Here are the relevant **scope** variables:
 
 Next comes the directive:
 
-> **\<input type=\"text\"
-> ng-keydown=\"functionFromController(\$event)\"/\> Which key:
+> **&lt;input type=&quot;text&quot;
+> ng-keydown=&quot;functionFromController(\$event)&quot;/\> Which key:
 > {{keyCode}}**
 
 **ngSubmit**
 
 These are used to define the submit handler:
 
-> **\<form ng-submit\>\</form\>**
+> **&lt;form ng-submit\>&lt;/form\>**
 
 #### Parameters
 
@@ -37664,8 +37665,8 @@ from reloading the current page.
 Here is a simple example that logs the event object to console on
 **submit**. Here is the directive:
 
-> **\<form ng-submit=\"functionFromController(\$event)\"\>\<input
-> type=\"submit\" id=\"submit\" value=\"Submit\" /\>\</form\>**
+> **&lt;form ng-submit=&quot;functionFromController(\$event)&quot;\>&lt;input
+> type=&quot;submit&quot; id=&quot;submit&quot; value=&quot;Submit&quot; /\>&lt;/form\>**
 
 Next comes the controller code:
 
@@ -37675,9 +37676,9 @@ Next comes the controller code:
 
 These are used to define the focus and blur handlers, respectively:
 
-> **\<input, select, textarea, a, window ng-focus\>\</input\>**
+> **&lt;input, select, textarea, a, window ng-focus\>&lt;/input\>**
 >
-> **\<input, select, textarea, a, window ng-blurs\>\</input\>**
+> **&lt;input, select, textarea, a, window ng-blurs\>&lt;/input\>**
 
 #### Parameters
 
@@ -37692,8 +37693,8 @@ The **ngFocus** handler will fire when the element gains focus, and
 **ngBlur** will fire when it loses focus. Here is an example with a text
 input that logs the event to console:
 
-> **\<input type=\"text\"
-> ng-focus=\"functionFromController(\$event)\"/\>**
+> **&lt;input type=&quot;text&quot;
+> ng-focus=&quot;functionFromController(\$event)&quot;/\>**
 
 Here is the controller code:
 
@@ -37703,11 +37704,11 @@ Here is the controller code:
 
 **ngCopy, ngCut, and ngPaste**
 
-> **\<element ng-copy\>\</element\>**
+> **&lt;element ng-copy\>&lt;/element\>**
 >
-> **\<element ng-cut\>\</element\>**
+> **&lt;element ng-cut\>&lt;/element\>**
 >
-> **\<element ng-paste\>\</element\>**
+> **&lt;element ng-paste\>&lt;/element\>**
 
 #### Parameters
 
@@ -37721,11 +37722,11 @@ Here is the controller code:
 These are the events that will be fired when text is either cut, copied,
 or pasted. Here is an example that uses all three:
 
-> **\<input type=\"text\" ng-cut=\"functionFromController(\$event)\"
+> **&lt;input type=&quot;text&quot; ng-cut=&quot;functionFromController(\$event)&quot;
 > ng-**
 >
-> **copy=\"functionFromController(\$event)\" ng-
-> paste=\"functionFromController(\$event)\" /\>**
+> **copy=&quot;functionFromController(\$event)&quot; ng-
+> paste=&quot;functionFromController(\$event)&quot; /\>**
 
 Here is the controller code:
 
@@ -37759,12 +37760,12 @@ This returns a reference of **destObject**.
 In JavaScript, there is no in-built way to extend an object using
 another object. This function does just that.
 
-Here is a simple example that will extend one object with the other\'s
+Here is a simple example that will extend one object with the other&apos;s
 property:
 
-**var first = { first: \'1\' }; var second = { second: \'2\' }; var
+**var first = { first: &apos;1&apos; }; var second = { second: &apos;2&apos; }; var
 extended = angular.extend(first, second); //extended will be
-{first:\'1\', second:\'2\'} noop**
+{first:&apos;1&apos;, second:&apos;2&apos;} noop**
 
 This is the no operation function:
 
@@ -37789,7 +37790,7 @@ This is a simple example that demonstrates the scenario explained
 earlier:
 
 > **function test(doSomething) { var callback = cb \|\| angular.noop;
-> callback(\'output\');**
+> callback(&apos;output&apos;);**
 >
 > **}**
 
@@ -37815,7 +37816,7 @@ This states whether or not the variable is defined.
 
 This makes a copy of an object:
 
-> **angular.copy(srcObject, \[destObject\])**
+> **angular.copy(srcObject, &lbrack;destObject&rbrack;)**
 
 **Parameters**
 
@@ -37838,7 +37839,7 @@ original object, use this function.
 
 This binds a function to an object:
 
-> **angular.bind(self, function, \[args..\])**
+> **angular.bind(self, function, &lbrack;args..&rbrack;)**
 
 **Parameters**
 
@@ -37866,7 +37867,7 @@ function that depends on the context to execute. It will add the first
 parameter to **this** and multiply that result:
 
 > **function addAndMultiply(toAdd, toMultiply) { return (this + toAdd)
-> \* toMultiply; }**
+> &ast; toMultiply; }**
 
 Next, you will use **angular.bind** to create a new function: **var
 newFunc = angular.bind(4, addAndMultiply, 1);**
@@ -37890,15 +37891,15 @@ scope. See *Directives*, *ngModel* for more information.
 
 Here is a simple form that binds two text inputs:
 
-> **\<form name=\"form\"\>**
+> **&lt;form name=&quot;form&quot;\>**
 >
-> **First Name: \<input type=\"text\" name=\"firstname\" ng-
-> model=\"data.firstName\" /\>**
+> **First Name: &lt;input type=&quot;text&quot; name=&quot;firstname&quot; ng-
+> model=&quot;data.firstName&quot; /\>**
 >
-> **Last Name: \<input type=\"text\" name=\"lastName\" ng-
-> model=\"data.lastName\" /\>**
+> **Last Name: &lt;input type=&quot;text&quot; name=&quot;lastName&quot; ng-
+> model=&quot;data.lastName&quot; /\>**
 >
-> **\</form\>**
+> **&lt;/form\>**
 >
 > **{{data.firstName}} {{data.lastName}}**
 
@@ -37930,15 +37931,15 @@ be passed into the bound scope variable.
 
 Here is an example that sets a minimum length on **firstName**:
 
-> **\<form name=\"form\"\>**
+> **&lt;form name=&quot;form&quot;\>**
 >
-> **First Name: \<input type=\"text\" name=\"firstname\" ng-
-> minlength=\"10\" ng-model=\"data.firstName\" /\>**
+> **First Name: &lt;input type=&quot;text&quot; name=&quot;firstname&quot; ng-
+> minlength=&quot;10&quot; ng-model=&quot;data.firstName&quot; /\>**
 >
-> **Last Name: \<input type=\"text\" name=\"lastName\" ng-
-> model=\"data.lastName\" /\>**
+> **Last Name: &lt;input type=&quot;text&quot; name=&quot;lastName&quot; ng-
+> model=&quot;data.lastName&quot; /\>**
 >
-> **\</form\>**
+> **&lt;/form\>**
 >
 > **{{data.firstName}} {{data.lastName}}**
 
@@ -37949,18 +37950,18 @@ form. This allows you to use other directives with these values.
 Here is an example that will show an error message when the text input
 does not meet the minimum length of 10:
 
-> **\<form name=\"form\"\>**
+> **&lt;form name=&quot;form&quot;\>**
 >
-> **First Name: \<input type=\"text\" name=\"firstname\" ng-
-> minlength=\"10\" ng-model=\"data.firstName\" /\>**
+> **First Name: &lt;input type=&quot;text&quot; name=&quot;firstname&quot; ng-
+> minlength=&quot;10&quot; ng-model=&quot;data.firstName&quot; /\>**
 >
-> **\<div ng-show=\"form.firstname.\$invalid\"\>First name must be 10
-> characters!\</div\>**
+> **&lt;div ng-show=&quot;form.firstname.\$invalid&quot;\>First name must be 10
+> characters!&lt;/div\>**
 >
-> **Last Name: \<input type=\"text\" name=\"lastName\" ng-
-> model=\"data.lastName\" /\>**
+> **Last Name: &lt;input type=&quot;text&quot; name=&quot;lastName&quot; ng-
+> model=&quot;data.lastName&quot; /\>**
 >
-> **\</form\>**
+> **&lt;/form\>**
 >
 > **{{data.firstName}} {{data.lastName}}**
 
@@ -37985,17 +37986,17 @@ controller when it is passed into the **link** function. Then, use
 Here is an example of a custom validator where you cannot have the value
 of the input set to **josh**:
 
-> **firstModule.directive(\'notJosh\', function () { return { require:
-> \'ngModel\',**
+> **firstModule.directive(&apos;notJosh&apos;, function () { return { require:
+> &apos;ngModel&apos;,**
 >
 > **link: function (scope, element, attrs, ctrl) {
 > ctrl.\$parsers.unshift(function (viewValue) { if
-> (viewValue.toUpperCase() === \'JOSH\') {
-> ctrl.\$setValidity(\'notJosh\', false); return undefined**
+> (viewValue.toUpperCase() === &apos;JOSH&apos;) {
+> ctrl.\$setValidity(&apos;notJosh&apos;, false); return undefined**
 >
 > **} else {**
 >
-> **ctrl.\$setValidity(\'notJosh\', true); return viewValue;**
+> **ctrl.\$setValidity(&apos;notJosh&apos;, true); return viewValue;**
 >
 > **}**
 >
@@ -38078,7 +38079,7 @@ This gets the Angular inject services:
 
 Use inject to get access to built-in Angular services, such as
 **\$controller** and **\$compile**, or use it to get access to a loading
-module\'s services.
+module&apos;s services.
 
 Inject can load dependencies if they are wrapped with underscores. For
 example, inject would load **\$compile** if it is used as
@@ -38091,13 +38092,13 @@ allow you to inject it and use the **\$compile** variable.
 
 This can create a mock response:
 
-> **\$httpBackend.when(requestType, url, \[requestParameters\],**
+> **\$httpBackend.when(requestType, url, &lbrack;requestParameters&rbrack;,**
 >
-> **\[headers\])**
+> **&lbrack;headers&rbrack;)**
 >
-> **\$httpBackend.expect(requestType, url, \[requestParameters\],**
+> **\$httpBackend.expect(requestType, url, &lbrack;requestParameters&rbrack;,**
 >
-> **\[headers\])**
+> **&lbrack;headers&rbrack;)**
 >
 > **\$httpBackend.respond(response)**
 
@@ -38141,35 +38142,35 @@ be called in the test, whereas **when** does not have that requirement.
 Here is an example of a simple unit test for a controller. First, you
 must create a controller and then load it in our test:
 
-> **var firstModule = angular.module(\'firstModule\', \[\'ngMock\'\]);
-> firstModule.controller(\'SimpleController\', \[\'\$scope\', function**
+> **var firstModule = angular.module(&apos;firstModule&apos;, &lbrack;&apos;ngMock&apos;&rbrack;);
+> firstModule.controller(&apos;SimpleController&apos;, &lbrack;&apos;\$scope&apos;, function**
 >
 > **(\$scope) {**
 >
-> **\$scope.test = \'HEY!\';**
+> **\$scope.test = &apos;HEY!&apos;;**
 >
-> **}\]);**
+> **}&rbrack;);**
 
 You can now create the test. In the test, you must load the
 **firstModule** module, inject **\$controller**, and create an instance
 of **SimpleController**. Here is the test:
 
-> **describe(\'SimpleController\', function () { var scope = {}; var
+> **describe(&apos;SimpleController&apos;, function () { var scope = {}; var
 > simpleCtrl;**
 >
-> **beforeEach(module(\'firstModule\'));**
+> **beforeEach(module(&apos;firstModule&apos;));**
 >
-> **it(\"should have a scope variable of test\", inject(function**
+> **it(&quot;should have a scope variable of test&quot;, inject(function**
 >
 > **(\$controller) {**
 >
 > **expect(scope.test).toBe(undefined);**
 >
-> **simpleCtrl = \$controller(\'SimpleController\', { \$scope: scope**
+> **simpleCtrl = \$controller(&apos;SimpleController&apos;, { \$scope: scope**
 >
 > **});**
 >
-> **expect(scope.test).toBe(\'HEY!\');**
+> **expect(scope.test).toBe(&apos;HEY!&apos;);**
 >
 > **}));**
 >
@@ -38180,14 +38181,14 @@ of **SimpleController**. Here is the test:
 This example will show you how to test a directive. First, create the
 directive:
 
-> **firstModule.directive(\'simpleDirective\', function () { return {
-> restrict: \'E\', scope:{ test: \'@\'**
+> **firstModule.directive(&apos;simpleDirective&apos;, function () { return {
+> restrict: &apos;E&apos;, scope:{ test: &apos;@&apos;**
 >
 > **},**
 >
 > **replace: true,**
 >
-> **template: \'\<div\>This is an example {{test}}.\</div\>\'**
+> **template: &apos;&lt;div\>This is an example {{test}}.&lt;/div\>&apos;**
 >
 > **};**
 >
@@ -38197,8 +38198,8 @@ Next, you will need to load the module, inject **\$compiler** and
 **\$rootscope**, compile the directive, and finally, start the digest
 loop at least once to bind any values:
 
-> **describe(\'simpleDirective\', function () { var \$compile,
-> \$rootScope; beforeEach(module(\'firstModule\'));**
+> **describe(&apos;simpleDirective&apos;, function () { var \$compile,
+> \$rootScope; beforeEach(module(&apos;firstModule&apos;));**
 >
 > **beforeEach(inject(function (\_\$compile\_, \_\$rootScope\_) {**
 >
@@ -38208,13 +38209,13 @@ loop at least once to bind any values:
 >
 > **}));**
 >
-> **it(\'should have our compiled text\', function () { var element =
-> \$compile(\'\<simple-directive
-> test=\"directive\"\>\</simple-directive\>\')(\$rootScope);**
+> **it(&apos;should have our compiled text&apos;, function () { var element =
+> \$compile(&apos;&lt;simple-directive
+> test=&quot;directive&quot;\>&lt;/simple-directive\>&apos;)(\$rootScope);**
 >
 > **\$rootScope.\$digest();**
 >
-> **expect(element.html()).toContain(\'This is an example directive.\');
+> **expect(element.html()).toContain(&apos;This is an example directive.&apos;);
 > });**
 >
 > **});**
@@ -38223,8 +38224,8 @@ loop at least once to bind any values:
 
 The final testing example will test a service. First, create a service:
 
-> **firstModule.factory(\'firstFactory\', \[\'\$http\', function
-> (\$http) { return { addOne: function () { return \$http.get(\'/test\',
+> **firstModule.factory(&apos;firstFactory&apos;, &lbrack;&apos;\$http&apos;, function
+> (\$http) { return { addOne: function () { return \$http.get(&apos;/test&apos;,
 > {})**
 >
 > **.then(function (res) { return res.data.value + 1;**
@@ -38233,27 +38234,27 @@ The final testing example will test a service. First, create a service:
 >
 > **}**
 >
-> **} }\]);**
+> **} }&rbrack;);**
 
 Next, you will have to load the module, inject **\$httpBackend** and the
 service factory, create a response, and load the response. Notice the
 use of **\$httpBackend.flush()**. This will send the response to any
 open requests:
 
-> **describe(\'firstFactory\', function () { var \$httpBackend,
+> **describe(&apos;firstFactory&apos;, function () { var \$httpBackend,
 > testingFactory, handler;**
 >
-> **beforeEach(module(\'firstModule\'));**
+> **beforeEach(module(&apos;firstModule&apos;));**
 >
 > **beforeEach(inject(function (\_\$httpBackend\_, firstFactory) {**
 >
 > **\$httpBackend = \_\$httpBackend\_;**
 >
-> **handler = \$httpBackend.expect(\'GET\', \'/test\')**
+> **handler = \$httpBackend.expect(&apos;GET&apos;, &apos;/test&apos;)**
 >
 > **.respond({ value: 1 }); testingFactory = firstFactory; }));**
 >
-> **it(\'should run the GET request and add one\', function () {
+> **it(&apos;should run the GET request and add one&apos;, function () {
 > testingFactory.addOne() .then(function (data) {
 > expect(data).toBe(2);**
 >
@@ -38368,7 +38369,7 @@ perspective CSS property 278 perspective-origin CSS property 279
 
 **\$watch, scope** about 723 parameters 723, 724
 
-**\@charset at-rule 315**
+**&commat;charset at-rule 315**
 
 **.click() method 659**
 
@@ -38378,11 +38379,11 @@ perspective CSS property 278 perspective-origin CSS property 279
 
 **\_\_dirname command 564**
 
-**\@document at-rule 316**
+**&commat;document at-rule 316**
 
 **\_\_filename command 564**
 
-**\@font-face at-rule** about 317 Embedded Open Type (EOT) 318
+**&commat;font-face at-rule** about 317 Embedded Open Type (EOT) 318
 font-family 318 font-stretch 319 font-variant 319 font-weight 319 Google
 Fonts 319
 
@@ -38394,19 +38395,19 @@ Fonts 319
 
 **.hover() method 661**
 
-**\@import at-rule** about 320, 321 URL 321
+**&commat;import at-rule** about 320, 321 URL 321
 
 **.Join() method 487**
 
 **.keydown() event 667**
 
-**\@keyframes at-rule 321, 322**
+**&commat;keyframes at-rule 321, 322**
 
 **.keypress() event 668, 669**
 
 **.keyup() event 669**
 
-**\@media at-rule** about 323 media types 324
+**&commat;media at-rule** about 323 media types 324
 
 **.mousedown() method 662**
 
@@ -38416,7 +38417,7 @@ Fonts 319
 
 **.mouseout() event 665**
 
-**\@namespace at-rule 324, 325**
+**&commat;namespace at-rule 324, 325**
 
 **- operator 387**
 
@@ -38428,9 +38429,9 @@ Fonts 319
 
 **!= operator 399**
 
-**\* operator 388**
+**&ast; operator 388**
 
-**\*= operator 395**
+**&ast;= operator 395**
 
 **/ operator 388**
 
@@ -38444,9 +38445,9 @@ Fonts 319
 
 **+= operator 394**
 
-**\< operator 396**
+**&lt; operator 396**
 
-**\<= operator 397**
+**&lt;= operator 397**
 
 **= operator 393**
 
@@ -38462,7 +38463,7 @@ Fonts 319
 
 **&& Operator 391**
 
-**\@page at-rule 325, 326**
+**&commat;page at-rule 325, 326**
 
 **.Pop() method 484, 485**
 
@@ -38476,7 +38477,7 @@ Fonts 319
 
 **.Splice() method 487**
 
-**\@supports at-rule** about 326 and operator 327 not operator 326 or
+**&commat;supports at-rule** about 326 and operator 327 not operator 326 or
 operator 327 **.toggle() event 666 toggle() function 680 .ToString()
 method 485, 486**
 
@@ -38560,7 +38561,7 @@ Application Programming Interface**
 >
 > \-- operator 390
 >
-> \* operator 387
+> &ast; operator 387
 >
 > / operator 388
 >
@@ -38618,7 +38619,7 @@ method 430 arrays**
 
 URL 494 **assignment operators**
 
-> -= operator 394 \*= operator 394
+> -= operator 394 &ast;= operator 394
 >
 > /= operator 395
 >
@@ -38632,21 +38633,21 @@ URL 494 **assignment operators**
 
 **(AJAX) 335, 701 at-rules**
 
-> \@charset 315
+> &commat;charset 315
 >
-> \@document 316
+> &commat;document 316
 >
-> \@font-face 317
+> &commat;font-face 317
 >
-> \@import 320
+> &commat;import 320
 >
-> \@keyframes 321
+> &commat;keyframes 321
 >
-> \@media 323
+> &commat;media 323
 >
-> \@namespace 324
+> &commat;namespace 324
 >
-> \@page 325 \@supports 326 about 315
+> &commat;page 325 &commat;supports 326 about 315
 
 **attr() CSS function 306 attribute (ar) 306 attribute selectors 92
 audio element 37 autocomplete attribute**
@@ -38975,7 +38976,7 @@ URL 708 about 436
 
 creational design patterns 437
 
-**^data\ 608^** facade pattern 445 **data-\* attribute 58, 59** factory
+**^data\ 608^** facade pattern 445 **data-&ast; attribute 58, 59** factory
 pattern 446
 
 **data binding and templates, controllers 722** mediator pattern 442
@@ -39091,7 +39092,7 @@ array.prototype.some() method 430
 **ECMAScript 6** about 504 array, destructuring 511 assignment,
 destructuring 510, 511 binary and octal literals 540 bindings 514, 515
 classes 506 collections 519 compatibility and goals 491, 493 core math
-library APIs 539 enhanced object literals 507 for\...of operator 515
+library APIs 539 enhanced object literals 507 for&period;..of operator 515
 generators 516 iterators 515 language specifications, URL 491 module
 loaders 518 modules 517 object, destructuring 512 parameter, handling
 512 promises 534 proxies 532 subclassable built-ins 534 symbols 532
@@ -39288,7 +39289,7 @@ description 45
 >
 > Validation states 633
 
-**for\...of operator 515 function constructor 458 function definition
+**for&period;..of operator 515 function constructor 458 function definition
 expression** about 380 function declaration 380 function expression 380
 
 **function expression 380 functions**
@@ -39307,7 +39308,7 @@ getFullYear() function** set date methods 474, 475
 **getHours() function 472 getMilliseconds function 471 getMinutes()
 function 472 getMonth() function 473, 474 GET request, services 731, 732
 getTime() function 471 global attributes** about 57 accesskey attribute
-57 class attribute 58 contenteditable attribute 58 data-\* attribute 58
+57 class attribute 58 contenteditable attribute 58 data-&ast; attribute 58
 dir attribute 59 draggable attribute 59 id attribute 60 lang attribute
 60 spellcheck attribute 61 style attribute 61 tabindex attribute 61
 title attribute 62
@@ -39456,7 +39457,7 @@ description 48, 49 **^jQuery^**
 **install command 592** about 655, 656, 711 **~integer\ 255~** and
 document object model (DOM) 691
 
-**Intel\'s Open Source Technology Center** ^installing\ 656^
+**Intel&apos;s Open Source Technology Center** ^installing\ 656^
 
 URL 655 jQuery 1.x 656 **internal properties 453** ^jQuery\ 2.x\ 656^
 **invert() CSS function 285** ^plugins\ 708^
@@ -39645,7 +39646,7 @@ types 323, 324 meta element** about 5 attributes 5 description 5
 
 **method attribute** about 76 elements 76
 
-**methods 379, 458, 608 Microsoft\'s web sandbox**
+**methods 379, 458, 608 Microsoft&apos;s web sandbox**
 
 URL 496 **min attribute** about 76, 77 elements 77
 
@@ -40002,7 +40003,7 @@ notation 381
 
 **quotation marks** about 116 parameters 116
 
-**quotes CSS property** \[string string +\] value 225 about 225 none 225
+**quotes CSS property** &lbrack;string string +&rbrack; value 225 about 225 none 225
 
 **R**
 
@@ -40037,7 +40038,7 @@ CSS function 314, 315 reference type values 373**
 >
 > Reflect.getPrototypeOf(target) 546
 >
-> Reflect.get(target, prop, \[receiver\]) 541
+> Reflect.get(target, prop, &lbrack;receiver&rbrack;) 541
 >
 > Reflect.has(target, prop) 542
 >
@@ -40053,7 +40054,7 @@ CSS function 314, 315 reference type values 373**
 >
 > Reflect.set(target, prop, value,
 >
-> \[receiver\]) 541
+> &lbrack;receiver&rbrack;) 541
 
 **RegExp object** about 478, 479 literal syntax 480 parameters 478
 RegExp constructor 479 regular expression, defining 479 returns 479
@@ -40062,9 +40063,9 @@ RegExp constructor 479 regular expression, defining 479 returns 479
 
 > != operator 399
 >
-> \< operator 396, 397
+> &lt; operator 396, 397
 >
-> \<= operator 397
+> &lt;= operator 397
 >
 > == operator 399
 >
