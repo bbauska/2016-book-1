@@ -11,9 +11,7 @@ frameworks such as jQuery,
 #### **Joshua Johanan Talha Khan Ricardo Zea**
 
 BIRMINGHAM - MUMBAI
-
 Web Developer&apos;s Reference Guide
-
 Copyright © 2016 Packt Publishing
 
 All rights reserved. No part of this book may be reproduced, stored in a
@@ -45,7 +43,7 @@ ISBN 978-1-78355-213-9 [**www.packtpub.com**](http://www.packtpub.com/)
 ### Credits
 
 | <b>Authors</b>                          | <b>Technical Editor</b>    |
-|-----------------------------------------|----------------------------|
+| --------------------------------------- | -------------------------- |
 | Joshua Johanan                          | Abhishek R. Kotian         |
 |                                         |                            |
 | Talha Khan                              | <b>Copy Editor</b>         |
