@@ -1639,7 +1639,7 @@ about the **meta** element.
 
 The **style** element contains the style information.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **&lt;style media scoped type&gt;&lt;/style&gt;**
 
@@ -1653,7 +1653,7 @@ The attributes that are used in the **style** element are as follows:
     parent element
 
 -   **type**: This sets the type of document; the default value is
-    **text**/**css**
+    **text**/<h4>CSS</h4>
 
 #### Description
 
@@ -5420,7 +5420,7 @@ Here is a list for each element:
 
 -   **source**: This will be the MIME type.
 
--   **style**: This will be MIME type. Usually **text**/**css** are
+-   **style**: This will be MIME type. Usually **text**/<h4>CSS</h4> are
     used.
 
 Here is an example with an input:
@@ -5487,7 +5487,7 @@ Here is an example:
 
 # CSS Concepts and Applications
 
-**Cascading Style Sheet** (**CSS**) is the preferred way to style HTML.
+**Cascading Style Sheet** (<h4>CSS</h4>) is the preferred way to style HTML.
 HTML has a style element and a global style attribute. These make it
 very easy to write unmaintainable HTML. For example, let&apos;s imagine that
 we have 10 elements on an HTML page for which we want the font color to
@@ -5883,7 +5883,7 @@ is the HTML.
 > **&lt;em&gt;3&lt;/em&gt; &lt;span&gt;4&lt;/span&gt;&lt;/p&gt;**
 ```
 
-**CSS**: **span + span { color: #ff0000; }**
+<h4>CSS</h4>: **span + span { color: #ff0000; }**
 
 #### The general sibling combinator
 
@@ -7007,17 +7007,17 @@ We can use this property to set which quotation marks are used.
 Here is an example that has a nested quote:
 
 ```
-> **&lt;blockquote&gt;Don&apos;t quote me &lt;blockquote&gt;on&lt;/blockquote&gt;
-> this.&lt;/blockquote&gt;**
+<b>&lt;blockquote&gt;Don&apos;t quote me &lt;blockquote&gt;on&lt;/blockquote&gt;
+this.&lt;/blockquote&gt;</b>
 ```
 
 The quotation marks are completely arbitrary. Here is the CSS:
 
 ```
-> **blockquote { quotes: &quot;:&quot; &quot;!&quot; &quot;&&quot; &quot;&ast;&quot;; }**
+<b>blockquote { quotes: &quot;:&quot; &quot;!&quot; &quot;&&quot; &quot;&ast;&quot;; }</b>
 ```
 
-## CSS Properties -- Part 1
+### CSS Properties -- Part 1
 
 CSS properties are characteristics of an element in a markup language
 (HTML, SVG, XML, and so on) that control their style and/or
@@ -7027,9 +7027,8 @@ standard from the W3C.
 A basic example of a CSS property is **border-radius**:
 
 ```
-> **input {**
->
-> **border-radius: 100px; }**
+**input {**
+**border-radius: 100px; }**
 ```
 
 There is an incredible number of CSS properties, and learning them all
@@ -7061,11 +7060,11 @@ called Blink and is developed by Google.
 
 A basic example of a prefixed CSS property is **column-gap**:
 
-> **.column {**
->
-> **-webkit-column-gap: 5px;**
->
-> **-moz-column-gap: 5px; column-gap: 5px; }**
+```
+**.column {**
+**-webkit-column-gap: 5px;**
+**-moz-column-gap: 5px; column-gap: 5px; }**
+```
 
 Knowing which CSS properties need to be prefixed is futile. That&apos;s why
 it&apos;s important to keep a constant eye on **CanIUse.com**. However,
@@ -7099,29 +7098,24 @@ following markup and animation structure as our base:
 
 **HTML**:
 
-> **&lt;div class=&quot;element&quot;&gt;&lt;/div&gt;**
+```
+**&lt;div class=&quot;element&quot;&gt;&lt;/div&gt;**
+```
 
-**CSS**:
+<h4>CSS</h4>:
 
+```
 > **.element { width: 300px; height: 300px;**
->
 > **}**
->
 > **&commat;keyframes fadingColors {**
->
 > **0% {**
->
 > **background: red;**
->
 > **}**
->
 > **100% {**
->
 > **background: black;**
->
 > **}**
->
 > **}**
+``
 
 In the examples, we will only see the **.element** rule since the HTML
 and **&commat;keyframes fadingColors** will remain the same.
@@ -7146,11 +7140,12 @@ that animation is **fadingColors**.
 
 So, we can call the animation like this:
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.element { width: 300px; height: 300px;**
->
-> **animation-name: fadingColors; }**
+```
+**.element { width: 300px; height: 300px;**
+**animation-name: fadingColors; }**
+```
 
 This is a valid rule using the longhand. There are clearly no issues
 with it at all. The thing is that the animation won&apos;t run unless we add
@@ -7170,10 +7165,12 @@ value of **0s** means that the animation should actually never run.
 
 However, since we do want our animation to run, we do the following:
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.element { width: 300px; height: 300px; animation-name:
-> fadingColors; animation-duration: 2s; }**
+```
+**.element { width: 300px; height: 300px; animation-name:
+fadingColors; animation-duration: 2s; }**
+```
 
 As mentioned earlier, this will make a box go from its red background to
 black in **2** seconds and then stop.
@@ -7191,14 +7188,16 @@ or **0.5**. Negative numbers are not allowed.
 
 Add the following code to the prior example:
 
-**CSS**:
+<h4>CSS</h4>:
 
+```
 > **.element { width: 300px; height: 300px; animation-name:
 > fadingColors; animation-duration: 2s;**
 >
 > **animation-iteration-count: infinite;**
 >
 > **}**
+```
 
 This will make a box go from its red background to black, start over
 again with the red background and go to black, infinitely.
@@ -7238,13 +7237,14 @@ Let&apos;s create a more &quot;fluid&quot; animation by making the black backgro
 fade into red and then red into black without any hard stops. Basically,
 we are trying to create a &quot;pulse-like&quot; effect:
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.element { width: 300px; height: 300px; animation-name:
-> fadingColors; animation-duration: 2s; animation-iteration-count:
-> infinite; animation-direction: alternate;**
->
-> **}**
+```
+**.element { width: 300px; height: 300px; animation-name:
+fadingColors; animation-duration: 2s; animation-iteration-count:
+infinite; animation-direction: alternate;**
+**}**
+```
 
 **animation-delay**
 
@@ -7255,7 +7255,9 @@ running.
 
 It looks like this:
 
-> **animation-delay: 3s;**
+```
+**animation-delay: 3s;**
+```
 
 #### Description
 
@@ -7269,11 +7271,13 @@ negative value.
 
 Use negative values with caution.
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.element { width: 300px; height: 300px; animation-name:
-> fadingColors; animation-duration: 2s; animation-iteration-count:
-> infinite; animation-direction: alternate; animation-delay: 3s; }**
+```
+**.element { width: 300px; height: 300px; animation-name:
+fadingColors; animation-duration: 2s; animation-iteration-count:
+infinite; animation-direction: alternate; animation-delay: 3s; }**
+```
 
 This will make the animation start after 3 seconds have passed.
 
@@ -7285,7 +7289,9 @@ the time the animation is being executed.
 
 It looks like this:
 
+```
 > **animation-fill-mode: none;**
+```
 
 ##### Description
 
@@ -7311,12 +7317,14 @@ The prior properties are better used in animations that have an end and
 stop. In our example, we&apos;re using a fading/pulsating animation, so the
 best property to use is **none**.
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.element { width: 300px; height: 300px; animation-name:
-> fadingColors; animation-duration: 2s; animation-iteration-count:
-> infinite; animation-direction: alternate; animation-delay: 3s;
-> animation-fill-mode: none; }**
+```
+**.element { width: 300px; height: 300px; animation-name:
+fadingColors; animation-duration: 2s; animation-iteration-count:
+infinite; animation-direction: alternate; animation-delay: 3s;
+animation-fill-mode: none; }**
+```
 
 **animation-play-state**
 
@@ -7329,12 +7337,14 @@ running;**
 There are two values: **running** and **paused**. These values are
 self-explanatory.
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.element { width: 300px; height: 300px; animation-name:
-> fadingColors; animation-duration: 2s; animation-iteration-count:
-> infinite; animation-direction: alternate; animation-delay: 3s;
-> animation-fill-mode: none; animation-play-state: running; }**
+```
+**.element { width: 300px; height: 300px; animation-name:
+fadingColors; animation-duration: 2s; animation-iteration-count:
+infinite; animation-direction: alternate; animation-delay: 3s;
+animation-fill-mode: none; animation-play-state: running; }**
+```
 
 In this case, defining **animation-play-state** as **running** is
 redundant, but I&apos;m listing it for purposes of the example.
@@ -7345,7 +7355,9 @@ The **animation-timing-function** CSS property defines how an
 animation&apos;s speed should progress throughout its cycles, and it looks
 like this:
 
-> **animation-timing-function: ease-out;**
+```
+**animation-timing-function: ease-out;**
+```
 
 There are five predefined values, also known as easing functions, for
 the **Bézier** curve (we&apos;ll see what the Bézier curve is in a minute):
@@ -7362,14 +7374,18 @@ slowing down towards the middle of the cycle, and it looks like this:
 The **ease-in** function starts slowly accelerating until the animation
 sharply ends, and it looks like this:
 
-> **animation-timing-function: ease-in;**
+```
+**animation-timing-function: ease-in;**
+```
 
 ##### ease-out
 
 The **ease-out** function starts quickly and gradually slows down
 towards the end and it looks like this:
 
-> **animation-timing-function: ease-out;**
+```
+**animation-timing-function: ease-out;**
+```
 
 ##### ease-in-out
 
@@ -7382,7 +7398,9 @@ looks like this: **animation-timing-function:ease-in-out;**
 The **linear** function has constant speed. No accelerations of any kind
 happen. It looks like this:
 
-> **animation-timing-function: linear;**
+```
+**animation-timing-function: linear;**
+```
 
 Now, the easing functions are built on a curve named the Bézier curve
 and can be called using the **cubic-bezier()** function or the
@@ -7398,8 +7416,9 @@ functions we just mentioned (**ease**, **ease-in**, **ease-out**,
 
 Here&apos;s what a Bézier curve looks like:
 
-> ![](./images/image7.jpg){width="3.2946522309711286in"
-> height="3.3693153980752406in"}
+```
+![](./images/image7.jpg)
+```
 
 ###### Parameters
 
@@ -7442,20 +7461,24 @@ The Bézier curve image showed earlier was taken from the
 
 Let&apos;s add **animation-timing-function** to our example:
 
-**CSS**:
+<h4>CSS</h4>:
 
+```
 **.element { width: 300px; height: 300px; animation-name: fadingColors;
 animation-duration: 2s; animation-iteration-count: infinite;
 animation-direction: alternate; animation-delay: 3s;
 animation-fill-mode: none; animation-play-state: running;
 animation-timing-function: ease-out; } steps()**
+```
 
 The **steps()** timing function isn&apos;t very widely used, but knowing how
 it works is a must if you&apos;re into CSS animations.
 
 It looks like this:
 
-> **animation-timing-function: steps(6);**
+```
+**animation-timing-function: steps(6);**
+```
 
 This function is very helpful when we want our animation to take a
 defined number of steps.
@@ -7463,13 +7486,15 @@ defined number of steps.
 After adding a **steps()** function to our current example, it looks
 like this:
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.element { width: 300px; height: 300px; animation-name:
-> fadingColors; animation-duration: 2s; animation-iteration-count:
-> infinite; animation-direction: alternate; animation-delay: 3s;
-> animation-fill-mode: none; animation-play-state: running;
-> animation-timing-function: steps(6); }**
+```
+**.element { width: 300px; height: 300px; animation-name:
+fadingColors; animation-duration: 2s; animation-iteration-count:
+infinite; animation-direction: alternate; animation-delay: 3s;
+animation-fill-mode: none; animation-play-state: running;
+animation-timing-function: steps(6); }**
+```
 
 This makes the box take six steps to fade from red to black and vice
 versa.
@@ -7491,14 +7516,15 @@ function: **start** and **end**.
 After adding a **steps()** function to our current example, it looks
 like this:
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.element { width: 300px; height: 300px; animation-name:
-> fadingColors; animation-duration: 2s; animation-iteration-count:
-> infinite; animation-direction: alternate; animation-delay: 3s;
-> animation-fill-mode: none; animation-play-state: running;**
->
-> **animation-timing-function: steps(6, start); }**
+```
+**.element { width: 300px; height: 300px; animation-name:
+fadingColors; animation-duration: 2s; animation-iteration-count:
+infinite; animation-direction: alternate; animation-delay: 3s;
+animation-fill-mode: none; animation-play-state: running;**
+**animation-timing-function: steps(6, start); }**
+```
 
 Granted, the pulsating effect in our example isn&apos;t quite noticeable
 when we add the **steps()** function. However, you can see it more
@@ -7509,8 +7535,7 @@ Here&apos;s an image taken from Stephen Greig&apos;s article in *Smashing
 Magazine*, *Understanding CSS Timing Functions*, that explains **start**
 and **end** from the **steps()** function:
 
-> ![](./images/image9.jpg){width="3.667361111111111in"
-> height="3.6527777777777777in"}
+![](./images/image9.jpg)
 
 Also, there are two predefined values for the **steps()** function:
 **step-start** and **step-end**.
@@ -7521,8 +7546,9 @@ Also, there are two predefined values for the **steps()** function:
 -   **step-end**: This is the same thing as **steps(1, end)**. It means
     that every change happens at the end of each interval.
 
-**CSS**:
+<h4>CSS</h4>:
 
+```
 > **.element { width: 300px; height: 300px; animation-name:
 > fadingColors; animation-duration: 2s; animation-iteration-count:
 > infinite; animation-direction: alternate; animation-delay: 3s;
@@ -7530,6 +7556,7 @@ Also, there are two predefined values for the **steps()** function:
 > animation-timing-function: step-end;**
 >
 > **}**
+```
 
 **animation**
 
@@ -7553,19 +7580,23 @@ them down for you in simple bits.
 
 Using the **animation** longhand, the code would look like this:
 
-**CSS**:
+<h4>CSS</h4>:
 
+```
 > **.element { width: 300px; height: 300px; animation-name:
 > fadingColors; animation-duration: 2s; }**
+```
 
 Using the **animation** shorthand, which is the recommended syntax, the
 code would look like this:
 
-**CSS**:
+<h4>CSS</h4>:
 
+```
 > **.element { width: 300px; height: 300px;**
 >
 > **animation: fadingColors 2s; }**
+```
 
 This will make a box go from its red background to black in 2 seconds,
 and then stop.
@@ -7577,14 +7608,17 @@ showing both the longhand and shorthand styles.
 
 **Longhand style**
 
+```
 > **.element { width: 300px; height: 300px; animation-name:
 > fadingColors; animation-duration: 2s; animation-iteration-count:
 > infinite; animation-direction: alternate; animation-delay: 3s;
 > animation-fill-mode: none; animation-play-state: running;
 > animation-timing-function: ease-out; }**
+```
 
 **Shorthand style**
 
+```
 > **.element { width: 300px; height: 300px;**
 >
 > **animation: fadingColors 2s infinite alternate 3s none running
@@ -7593,21 +7627,24 @@ showing both the longhand and shorthand styles.
 > The **animation-duration** property will always be considered first
 > rather than **animation-delay**. All other properties can appear in
 > any order within the declaration.
+```
 
 Here is a demo in **CodePen**: **http://tiny.cc/animation**
 
-## Background
+### Background
 
 The CSS background properties handle the display of background effects
 on HTML elements.
 
-### background-attachment
+#### background-attachment
 
 The **background-attachment** CSS property defines how the background of
 an element scrolls relative to its containing parent, and it looks like
 this:
 
-> **background-attachment: fixed;**
+```
+**background-attachment: fixed;**
+```
 
 **Description**
 
@@ -7621,23 +7658,18 @@ There are three values: **scroll**, **fixed**, and **local**.
 -   **local**: The background scrolls within its container and the
     viewport
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.scroll {**
->
-> **background-attachment: scroll;**
->
-> **}**
->
-> **.fixed {**
->
-> **background-attachment: fixed;**
->
-> **}**
->
-> **.local {**
->
-> **background-attachment: local; }**
+```
+**.scroll {**
+**background-attachment: scroll;**
+**}**
+**.fixed {**
+**background-attachment: fixed;**
+**}**
+**.local {**
+**background-attachment: local; }**
+```
 
 Here is a demo in CodePen:
 [**http://tiny.cc/css-background**](http://tiny.cc/css-background)
@@ -7713,15 +7745,18 @@ a color, and then apply a blend mode to them:
 
 **CSS with longhand**:
 
+```
 > **.element { width: 500px; height: 500px;**
 >
 > **background-image: url(&apos;../images/image.jpg&apos;); background-color:
 > red; background-blend-mode: multiply;**
 >
 > **}**
+```
 
 **CSS with shorthand**:
 
+```
 > **.element { width: 500px; height: 500px;**
 >
 > **background-image: url(../images/image.jpg) red;
@@ -7730,6 +7765,7 @@ a color, and then apply a blend mode to them:
 > Notice that in the second example, the path to the image is not inside
 > quotes. The quotes, single &lbrack;**&apos;&apos;**&rbrack; or double &lbrack;**&quot;&quot;**&rbrack;, are
 > optional.
+```
 
 CSS-Tricks has a great Pen showing all these blend modes. However, I
 forked it to improve a few things on it.
@@ -7765,11 +7801,12 @@ This makes the background extend only up to where the border starts.
 This works like **border-box**, but it will take into consideration any
 padding, thus creating a gap between the border and the background.
 
-**CSS**:
+<h4>CSS</h4>:
 
-> **.element {**
->
-> **background-clip: border-box; }**
+```
+**.element {**
+**background-clip: border-box; }**
+```
 
 Here is a demo in CodePen:
 [**http://tiny.cc/background-clip**](http://tiny.cc/background-clip)
@@ -7796,7 +7833,7 @@ The color value can be defined using any of the following methods:
 
 -   HSL and HSLa
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Named Color&ast;/**
 >
@@ -7893,7 +7930,7 @@ pixels or percentages. Percentages are more commonly used because of
 their relative nature, which helps maintain the integrity and
 proportions of the gradients.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Graphic file&ast;/**
 >
@@ -7968,7 +8005,7 @@ and **inherit**.
 
 -   **inherit**: This is the default value
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element {**
@@ -8009,7 +8046,7 @@ axis (vertical).
 
 The default value is **0 0**; which is exactly the same as **left top**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Default values&ast;/**
@@ -8082,7 +8119,7 @@ There are four values: **repeat**, **repeat-x**, **repeat-y**, and
 -   **no-repeat**: The background image will not be repeated and will
     only display one instance of it.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Default value&ast;/**
@@ -8156,7 +8193,7 @@ We can use any measurement unit we want. Pixels, percentages, and the
 We can even combine multiple images in the same container. The
 background shorthand property is the best way to handle this situation.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.contain {**
@@ -8207,7 +8244,7 @@ writing a separate one.
 
 However, at the end, it&apos;s all a matter of personal style.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;BG color&ast;/**
@@ -8310,7 +8347,7 @@ content. This works great on containers with unknown or variable width.
 You can find more information on MDN at
 [**http://tiny.cc/mdn-width**](http://tiny.cc/mdn-width)
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;max-content&ast;/**
@@ -8363,7 +8400,7 @@ With this keyword, the element will inherit its parent container&apos;s
 height. You can find more information on MDN a[t
 **http://tiny.cc/mdn-height**](http://tiny.cc/mdn-height)
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Length value&ast;/**
@@ -8417,7 +8454,7 @@ one, two, three, or all four values.
 
 Negative values are not allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Shorthand, ONE value: all four sides have the same padding&ast;/**
@@ -8472,7 +8509,7 @@ The **margin** property is the shorthand for **margin-top**,
 
 Negative values are allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Shorthand, ONE value: all four sides have the same padding&ast;/**
@@ -8564,7 +8601,7 @@ In the following example, the top rule in *shorthand syntax*
 accomplishes exactly the same accomplishment as the bottom rule with the
 *longhand syntax*:
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Shorthand&ast;/**
@@ -8611,7 +8648,7 @@ On the other hand, since this value changes the box model, the padding
 and border are not added to the final width and height of the element
 but only to the margin.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Padding, border and margin are added to the element&apos;s
@@ -8665,7 +8702,7 @@ This is when we use percentages such as **50%**, **85%**, and so on.
 You can find more information on MDN at
 [**http://tiny.cc/mdn-max-height**](http://tiny.cc/mdn-max-height)
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Length value&ast;/**
@@ -8709,7 +8746,7 @@ This is when we use percentages such as **50%**, **85%**, and so on.
 You can find more information on MDN at
 [**http://tiny.cc/mdn-max-width**](http://tiny.cc/mdn-max-width)
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Length value&ast;/**
@@ -8752,7 +8789,8 @@ This is when we use percentages such as **50%**, **85%**, and so on.
 
 You can find more information on MDN at
 [**http://tiny.cc/mdn-min-height**](http://tiny.cc/mdn-min-height)
-**CSS**:
+
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Length value&ast;/**
@@ -8797,7 +8835,7 @@ This is when we use percentages such as **50%**, **85%**, and so on.
 You can find more information on MDN at
 [**http://tiny.cc/mdn-min-width**](http://tiny.cc/mdn-min-width)
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Length value&ast;/**
@@ -8873,7 +8911,7 @@ the content inside the replaced element in order to make it fit in its
 content box while preserving the aspect ratio of the content inside the
 replaced element.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **img { width: 15em; height: 25em; object-fit: contain; }**
@@ -8901,7 +8939,7 @@ The values are either *length* or *percentages* of *keyword* values
 **top**, **right**, **bottom**, or **left**. Negative values are
 allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **img { width: 15em; height: 25em; object-fit: contain;
@@ -8953,7 +8991,7 @@ can also use a slash symbol, &quot;**/**&quot;, to separate groups of values.
 > Sometimes, the background color or texture &quot;bleeds&quot; over the rounded
 > corners in some browsers. Use **background-clip** to fix this issue.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Longhand&ast;/**
@@ -9052,7 +9090,7 @@ refers to the height of lowercase *x*. This height is dependent on the
 font. In other words, the heights can be different if we are using Arial
 than if we are using Verdana, even if the value is the same.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element { padding: 2ex; }**
@@ -9065,7 +9103,7 @@ the width of the character **0** (zero). This width is dependent on the
 font. In other words, the widths can be different if we are using Arial
 than if we are using Verdana, even if the value is the same.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element { padding: 2ch; }**
@@ -9085,7 +9123,7 @@ However, many web designers and developers prefer to use **rem** units
 to avoid the inheritance issue **em** units have in nested elements (3-4
 or more levels deep).
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element {**
@@ -9107,7 +9145,7 @@ other elements, we can still think in pixels, but write in **rem** units
 to maintain the relative font size when scaling up or down our document
 in our responsive projects.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **html {**
@@ -9129,7 +9167,7 @@ that of the parent element.
 Like all other relative units, percentages and responsive web design go
 hand in hand.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element { margin: 0 1%;**
@@ -9160,7 +9198,7 @@ the height of the viewport.
 For example, if we declare the **font-size** of an element as **1vh**,
 and the browser window is **500px**, the font size is then **5px**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element { font-size: 1vh; }**
@@ -9175,7 +9213,7 @@ the width of the viewport.
 For example, if we declare the **font-size** of an element as **1vh**,
 and the browser window is **1400px**, the font size is then **14px**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element { font-size: 1vw; }**
@@ -9191,7 +9229,7 @@ smallest length of the viewport.
 For example, if we declare the **font-size** of an element as **1vmin**
 and the browser&apos;s viewport is 600 × 800, the font size is then **6px**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element { font-size: 1vmin; }**
@@ -9207,7 +9245,7 @@ length of the viewport.
 For example, if we declare the **font-size** of an element as **1vmax**,
 and the browser&apos;s viewport is 600 × 800, the font size is then **8px**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element { font-size: 1vmax; }**
@@ -9249,7 +9287,7 @@ The **pt** suffix stands for *point*. **px**
 
 The **px** suffix stands for *pixel*.
 
-**CSS**:
+<h4>CSS</h4>:
 
 All the following values represent units that resemble **16px** font
 size, but in different length units.
@@ -9307,7 +9345,7 @@ The **turn** suffix is not an abbreviation; it&apos;s the actual word
 horizontal rectangle rotate 90 degrees to make it vertical, we would
 define it as **.25turn**, because it&apos;s ¼th of the complete turn.
 
-**CSS**:
+<h4>CSS</h4>:
 
 All the following values represent units that resemble a 90-degree turn
 of an element but in different angle data types:
@@ -9359,7 +9397,7 @@ so **1dpcm**≈ **2.54dpi**. **dppx**
 The **dppx** suffix stands for *dots per pixel*. **1dppx** = **96dpi**
 due to the 1:96 fixed ratio of CSS pixels.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;&ast;@2x pixel ratio&ast;&ast;/**
@@ -9400,7 +9438,7 @@ The **ms** suffix stands for *milliseconds*. **1000ms**= 1 second.
 
 The **s** suffix stands for *seconds*. **1s** = 1000 milliseconds.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Milliseconds&ast;/**
@@ -9446,7 +9484,7 @@ many columns can fit within the available space. This is a very powerful
 and robust solution for responsive layouts. However, it is required that
 we declare **columnwidth** for this to work.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Let the browser decide&ast;/**
@@ -9483,7 +9521,7 @@ There are two keywords: **auto** and **balance**.
     the content will just keep flowing outside the parent container if
     the parent container becomes too small.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Balance&ast;/**
@@ -9513,7 +9551,7 @@ There are two values: the **auto** keyword and a *length* value.
 
 -   **Length value**: We define this using **px** or **em**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Auto = 1em&ast;/**
@@ -9555,7 +9593,7 @@ properties:
     **HEX**, **RGB**, or **HSL**. It also supports alpha channel, so
     **RGBa** and **HSLa** are allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Length, solid line and RGBa&ast;/**
@@ -9580,7 +9618,7 @@ line between columns.
 Colors can be defined in any format: **HEX**, **RGB**, or **HSL**. It
 also supports alpha channel, so **RGBa** and **HSLa** are allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element {**
@@ -9596,7 +9634,7 @@ line between columns.
 It can be any of the **border-style** values, for example, **dotted**,
 **dashed**, **inset**, and so on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element {**
@@ -9612,7 +9650,7 @@ the dividing line between columns.
 It can be just a length value (a number), or we can use any of these
 keywords: **thin**, **medium**, or **thick**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element {**
@@ -9629,7 +9667,7 @@ columns, like a block element.
 
 There are two values, **none** and **all**, which are self-explanatory.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **.element { column-span: all; }**
@@ -9651,7 +9689,7 @@ container is **800px**, then the browser will include three columns
 the container is at least **450px** wide, the browser will fit two
 columns.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;em value&ast;/**
@@ -9676,7 +9714,7 @@ It can accept either one or two values in the same declaration. The
 order of the values doesn&apos;t matter, but it&apos;s a good measure to declare
 **column-width** first and **columncount** second.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;column-width and then column-count&ast;/**
@@ -9729,7 +9767,7 @@ space to do so. It can grow on both the main or cross axes, depending on
 the direction defined by the **flex-direction** property, which we&apos;ll
 talk about in a minute.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;First flex item will take 1 unit of the available space&ast;/**
@@ -9766,7 +9804,7 @@ container. This could be horizontally or vertically (main axis or cross
 axis). By assigning flex shrink factors to one or multiple flex items,
 we can make them fit the size of the flex container.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;First flex item will take 1 unit of the available space&ast;/**
 >
@@ -9800,7 +9838,7 @@ relative length unit (**px**, **em**, **%**, and so on) or the
 When using **content**, the container will adapt to the content inside
 of it. Negative values are invalid.
 
-**CSS**:
+<h4>CSS</h4>:
 
 ```
 > **/&ast;Both elements will be 50% wide&ast;/**
@@ -9880,7 +9918,7 @@ top of the other, starting from bottom to top.
 > The **flex-direction** property is applied to the flex container, not
 > the flex items.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Horizontal axis: row&ast;/**
 >
@@ -9917,7 +9955,7 @@ This tells the flex element to wrap but in reverse.
 > The **flex-wrap** property is applied to the flex container, not the
 > flex items.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.flex-container { flex-wrap: wrap; }**
 
@@ -9948,7 +9986,7 @@ well: **nowrap** (default value),**wrap**, or **wrap-reverse**.
 > The **flex-flow** property is applied to the flex container, not the
 > flex items.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Main axis and elements will wrap from bottom to top&ast;/**
 >
@@ -10008,7 +10046,7 @@ whole container.
 > The **align-content** property is applied to the flex container, not
 > the flex items.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;All lines at the top&ast;/**
 >
@@ -10068,7 +10106,7 @@ This stretches the flex elements to fill the entire parent container.
 > The **align-items** property is applied to the flex container, not the
 > flex items.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Align items to the beginning&ast;/**
 >
@@ -10120,7 +10158,7 @@ element. **stretch**
 
 This stretches the flex elements to fill the entire parent container.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Align the flex item to the top&ast;/**
 >
@@ -10161,7 +10199,7 @@ according to the source document.
 
 The starting number is **0** (zero), not 1. Negative values are allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;The default order of all elements has been altered, however,
 > their source order remains the same.&ast;/**
@@ -10214,7 +10252,7 @@ the elements along the container and spaces them evenly.
 However, the first and last flex items do not touch the left and right
 edges.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.flex-container { display: flex; justify-content: space-between; }**
 
@@ -10224,7 +10262,7 @@ The **flex** CSS property is the shorthand in which we can declare the
 values for **flex-grow**, **flex-shrink**, and **flex-basis**. It&apos;s
 recommended that you follow this order when declaring the values.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Apply flexbox to the parent container&ast;/**
 >
@@ -10327,7 +10365,7 @@ names in the font stack. Generic family names can be **monospace**,
 > Times New Roman, serif;**. Note that **Times New Roman** is not quoted
 > in the second example.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -10393,7 +10431,7 @@ For a complete list of all font features, check the Microsoft site at
 [**http://tiny.cc/**
 **msn-font-features-list**](http://tiny.cc/msn-font-features-list)
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Small capitals&ast;/**
 >
@@ -10475,7 +10513,7 @@ element&apos;s font size.
 
 Its unit is **%**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Absolute keywords/size&ast;/**
 >
@@ -10521,7 +10559,7 @@ font-size-adjust web app:
 > include it because it will be of great value once other browsers start
 > supporting it.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -10559,7 +10597,7 @@ This property supports the following values:
 
 -   **ultra-expanded**
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -10593,7 +10631,7 @@ than making the normal face oblique.
 Oblique makes the Normal face slanted or inclined in order to *simulate*
 italics.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { font-style: italic;**
 >
@@ -10622,7 +10660,7 @@ additional values in CSS3 are **small-caps**, **all-small-caps**,
 For more information, check out the MDN website:
 **http://tiny.cc/mdn-fontvariant**
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -10650,7 +10688,7 @@ The **font-variant-ligatures** property uses the following values:
 For more information, check out the MDN website:
 [**http://tiny.cc/mdnfontvariant-ligatures**](http://tiny.cc/mdnfont-variant-ligatures)
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -10684,7 +10722,7 @@ This property also accepts keyword values such as **normal**, **bold**,
 One thing to note is that the keywords **bolder** and **lighter** are
 dependent on the parent element&apos;s font weight.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Numeric value&ast;/**
 >
@@ -10734,7 +10772,7 @@ order for it to work:
 > &quot;**/**&quot; character, for example, **.element { font: 12px/1.6 Arial;
 > }**.
 
--   **CSS**:
+-   <h4>CSS</h4>:
 
 > **/&ast;All font properties in a single declaration&ast;/**
 >
@@ -10915,7 +10953,7 @@ and Z axes.
 The keywords that are accepted in this property are: **top**, **right**,
 **bottom**, **left**, and **center**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Single value affects both X and Y-axis&ast;/**
 >
@@ -10968,7 +11006,7 @@ which they appear in the source HTML.
 > Note that this property is applied to the parent element, not the
 > child elements.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Perspective&ast;/**
 >
@@ -11011,7 +11049,7 @@ doesn&apos;t matter. However, since **transition-delay** and
 **transition-duration** use the same value unit, **transition-delay**
 will always be considered first, followed by **transition-duration**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Shorthand with all properties in a single declaration&ast;/**
 >
@@ -11045,7 +11083,7 @@ the timer reaches zero, the transition begins. It looks like this:
 This property accepts a *numeric* value followed by either **s** or
 **ms**, which stand for *seconds* and *milliseconds*, respectively.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -11065,7 +11103,7 @@ The **transition-duration** property accepts a *numeric* value followed
 by either **s** or **ms**, which stand for seconds and milliseconds,
 respectively.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -11091,7 +11129,7 @@ The **transition-property** CSS property accepts the following values:
 -   **Property name**: This means that the specified property or
     properties will be transitioned
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -11113,7 +11151,7 @@ curve: **ease**, **ease-in**, **ease-out**, **ease-in-out**, and
 Refer to the *animation-timing-function* section for a detailed
 explanation of all the values.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -11162,7 +11200,7 @@ threshold is met, at which point the element is then treated as
 **fixed**. At the time of writing this, only Firefox supports this
 property.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Position relative&ast;/**
 >
@@ -11206,7 +11244,7 @@ It supports the following values:
 -   **Percentage value**: For the percentage value, we use percentages
     like **50%**, **85%**, and so on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;auto&ast;/**
 >
@@ -11251,7 +11289,7 @@ It supports the following values:
 -   **Percentage value**: For the percentage value, we use percentages
     like **50%**, **85%**, and so on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;auto&ast;/**
 >
@@ -11292,7 +11330,7 @@ The **left** property supports the following values:
 -   **Percentage value**: For the percentage value, we use percentages
     like **50%**, **85%**, and so on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;auto&ast;/**
 >
@@ -11335,7 +11373,7 @@ It supports the following values:
 -   **Percentage value**: For the percentage value, we use percentages
     like **50%**, **85%**, and so on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;auto&ast;/**
 >
@@ -11417,7 +11455,7 @@ Alternatively, it can look like this:
 The **color** property supports all color modes, **HEX**, **RGB**,
 **RGBa**, **HSL**, **HSLs**, and *color name*.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Color Name&ast;/**
 >
@@ -11459,7 +11497,7 @@ The **text-align** property only works on inline elements. If this
 property is applied to a block-level element, it will not work on the
 element itself, but it will work on its content.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Centered text&ast;/**
 >
@@ -11495,7 +11533,7 @@ This property is also the shorthand for the **text-decoration-line**,
 It can accept one, two, or three values in the same declaration if used
 as a shorthand.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Line above the text&ast;/**
 >
@@ -11541,7 +11579,7 @@ in a single declaration. The keyword values are the same as in the
 **text-decoration** property: **underline**, **overline**,
 **line-through**, **none,** and **blink**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;One value&ast;/**
 >
@@ -11563,7 +11601,7 @@ The **text-decoration-color** CSS property defines the type of color the
 It supports all color modes: **HEX**, **RGB**, **RGBa**, **HSL**,
 **HSLs**, and *color name*.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Color Name&ast;/**
 >
@@ -11592,7 +11630,7 @@ The **text-decoration-style** CSS property defines the type of line the
 The **text-decoration-style** property supports the following keyword
 values: **dashed**, **dotted**, **double**, **solid**, and **wavy**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -11611,7 +11649,7 @@ this:
 It accepts **length** and **percentage** values. Negative values are
 valid.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { text-indent: 50px; }**
 
@@ -11698,7 +11736,7 @@ For example, the kerning in some fonts does not scale correctly, so when
 we apply this value, the browser is capable of keeping the text looking
 nice.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -11744,7 +11782,7 @@ These are the four values it supports: **x-offset**, **y-offset**,
     **HSLs**, and *color name*. This value is optional. If it is not
     specified, the default value is zero (**0**).
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;2 values: x-offset and y-offset&ast;/**
 >
@@ -11819,7 +11857,7 @@ formulas that use a lot of subscripts, so the underline doesn&apos;t
 interfere with certain characters and make such formulas confusing or
 difficult to read.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -11845,7 +11883,7 @@ cascading support if the CSS files do not load.
 This property accepts two keyword values, **ltr** and **rtl**, which
 mean *left to right* and *right to left*.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { direction: rtl;**
 >
@@ -11886,7 +11924,7 @@ cells, some information can overflow the cells. Using a combination of
 the **overflow** properties and **text-overflow: ellipsis;** we can fix
 the issue.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **table {**
 >
@@ -11912,7 +11950,7 @@ This property supports two keyword values: **separate** and
 -   **collapse**: This value brings the cells together, thus the space
     is lost and the cells share borders.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **table {**
 >
@@ -11930,7 +11968,7 @@ cells, and it looks like this:
 The **border-spacing** property only works when the **border-collapse:
 separate;** declaration is present.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **table {**
 >
@@ -11950,7 +11988,7 @@ The **empty-cells** property supports two keyword values: **show** and
 **hide**, which determine whether the borders and background should, or
 should not, be rendered.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **table {**
 >
@@ -11970,7 +12008,7 @@ It supports two keyword values: **top** and **bottom**.
 In CSS 2, other keyword values, such as **left** and **right**, were
 supported, but they were dropped in CSS 2.1.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **caption {**
 >
@@ -12034,7 +12072,7 @@ the markup, it is not rendered in the text. However, the browser *sees*
 this character and, if it can use it to create a line break, it will. To
 insert a soft hyphen, we use **&shy;**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { hyphens: auto; }**
 
@@ -12067,7 +12105,7 @@ letters. **keep-all**
 This affects CJK (Chinese, Japanese, and Korean) text only. Here, text
 words are not broken.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -12100,7 +12138,7 @@ We use one of the following units when we use a length value: **px**,
 For a percentage value, we use percentages like **50%**, **85%**, and so
 on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { word-spacing: .2em;**
 >
@@ -12124,7 +12162,7 @@ This property supports two keyword values: **normal** and
 -   **break-word**: It indicates that otherwise unbreakable words can
     now break at an arbitrary point
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -12155,7 +12193,7 @@ value, a **length** value, and a **percentage** value.
 -   **Percentage value**: For the percentage value, we use percentages
     like **50%**, **85%**, and so on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { line-height: 1.6; }**
 
@@ -12184,7 +12222,7 @@ when using CSS columns.
 It supports a *numeric* value without a unit. This numeric value defines
 the number of lines left on the previous page or column.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Print stylesheet&ast;/**
 >
@@ -12280,7 +12318,7 @@ also work when using CSS columns.
 It supports a *numeric* value without a unit. This numeric value defines
 the amount of lines that will appear on the next page or column.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Print stylesheet&ast;/**
 >
@@ -12328,7 +12366,7 @@ shoulder, the content flows from bottom (which was to the left before
 tilting your head) to top (which was to the right before tilting your
 head), and the text lines are inverted.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -12352,7 +12390,7 @@ Negative values are valid.
 > default letter spacing in most fonts is ideal and should rarely be
 > changed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -12426,7 +12464,7 @@ The **tab-size** property supports two values: A **numeric** value and a
     length value: **px**, **em**, **in**, **mm**, **cm**, **vw**, and so
     on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **pre {**
 >
@@ -12473,7 +12511,7 @@ This property supports five keyword values: **always**, **auto**,
 -   **right**: This will force one or two page breaks after the element
     in order to make the following page a right-side page.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **&commat;media print {**
 >
@@ -12507,7 +12545,7 @@ This property supports the same five keyword values as the
 Refer to the **page-break-before** CSS property section for the
 description of each keyword value.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **&commat;media print {**
 >
@@ -12540,7 +12578,7 @@ This property supports only two keyword values, though: **auto** and
 -   **avoid**: This will not allow any page breaks inside the element,
     if possible.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **&commat;media print {**
 >
@@ -12583,7 +12621,7 @@ page box. This property only works if marks have been enabled using the
 The **bleed** property only supports a length value: **px**, **em**,
 **in**, **mm**, **cm**, **vw**, and so on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **&commat;page { bleed: 5mm; }**
 
@@ -12607,7 +12645,7 @@ The **marks** property supports three keyword values: **crop**,
 
 -   **none**: Marks will not be displayed
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **&commat;page {**
 >
@@ -12634,7 +12672,7 @@ next.
 The **list-style** property supports one, two, or three values, in any
 order. If a value isn&apos;t declared, it will use its default value.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Default values&ast;/**
 >
@@ -12669,7 +12707,7 @@ Here&apos;s a screenshot with all values except the **none** value:
 > ![](./images/image15.png){width="2.563888888888889in"
 > height="2.5972222222222223in"}
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Style: 01, 02, 03&period;..&ast;/**
 >
@@ -12704,7 +12742,7 @@ since it&apos;s the default), the marker will appear outside the text. If
 there&apos;s a line that wraps, the marker will be outside the text block.
 It will &quot;*stick out*&quot; just like in traditional lists.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **ul {**
 >
@@ -12727,7 +12765,7 @@ function:
 -   **url()**: It&apos;s used to define the path to the image that will
     replace the marker
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **ul {**
 >
@@ -12805,7 +12843,7 @@ If we set the value to **1**, the list starts at **2**. If we leave the
 value empty, it defaults to **0** (zero) and the list starts at **1**.
 Negative values are valid.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Define a name and counter reset to 0&ast;/ ul { counter-reset:
 > basic-counter; }**
@@ -12865,7 +12903,7 @@ in **1**, **2**, **3**, and so on.
 Negative values are valid. If we declare **-2**, then the counter will
 be **-2**, **-4**, **-6**, and so on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;First, define a name and counter reset to 0 with counter-reset&ast;/
 > ul { counter-reset: basic-counter; }**
@@ -12952,7 +12990,7 @@ This value can go either at the beginning or at the end of the
 declaration but never between the length values; otherwise, the
 **box-shadow** property won&apos;t work.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Left 10px, top 10px, blur 13px, spread 5px, RGBa mode, inside the
 > element&ast;/ .element {**
@@ -12993,7 +13031,7 @@ and **unset**.
     element&apos;s parent to their parent values if those properties are
     inheritable, otherwise it will change them to their initial value.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Change an element&apos;s properties to their initial value&ast;/**
 >
@@ -13049,7 +13087,7 @@ Here is a demo in CodePen: **http://tiny.cc/clearing-floats** The
 -   **none**: This is the default value. No clearing is performed and
     floating elements to both sides are allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Float an element to the left&ast;/**
 >
@@ -13154,7 +13192,7 @@ take a look at the attributes:
 Visit MDN for a list of all the display values:
 **http://tiny.cc/mdn-display**
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Make an element display like a block level element&ast;/**
 >
@@ -13193,7 +13231,7 @@ whatsoever. Decimal numbers are allowed.
 This property behaves the same as the alpha channel value used in the
 RGBa and HSLa color modes.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Make an element 55% opaque. This affects its children as
 > well&ast;/**
@@ -13376,7 +13414,7 @@ It takes the location of an XML file with an SVG filter to be applied to
 the element. The URL may include an anchor to a specific filter element
 in the SVG.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Blur&ast;/**
 >
@@ -13465,7 +13503,7 @@ This property supports four keyword values: **auto**, **hidden**,
 -   **visible**: This is the default value. No content is clipped/hidden
     and no scrollbars are generated.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Scroll bars are generated if the content needs them&ast;/**
 >
@@ -13490,7 +13528,7 @@ The difference is that the **overflow-x** property handles the overflow
 on the *X* axis (horizontally). Please refer to the description of
 **overflow**, since the values are the same.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { white-space: nowrap; overflow-x: auto; }**
 
@@ -13507,7 +13545,7 @@ The difference is that the **overflow-y** property handles the overflow
 on the *Y* axis (vertically). Please refer to the prior description of
 **overflow**, since the values are the same.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { height: 100px; overflow-y: auto;**
 >
@@ -13547,7 +13585,7 @@ This property supports three different keyword values: **collapse**,
 
 -   **visible**: This is the default value. It makes an element visible.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Hide an element&ast;/**
 >
@@ -13584,7 +13622,7 @@ value.
 -   **auto**: This is the default value. The stacking order of elements
     is the same as their parent.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Set all cards to relative position so z-index can work&ast;/**
 >
@@ -13652,7 +13690,7 @@ a mask by referencing several images in the same declaration.
 There are two types of mask: *alpha* masks and *luminance* masks. We&apos;ll
 see what each of these types of mask are later.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Mask referencing a bitmap file.**
 >
@@ -13712,7 +13750,7 @@ It supports four keyword values: **border-box**, **content-box**,
 
 -   **no-clip**: The content is not *clipped*.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Padding box clipping&ast;/**
 >
@@ -13757,7 +13795,7 @@ triangle is on top and the circle below; the different types of
 -   **add**: The triangle is fused to the circle creating a single shape
     that will be used as the mask.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Intersect the masks&ast;/**
 >
@@ -13778,7 +13816,7 @@ The **mask-image** property may also refer to **&lt;mask&gt;** elements in
 an SVG file. Multiple values are comma-separated. The images can be
 bitmap files, SVGs, and even CSS gradients that are images as well.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Mask referencing a bitmap&ast;/**
 >
@@ -13822,7 +13860,7 @@ Luminance masks uses the *luminance values* of the image. Whatever is
 *white* on the image being used as mask will show. Whatever is black is
 hidden. Gray areas partially cover the image.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Alpha mask&ast;/**
 >
@@ -13883,7 +13921,7 @@ The SVG keyword values are **view-box**, **fill-box**, and
 -   **stroke-box**: The position of the mask is relative to the *stroke
     bounding box*.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Content box origin; the mask will exclude borders and
 > paddings&ast;/**
@@ -13914,7 +13952,7 @@ four *keyword* values, **top**, **right**, **bottom**, and **left**; a
 *length* value, **px**, **em**, **in**, **mm**, **cm**, **vw**, and so
 on; and a *percentage* value such as 50%, 85%, and so on.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Keyword values&ast;/**
 >
@@ -13963,7 +14001,7 @@ It supports six keyword values: **repeat**, **no-repeat**, **repeat-x**,
 -   **round**: Similar to the space value, the difference is that the
     mask images are rescaled in order to fit the specified direction.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Space out the mask without clipping it&ast;/**
 >
@@ -14011,7 +14049,7 @@ The **mask-position** CSS property supports several types of value: a
 -   **auto**: This scales the image mask to the actual size of the
     image&apos;s intrinsic proportions without distorting it.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { mask-size: contain; }**
 
@@ -14041,7 +14079,7 @@ declared are set to their initial values, thus making it easier to
 override down the road, minimizing the use of the **!important**
 directive.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -14053,7 +14091,7 @@ directive.
 The **mask-border-source** CSS property defines an image that is to be
 used in the **border-image** declaration.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Border image referencing a bitmap file&ast;/**
 >
@@ -14071,7 +14109,7 @@ the mask is an *alpha* mask or a *luminance* mask.
 For the definitions of *alpha* and *luminance* masks, refer to the
 **mask-mode** property.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -14111,7 +14149,7 @@ By default, the center of the image mask is discarded and treated as
 empty. If this value is present, the center will be taken into account
 and will become part of the mask.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;All sides are offset by 40&ast;/**
 >
@@ -14152,7 +14190,7 @@ It makes the mask border use the intrinsic width or height of the image
 slice. The browser is the one that decides if it needs to use this
 intrinsic width or height or not.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -14180,7 +14218,7 @@ then the first value is for the top side, the second value is for the
 left and right sides, and the third for the bottom side. If four values
 are declared, they correspond to the top, right, bottom and left sides.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;All four sides have the same value&ast;/**
 >
@@ -14225,7 +14263,7 @@ Similar to **repeat**, but the difference is that if the area isn&apos;t
 filled with complete image masks, it will distribute the space around
 the tiles.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -14262,7 +14300,7 @@ This property supports four values: three *functions*: **url()**, a
 This CSS function points to an SVG **clipPath** element that will be
 used as the clipping path.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Clipping path referenced from an external SVG file&ast;/**
 >
@@ -14298,7 +14336,7 @@ accepts two arguments: a *shape radius* and a *position*.
     values for this argument are the same as those of the
     **background-position** property.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Circle 150px wide and tall with location&ast;/**
 >
@@ -14318,7 +14356,7 @@ same arguments as the **circle()** function; the only difference is that
 it accepts two radii values, **rx** and **ry**, for the shape radius
 instead of one. **rx** represents the *X* axis and **ry** the *Y* axis.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Ellipse with location&ast;/**
 >
@@ -14341,7 +14379,7 @@ Additionally, the **inset()** function also supports a **border-radius**
 value, which is optional. This value must be preceded by the term
 **round** before any *length* or *percentages* are declared.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Inset clip path where all four offset sides have the same
 > distance&ast;/**
@@ -14373,7 +14411,7 @@ creation process:
 
 -   *Clip Path Generator* (**http://cssplant.com/clip-path-generator**)
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;This polygon has 3 pairs of coordinates so it creates a
 > triangle-shaped clipping path&ast;/**
@@ -14425,7 +14463,7 @@ The **image-orientation** property supports two keyword values and an
     uses a number followed by the **deg** unit. This value should go
     before the **flip** keyword value.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Flip the image horizontally&ast;/ img { image-orientation: flip; }**
 >
@@ -14463,7 +14501,7 @@ upscaled images. This property supports three keyword values: **auto**,
     scaling up *checkered* patterns like a chessboard, a checkerboard,
     or QR codes.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Good for checkered patterns or QR codes&ast;/ img { image-rendering:
 > pixelated; }**
@@ -14623,7 +14661,7 @@ Some of the most commonly used values are **default**, **move**,
 See all cursors in action here:
 [**http://tiny.cc/cursor**](http://tiny.cc/cursor)
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Custom cursor with absolute path and coordinates&ast;/**
 >
@@ -14670,7 +14708,7 @@ This is the default value. This acts as if no **pointer-events** were
 declared. More info on MDN can be found here:
 **http://tiny.cc/mdn-pointer-events**
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Clicking/tapping on the element won&apos;t work&ast;/**
 >
@@ -14717,7 +14755,7 @@ declaration.
     **dashed**, **dotted**, **double**, **groove**, **hidden**,
     **inset**, **none**, **outset**, **ridge**, and **solid**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -14757,7 +14795,7 @@ The lower the value, the closer the elements will move in the *Z* axis.
 Thus, the perspective is more pronounced. With higher values, the
 perspective effect is less intense.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Enable perspective for child elements by applying it on the
 > parent container&ast;/**
@@ -14795,7 +14833,7 @@ This is when we use percentages like 50%, 85%, and so on.
 The five keyword values are **top**, **right**, **bottom**, **left**,
 and **center**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 Adding to the prior CSS from the **perspective** example:
 
@@ -14826,7 +14864,7 @@ like this:
 The **backface-visibility** property supports two self-explanatory
 keyword values: **visible** and **hidden**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **And finalizing the prior example from the perspective-origin
 > example:**
@@ -14921,7 +14959,7 @@ the element completely black. Values over **1** are allowed and create a
 more intense effect. There is no limit to the value. Also, negative
 values are not valid for either the percentage of the number.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -14949,7 +14987,7 @@ the element completely black. Values over **1** are allowed and create a
 more intense effect. There is no limit to the value. Also, negative
 values are not valid and decimal values are allowed for both.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15110,7 +15148,7 @@ explanations you can refer to any of these two articles:
 > Hawryluk
 > ([**http://tiny.cc/css-matrix-2**)](http://tiny.cc/css-matrix-2)
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;This&ast;/**
 >
@@ -15140,7 +15178,7 @@ this function isn&apos;t something to be done by hand. Instead, we can use a
 tool like Eric Meyer and Aaron Gustafson&apos;s *The Matrix Resolutions*
 ([**http://tiny.cc/eric-meyer-matrix**)](http://tiny.cc/eric-meyer-matrix).
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;This&ast;/**
 >
@@ -15170,7 +15208,7 @@ two-dimensional space. It accepts an *angle* value using the **deg**,
 **grad**, **rad**, or **turn** units. The **deg** unit is most commonly
 used. Negative values are valid.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15194,7 +15232,7 @@ rotation.
 Positive values rotate the element clockwise in the corresponding axis.
 Negative values rotate the element counter-clockwise.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15218,7 +15256,7 @@ three-dimensional plane. It accepts an *angle* value.
 Positive values rotate the element clockwise. Negative values rotate the
 element counter-clockwise.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;This&ast;/**
 >
@@ -15246,7 +15284,7 @@ three-dimensional plane. It accepts an *angle* value.
 Positive values rotate the element clockwise. Negative values rotate the
 element counter-clockwise.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;This&ast;/**
 >
@@ -15275,7 +15313,7 @@ three-dimensional plane. It accepts an *angle* value.
 Positive values rotate the element clockwise. Negative values rotate the
 element counter-clockwise.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;This&ast;/**
 >
@@ -15316,7 +15354,7 @@ element is flipped.
 > simply overlap or appear below other elements depending on the source
 > order.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Element is flipped in both directions and scaled to 200% its
 > size&ast;/**
@@ -15343,7 +15381,7 @@ It supports three unitless *number* values which are required. Negative
 values are allowed. However, when negative values are used, the element
 is flipped.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;The element is twice the size&ast;/**
 >
@@ -15368,7 +15406,7 @@ in a twodimensional plane. It supports a unitless *number* value.
 Negative values are allowed. However, the element is flipped when
 negative values are used.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15389,7 +15427,7 @@ in a twodimensional plane. It supports a unitless *number* value.
 Negative values are allowed. However, the element is flipped when
 negative values are used.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15410,7 +15448,7 @@ in a twodimensional plane. It supports a unitless *number* value.
 Negative values are allowed. However, the element is flipped when
 negative values are used.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15441,7 +15479,7 @@ It&apos;s recommended that you use either the **skewX()** or **skewY()**
 functions rather than **skew()**, because **skew()** has been removed
 from the spec (although most browsers still support it).
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;One value only affects the element on the X-axis&ast;/**
 >
@@ -15465,7 +15503,7 @@ on a two-dimensional plane.
 
 It supports one *angle* value. Negative values are allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15485,7 +15523,7 @@ in a two-dimensional plane.
 
 It supports one *angle* value. Negative values are allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15515,7 +15553,7 @@ The best way to understand how **start** or **end** works is with an
 example: the animation will begin right away when using **start**, and
 it will be delayed a bit when using **end**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;The transition is divided in 3 equal size intervals&ast;/**
 >
@@ -15576,7 +15614,7 @@ element in question a three-dimensional plane with the **perspective**
 function, otherwise the **translate3d()** declaration will have no
 effect.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15597,7 +15635,7 @@ in a two-dimensional plane.
 It supports both *length* and *percentage* values. Negative values are
 allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15616,7 +15654,7 @@ This is used to move an element on the *Y* axes in a two-dimensional
 plane. It supports both *length* and *percentage* values. Negative
 values are allowed.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15639,7 +15677,7 @@ element in question a three-dimensional plane with the **perspective**
 function; otherwise, the **translateZ()** declaration will have no
 effect.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -15695,7 +15733,7 @@ lightness values.
 
 You can see the HSL color wheel in CodePen:
 [**http://tiny.cc/hsl-color-wheel**](http://tiny.cc/hsl-color-wheel)
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;HSL&ast;/**
 >
@@ -15730,7 +15768,7 @@ transparency of the color. It&apos;s declared with a unitless *numeric*
 decimal value from **0** to **1**. Complete transparent is **0**, and
 **1** is fully opaque.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;RGB&ast;/**
 >
@@ -15823,7 +15861,7 @@ flags.
 When the *stop positions* aren&apos;t declared, the browser distributes the
 gradient colors evenly along the gradient line.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Basic gradient. Colors are distributed evenly along the gradient
 > line&ast;/**
@@ -15921,7 +15959,7 @@ one of four *keyword* *values*: **closest-corner**, **farthest-corner**,
 -   **farthest-side**: The size of the gradient depends on the side that
     is farthest from the center.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Basic gradient. Colors are distributed evenly in the ellipse&ast;/**
 >
@@ -15978,7 +16016,7 @@ In order for the **repeating-linear-gradient()** function to work, we
 need to define *stop positions* on the colors. Otherwise, the repeated
 gradient will look as if we&apos;re just using **linear-gradient()**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Basic repeating linear gradient&ast;/**
 >
@@ -16018,7 +16056,7 @@ In order for the **repeating-radial-gradient()** function to work, we
 need to define *stop positions* on the colors. Otherwise, the repeated
 gradient will look as if we&apos;re just using **radial-gradient()**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Basic repeating linear gradient&ast;/**
 >
@@ -16104,7 +16142,7 @@ the **attr()** CSS function with the **content** property and the HTML5
 (usually a heading) next to their corresponding value via CSS, thus
 saving space.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Print the links from the content&ast;/**
 >
@@ -16147,7 +16185,7 @@ attribute.
 >
 > **&lt;/table&gt;**
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;40em = 640÷16&ast;/**
 >
@@ -16203,7 +16241,7 @@ Now, when doing a division (**/**), the value on the right *must* be a
 *number* value. For a multiplication (**&ast;**) operation, at least one of
 the values *must* be *number* value as well.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast; The element&apos;s width is half its intrinsic width plus 25px&ast;/**
 >
@@ -16257,7 +16295,7 @@ Nicholas Zakas: *Data URIs Explained*
 ([**https://www.nczonline.net/blog/2009/10/27/**
 **data-uris-explained/**](https://www.nczonline.net/blog/2009/10/27/data-uris-explained/)).
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Colombian flag icon as Data URI. No quotes in URL&ast;/**
 >
@@ -16331,7 +16369,7 @@ recommend this tool.
 The Bézier curve image showed previously was taken from the
 [**www.cubic-bezier.** **com**](http://www.cubic-bezier.com/) website.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { width: 300px; height: 300px;**
 >
@@ -16365,7 +16403,7 @@ acceleration when using this function, which eventually improves
 performance. You know how it goes; anything we can do to improve
 performance is always a +1.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -16382,7 +16420,7 @@ background for another HTML element, and it looks like this:
 Use cases for the **element()** function are rare, but nonetheless it is
 available to us (granted, browser support isn&apos;t ideal yet).
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -16403,7 +16441,7 @@ background images rather than using the commonly known **url()**
 function. However, the **image()** CSS function is at risk from being
 dropped from the spec due to lack of browser support.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -16424,7 +16462,7 @@ is completely transparent, as in **0%** opaque, and **1** is **100%**
 opaque, no transparency whatsoever. Decimal numbers are allowed but
 negative values are not.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -16469,7 +16507,7 @@ the element is farther away from us. However, the lower the value, the
 more pronounced the perspective looks. This is because the element is
 closer to us.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element {**
 >
@@ -16534,7 +16572,7 @@ before the **@** symbol, or a blank line above it. The *character
 encoding name* should always be inside quotes, either single (**&apos;**
 **&apos;**) or double quotes (**&quot;** **&quot;**).
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Correct character encoding directive&ast;/**
 >
@@ -16587,7 +16625,7 @@ Only the **regexp(&quot;&quot;)** function requires the use of double quotes
 -   **regexp(&quot;&quot;)**: This restricts the styles to a document that match
     the regular expression
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;url() function&ast;/**
 >
@@ -16744,7 +16782,7 @@ Check out Google Fonts at
 >
 > **rel=&apos;stylesheet&apos; type=&apos;text/css&apos;&gt;**
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Full descriptive &commat;font-face declaration&ast;/**
 >
@@ -16820,7 +16858,7 @@ commas.
 >
 > [**http://tiny.cc/steve-souders-avoidimport**](http://tiny.cc/steve-souders-avoidimport)
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Import a style sheet in the same directory&ast;/**
 >
@@ -16897,7 +16935,7 @@ Basically, if we have a simple animation, we can just use the
 **transition** property. If we have somewhat more complex and elaborate
 animations, use **&commat;keyframes**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **&commat;keyframes diamond { from { top: 0; left: 0;**
 >
@@ -16975,7 +17013,7 @@ with the **&commat;media()** at-rule:
 
 -   **tv**: This is meant to work with televisions
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Viewport width media query&ast;/**
 >
@@ -17037,7 +17075,7 @@ understand when someone is reading through it.
 > **&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;en&quot;
 > lang=&quot;en&quot;&gt;**
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **&commat;namespace &quot;http://www.w3.org/1999/xhtml&quot;;**
 >
@@ -17067,7 +17105,7 @@ left pages only*, or *all the right pages only* with the **:first**,
 **:left** and **:right** pseudo-classes. The **&commat;page()** at-rule is
 most commonly used to change the margins.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Affects all pages&ast;/**
 >
@@ -17124,7 +17162,7 @@ make all other expressions valid as well.
 
 Additionally, we can also combine operators when necessary.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Detect a feature that is supported&ast;/**
 >
@@ -17194,7 +17232,7 @@ calculated by the browser.
 One of the most common locations to see the keyword **auto** applied is
 when centering an element horizontally with the **margin** CSS property.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { margin: auto; }**
 >
@@ -17207,7 +17245,7 @@ when centering an element horizontally with the **margin** CSS property.
 The **inherit** CSS keyword value makes an element derive/inherit the
 values of its parent container.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;All &lt;h1&gt;&apos;s are red&ast;/ h1 { color: red; }**
 >
@@ -17221,7 +17259,7 @@ values of its parent container.
 The **initial** CSS keyword value sets the CSS property to its default
 value as per the CSS spec.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;All &lt;h1&gt;&apos;s are red&ast;/ h1 { color: red; }**
 >
@@ -17233,7 +17271,7 @@ value as per the CSS spec.
 
 The **none** CSS keyword value defines the lack of a specific styling.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { border: none; }**
 
@@ -17241,7 +17279,7 @@ The **none** CSS keyword value defines the lack of a specific styling.
 
 The **normal** CSS keyword value defines a *standard* value.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **.element { font-weight: normal; }**
 
@@ -17262,7 +17300,7 @@ element has no parent container and the **unset** keyword is declared,
 then its property&apos;s value is reset to the default value as per the spec
 (since it&apos;s not inheriting).
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;All &lt;h1&gt;&apos;s are set to the default color per the spec&ast;/ h1 {
 > color: unset; }**
@@ -17290,7 +17328,7 @@ For example, the spec says that the default value of **display** is
 **inline**. However, most UAs assign a default value of **display:
 block;** to **&lt;div&gt;**, or **display: table;** to **&lt;table&gt;**.
 
-**CSS**:
+<h4>CSS</h4>:
 
 > **/&ast;Default value per the spec&ast;/ display: inline;**
 >
@@ -38491,7 +38529,7 @@ about 237 counter-increment CSS property 239 counter-reset CSS property
 > about 580 createHash 580 hash object 581 pbkdf2 582 pseudoRandomBytes
 > 583 randomBytes 582
 
-**CSS**
+<h4>CSS</h4>
 
 > about 118 animation CSS property 130 animation-delay CSS property 122
 > animation-direction CSS property 121 animation-duration CSS property
