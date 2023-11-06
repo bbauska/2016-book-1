@@ -11051,53 +11051,53 @@ will always be considered first, followed by **transition-duration**.
 
 <h4>CSS</h4>:
 
-> **/&ast;Shorthand with all properties in a single declaration&ast;/**
->
-> **.element { width: 100px;**
->
-> **/&ast;property - duration - timing function - delay&ast;/ transition:
-> width 400ms ease-out 1s;**
->
-> **}**
->
-> **/&ast;Longhand. Each property is declared separately&ast;/**
->
-> **.element {**
->
-> **transition-property: width; transition-duration: 400ms;
-> transition-timing-function: ease-out; transition-delay: 1s;**
->
-> **}**
->
-> **.element:hover { width: 300px; }**
+```
+/* Shorthand with all properties in a single declaration */
+ .element { width: 100px;
 
-**transition-delay**
+/* property - duration - timing function - delay */
+transition:
+  width 400ms ease-out 1s;
+}
+
+ /* Longhand. Each property is declared separately */
+.element {
+  transition-property: width; transition-duration: 400ms;
+  transition-timing-function: ease-out; transition-delay: 1s;
+}
+
+.element:hover { width: 300px; }
+```
+
+<h4>transition-delay</h4>
 
 The **transition-delay** CSS property allows us to set a *timer*. When
 the timer reaches zero, the transition begins. It looks like this:
 
-> **transition-delay: 1s;**
+```
+transition-delay: 1s;
+```
 
-#### Description
+<h4>Description</h4>
 
 This property accepts a *numeric* value followed by either **s** or
 **ms**, which stand for *seconds* and *milliseconds*, respectively.
 
 <h4>CSS</h4>:
 
-> **.element {**
->
-> **transition-delay: 1s;**
->
-> **}**
+```
+.element {
+  transition-delay: 1s;
+}
+```
 
-**transition-duration**
+<h4>transition-duration</h4>
 
 The **transition-duration** CSS property allows us to define how long a
 transition should take from start to end. This is also called a
 **cycle,** and it looks like this: **transition-duration: 400ms;**
 
-#### Description
+<h4>Description</h4>
 
 The **transition-duration** property accepts a *numeric* value followed
 by either **s** or **ms**, which stand for seconds and milliseconds,
@@ -11105,9 +11105,11 @@ respectively.
 
 <h4>CSS</h4>:
 
-> **.element {**
->
-> **transition-duration: 400ms; }**
+```
+.element {
+  transition-duration: 400ms; 
+}
+```
 
 **transition-property**
 
